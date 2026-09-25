@@ -1,0 +1,73 @@
+{
+ "scene": "TankFactory",
+ "n": 2,
+ "entries": {
+  "0": {
+   "en": [
+    "Just gonna look inside.",
+    "Ok!",
+    "Do what you like!",
+    "Ooo! Aaa! Ooo! Look at those.",
+    "This is great.",
+    "I've always wanted to be in a class twenty-two,",
+    "and here I am. "
+   ],
+   "jp": [
+    "ちょっと中を見てみる",
+    "ああ",
+    "好きにしな",
+    "機器もいいのがそろってる！",
+    "こりゃすごい！",
+    "ずっとあこがれだったんだ",
+    "ついに乗ったぞ！"
+   ],
+   "ko": [
+    "잠깐 안을 좀 보자",
+    "아",
+    "맘대로 해",
+    "장비도 좋은 게 갖춰져 있어！",
+    "이거 대단한데！",
+    "쭉 동경했었어",
+    "드디어 탔다！"
+   ]
+  },
+  "1": {
+   "en": [
+    "Least there's no tediz in here.",
+    "Oh, a tank. Now that may come in handy.",
+    "Oh, a tank.",
+    "It's a class twenty-two as well.",
+    "I haven't got one of them yet.",
+    "What do you mean ' got one '?",
+    "Hey! Where you going?",
+    "Oooooooo!",
+    "Class twenty-two.",
+    "Ssswwweeettt!"
+   ],
+   "jp": [
+    "クマ野郎はいないな",
+    "戦車か 使えそうだ",
+    "戦車！",
+    "しかも２２式だ！",
+    "これは試乗しないと！",
+    "なんだって？",
+    "どこ行くんだ",
+    "ううーん！",
+    "本物の２２式だ！",
+    "すばらしい！"
+   ],
+   "ko": [
+    "곰 자식들은 없네",
+    "전차라 쓸 수 있겠는데",
+    "전차！",
+    "그것도 22식이다！",
+    "이건 시승해봐야지！",
+    "뭐라고?",
+    "어디 가는 거야",
+    "으으음！",
+    "진짜 22식이다！",
+    "훌륭해！"
+   ]
+  }
+ }
+}

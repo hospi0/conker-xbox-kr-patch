@@ -1,0 +1,106 @@
+{
+ "scene": "MPRaptor",
+ "n": 8,
+ "entries": {
+  "0": {
+   "en": [],
+   "jp": [
+    "Yeah, they're delicious!",
+    "Why don't we steal some eggs from the nest?",
+    "Then we could run with them...",
+    "Back to safety...",
+    "And fry them in the pan.",
+    "Oh!",
+    "But watch out for the big mother dino.",
+    "If she catches us, she'll eat us whole.",
+    "Right...",
+    "Let's go to work."
+   ],
+   "ko": [
+    "그래 맛있잖아！",
+    "둥지에서 알을 좀 훔치는 게 어때?",
+    "그걸 가지고 도망쳐서...",
+    "안전한 곳으로...",
+    "프라이팬에 구워 먹자.",
+    "오！",
+    "근데 거대한 어미 공룡을 조심해.",
+    "잡히면 통째로 잡아먹힐 거야.",
+    "그래...",
+    "일하러 가자."
+   ]
+  },
+  "1": {
+   "en": [],
+   "jp": [
+    "I'm stuffed.",
+    "That was very tasty."
+   ],
+   "ko": [
+    "배부르다.",
+    "정말 맛있었어."
+   ]
+  },
+  "2": {
+   "en": [],
+   "jp": [
+    "Ha, ha!",
+    "Look, Fred's crapped himself."
+   ],
+   "ko": [
+    "하하！",
+    "봐 프레드가 지렸어."
+   ]
+  },
+  "3": {
+   "en": [],
+   "jp": [
+    "I think the chick's hungry.",
+    "We'll have to bring back food.",
+    "But protect the nest."
+   ],
+   "ko": [
+    "새끼가 배고픈 것 같은데.",
+    "먹이를 갖고 와야 해.",
+    "근데 둥지는 지켜."
+   ]
+  },
+  "4": {
+   "en": [],
+   "jp": [
+    "But protect the eggs!"
+   ],
+   "ko": [
+    "근데 알은 지켜！"
+   ]
+  },
+  "5": {
+   "en": [],
+   "jp": [
+    "I think he enjoyed that!"
+   ],
+   "ko": [
+    "저놈 즐긴 것 같은데！"
+   ]
+  },
+  "6": {
+   "en": [],
+   "jp": [
+    "I'm really hungry!",
+    "I'd really like some nice eggs."
+   ],
+   "ko": [
+    "진짜 배고파！",
+    "맛있는 알이 정말 먹고 싶다."
+   ]
+  },
+  "7": {
+   "en": [],
+   "jp": [
+    "Raptor"
+   ],
+   "ko": [
+    "Raptor"
+   ]
+  }
+ }
+}

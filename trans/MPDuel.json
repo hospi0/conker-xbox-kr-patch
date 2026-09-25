@@ -1,0 +1,259 @@
+{
+ "scene": "MPDuel",
+ "n": 47,
+ "entries": {
+  "15": {
+   "en": [
+    "Ancient beyond imagining,"
+   ],
+   "jp": [
+    "想像もつかないほど昔の"
+   ],
+   "ko": [
+    "상상도 안 갈 만큼 오랜"
+   ]
+  },
+  "17": {
+   "en": [
+    "'The Ditch'."
+   ],
+   "jp": [
+    "「ディッチ」と呼ばれている"
+   ],
+   "ko": [
+    "「디치」라 불린다"
+   ]
+  },
+  "18": {
+   "en": [
+    "The rules were simple:"
+   ],
+   "jp": [
+    "ルールはシンプル"
+   ],
+   "ko": [
+    "규칙은 단순하다"
+   ]
+  },
+  "19": {
+   "en": [
+    "place your flag in all the towers."
+   ],
+   "jp": [
+    "すべてのタワーにフラッグを立てろ"
+   ],
+   "ko": [
+    "모든 타워에 깃발을 세워라"
+   ]
+  },
+  "20": {
+   "en": [
+    "When you have all the towers flying your banner,"
+   ],
+   "jp": [
+    "それが成功したならば"
+   ],
+   "ko": [
+    "그것이 성공한다면"
+   ]
+  },
+  "21": {
+   "en": [
+    "you are victorious"
+   ],
+   "jp": [
+    "勝利は伝説となり"
+   ],
+   "ko": [
+    "승리는 전설이 되어"
+   ]
+  },
+  "22": {
+   "en": [
+    "and may take your place among the Gods."
+   ],
+   "jp": [
+    "永遠に語りつがれることだろう"
+   ],
+   "ko": [
+    "영원히 전해질 것이다"
+   ]
+  },
+  "23": {
+   "en": [
+    "Then, and only then."
+   ],
+   "jp": [
+    "勝利こそすべてだ"
+   ],
+   "ko": [
+    "승리야말로 전부다"
+   ]
+  },
+  "25": {
+   "en": [
+    "the oldest arena of combat and glory."
+   ],
+   "jp": [
+    "最も歴史ある栄光のコロシアム"
+   ],
+   "ko": [
+    "가장 오래된 영광의 콜로세움"
+   ]
+  },
+  "27": {
+   "en": [
+    "The place where the mighty come to play,"
+   ],
+   "jp": [
+    "強い者がここに集う"
+   ],
+   "ko": [
+    "강자가 모인다"
+   ]
+  },
+  "29": {
+   "en": [
+    "the place of reckoning for all warriors."
+   ],
+   "jp": [
+    "すべての戦士が力を試す場所だ"
+   ],
+   "ko": [
+    "모든 전사가 힘을 겨루는 곳"
+   ]
+  },
+  "31": {
+   "en": [
+    "The legendary hole that was known only by one name…"
+   ],
+   "jp": [
+    "伝説的なこの穴は"
+   ],
+   "ko": [
+    "전설적인 이 구덩이"
+   ]
+  },
+  "32": {
+   "en": [
+    "The righteous SHC now have possession of two towers."
+   ],
+   "jp": [
+    "リス軍がタワーを 2 つ手に入れた"
+   ],
+   "ko": [
+    "다람쥐군이 타워를 2 개 손에 넣었다"
+   ]
+  },
+  "33": {
+   "en": [
+    "The righteous SHC now have possession of three towers."
+   ],
+   "jp": [
+    "リス軍がタワーを 3 つ手に入れた"
+   ],
+   "ko": [
+    "다람쥐군 타워 3 개 획득"
+   ]
+  },
+  "34": {
+   "en": [
+    "The evil Tediz now have possession of two towers."
+   ],
+   "jp": [
+    "クマ軍がタワーを 2 つ手に入れた"
+   ],
+   "ko": [
+    "곰군이 타워를 2 개 손에 넣었다"
+   ]
+  },
+  "35": {
+   "en": [
+    "The evil Tediz now have possession of three towers."
+   ],
+   "jp": [
+    "クマ軍がタワーを 3 つ手に入れた"
+   ],
+   "ko": [
+    "곰군이 타워를 3 개 손에 넣었다"
+   ]
+  },
+  "36": {
+   "en": [
+    "The evil Tediz now have possession of one tower."
+   ],
+   "jp": [
+    "クマ軍タワーを 1 つ手に入れた"
+   ],
+   "ko": [
+    "곰군 타워를 1 개 손에 넣었다"
+   ]
+  },
+  "37": {
+   "en": [
+    "Flag"
+   ],
+   "jp": [
+    "フラッグ"
+   ],
+   "ko": [
+    "깃발"
+   ]
+  },
+  "39": {
+   "en": [
+    "Base"
+   ],
+   "jp": [
+    "基地"
+   ],
+   "ko": [
+    "기지"
+   ]
+  },
+  "41": {
+   "en": [
+    "The Ditch"
+   ],
+   "jp": [
+    "ビッグフォール"
+   ],
+   "ko": [
+    "빅 폴"
+   ]
+  },
+  "44": {
+   "en": [
+    "The righteous SHC now have possession of one tower."
+   ],
+   "jp": [
+    "リス軍がタワーを 1 つ手に入れた"
+   ],
+   "ko": [
+    "다람쥐군이 타워를 1 개 손에 넣었다"
+   ]
+  },
+  "45": {
+   "en": [
+    "The Ditch"
+   ],
+   "jp": [
+    "ビッグフォール"
+   ],
+   "ko": [
+    "빅 폴"
+   ]
+  },
+  "46": {
+   "en": [
+    "Outer Ring"
+   ],
+   "jp": [
+    "アウターリング"
+   ],
+   "ko": [
+    "아우터 링"
+   ]
+  }
+ }
+}

@@ -1,0 +1,286 @@
+{
+ "scene": "BoilerRoom",
+ "n": 14,
+ "entries": {
+  "0": {
+   "en": [
+    "Hey! don't look now,",
+    "look at him, furry guy.",
+    "Looks kinda flammable.",
+    "Flammable!",
+    "Oh, I like flammable.",
+    "What do we do?",
+    "Hide! yeh! Hide,",
+    "Quick put the tab out!",
+    "Yeh!  Oh!  What am I gonna do with this?",
+    "Shove it up your ass.",
+    "Oh! ok."
+   ],
+   "jp": [
+    "あっち見ろよ！",
+    "あいつフワフワだ",
+    "燃えやすそうだ",
+    "燃える！",
+    "そういうの おれ大好き！",
+    "どうする？",
+    "隠れるんだ！",
+    "タバコ捨てろ！",
+    "どしたらいいんだ？",
+    "ケツで消せ！",
+    "わかった"
+   ],
+   "ko": [
+    "저기 봐봐！",
+    "저놈 복슬복슬해",
+    "잘 탈 것 같은데",
+    "탄다！",
+    "그런 거 나 정말 좋아해！",
+    "어떻게 할까?",
+    "숨어라！",
+    "담배 버려！",
+    "어떻게 하면 되지?",
+    "엉덩이로 꺼라！",
+    "알겠네"
+   ]
+  },
+  "1": {
+   "en": [
+    "Let's do the big big guy!",
+    "Yeh! the big big guy."
+   ],
+   "jp": [
+    "デカブツ使おうぜ！",
+    "よし！ デカブツだな"
+   ],
+   "ko": [
+    "큰 놈을 쓰자！",
+    "좋아！ 큰 놈이군"
+   ]
+  },
+  "2": {
+   "en": [
+    "Right! Where's the keys?",
+    "Press the start button."
+   ],
+   "jp": [
+    "キーは？",
+    "スタートだ"
+   ],
+   "ko": [
+    "열쇠는?",
+    "시작이다"
+   ]
+  },
+  "3": {
+   "en": [
+    "Let me have a go!",
+    "No! it's my turn.",
+    "It's always your turn."
+   ],
+   "jp": [
+    "運転させろ！",
+    "おれの番だ",
+    "いつもそうだ"
+   ],
+   "ko": [
+    "운전시켜줘！",
+    "내 차례다",
+    "항상 그렇지"
+   ]
+  },
+  "4": {
+   "en": [
+    "Nutters!"
+   ],
+   "jp": [
+    "アホばっか"
+   ],
+   "ko": [
+    "바보들뿐이네"
+   ]
+  },
+  "5": {
+   "en": [
+    "Gentlemen! Gentlemen! Do calm down.",
+    "We have business at hand."
+   ],
+   "jp": [
+    "ふたりとも落ち着いて",
+    "仕事に集中するように"
+   ],
+   "ko": [
+    "둘 다 진정하고",
+    "일에 집중하도록"
+   ]
+  },
+  "6": {
+   "en": [
+    "Hey! He sounds really poncey,",
+    "like some english person.",
+    "Is he up to this job, do you reckon?",
+    "Hey! You up for this job?",
+    "Let me show you something.",
+    "You see that button there?",
+    "Yeh!",
+    "The one with the...",
+    "Yeh!",
+    "Press it."
+   ],
+   "jp": [
+    "みみっちいな",
+    "\nどうかしちまってるぜ",
+    "こいつにできるか？",
+    "お前やれるか？",
+    "見せてみろ",
+    "ボタンわかるか？",
+    "わかるよ",
+    "あそこの...",
+    "ああ",
+    "それ押せ"
+   ],
+   "ko": [
+    "쩨쩨하네",
+    "\n어떻게 된 거 아냐",
+    "이놈이 할 수 있겠어?",
+    "너 할 수 있어?",
+    "보여줘봐",
+    "버튼 알겠나?",
+    "알지",
+    "저기...",
+    "아",
+    "그거 눌러"
+   ]
+  },
+  "7": {
+   "en": [
+    "See what you mean."
+   ],
+   "jp": [
+    "やる気だな"
+   ],
+   "ko": [
+    "의욕 넘치네"
+   ]
+  },
+  "8": {
+   "en": [
+    "Balls of brass, sir.",
+    "Polished to the nth degree."
+   ],
+   "jp": [
+    "勇気のしるしだ",
+    "\n最高にピカピカだろ"
+   ],
+   "ko": [
+    "용기의 증거지",
+    "\n최고로 반짝반짝하지"
+   ]
+  },
+  "9": {
+   "en": [
+    "Oh no!",
+    "A bourgeois, big-bollocked, boiler.",
+    "That's all i need."
+   ],
+   "jp": [
+    "おいおい！",
+    "ホントのデカブツボイラーだ ",
+    "あれ使えそう"
+   ],
+   "ko": [
+    "어이 어이！",
+    "진짜 큰 보일러다 ",
+    "저거 쓸 수 있겠는데"
+   ]
+  },
+  "10": {
+   "en": [
+    "Can't get out through the normal door.",
+    "Oh!",
+    "There's this door here.",
+    "Where's that go?",
+    "I don't think we want to go that way.",
+    "It's the back passage!",
+    "Aaaaggggh!",
+    "It can't be the only way out.",
+    "What's this button do?"
+   ],
+   "jp": [
+    "ドアから出ろよ",
+    "わあ！",
+    "別のドアだ",
+    "どこのドアだ",
+    "こっちはやめとこう",
+    "ケツの穴だ！",
+    "最悪！",
+    "ほかの出口は？",
+    "このボタンか？"
+   ],
+   "ko": [
+    "문으로 나가",
+    "우와！",
+    "다른 문이다",
+    "어느 문이야",
+    "이쪽은 그만두자",
+    "똥구멍이잖아！",
+    "최악이야！",
+    "다른 출구는?",
+    "이 버튼인가?"
+   ]
+  },
+  "11": {
+   "en": [
+    "What the...",
+    "Oh no!"
+   ],
+   "jp": [
+    "何だ？",
+    "なんてこった！"
+   ],
+   "ko": [
+    "뭐지?",
+    "이럴 수가！"
+   ]
+  },
+  "12": {
+   "en": [
+    "Oh! You stupid..."
+   ],
+   "jp": [
+    "このバカ..."
+   ],
+   "ko": [
+    "이 바보가..."
+   ]
+  },
+  "13": {
+   "en": [
+    "Hey! This is a neat joint.",
+    "Yeah! it's great.",
+    "Give me some of that.",
+    "{BLUE}{LIGHTNING}{STAR}{LIGHTNING}{SWIRL}{NORMAL} Off!",
+    "You bastard!",
+    "Give me another tab.",
+    "{RED}{STAR}{SKULL}{LIGHTNING}{SWIRL}{NORMAL} Off!"
+   ],
+   "jp": [
+    "こいつはうまい",
+    "ああ！ 最高だ",
+    "おれにもくれ",
+    "やだね{BLUE}{LIGHTNING}{STAR}{LIGHTNING}{SWIRL}{NORMAL}！",
+    "このケチ！",
+    "タバコくれ！",
+    "{RED}{STAR}{SKULL}{LIGHTNING}{SWIRL}{NORMAL}だ！"
+   ],
+   "ko": [
+    "이거 맛있는데",
+    "아！ 최고다",
+    "나도 줘",
+    "싫은데 {BLUE}{LIGHTNING}{STAR}{LIGHTNING}{SWIRL}{NORMAL}！",
+    "이 구두쇠 놈！",
+    "담배 줘！",
+    "{RED}{STAR}{SKULL}{LIGHTNING}{SWIRL}{NORMAL}다！"
+   ]
+  }
+ }
+}

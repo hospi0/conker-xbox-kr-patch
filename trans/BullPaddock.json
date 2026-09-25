@@ -1,0 +1,410 @@
+{
+ "scene": "BullPaddock",
+ "n": 22,
+ "entries": {
+  "0": {
+   "en": [
+    "Red! Red!",
+    " I don't like red!",
+    " I hate red!",
+    " Go away!"
+   ],
+   "jp": [
+    "赤い！　赤いぞ！",
+    "赤はキライだ！",
+    "大キライなんだ！",
+    "帰れ！"
+   ],
+   "ko": [
+    "빨갛다！　빨개！",
+    "빨간색은 싫어！",
+    "정말 싫다고！",
+    "돌아가！"
+   ]
+  },
+  "1": {
+   "en": [
+    "Whoa! I take it he doesn't like red.",
+    " What? I don't see anything red around...",
+    "Oh!",
+    "Here we go again!"
+   ],
+   "jp": [
+    "よっぽどキライなんだな",
+    "赤い物なんてないのに",
+    "アカリス？",
+    "おれのことかよ"
+   ],
+   "ko": [
+    "어지간히 싫은가 보네",
+    "빨간 건 없는데",
+    "붉은다람쥐?",
+    "나를 말하는 거냐"
+   ]
+  },
+  "2": {
+   "en": [
+    "Now logic would denote that,",
+    "something that drinks that!",
+    " Is going to get the screaming squits!"
+   ],
+   "jp": [
+    "アッタマいい",
+    "これを飲めば",
+    "もれなくゲリピーだ！"
+   ],
+   "ko": [
+    "머리 좋네",
+    "이걸 마시면",
+    "예외 없이 설사다！"
+   ]
+  },
+  "3": {
+   "en": [
+    "Hmmm, ah! That looks distinctly like a target,",
+    "and there we have a bull.",
+    " Yes! I think i get it."
+   ],
+   "jp": [
+    "どう見てもマトだよな",
+    "そしてオス牛",
+    "そっか！ わかったぞ"
+   ],
+   "ko": [
+    "누가 봐도 과녁이잖아",
+    "그리고 황소",
+    "그렇구나！ 알았다"
+   ]
+  },
+  "4": {
+   "en": [
+    "Oh! That time again, is it?",
+    " Oh! I see bugger lugs is out here again.",
+    " Oh well!"
+   ],
+   "jp": [
+    "あら？",
+    "またあいつがいる",
+    "\nまあ いいわ"
+   ],
+   "ko": [
+    "어머?",
+    "또 저놈이 있네",
+    "\n뭐 됐어"
+   ]
+  },
+  "5": {
+   "en": [
+    "Ah! there's a nice little patch.",
+    " I think I'll have a little bit of grass.",
+    " Moo."
+   ],
+   "jp": [
+    "おいしそうな草ね\n少し食べましょう...",
+    "モー！",
+    ""
+   ],
+   "ko": [
+    "맛있어 보이는 풀이네\n좀 먹어볼까...",
+    "음메！",
+    ""
+   ]
+  },
+  "6": {
+   "en": [
+    "Ahh! A cow.",
+    " Now that could be useful.",
+    "Right, looks like it needs a little bit more",
+    "hands-on control.",
+    " He's a bit of a wild one! "
+   ],
+   "jp": [
+    "ああ メス牛だ",
+    "\nイケそうだな",
+    "やっぱ...",
+    "\n扱いやすい方がいいもんな",
+    "オス牛は危ないし"
+   ],
+   "ko": [
+    "아 암소다",
+    "\n될 것 같은데",
+    "역시...",
+    "\n다루기 쉬운 쪽이 좋으니까",
+    "황소는 위험하고"
+   ]
+  },
+  "7": {
+   "en": [
+    "Need to get her over there somehow."
+   ],
+   "jp": [
+    "あそこに行かせなきゃ"
+   ],
+   "ko": [
+    "저기로 보내야지"
+   ]
+  },
+  "8": {
+   "en": [
+    "Oooh! Moo! Oooh!",
+    "Oooh! Oooh! Oooh!",
+    ""
+   ],
+   "jp": [
+    "あらまあ！ ああ！",
+    "どうしましょう！",
+    ""
+   ],
+   "ko": [
+    "어머나！ 아！",
+    "어떡해！",
+    ""
+   ]
+  },
+  "9": {
+   "en": [
+    "Oooh! It's like the screaming {SWIRL}{STAR}{LIGHTNING}{SKULL}s, it is!",
+    " I'm out of here!"
+   ],
+   "jp": [
+    "まあ！　ゲリになっちゃったみたい！\nまるで{SWIRL}{STAR}{LIGHTNING}{SKULL}だわ...",
+    "大変！"
+   ],
+   "ko": [
+    "어머！　설사가 나온 것 같아！\n꼭 {SWIRL}{STAR}{LIGHTNING}{SKULL}같아...",
+    "큰일이야！"
+   ]
+  },
+  "10": {
+   "en": [
+    "Oh I say! This is far from dignified.",
+    " Oh! I hope mavis and olive don't see this,",
+    "or I'll never hear the end of it.",
+    "Ooh! Ooh! Ooh! That's a bit.",
+    "Ooh! eh! It's a bit of a...",
+    "Ooh! that's aah!",
+    "Ooh! I'll just stay here for a while,",
+    "just in case. You never know."
+   ],
+   "jp": [
+    "上品とはほど遠い姿だわ",
+    "見られたら困っちゃう",
+    "バカにされるわ",
+    "ひどいゲリね",
+    "これはちょっと...",
+    "ああこれでスッキリ！",
+    "まだここにいましょう",
+    "念のためにね"
+   ],
+   "ko": [
+    "우아함과는 거리가 먼 모습이야",
+    "누가 보면 곤란해",
+    "무시당할 거야",
+    "지독한 설사네",
+    "이건 좀...",
+    "아 이제 개운해！",
+    "아직 여기 있어야지",
+    "혹시 모르니까"
+   ]
+  },
+  "11": {
+   "en": [
+    "Oh! Stop your nonsense, young man!",
+    " Goodness me.",
+    "I've quite lost my appetite now.",
+    " I'm gonna go...",
+    " I'm gonna go for a little meander over 'ere.",
+    "Hmmm, actually, i feel a bit thirsty.",
+    " A nice little beverage should wash this tasty grass down",
+    "lovely like."
+   ],
+   "jp": [
+    "バカなマネはやめなさい！",
+    "あらまあ",
+    "食欲も失せたわ",
+    "じゃあ...",
+    "少し歩きましょう",
+    "のどがかわいてきたわ",
+    "何か飲んで草を胃へ送りましょ\nいい考えね",
+    ""
+   ],
+   "ko": [
+    "바보 같은 짓은 그만둬！",
+    "어머나",
+    "식욕도 사라졌어",
+    "그럼...",
+    "좀 걸을까",
+    "목이 말라오네",
+    "뭐 마셔서 풀을 위로 보내자\n좋은 생각이야",
+    ""
+   ]
+  },
+  "12": {
+   "en": [
+    "This looks quite nice.",
+    " Looks to be cranberry flavored.",
+    " Lovely!"
+   ],
+   "jp": [
+    "おいしそう",
+    "クランベリー味かしら",
+    "ステキ！"
+   ],
+   "ko": [
+    "맛있겠다",
+    "크랜베리 맛인가",
+    "멋져！"
+   ]
+  },
+  "13": {
+   "en": [
+    "Hmmm, tastes a bit odd."
+   ],
+   "jp": [
+    "あら 変わった味ね"
+   ],
+   "ko": [
+    "어머 특이한 맛이네"
+   ]
+  },
+  "14": {
+   "en": [
+    "Oh well, I'll have some more."
+   ],
+   "jp": [
+    "もう少しいただくわ"
+   ],
+   "ko": [
+    "조금 더 마실게"
+   ]
+  },
+  "15": {
+   "en": [
+    "Why am I such a fat...",
+    "Bast..."
+   ],
+   "jp": [
+    "おれは重すぎだ...",
+    "チクショ..."
+   ],
+   "ko": [
+    "난 너무 무거운데...",
+    "제기랄..."
+   ]
+  },
+  "16": {
+   "en": [
+    "Hmmm! Seems to be filled up with poo!",
+    " Aah! That should do it."
+   ],
+   "jp": [
+    "こんなもんで十分だろ\nさて　行くしかないか",
+    ""
+   ],
+   "ko": [
+    "이 정도면 충분하겠지\n자　갈 수밖에 없나",
+    ""
+   ]
+  },
+  "17": {
+   "en": [
+    "Oooh! Moo! Oooh.",
+    " Oooh! Oooh! Oooh!",
+    ""
+   ],
+   "jp": [
+    "あらまあ！ ああ！",
+    "どうしましょう！",
+    ""
+   ],
+   "ko": [
+    "어머나！ 아！",
+    "어떡해！",
+    ""
+   ]
+  },
+  "18": {
+   "en": [
+    "Oooh! It's like the screaming {SWIRL}{STAR}{LIGHTNING}{SKULL}s, it is!",
+    " I'm out of here!"
+   ],
+   "jp": [
+    "まあ！　ゲリになっちゃったみたい！\nまるで{SWIRL}{STAR}{LIGHTNING}{SKULL}だわ...",
+    "大変！"
+   ],
+   "ko": [
+    "어머！　설사가 나온 것 같아！\n꼭 {SWIRL}{STAR}{LIGHTNING}{SKULL}같아...",
+    "큰일이야！"
+   ]
+  },
+  "19": {
+   "en": [
+    "Oh, I say! This is far from dignified!",
+    " Oh! I hope mavis and olive don't see this,",
+    "or I'll never hear the end of it.",
+    "Ooh! Ooh! Ooh! That's a bit.",
+    "Ooh! Eh! It's a bit of a...",
+    "Ooh! That's aah!",
+    "Ooh! I'll just stay here for a while,",
+    "just in case. You never know."
+   ],
+   "jp": [
+    "上品とはほど遠い姿だわ",
+    "見られたら困っちゃう\n",
+    "バカにされるわ",
+    "ひどいゲリね",
+    "これはちょっと...",
+    "ああこれでスッキリ！",
+    "まだここにいましょう\n",
+    "念のためにね"
+   ],
+   "ko": [
+    "우아함과는 거리가 먼 모습이야",
+    "누가 보면 곤란해\n",
+    "무시당할 거야",
+    "지독한 설사네",
+    "이건 좀...",
+    "아 이제 개운해！",
+    "아직 여기 있어야지\n",
+    "혹시 모르니까"
+   ]
+  },
+  "20": {
+   "en": [
+    "Ah! Right, don't see any poo here.",
+    "Oh, hey! Excuse me, hello.",
+    " Yeah, you!",
+    " Ugh! Friendly type.",
+    " I'm looking for some poo.",
+    " I know it sounds pretty strange but... "
+   ],
+   "jp": [
+    "ウンコなんかないじゃん",
+    "ちょっとあんた！",
+    "あんただよ！",
+    "メチャ愛想いいや",
+    "ウンコ探してるとこなんだ　",
+    "...おれ正気だぞ"
+   ],
+   "ko": [
+    "똥 같은 거 없잖아",
+    "잠깐 당신！",
+    "당신 말이야！",
+    "완전 붙임성 좋네",
+    "똥 찾고 있는 중인데　",
+    "...나 제정신이라고"
+   ]
+  },
+  "21": {
+   "en": [
+    "Looks like she's just about ready to go."
+   ],
+   "jp": [
+    "そろそろいいかな"
+   ],
+   "ko": [
+    "슬슬 될까"
+   ]
+  }
+ }
+}

@@ -1,0 +1,446 @@
+{
+ "scene": "MPCable",
+ "n": 66,
+ "entries": {
+  "21": {
+   "en": [
+    "Despite fighting to the death"
+   ],
+   "jp": [
+    "命がけで戦い"
+   ],
+   "ko": [
+    "목숨을 걸고 싸웠지만"
+   ]
+  },
+  "22": {
+   "en": [
+    "but then, no-one knew for sure."
+   ],
+   "jp": [
+    "効果は不明"
+   ],
+   "ko": [
+    "효과는 불명"
+   ]
+  },
+  "23": {
+   "en": [
+    "The SHC had sent in a crack assault squad."
+   ],
+   "jp": [
+    "リス軍は強襲チームを送り込んだ"
+   ],
+   "ko": [
+    "다람쥐군은 강습팀을 투입했다"
+   ]
+  },
+  "24": {
+   "en": [
+    "Their mission:"
+   ],
+   "jp": [
+    "その任務とは..."
+   ],
+   "ko": [
+    "그 임무란..."
+   ]
+  },
+  "25": {
+   "en": [
+    "to link up the power lines to their generator,"
+   ],
+   "jp": [
+    "発電機と送電線とをつなぎ"
+   ],
+   "ko": [
+    "발전기와 송전선을 연결하고"
+   ]
+  },
+  "26": {
+   "en": [
+    "restart the cable car,"
+   ],
+   "jp": [
+    "ケーブルカーを動かし"
+   ],
+   "ko": [
+    "케이블카를 움직이고"
+   ]
+  },
+  "27": {
+   "en": [
+    "and get a trooper inside"
+   ],
+   "jp": [
+    "兵士を送り込んで"
+   ],
+   "ko": [
+    "병사를 투입해서"
+   ]
+  },
+  "28": {
+   "en": [
+    "to overcharge and destroy the Machine."
+   ],
+   "jp": [
+    "マシンを破壊すること"
+   ],
+   "ko": [
+    "기계를 파괴하는 것"
+   ]
+  },
+  "29": {
+   "en": [
+    "The Tediz…"
+   ],
+   "jp": [
+    "一方クマ軍はといえば..."
+   ],
+   "ko": [
+    "한편 곰군은 말하자면..."
+   ]
+  },
+  "30": {
+   "en": [
+    "well, history also tells us"
+   ],
+   "jp": [
+    "なんとバッテリーを"
+   ],
+   "ko": [
+    "웬걸 배터리를"
+   ]
+  },
+  "31": {
+   "en": [
+    "they’d forgotten to pack the batteries."
+   ],
+   "jp": [
+    "忘れてしまっていた"
+   ],
+   "ko": [
+    "잊어버리고 있었다"
+   ]
+  },
+  "32": {
+   "en": [
+    "and winning many battles,"
+   ],
+   "jp": [
+    "多くの勝利をあげても"
+   ],
+   "ko": [
+    "많은 승리를 거둬도"
+   ]
+  },
+  "33": {
+   "en": [
+    "They both needed to link up the power lines,"
+   ],
+   "jp": [
+    "どちらの軍も送電線をつなぎ"
+   ],
+   "ko": [
+    "어느 쪽이든 송전선을 연결해"
+   ]
+  },
+  "34": {
+   "en": [
+    "then seal the connection somehow."
+   ],
+   "jp": [
+    "電力を確保しなくてはならない"
+   ],
+   "ko": [
+    "전력을 확보해야만 한다"
+   ]
+  },
+  "36": {
+   "en": [
+    "The race was on."
+   ],
+   "jp": [
+    "戦いは始まった"
+   ],
+   "ko": [
+    "싸움은 시작됐다"
+   ]
+  },
+  "37": {
+   "en": [
+    "the Tediz were not winning the war."
+   ],
+   "jp": [
+    "クマ軍は押されていた"
+   ],
+   "ko": [
+    "곰군은 밀리고 있었다"
+   ]
+  },
+  "38": {
+   "en": [
+    "Forced finally to retreat"
+   ],
+   "jp": [
+    "ガケの上の城までの"
+   ],
+   "ko": [
+    "절벽 위 성까지의"
+   ]
+  },
+  "39": {
+   "en": [
+    "to his clifftop castle stronghold,"
+   ],
+   "jp": [
+    "後退を余儀なくされた"
+   ],
+   "ko": [
+    "후퇴를 강요당했다"
+   ]
+  },
+  "40": {
+   "en": [
+    "Von Kriplespac knew that only one thing"
+   ],
+   "jp": [
+    "クリプルスパックは"
+   ],
+   "ko": [
+    "크리플스팩은"
+   ]
+  },
+  "41": {
+   "en": [
+    "could save them from defeat…"
+   ],
+   "jp": [
+    "敗北を免れる唯一の手に出た"
+   ],
+   "ko": [
+    "패배를 면할 유일한 수를 냈다"
+   ]
+  },
+  "42": {
+   "en": [
+    "the Machine."
+   ],
+   "jp": [
+    "それがこのマシン"
+   ],
+   "ko": [
+    "그것이 바로 이 기계"
+   ]
+  },
+  "43": {
+   "en": [
+    "History has told us of its use,"
+   ],
+   "jp": [
+    "使い方は分かっているが"
+   ],
+   "ko": [
+    "사용법은 알고 있지만"
+   ]
+  },
+  "44": {
+   "en": [
+    "Great work guys, cable car is now powered back up again. Repel boarders!"
+   ],
+   "jp": [
+    "よくやったぞ　ケーブルカーに電気が通った　行け！"
+   ],
+   "ko": [
+    "잘했다　케이블카에 전기가 통했다　가라！"
+   ]
+  },
+  "45": {
+   "en": [
+    "That’s it guys. Keep working as a team and we'll get them all before we know it."
+   ],
+   "jp": [
+    "チームワークが重要だぞ　急いで送電線を確保だ"
+   ],
+   "ko": [
+    "팀워크가 중요하다　서둘러 송전선을 확보해라"
+   ]
+  },
+  "46": {
+   "en": [
+    "Oh no fellas. They're pushing us back. Re-power that mast. Priority one!"
+   ],
+   "jp": [
+    "まいった　抵抗してくる！　送電線に電気を通せ　最優先だ！"
+   ],
+   "ko": [
+    "이런　저항해온다！　송전선에 전기를 통하게 해라　최우선이다！"
+   ]
+  },
+  "47": {
+   "en": [
+    "That’s it! The over charge is ready to go. Get your asses into that machine and seal the breach. Move it!"
+   ],
+   "jp": [
+    "よし　オーバーチャージさせる準備はできた　マシンに突っ込め！　行け！"
+   ],
+   "ko": [
+    "좋다　오버차지 준비가 됐다　기계로 돌진해라！　가라！"
+   ]
+  },
+  "48": {
+   "en": [
+    "Huu! Ze fools have given us a chance. Ze cable car is active. Get over zere and power up zose masts, now! Hurry my Tediz, zere is no time left."
+   ],
+   "jp": [
+    "おろか者どもがチャンスをくれたぞ　ケーブルカーが作動している　送電線を確保しろ　急げクマたちよ！"
+   ],
+   "ko": [
+    "어리석은 놈들이 기회를 줬다　케이블카가 작동하고 있다　송전선을 확보해라　서둘러라 곰들이여！"
+   ]
+  },
+  "49": {
+   "en": [
+    "Excellent my Tediz. To the next one quickly - time is of the essence."
+   ],
+   "jp": [
+    "すばらしいぞクマたちよ　次へ急げ　時間がない！"
+   ],
+   "ko": [
+    "훌륭하다 곰들이여　다음으로 서둘러라　시간이 없다！"
+   ]
+  },
+  "50": {
+   "en": [
+    "Ahh! You fools, get ze @$@#@ mast back you #@$@ Tedi #@$#!"
+   ],
+   "jp": [
+    "おろか者め！　さっさと送電線をうばい返せ　この @$@#@ な #@$# ども！"
+   ],
+   "ko": [
+    "어리석은 놈！　얼른 송전선을 되찾아라　이 @$@#@ 같은 #@$# 놈들！"
+   ]
+  },
+  "51": {
+   "en": [
+    "Vunderbah! We have zem now. Now my Tediz, make ze ultimate sacrifice and complete the connection."
+   ],
+   "jp": [
+    "すばらしい！　ついにやったぞ　クマたちが大きな犠牲をはらい 接続を完了した！"
+   ],
+   "ko": [
+    "훌륭하다！　드디어 해냈다　곰들이 큰 희생을 치르고 연결을 완료했다！"
+   ]
+  },
+  "52": {
+   "en": [
+    "A.P.C."
+   ],
+   "jp": [
+    "A.P.C."
+   ],
+   "ko": [
+    "A.P.C."
+   ]
+  },
+  "53": {
+   "en": [
+    "Crypt"
+   ],
+   "jp": [
+    "ワインセラー"
+   ],
+   "ko": [
+    "와인 셀러"
+   ]
+  },
+  "56": {
+   "en": [
+    "Castle"
+   ],
+   "jp": [
+    "城"
+   ],
+   "ko": [
+    "성"
+   ]
+  },
+  "57": {
+   "en": [
+    "SHC charge unit now powered up"
+   ],
+   "jp": [
+    "リス軍 チャージユニット準備完了"
+   ],
+   "ko": [
+    "다람쥐군 충전 유닛 준비 완료"
+   ]
+  },
+  "58": {
+   "en": [
+    "Ok, this is it. Get over to that castle now and take down that machine. We don’t know what it does, and I reckon we don't want to find out. Let’s get that cable car started up first. Fall in!"
+   ],
+   "jp": [
+    "いよいよだぞ　城へのりこみ マシンを破壊するんだ　あのマシンが何をするかはわからんがな　まずはケーブルカーを動かすんだ　行け！"
+   ],
+   "ko": [
+    "드디어다　성으로 쳐들어가 기계를 파괴해라　저 기계가 뭘 하는지는 모르겠지만　우선 케이블카를 움직여라　가라！"
+   ]
+  },
+  "59": {
+   "en": [
+    "Castle Von Tedistein"
+   ],
+   "jp": [
+    "テディシュタイン城"
+   ],
+   "ko": [
+    "테디슈타인 성"
+   ]
+  },
+  "62": {
+   "en": [
+    "Tedi charge unit now powered up"
+   ],
+   "jp": [
+    "クマ軍 チャージユニット準備完了"
+   ],
+   "ko": [
+    "곰군 충전 유닛 준비 완료"
+   ]
+  },
+  "63": {
+   "en": [
+    "Zis is it my beautiful Tediz. Get over zere and power my machine up, now! Capture zose masts, and zen we will see who is victorious."
+   ],
+   "jp": [
+    "いよいよだ クマたちよ　マシンに電力をチャージしろ！　スイッチを入れ 送電線を確保するのだ"
+   ],
+   "ko": [
+    "드디어다 곰들이여　기계에 전력을 충전해라！　스위치를 켜고 송전선을 확보해라"
+   ]
+  },
+  "64": {
+   "en": [
+    "Castle Von Tedistein"
+   ],
+   "jp": [
+    "テディシュタイン城"
+   ],
+   "ko": [
+    "테디슈타인 성"
+   ]
+  },
+  "65": {
+   "en": [
+    "Hellfire Corner"
+   ],
+   "jp": [
+    "ヘルファイアコーナー"
+   ],
+   "ko": [
+    "헬파이어 코너"
+   ]
+  }
+ }
+}

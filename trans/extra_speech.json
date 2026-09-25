@@ -1,0 +1,138 @@
+{
+ "scene": "extra_speech",
+ "n": 12,
+ "entries": {
+  "0": {
+   "en": [
+    "Somebody get me!"
+   ],
+   "jp": [
+    "早くつかまえろ！"
+   ],
+   "ko": [
+    "빨리 붙잡아！"
+   ]
+  },
+  "1": {
+   "en": [
+    "Hey, over here!"
+   ],
+   "jp": [
+    "こっちだぞ！"
+   ],
+   "ko": [
+    "이쪽이다！"
+   ]
+  },
+  "2": {
+   "en": [
+    "Hey!"
+   ],
+   "jp": [
+    "おいっ！"
+   ],
+   "ko": [
+    "야！"
+   ]
+  },
+  "3": {
+   "en": [
+    "Hey!"
+   ],
+   "jp": [
+    "おいっ！"
+   ],
+   "ko": [
+    "야！"
+   ]
+  },
+  "4": {
+   "en": [
+    "Some money over here!"
+   ],
+   "jp": [
+    "現ナマ　欲しいだろ！"
+   ],
+   "ko": [
+    "현금　갖고 싶지！"
+   ]
+  },
+  "5": {
+   "en": [
+    "Hit Z you {STAR}{SKULL}{LIGHTNING}{SWIRL} fool! Now press {A}... It lets you piss!"
+   ],
+   "jp": [
+    "...だよ\nこの{STAR}{SKULL}{LIGHTNING}{SWIRL}！\n次は　{A}　を押して小便だ"
+   ],
+   "ko": [
+    "...라고\n이 {STAR}{SKULL}{LIGHTNING}{SWIRL}！\n다음은　{A}　를 눌러서 오줌이다"
+   ]
+  },
+  "6": {
+   "en": [
+    "Ahh!  Seems to be an instruction book.  Oh, I see... It's for the more complex stuff.  It'll appear the first time you use a more complex zone.  And if you need it again, then pull {L} and press {B} at the same time.  To skip it, just press {B} ...        The Catapult... Let's see now, use the right {TXT_JOYSTICK} to aim and {R} to fire.  That seems simple enough."
+   ],
+   "jp": [
+    "なるほど...　操作マニュアルだ！\n役に立ちそうだぞ\nあとで分からなくなったら\n{L}　を引いて　{B}　を押せば また表示される\nスキップしたければ\n{B}　を押すんだ 　 えっと...　パチンコは\n右の　{TXT_JOYSTICK}　で 狙いを定めたら\n{R}　で発射するんだ\n簡単だろ？"
+   ],
+   "ko": [
+    "그렇군...　조작 설명서다！\n도움이 될 것 같은데\n나중에 모르겠으면\n{L}　을 당기고　{B}　를 누르면 다시 나온다\n건너뛰고 싶으면\n{B}　를 눌러라 　 그러니까...　새총은\n오른쪽　{TXT_JOYSTICK}　으로 조준하고\n{R}　로 발사하는 거야\n간단하지?"
+   ]
+  },
+  "7": {
+   "en": [
+    "Hey, what about me?"
+   ],
+   "jp": [
+    "つかまえないのか？"
+   ],
+   "ko": [
+    "안 잡는 거야?"
+   ]
+  },
+  "8": {
+   "en": [
+    "Oh, I can't seem to get any further... I'm sure there was something... Ah yes, now I remember ! Pull {R} and I should crouch.  Now then, what was it? Oh yeah... Press {A} to jump extra high then {A} again to do that funny helicoptery tail thing. Now that makes me hover. Hmm...  I should easily get across that gap.  Um, are you sure you've got that? {A} Yes  {B} No"
+   ],
+   "jp": [
+    "これ以上先へ進めないぞ こういう時は...　どうするんだっけ？\nえっと...　まず...\n{R}　を引いて\nしゃがめるんだな\nそれから...　何だっけ？ しゃがんで　{A}　を押すと\nハイジャンプができるんだ\nそんで...　もう　１　回　{A}　で しっぽヘリコプターだ\nこれで谷間も飛びこせるぞ\nわかったか？\n{A}　ハイ　{B}　イイエ"
+   ],
+   "ko": [
+    "더는 앞으로 못 가겠는데 이럴 땐...　어떻게 하더라?\n그러니까...　먼저...\n{R}　을 당기면\n웅크릴 수 있지\n그리고...　뭐였더라? 웅크리고　{A}　를 누르면\n하이점프가 되는 거야\n그다음...　한　번　더　{A}　로 꼬리 헬리콥터다\n이걸로 골짜기도 넘을 수 있어\n알겠나?\n{A}　예　{B}　아니오"
+   ]
+  },
+  "9": {
+   "en": [
+    "The Catapult... Let's see now, use the right {TXT_JOYSTICK} to aim and {R} to fire.  That seems simple enough."
+   ],
+   "jp": [
+    "えっと...　パチンコは\n右の　{TXT_JOYSTICK}　で 狙いを定めたら\n{R}　で発射するんだ\n簡単だろ？"
+   ],
+   "ko": [
+    "그러니까...　새총은\n오른쪽　{TXT_JOYSTICK}　으로 조준하고\n{R}　로 발사하는 거야\n간단하지?"
+   ]
+  },
+  "10": {
+   "en": [
+    "And if I'm a lot more confident, then I should be able to swim underwater now. Hmmmm... How would I do that? Lets see...  Press {B} and that should submerge me.  Then, once I’m underwater, use the left {TXT_JOYSTICK} to move, and the right {TXT_JOYSTICK} to rotate. You got that?  That's it!  Um, are you sure you've got that? {A} Yes  {B} No"
+   ],
+   "jp": [
+    "自信もついたことだし 水の中も潜れそうだな やり方はえっと... 水面で　{B}　を押して潜るだろ それから水中では... 左の　{TXT_JOYSTICK}　で進んで 右の　{TXT_JOYSTICK}　で向きを変えるんだな わかったか？ {A}　ハイ　{B}　イイエ"
+   ],
+   "ko": [
+    "자신도 붙었으니 물속도 잠수할 수 있겠는데 하는 법은 그러니까... 수면에서　{B}　를 눌러 잠수하고 그다음 물속에서는... 왼쪽　{TXT_JOYSTICK}　으로 나아가고 오른쪽　{TXT_JOYSTICK}　으로 방향을 바꾸는 거야 알겠나? {A}　예　{B}　아니오"
+   ]
+  },
+  "11": {
+   "en": [
+    "Weapons... Cool!  Okay, here's the score. Press {B} to equip and put away.  Then, once equipped, pull {R} to swipe. Um, are you sure you've got that?            {A} Yes  {B} No"
+   ],
+   "jp": [
+    "武器だぜ...　やった！ どうすりゃいんだっけ？\nとりあえず　{B}　を押して... 武器をかまえるんだな\nそれから　{R}　で一発だ わかったか？\n{A}　ハイ　{B}　イイエ"
+   ],
+   "ko": [
+    "무기다...　됐다！ 어떻게 하더라?\n일단　{B}　를 눌러서... 무기를 겨누는 거야\n그다음　{R}　로 한 발이다 알겠나?\n{A}　예　{B}　아니오"
+   ]
+  }
+ }
+}

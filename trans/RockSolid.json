@@ -1,0 +1,126 @@
+{
+ "scene": "RockSolid",
+ "n": 6,
+ "entries": {
+  "0": {
+   "en": [
+    "Don't forget the cash!"
+   ],
+   "jp": [
+    "金を忘れずにっと！"
+   ],
+   "ko": [
+    "돈을 잊지 말고！"
+   ]
+  },
+  "1": {
+   "en": [
+    "Yeh! I'm here.",
+    "Hurry up, pick me up, {SWIRL}{STAR}{LIGHTNING}{SKULL}head."
+   ],
+   "jp": [
+    "おれはここだ！",
+    "早く取れ！　この{SWIRL}{STAR}{LIGHTNING}{SKULL}！"
+   ],
+   "ko": [
+    "나 여기 있다！",
+    "빨리 가져가！　이 {SWIRL}{STAR}{LIGHTNING}{SKULL}놈！"
+   ]
+  },
+  "2": {
+   "en": [
+    "Excellent!",
+    "Jet-packs and butlers, here we come."
+   ],
+   "jp": [
+    "サイコー！",
+    "何でも買えちゃうぜ ヤッホー！"
+   ],
+   "ko": [
+    "최고！",
+    "뭐든 살 수 있어 야호！"
+   ]
+  },
+  "3": {
+   "en": [
+    "Right!",
+    "I think it's time to leave this place!",
+    "It's getting a bit noisy!!"
+   ],
+   "jp": [
+    "さてと",
+    "そろそろここを出るか",
+    "ここ うるさくて！"
+   ],
+   "ko": [
+    "자아",
+    "슬슬 여기서 나갈까",
+    "여기 시끄러워서！"
+   ]
+  },
+  "4": {
+   "en": [
+    "Hey, Berri! Berri!",
+    "Where's she gone?",
+    "Berri!",
+    "Ohhh! she didn't recognize me",
+    "With this on my head!",
+    "Ah well."
+   ],
+   "jp": [
+    "おい　ベリー！",
+    "どこ行くんだ！",
+    "ベリー！",
+    "これかぶってるから",
+    "気がつかないんだ",
+    "まあ　いいや"
+   ],
+   "ko": [
+    "야　베리！",
+    "어디 가는 거야！",
+    "베리！",
+    "이거 쓰고 있으니까",
+    "깨닫지 못하는 거야",
+    "뭐　됐어"
+   ]
+  },
+  "5": {
+   "en": [
+    "See ya then!",
+    "Huh!",
+    "Where do ya think you're goin' with that?",
+    "What?",
+    "The money.",
+    "Oh, I'm following her!",
+    "I don't think so.",
+    "I think you need to see",
+    "the boss!",
+    "Ok!"
+   ],
+   "jp": [
+    "じゃあな！",
+    "待て！",
+    "それを持ってどこへ行く？",
+    "それって？",
+    "その金だ",
+    "彼女を追ってるんだ！",
+    "それとこれとは別だ",
+    "ボスに会う必要があるな",
+    "いいな",
+    "わかった"
+   ],
+   "ko": [
+    "그럼！",
+    "기다려！",
+    "그걸 갖고 어디 가?",
+    "그거라니?",
+    "그 돈 말이야",
+    "그녀를 쫓고 있다고！",
+    "그거랑 이건 별개다",
+    "보스를 만나야겠는데",
+    "알겠지",
+    "알겠네"
+   ]
+  }
+ }
+}

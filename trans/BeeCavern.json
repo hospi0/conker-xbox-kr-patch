@@ -1,0 +1,74 @@
+{
+ "scene": "BeeCavern",
+ "n": 4,
+ "entries": {
+  "0": {
+   "en": [
+    "What, again?",
+    "Let's get him, boss!"
+   ],
+   "jp": [
+    "またかよ",
+    "つかまえよう！"
+   ],
+   "ko": [
+    "또냐",
+    "붙잡자！"
+   ]
+  },
+  "1": {
+   "en": [
+    "Yeah, let's get him!",
+    "Again."
+   ],
+   "jp": [
+    "またか！",
+    "そうしよう"
+   ],
+   "ko": [
+    "또냐！",
+    "그렇게 하자"
+   ]
+  },
+  "2": {
+   "en": [
+    "Mr. Squirrel, hurry, hurry.",
+    "I think there's a bit of a lull in the waves.",
+    "Hop out and carry the hive, now, quickly!",
+    "No time to lose."
+   ],
+   "jp": [
+    "リスさん早く！",
+    "今なら大丈夫そう",
+    "早く巣を運び出して！",
+    "時間がないわ"
+   ],
+   "ko": [
+    "다람쥐 씨 빨리",
+    "지금이면 괜찮아",
+    "빨리 벌집을 옮겨줘！",
+    "시간이 없어"
+   ]
+  },
+  "3": {
+   "en": [
+    "Hey,",
+    "some wise guy's trying to steal our nice new hive again.",
+    "It's the same little bastard.",
+    "C'mon, boys."
+   ],
+   "jp": [
+    "おい",
+    "あのバカ 新しい巣を盗む気だ",
+    "前と同じヤツだ",
+    "行くぞ"
+   ],
+   "ko": [
+    "야",
+    "저 바보 새 벌집을 훔치려 해",
+    "지난번 그놈이다",
+    "간다"
+   ]
+  }
+ }
+}

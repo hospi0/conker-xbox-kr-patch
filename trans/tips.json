@@ -1,0 +1,303 @@
+{
+ "scene": "tips",
+ "n": 28,
+ "entries": {
+  "0": {
+   "en": [
+    "Hold down {X}  button to bring up the Abilities selection icons."
+   ],
+   "jp": [
+    "{X} を押したままにすると、アビリティの メニューが表示される。"
+   ],
+   "ko": [
+    "{X} 를 누르면 능력 메뉴가 나온다."
+   ]
+  },
+  "1": {
+   "en": [
+    "Hold down {Y}  button to bring up the Weapons menu."
+   ],
+   "jp": [
+    "{Y} を押したままにすると、装備のメニュー が表示される。"
+   ],
+   "ko": [
+    "{Y} 를 누르면 장비 메뉴가 나온다."
+   ]
+  },
+  "2": {
+   "en": [
+    "Hold down {L} to bring up the Alternate Firing modes."
+   ],
+   "jp": [
+    "{L} を引いたままにすると、武器のモード 切り替えメニューが表示される。"
+   ],
+   "ko": [
+    "{L} 를 당기면 무기 모드 전환 메뉴가 나온다."
+   ]
+  },
+  "3": {
+   "en": [
+    "Go to the Specialist Ordnances to get special weapons to defend your base."
+   ],
+   "jp": [
+    "特殊武器は、基地の防御や待ち伏せに 威力を発揮する。"
+   ],
+   "ko": [
+    "특수 무기는 기지 방어와 매복에서 위력을 발휘한다."
+   ]
+  },
+  "4": {
+   "en": [
+    "Use the icons on the right side of your screen to track your team's progress."
+   ],
+   "jp": [
+    "チームの戦況は、画面右側のアイコンで 確認できる。"
+   ],
+   "ko": [
+    "팀의 전황은 화면 오른쪽 아이콘으로 확인한다."
+   ]
+  },
+  "5": {
+   "en": [
+    "Go to the Pause / Options menu to change your character class."
+   ],
+   "jp": [
+    "別のクラスのキャラクターで戦いたくなったら STARTボタンメニューから「クラスの変更」だ"
+   ],
+   "ko": [
+    "다른 클래스로 싸우려면 START 메뉴의 「클래스 변경」"
+   ]
+  },
+  "6": {
+   "en": [
+    "Hone your skills against computer opponents by fighting the Dumbots."
+   ],
+   "jp": [
+    "ダンボットとの対戦はスキルアップに効果的"
+   ],
+   "ko": [
+    "던봇과 겨루면 실력이 빨리 는다"
+   ]
+  },
+  "7": {
+   "en": [
+    "Click the right {JOYSTICK} to get an outside view when in flying vehicles."
+   ],
+   "jp": [
+    "飛行中に機外の様子を見るには {JOYSTICK}　をクリック"
+   ],
+   "ko": [
+    "비행 중 기체 밖을 보려면 {JOYSTICK}　을 클릭"
+   ]
+  },
+  "8": {
+   "en": [
+    "Collect the glowing orbs to upgrade your character's weapons and abilities."
+   ],
+   "jp": [
+    "光るオーブを取ると、武器やアビリティが アップグレードされる"
+   ],
+   "ko": [
+    "빛나는 오브를 먹으면 무기와 능력이 강화된다"
+   ]
+  },
+  "9": {
+   "en": [
+    "When in a Steed and a missile locks onto you, try boosting your way out of trouble."
+   ],
+   "jp": [
+    "スティードが敵のミサイルにロックオン されたら、ブースターを使って回避だ。"
+   ],
+   "ko": [
+    "스티드가 적 미사일에 록온되면 부스터로 피해라."
+   ]
+  },
+  "10": {
+   "en": [
+    "Kneel or go Prone to hide your name tag from other players."
+   ],
+   "jp": [
+    "ひざ撃ち・伏せ撃ち姿勢のときは、自分の プレイヤー名が敵から見えなくなる"
+   ],
+   "ko": [
+    "무릎 쏴나 엎드려 쏴 자세면 내 이름이 적에게 안 보인다"
+   ]
+  },
+  "11": {
+   "en": [
+    "Increase the Long Ranger’s accuracy and effectiveness by squeezing {R} to charge up your laser sight."
+   ],
+   "jp": [
+    "{R} でロングレンジャーのレーザー照準を チャージすれば、命中したときの威力がアップ。"
+   ],
+   "ko": [
+    "{R} 로 롱 레인저의 레이저 조준을 충전하면 명중했을 때 위력이 상승한다."
+   ]
+  },
+  "12": {
+   "en": [
+    "Change your Long Ranger’s stance ({B}  button) to help steady your aim."
+   ],
+   "jp": [
+    "ロングレンジャーの照準は、低い姿勢のときほど ブレなくなる。射撃姿勢は {B} で切り替える。"
+   ],
+   "ko": [
+    "롱 레인저의 조준은 낮은 자세일수록 흔들리지 않는다. 사격 자세는 {B} 로 전환한다."
+   ]
+  },
+  "13": {
+   "en": [
+    "Pick up an upgrade to gain another zoom level for the Long Ranger’s Widowmaker."
+   ],
+   "jp": [
+    "アップグレードオーブで、ウィドウメーカーの ズーム倍率がアップ。"
+   ],
+   "ko": [
+    "업그레이드 오브로 위도우메이커의 줌 배율이 상승한다."
+   ]
+  },
+  "14": {
+   "en": [
+    "Dum Dum bullets are particularly effective against enemy mobile units."
+   ],
+   "jp": [
+    "ダムダム弾は移動ユニットに対して 特に効果的。"
+   ],
+   "ko": [
+    "덤덤탄은 이동 유닛에게 특히 잘 듣는다."
+   ]
+  },
+  "15": {
+   "en": [
+    "To increase movement speed try stowing your weapons. Be warned though, being empty handed renders you more vulnerable"
+   ],
+   "jp": [
+    "「装備なし」だと移動速度がアップする。 ただし攻撃を受けやすくなるので注意。"
+   ],
+   "ko": [
+    "「장비 없음」이면 더 빨라진다. 대신 공격에 약해진다."
+   ]
+  },
+  "16": {
+   "en": [
+    "Sneekers, never forget that snooping can also be lethal."
+   ],
+   "jp": [
+    "スヌーパの操作中は、無防備になるので 要注意。"
+   ],
+   "ko": [
+    "스누퍼 조종 중엔 무방비가 되니 조심."
+   ]
+  },
+  "17": {
+   "en": [
+    "Locked down by enemy fire? Throw in a smoke grenade, thereby forcing the enemy to drop their guard."
+   ],
+   "jp": [
+    "敵の攻撃で身動きできなくなったら スモークグレネードを使え。 煙幕で敵の視界をさえぎろう。"
+   ],
+   "ko": [
+    "적 사격에 묶였으면 연막탄을 써라. 적 시야를 가리자."
+   ]
+  },
+  "18": {
+   "en": [
+    "Being hassled by Enemy Mobiles? Hit the root of the problem and hack or destroy their terminals."
+   ],
+   "jp": [
+    "ターミナルを破壊してしまえば、敵は新しい 移動ユニットを使えなくなる。"
+   ],
+   "ko": [
+    "터미널을 부수면 적은 새 이동 유닛을 못 쓴다."
+   ]
+  },
+  "19": {
+   "en": [
+    "Snipers, anticipate the enemy's approach by using your Infravision ability."
+   ],
+   "jp": [
+    "インフラビジョンで、見えにくい敵を すばやく発見しよう。"
+   ],
+   "ko": [
+    "인프라비전으로 잘 안 보이는 적을 빨리 찾아내자."
+   ]
+  },
+  "20": {
+   "en": [
+    "Upgrade whenever you can. More choice if used wisely, equals more power."
+   ],
+   "jp": [
+    "光るオーブを取ると、武器やアビリティが アップグレードする。"
+   ],
+   "ko": [
+    "빛나는 오브를 먹으면 무기와 능력이 강화된다."
+   ]
+  },
+  "22": {
+   "en": [
+    "Magnovas will not only temporarily knock out Earth Guards and Mobile Units, but will also prematurely explode any nearby mines."
+   ],
+   "jp": [
+    "マグノバは、特殊武器や移動ユニットを一時的に 操作不能にし、近くに埋まった地雷も爆発させる。"
+   ],
+   "ko": [
+    "마그노바는 특수무기와 이동유닛을 일시적으로 조작 불능으로 만들고 근처에 묻힌 지뢰도 폭발시킨다."
+   ]
+  },
+  "23": {
+   "en": [
+    "The enemy failed to break through. Now, prepare to Attack!"
+   ],
+   "jp": [
+    "防御に成功した！ さあ、次は攻撃だ。"
+   ],
+   "ko": [
+    "방어 성공！ 자, 이번엔 공격이다."
+   ]
+  },
+  "24": {
+   "en": [
+    "You have removed the enemy threat. Now, prepare to Defend!"
+   ],
+   "jp": [
+    "ミッション成功！ さあ、今度は防御だ。"
+   ],
+   "ko": [
+    "미션 성공！ 자, 이번엔 방어다."
+   ]
+  },
+  "25": {
+   "en": [
+    "Need a quick capture or troop insertion? Then load up the Mule and off you go..."
+   ],
+   "jp": [
+    "ミュールを使えば部隊をまとめて輸送できる。 すばやい占拠や援軍の投入に効果的だ。"
+   ],
+   "ko": [
+    "뮬을 쓰면 부대를 한꺼번에 나른다. 점령과 증원에 효과적."
+   ]
+  },
+  "26": {
+   "en": [
+    "The enemy has broken through. Now, prepare to Attack!"
+   ],
+   "jp": [
+    "防御失敗！ 次は攻撃だ。しっかりやれよ。"
+   ],
+   "ko": [
+    "방어 실패！ 다음은 공격이다. 정신 차려라."
+   ]
+  },
+  "27": {
+   "en": [
+    "You failed to remove the enemy threat. Now, prepare to Defend!"
+   ],
+   "jp": [
+    "ミッション失敗！ 今度は防御だ。しっかり守れ！"
+   ],
+   "ko": [
+    "미션 실패！ 이번엔 방어다. 제대로 지켜라！"
+   ]
+  }
+ }
+}

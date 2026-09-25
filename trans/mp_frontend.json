@@ -1,0 +1,17 @@
+{
+ "scene": "mp_frontend",
+ "n": 1,
+ "entries": {
+  "0": {
+   "en": [
+    "This is an empty string that is not used anywhere in the game."
+   ],
+   "jp": [
+    "This is an empty string that is not used anywhere in the game."
+   ],
+   "ko": [
+    "This is an empty string that is not used anywhere in the game."
+   ]
+  }
+ }
+}

@@ -1,0 +1,541 @@
+{
+ "scene": "CogLand",
+ "n": 38,
+ "entries": {
+  "0": {
+   "en": [
+    "Why is it everybody's so offensive round here?"
+   ],
+   "jp": [
+    "ったく　ムカつくヤツばっか..."
+   ],
+   "ko": [
+    "정말이지　짜증나는 놈들뿐이야..."
+   ]
+  },
+  "1": {
+   "en": [
+    "Just get them back. There's a good fellow.",
+    "Oh! Ta ta! Ta ta!"
+   ],
+   "jp": [
+    "親切な君に\n連れ戻してもらいたい",
+    "おっと　失礼！"
+   ],
+   "ko": [
+    "친절한 자네가\n데려와줬으면 하는데",
+    "이런　실례！"
+   ]
+  },
+  "2": {
+   "en": [
+    "You {SWIRL}{STAR}{LIGHTNING}{SKULL}!",
+    "Don't ever do that again.",
+    "Now {THROB}{RED}{SKULL}{RED}{LIGHTNING}{RED}{SWIRL}{RED}{STAR}{NORMAL} off!"
+   ],
+   "jp": [
+    "この{SWIRL}{STAR}{LIGHTNING}{SKULL}め！",
+    "二度とやるなよ",
+    "この{THROB}{RED}{SKULL}{RED}{LIGHTNING}{RED}{SWIRL}{RED}{STAR}{NORMAL}野郎！"
+   ],
+   "ko": [
+    "이 {SWIRL}{STAR}{LIGHTNING}{SKULL}놈！",
+    "다신 하지 마",
+    "이 {THROB}{RED}{SKULL}{RED}{LIGHTNING}{RED}{SWIRL}{RED}{STAR}{NORMAL}놈！"
+   ]
+  },
+  "3": {
+   "en": [
+    "Either bring me back me missing cogs, or {THROB}{BLUE}{SKULL}{BLUE}{LIGHTNING}{BLUE}{SWIRL}{BLUE}{STAR}{NORMAL} off!"
+   ],
+   "jp": [
+    "いなくなった歯車をつれてこい {THROB}{BLUE}{SKULL}{BLUE}{LIGHTNING}{BLUE}{SWIRL}{BLUE}{STAR}{NORMAL}！"
+   ],
+   "ko": [
+    "사라진 톱니바퀴를 데려와라 {THROB}{BLUE}{SKULL}{BLUE}{LIGHTNING}{BLUE}{SWIRL}{BLUE}{STAR}{NORMAL}！"
+   ]
+  },
+  "4": {
+   "en": [
+    "You don't have to shout."
+   ],
+   "jp": [
+    "聞こえてるよ"
+   ],
+   "ko": [
+    "들려"
+   ]
+  },
+  "5": {
+   "en": [
+    "I'm deaf!",
+    " Speak up or {THROB}{GREEN}{SWIRL}{GREEN}{LIGHTNING}{GREEN}{STAR}{GREEN}{SKULL}{NORMAL} off!"
+   ],
+   "jp": [
+    "耳が悪くてな！",
+    "デカい声で話せ　この{THROB}{GREEN}{SWIRL}{GREEN}{LIGHTNING}{GREEN}{STAR}{GREEN}{SKULL}{NORMAL}！"
+   ],
+   "ko": [
+    "귀가 나빠서 말이야！",
+    "큰 소리로 말해　이 {THROB}{GREEN}{SWIRL}{GREEN}{LIGHTNING}{GREEN}{STAR}{GREEN}{SKULL}{NORMAL}놈！"
+   ]
+  },
+  "6": {
+   "en": [
+    "Hang on a sec!"
+   ],
+   "jp": [
+    "ちょっと待った"
+   ],
+   "ko": [
+    "잠깐만"
+   ]
+  },
+  "7": {
+   "en": [
+    "Well, hello.",
+    " Aren't you the handsome one.",
+    " Tell me, would you be prepared to do me a small favor?",
+    " For a little help, of course."
+   ],
+   "jp": [
+    "やあ　こんにちは",
+    "こりゃ色男だな",
+    "頼みを聞いてもらえないかな？",
+    "お礼はするよ"
+   ],
+   "ko": [
+    "어이　안녕",
+    "이거 미남인데",
+    "부탁 좀 들어줄 수 없을까?",
+    "사례는 할게"
+   ]
+  },
+  "8": {
+   "en": [
+    "Hi, and yes, I would, maybe."
+   ],
+   "jp": [
+    "こんちは\n聞いてやってもいいよ"
+   ],
+   "ko": [
+    "안녕\n들어줄 수도 있어"
+   ]
+  },
+  "9": {
+   "en": [
+    "You see,",
+    "my other self has lost a few of his,",
+    "shall we say, friends,",
+    "and if I don't get them back,",
+    "my life will be a misery.",
+    "It already is."
+   ],
+   "jp": [
+    "実は...",
+    "もう片方のぼく...",
+    "つまりさっきの彼が\n友だちをなくしてね",
+    "彼女たちが戻らないと",
+    " ぼくまでつらくなる",
+    "わかるかい？"
+   ],
+   "ko": [
+    "실은...",
+    "다른 한쪽인 나는...",
+    "그러니까 아까 그 애가\n친구를 잃어버려서",
+    "그녀들이 돌아오지 않으면",
+    " 나까지 힘들어져",
+    "알겠어?"
+   ]
+  },
+  "10": {
+   "en": [
+    "And?"
+   ],
+   "jp": [
+    "それで？"
+   ],
+   "ko": [
+    "그래서?"
+   ]
+  },
+  "11": {
+   "en": [
+    "Ey up, bloody hell.",
+    " Put it on quick.",
+    " Put it on, I like it like that.",
+    "Oooooohhh!",
+    "Aaaaaahhh!",
+    "Fan {THROB}{RED}{LIGHTNING}{SKULL}{SWIRL}{STAR}{LIGHTNING}{NORMAL} tastic!"
+   ],
+   "jp": [
+    "早くしろ",
+    "早くはめろ",
+    "早く！ もう待てん！",
+    "おおお！　いいぞ",
+    "ああ　たまらん！",
+    "ファーン{THROB}{RED}{LIGHTNING}{SKULL}{SWIRL}{STAR}{LIGHTNING}{NORMAL}タスティック！"
+   ],
+   "ko": [
+    "빨리 해",
+    "빨리 끼워",
+    "빨리！ 더는 못 기다려！",
+    "오오오！　좋다",
+    "아　참을 수 없어！",
+    "판{THROB}{RED}{LIGHTNING}{SKULL}{SWIRL}{STAR}{LIGHTNING}{NORMAL}타스틱！"
+   ]
+  },
+  "12": {
+   "en": [
+    "Oh, hang on,",
+    "I think I got it on the wrong way round."
+   ],
+   "jp": [
+    "待った",
+    "逆だったよ"
+   ],
+   "ko": [
+    "잠깐만",
+    "반대였어"
+   ]
+  },
+  "13": {
+   "en": [
+    "Like bugger you have! What ya doing?",
+    " What...",
+    " Oh {THROB}{BLUE}{STAR}{SKULL}{LIGHTNING}{SWIRL}{NORMAL}!"
+   ],
+   "jp": [
+    "何するんだ！\nちょっと！",
+    "待て！",
+    "ああ　{THROB}{BLUE}{STAR}{SKULL}{LIGHTNING}{SWIRL}{NORMAL}！"
+   ],
+   "ko": [
+    "뭐 하는 거야！\n잠깐！",
+    "기다려！",
+    "아　{THROB}{BLUE}{STAR}{SKULL}{LIGHTNING}{SWIRL}{NORMAL}！"
+   ]
+  },
+  "14": {
+   "en": [
+    "Hey!",
+    " Isn't that the {THROB}{BLUE}{LIGHTNING}{SKULL}{STAR}{SWIRL}{NORMAL} that burnt Barry?",
+    "Where?",
+    " I can't see."
+   ],
+   "jp": [
+    "見ろよ！",
+    "バリーを焼いた{THROB}{BLUE}{LIGHTNING}{SKULL}{STAR}{SWIRL}{NORMAL}だ",
+    "どこだ？",
+    "見えない"
+   ],
+   "ko": [
+    "봐봐！",
+    "배리를 태운 {THROB}{BLUE}{LIGHTNING}{SKULL}{STAR}{SWIRL}{NORMAL}다",
+    "어디야?",
+    "안 보여"
+   ]
+  },
+  "15": {
+   "en": [
+    "Oh! for {THROB}{RED}{LIGHTNING}{STAR}{SWIRL}{SKULL}{NORMAL} sake."
+   ],
+   "jp": [
+    "まったく！　{THROB}{RED}{LIGHTNING}{STAR}{SWIRL}{SKULL}{NORMAL}だ"
+   ],
+   "ko": [
+    "정말이지！　{THROB}{RED}{LIGHTNING}{STAR}{SWIRL}{SKULL}{NORMAL}다"
+   ]
+  },
+  "16": {
+   "en": [
+    "I gotta get off this thing!"
+   ],
+   "jp": [
+    "もうダメだ！"
+   ],
+   "ko": [
+    "이제 틀렸다！"
+   ]
+  },
+  "17": {
+   "en": [
+    "{SWIRL}{STAR}{LIGHTNING}{SKULL}ting shite!",
+    "That's tossed it right up the{RED}{STAR}{SKULL}{LIGHTNING}{SWIRL}."
+   ],
+   "jp": [
+    "なんて{SWIRL}{STAR}{LIGHTNING}{SKULL}だ！",
+    "あいつらがおれを{RED}{STAR}{SKULL}{LIGHTNING}{SWIRL}！"
+   ],
+   "ko": [
+    "이런 {SWIRL}{STAR}{LIGHTNING}{SKULL}이！",
+    "그놈들이 나를 {RED}{STAR}{SKULL}{LIGHTNING}{SWIRL}！"
+   ]
+  },
+  "18": {
+   "en": [
+    "I do declare, ladies, we are free at last",
+    "to exact our revenge on this evil cog.",
+    " Grab him!"
+   ],
+   "jp": [
+    "私たちはついに自由になったわ！",
+    "このヒドい男に仕返しをしましょう",
+    "つかまえて！"
+   ],
+   "ko": [
+    "우리는 드디어 자유가 됐어！",
+    "이 지독한 남자에게 복수하자",
+    "붙잡아！"
+   ]
+  },
+  "19": {
+   "en": [
+    "Oh no!",
+    " Not mr. Big cog!",
+    "That's me buggered."
+   ],
+   "jp": [
+    "イヤだ！",
+    "勘弁してくれ！",
+    "ほられちまう！"
+   ],
+   "ko": [
+    "싫어！",
+    "제발 봐줘！",
+    "당하겠어！"
+   ]
+  },
+  "20": {
+   "en": [
+    "It certainly is."
+   ],
+   "jp": [
+    "当然だな"
+   ],
+   "ko": [
+    "당연하지"
+   ]
+  },
+  "21": {
+   "en": [
+    "I'm out of here."
+   ],
+   "jp": [
+    "助けてくれ"
+   ],
+   "ko": [
+    "도와줘"
+   ]
+  },
+  "22": {
+   "en": [
+    "I say, I don't know what his problem is.",
+    " I find it rather delicious.",
+    " Thank you, mr. Squirrel."
+   ],
+   "jp": [
+    "彼は何が不満なのかな",
+    "私は実に気持ちいい\n",
+    "感謝するよ　リス君"
+   ],
+   "ko": [
+    "그는 뭐가 불만인 걸까",
+    "나는 정말 기분이 좋아\n",
+    "고맙네　다람쥐 군"
+   ]
+  },
+  "23": {
+   "en": [
+    "Oh! My pleasure."
+   ],
+   "jp": [
+    "どういたしまして"
+   ],
+   "ko": [
+    "천만에"
+   ]
+  },
+  "24": {
+   "en": [
+    "Yes, and I think you'll find your",
+    "little problem outside",
+    "has been thoroughly taken care of."
+   ],
+   "jp": [
+    "君が外でかかえてた",
+    "問題の方は",
+    "完全にカタがついたよ"
+   ],
+   "ko": [
+    "자네가 밖에서 안고 있던",
+    "문제 쪽은",
+    "완전히 해결됐다네"
+   ]
+  },
+  "25": {
+   "en": [
+    "Oh, cool!"
+   ],
+   "jp": [
+    "やったね！"
+   ],
+   "ko": [
+    "해냈다！"
+   ]
+  },
+  "26": {
+   "en": [
+    "Now, good day to you, sir."
+   ],
+   "jp": [
+    "では...　ごきげんよう\n小さなリス君"
+   ],
+   "ko": [
+    "그럼...　잘 있게\n작은 다람쥐 군"
+   ]
+  },
+  "27": {
+   "en": [
+    "Toffee-nosed snob!"
+   ],
+   "jp": [
+    "気取ったヤツ！"
+   ],
+   "ko": [
+    "잘난 척하는 놈！"
+   ]
+  },
+  "28": {
+   "en": [
+    "Why, thank you, mr. Squirrel."
+   ],
+   "jp": [
+    "ありがとう！　リスさん"
+   ],
+   "ko": [
+    "고마워！　다람쥐 씨"
+   ]
+  },
+  "29": {
+   "en": [
+    "Come on, ladies,"
+   ],
+   "jp": [
+    "行きましょう"
+   ],
+   "ko": [
+    "가자"
+   ]
+  },
+  "30": {
+   "en": [
+    "It's the caribbean for us."
+   ],
+   "jp": [
+    "バカンスへ出発よ"
+   ],
+   "ko": [
+    "휴가를 떠나자"
+   ]
+  },
+  "31": {
+   "en": [
+    "Hey, I'm here! Hurry up!",
+    " Pick me up, {SWIRL}{STAR}{LIGHTNING}{SKULL}head!"
+   ],
+   "jp": [
+    "おれはここだ！",
+    "早く取れ！　この{SWIRL}{STAR}{LIGHTNING}{SKULL}！"
+   ],
+   "ko": [
+    "나 여기 있다！",
+    "빨리 가져가！　이 {SWIRL}{STAR}{LIGHTNING}{SKULL}놈！"
+   ]
+  },
+  "32": {
+   "en": [
+    "Cool!",
+    "Laughing all the way to the bank."
+   ],
+   "jp": [
+    "やったね！",
+    "笑いが止まんないや"
+   ],
+   "ko": [
+    "해냈다！",
+    "웃음이 안 멈추네"
+   ]
+  },
+  "33": {
+   "en": [
+    "Hey!",
+    " Who's that furry {THROB}{BLUE}{LIGHTNING}{SKULL}{STAR}{SWIRL}{NORMAL}?",
+    "Where?",
+    " I can't see."
+   ],
+   "jp": [
+    "見ろよ！",
+    "あのフワフワで{THROB}{BLUE}{LIGHTNING}{SKULL}{STAR}{SWIRL}{NORMAL}なヤツ誰だ？",
+    "どこだ？",
+    "見えない"
+   ],
+   "ko": [
+    "봐봐！",
+    "저 복슬복슬하고 {THROB}{BLUE}{LIGHTNING}{SKULL}{STAR}{SWIRL}{NORMAL}인 놈은 누구지?",
+    "어디야?",
+    "안 보여"
+   ]
+  },
+  "34": {
+   "en": [
+    "Oh! For {THROB}{RED}{LIGHTNING}{STAR}{SWIRL}{SKULL}{NORMAL} sake."
+   ],
+   "jp": [
+    "まったく！　{THROB}{RED}{LIGHTNING}{STAR}{SWIRL}{SKULL}{NORMAL}だ"
+   ],
+   "ko": [
+    "정말이지！　{THROB}{RED}{LIGHTNING}{STAR}{SWIRL}{SKULL}{NORMAL}다"
+   ]
+  },
+  "35": {
+   "en": [
+    "Yeah, go on!",
+    " Get t'other one on."
+   ],
+   "jp": [
+    "いいぞ！",
+    "あとひとつだ"
+   ],
+   "ko": [
+    "좋아！",
+    "하나 남았다"
+   ]
+  },
+  "36": {
+   "en": [
+    "{THROB}{BLUE}{LIGHTNING}{BLUE}{STAR}{BLUE}{SWIRL}{BLUE}{SKULL}{NORMAL} Off!"
+   ],
+   "jp": [
+    "この{THROB}{BLUE}{LIGHTNING}{BLUE}{STAR}{BLUE}{SWIRL}{BLUE}{SKULL}{NORMAL}野郎！"
+   ],
+   "ko": [
+    "이 {THROB}{BLUE}{LIGHTNING}{BLUE}{STAR}{BLUE}{SWIRL}{BLUE}{SKULL}{NORMAL}놈！"
+   ]
+  },
+  "37": {
+   "en": [
+    "Thanks, {THROB}{RED}{LIGHTNING}{RED}{SKULL}{RED}{STAR}{RED}{SWIRL}{NORMAL} head!",
+    "Now go on, {THROB}{RED}{LIGHTNING}{RED}{SKULL}{RED}{STAR}{RED}{SWIRL}{NORMAL}off with ya!"
+   ],
+   "jp": [
+    "ありがとよ　{THROB}{RED}{LIGHTNING}{RED}{SKULL}{RED}{STAR}{RED}{SWIRL}{NORMAL}！",
+    "じゃあな...　{THROB}{RED}{LIGHTNING}{RED}{SKULL}{RED}{STAR}{RED}{SWIRL}{NORMAL}！"
+   ],
+   "ko": [
+    "고맙다　{THROB}{RED}{LIGHTNING}{RED}{SKULL}{RED}{STAR}{RED}{SWIRL}{NORMAL}！",
+    "그럼...　{THROB}{RED}{LIGHTNING}{RED}{SKULL}{RED}{STAR}{RED}{SWIRL}{NORMAL}！"
+   ]
+  }
+ }
+}

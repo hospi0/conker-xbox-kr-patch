@@ -1,0 +1,584 @@
+{
+ "scene": "TrainingLevel",
+ "n": 31,
+ "entries": {
+  "0": {
+   "en": [
+    "A frying pan."
+   ],
+   "jp": [
+    "フライパンとは..."
+   ],
+   "ko": [
+    "프라이팬이라니..."
+   ]
+  },
+  "1": {
+   "en": [
+    "You stupid little t{RED}{SKULL}{STAR}{RED}{SWIRL}!"
+   ],
+   "jp": [
+    "おろかな{RED}{SKULL}{STAR}{RED}{SWIRL}め！"
+   ],
+   "ko": [
+    "어리석은 {RED}{SKULL}{STAR}{RED}{SWIRL}놈！"
+   ]
+  },
+  "2": {
+   "en": [
+    "Hmm.  Wasn't he meant to fall off here?"
+   ],
+   "jp": [
+    "あれ？\n落っこちないな？"
+   ],
+   "ko": [
+    "어라?\n안 떨어지네?"
+   ]
+  },
+  "3": {
+   "en": [
+    "Hey, weren't you meant to fall off here?"
+   ],
+   "jp": [
+    "ねえ...　ここで\n落ちるんじゃなかった？"
+   ],
+   "ko": [
+    "저기...　여기서\n떨어지는 거 아니었나?"
+   ]
+  },
+  "4": {
+   "en": [
+    "Yes.  But the designer thought it wise to change the training level a bit.To fool the audience into thinking that the rest of the game, would also be different.I'm afraid you'll have to try something else."
+   ],
+   "jp": [
+    "ああ... たしかに前のときはここで落ちたな だが...　プログラマーだって ナメられんように 工夫してるんだ！ ほかの手を試してみろ"
+   ],
+   "ko": [
+    "아... 확실히 지난번엔 여기서 떨어졌지 근데...　프로그래머도 무시당하지 않으려고 뭔가 손을 썼나 봐！ 다른 방법을 써봐"
+   ]
+  },
+  "5": {
+   "en": [
+    "Hmm.  Well. Lucky I brought this as well then!"
+   ],
+   "jp": [
+    "なるほどね...\nじゃあ... コレも持ってきたのは\nラッキーだったな！"
+   ],
+   "ko": [
+    "그렇군...\n그럼... 이것도 챙겨온 게\n운이 좋았네！"
+   ]
+  },
+  "6": {
+   "en": [
+    "Ouch"
+   ],
+   "jp": [
+    "イテテ"
+   ],
+   "ko": [
+    "아야야"
+   ]
+  },
+  "7": {
+   "en": [
+    "Ah, who's this guy?",
+    "If you think you're coming this way...",
+    "You can think again!",
+    "You're a real charmer.",
+    "I just wanna get past, please.",
+    "No!",
+    "I don't think so.",
+    "I've only just got comfy.",
+    "Have you ever sat on a piece",
+    "of gothic architecture",
+    "for two hundred years?",
+    "Gets right up your arse, you know.",
+    "Thought it was about time",
+    "to move onto a bridge, say,",
+    "and I'm not moving now."
+   ],
+   "jp": [
+    "誰だこいつ？",
+    "ここを通りたいのか？",
+    "\n考え直すんだな",
+    "ご親切にどうも...",
+    "ちょっと通してよ",
+    "ダメだ！　許さん！",
+    "ここに",
+    "落ち着いたばかりなんだ",
+    "お前にわかるか？",
+    "ゴシック建築の上に",
+    "２００年だぞ！",
+    "ケツを動かしたくもなるわ",
+    "理由はどうあれ",
+    "しばらくは",
+    "この橋から動かんぞ"
+   ],
+   "ko": [
+    "이건 또 뭐야?",
+    "여길 지나가고 싶은가?",
+    "\n다시 생각해봐라",
+    "친절도 하셔라...",
+    "좀 지나갈게",
+    "안 된다！　용납 못 해！",
+    "여기",
+    "막 자리 잡았거든",
+    "네가 알겠냐?",
+    "고딕 건축 위에",
+    "２００년이라고！",
+    "엉덩이를 움직이고 싶어지지",
+    "이유가 뭐든",
+    "당분간은",
+    "이 다리에서 안 비킨다"
+   ]
+  },
+  "8": {
+   "en": [
+    "Isn't it a little early in the day",
+    "to start talking about gothic architecture?",
+    "Well, if you care to come a bit closer,",
+    "we can discuss things of another nature."
+   ],
+   "jp": [
+    "朝っぱらから",
+    "小難しい話すんなよ",
+    "もう少し近くへ来れば",
+    " 別の話ができるがな"
+   ],
+   "ko": [
+    "아침부터",
+    "어려운 얘기 하지 마",
+    "좀 더 가까이 오면",
+    " 다른 얘기를 할 수 있겠지만"
+   ]
+  },
+  "9": {
+   "en": [
+    "Seems to be another one of those {BLUE} buttons!",
+    "Wonder what this one does?"
+   ],
+   "jp": [
+    "これも　{BLUE}　ボタンみたいだな",
+    "これは何ができるんだ？"
+   ],
+   "ko": [
+    "이것도　{BLUE}　버튼 같은데",
+    "이건 뭘 할 수 있지?"
+   ]
+  },
+  "10": {
+   "en": [
+    "Really nice helium!"
+   ],
+   "jp": [
+    "いいヘリウムだ！"
+   ],
+   "ko": [
+    "좋은 헬륨이다！"
+   ]
+  },
+  "11": {
+   "en": [
+    "Ah, don't mind if I do.",
+    "Thank you very much.",
+    ""
+   ],
+   "jp": [
+    "悪いがいただくくぞ",
+    "ありがとよ",
+    ""
+   ],
+   "ko": [
+    "미안하지만 가져가겠다",
+    "고맙수",
+    ""
+   ]
+  },
+  "12": {
+   "en": [
+    "Aah, I'm going to go to bed now!",
+    "Night-night."
+   ],
+   "jp": [
+    "おれはもう寝る！",
+    "おやすみ"
+   ],
+   "ko": [
+    "난 이제 잔다！",
+    "잘 자"
+   ]
+  },
+  "13": {
+   "en": [
+    "Uh, who are you?",
+    "Hello,",
+    "can you help me?",
+    "I need to get home and go to bed,",
+    "'cause I don't feel very well at all.",
+    "Er...",
+    "Home? No!",
+    "So you can't help me at all.",
+    "Eh actually, yes I can, maybe!",
+    "Ok, what's your name?",
+    "Birdy.",
+    "Beardy,",
+    "But, but you haven't got a beard!",
+    "No, birdy ,",
+    "I scare birdies!"
+   ],
+   "jp": [
+    "お前さん 誰だ？",
+    "こんちは",
+    "ちょっと助けてよ",
+    "うちに帰って寝たいんだ",
+    "メチャ気分悪くてさ",
+    "ああ...",
+    "お前さんの家？　知らん",
+    "聞くんじゃなかった",
+    "いやいや 助けになるぞ！",
+    "おっさん 名前は？",
+    "バーディさ",
+    "ベアディ？",
+    "クマには見えないけど",
+    "ベアーじゃねえ バーディだ",
+    "トリもビックリよ！"
+   ],
+   "ko": [
+    "당신 누구요?",
+    "안녕하쇼",
+    "좀 도와줘",
+    "집에 가서 자고 싶어",
+    "완전 기분이 안 좋아서",
+    "아아...",
+    "당신 집?　모르는데",
+    "묻는 게 아니었는데",
+    "아니야 도움이 될 거야！",
+    "아저씨 이름이 뭐야?",
+    "버디라네",
+    "베어디?",
+    "곰처럼 안 보이는데",
+    "베어가 아니라 버디라니까",
+    "새도 깜짝 놀라겠네！"
+   ]
+  },
+  "14": {
+   "en": [
+    "Okay, birdy,",
+    "so, how can you help me?",
+    "Right,",
+    "step over here! "
+   ],
+   "jp": [
+    "じゃあ　バーディ",
+    "おれ　どうすりゃいいの？",
+    "そうじゃな",
+    "まあ そこに立ちな"
+   ],
+   "ko": [
+    "그럼　버디",
+    "나　어떡하면 돼?",
+    "글쎄다",
+    "일단 거기 서봐"
+   ]
+  },
+  "15": {
+   "en": [
+    "You see those buttons...",
+    "Actually, you'll find that eh,",
+    "eh, they're called context sensitive.",
+    "And eh, well, actually, they eh,",
+    "Press {B}"
+   ],
+   "jp": [
+    "ボタンがあるじゃろ",
+    "いいか...　これはな",
+    "状況対応ボタンじゃ",
+    "何ができるか教えてやる",
+    "{B}　を押してみな"
+   ],
+   "ko": [
+    "버튼이 있잖나",
+    "잘 듣게...　이건 말이야",
+    "상황 대응 버튼이라네",
+    "뭘 할 수 있는지 알려주지",
+    "{B}　를 눌러봐"
+   ]
+  },
+  "16": {
+   "en": [
+    "Press {B}",
+    "oh yeh,",
+    "the light comes on,",
+    "and it makes this noise,",
+    "ting!",
+    "Ting noise...",
+    "There you go,",
+    "ting...",
+    "That's it.",
+    "That's it?",
+    "Yeh.",
+    "Okay, I'll press {B}"
+   ],
+   "jp": [
+    "{B}　ね",
+    "そうじゃ",
+    "電球がつく",
+    "...で　音がする",
+    "リン！",
+    "ベルが鳴る",
+    "リン！ ほらな",
+    "リン！",
+    "わかったか？",
+    "それだけ？",
+    "ああ",
+    "わかった　{B}　ね"
+   ],
+   "ko": [
+    "{B}　말이지",
+    "그렇다네",
+    "전구가 켜지고",
+    "...그리고　소리가 나지",
+    "딸랑！",
+    "종이 울린다",
+    "딸랑！ 봤지",
+    "딸랑！",
+    "알겠나?",
+    "그게 다야?",
+    "아",
+    "알았어　{B}　말이지"
+   ]
+  },
+  "17": {
+   "en": [
+    "I don't mind if I do!"
+   ],
+   "jp": [
+    "いただくぞ！"
+   ],
+   "ko": [
+    "받아가겠다！"
+   ]
+  },
+  "18": {
+   "en": [
+    "So, what does that mean?",
+    "It means context sensitive...",
+    "It's sensitive to context!",
+    "Try it over there.",
+    "Okay.",
+    "Or you could try it again!"
+   ],
+   "jp": [
+    "...で　これどういう意味？",
+    "そのまんまの意味じゃが",
+    "状況に対応するんじゃ",
+    "あっちで試してみな",
+    "わかった",
+    "もういちど\nここで試してもいいぞ"
+   ],
+   "ko": [
+    "...근데　이게 무슨 뜻이야?",
+    "말 그대로의 뜻이지만",
+    "상황에 대응하는 거라네",
+    "저기서 시험해봐",
+    "알겠네",
+    "다시 한번\n여기서 시험해도 좋다"
+   ]
+  },
+  "19": {
+   "en": [
+    "Really nice helium!"
+   ],
+   "jp": [
+    "いいヘリウムだ！"
+   ],
+   "ko": [
+    "좋은 헬륨이다！"
+   ]
+  },
+  "20": {
+   "en": [
+    "Ah, don't mind if I do.",
+    "Thank you very much."
+   ],
+   "jp": [
+    "悪いがいただくぞ",
+    "ありがとよ"
+   ],
+   "ko": [
+    "미안하지만 가져가겠다",
+    "고맙수"
+   ]
+  },
+  "21": {
+   "en": [
+    "Aah, I'm going to go to bed now!",
+    "Night-night."
+   ],
+   "jp": [
+    "おれはもう寝る！",
+    "おやすみ"
+   ],
+   "ko": [
+    "난 이제 잔다！",
+    "잘 자"
+   ]
+  },
+  "22": {
+   "en": [
+    "Wow, just what i needed.",
+    "In fact, it would seem to me,",
+    "that these give me just what i need,",
+    "at that moment in time!",
+    "Oh, I see what he means,",
+    "context sensitive.",
+    "Clever!",
+    "And I feel loads better!",
+    "Right, let's get outta here!"
+   ],
+   "jp": [
+    "コイツが欲しかったんだ",
+    "わかってきたぞ",
+    "必要なものが出るんだ",
+    "今いちばん必要なものが",
+    "こういうことだったんだ",
+    "状況対応ね",
+    "頭いい！",
+    "気分スッキリ！",
+    "ここから出よう！"
+   ],
+   "ko": [
+    "이게 갖고 싶었어",
+    "알 것 같아",
+    "필요한 게 나오는구나",
+    "지금 가장 필요한 게",
+    "이런 거였구나",
+    "상황 대응이라",
+    "머리 좋네！",
+    "속이 시원해！",
+    "여기서 나가자！"
+   ]
+  },
+  "23": {
+   "en": [
+    "Oh, and by the way,",
+    "if for whatever reason you wanna skip",
+    "all these wonderful cutscenes,",
+    "then just pull the {L} trigger.",
+    "But you will have to have watched them",
+    "at least once."
+   ],
+   "jp": [
+    "もし...",
+    "こういうムービーを",
+    "とばしたければ",
+    "{L}　を引くんだ",
+    "でも　１　回目だけは",
+    "とばせないぜ"
+   ],
+   "ko": [
+    "혹시...",
+    "이런 무비를",
+    "건너뛰고 싶으면",
+    "{L}　을 당겨",
+    "근데　첫　번째만은",
+    "못 건너뛰어"
+   ]
+  },
+  "24": {
+   "en": [
+    "So, you want some green stuff?"
+   ],
+   "jp": [
+    "おれ様が欲しいのか？"
+   ],
+   "ko": [
+    "나님을 원하는 거냐?"
+   ]
+  },
+  "25": {
+   "en": [
+    "Yeh! Cash prizes."
+   ],
+   "jp": [
+    "やった！　現ナマサイコー！"
+   ],
+   "ko": [
+    "됐다！　현금 최고！"
+   ]
+  },
+  "26": {
+   "en": [
+    "Hey Mr Designer! No more surprises please."
+   ],
+   "jp": [
+    "おい　プログラマー！\nビックリさせるなよな"
+   ],
+   "ko": [
+    "야　프로그래머！\n놀라게 하지 좀 마"
+   ]
+  },
+  "27": {
+   "en": [
+    "Another string"
+   ],
+   "jp": [
+    "Another string"
+   ],
+   "ko": [
+    "Another string"
+   ]
+  },
+  "28": {
+   "en": [
+    "Yet another string"
+   ],
+   "jp": [
+    "Yet another string"
+   ],
+   "ko": [
+    "Yet another string"
+   ]
+  },
+  "29": {
+   "en": [
+    "Oh no!",
+    "It's gonna be",
+    "one of those days."
+   ],
+   "jp": [
+    "ああ...",
+    "まいったな",
+    "ここどこだ？"
+   ],
+   "ko": [
+    "아아...",
+    "이거 참",
+    "여기가 어디지?"
+   ]
+  },
+  "30": {
+   "en": [
+    "Plunger, with dynamite.",
+    "I think I know what's gonna happen now.",
+    "Whoa, yep, fantastic!",
+    "Let's go and get some shuteye,",
+    "finally!"
+   ],
+   "jp": [
+    "スイッチとダイナマイト",
+    "もうわかったぞ",
+    "やった！　サイコーだね",
+    "さっさと帰って寝よう",
+    "やれやれだ"
+   ],
+   "ko": [
+    "스위치랑 다이너마이트",
+    "이제 알겠다",
+    "됐다！　최고네",
+    "얼른 돌아가서 자자",
+    "이거 참"
+   ]
+  }
+ }
+}

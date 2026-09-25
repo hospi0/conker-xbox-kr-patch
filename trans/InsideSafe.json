@@ -1,0 +1,79 @@
+{
+ "scene": "InsideSafe",
+ "n": 5,
+ "entries": {
+  "0": {
+   "en": [
+    "Who the hell are you?",
+    "You ain't my boss.",
+    "I'm outta here.",
+    "I'm swimming with the fish."
+   ],
+   "jp": [
+    "誰だよお前？",
+    "えらそうに何だ",
+    "やってられっか",
+    "魚と泳ぐんだ！"
+   ],
+   "ko": [
+    "너 누구야?",
+    "잘난 척은",
+    "못 해먹겠네",
+    "물고기랑 헤엄쳐！"
+   ]
+  },
+  "1": {
+   "en": [
+    "This gig gets worse and worse by the minute."
+   ],
+   "jp": [
+    "めんどくさくなる一方だ"
+   ],
+   "ko": [
+    "귀찮아지기만 하네"
+   ]
+  },
+  "2": {
+   "en": [
+    "So, you want some green stuff?"
+   ],
+   "jp": [
+    "おれ様が欲しいのか？"
+   ],
+   "ko": [
+    "나님을 원하는 거냐?"
+   ]
+  },
+  "3": {
+   "en": [
+    "Yeh! Cash prizes."
+   ],
+   "jp": [
+    "やった！　現ナマサイコー！"
+   ],
+   "ko": [
+    "됐다！　현금 최고！"
+   ]
+  },
+  "4": {
+   "en": [
+    "Hello!",
+    "Hello!",
+    "Money!",
+    "Money!"
+   ],
+   "jp": [
+    "こんちは！",
+    "もしもーし！",
+    "現ナマちゃん！",
+    "おーい！"
+   ],
+   "ko": [
+    "안녕！",
+    "여보세ー요！",
+    "현금이다！",
+    "어이ー！"
+   ]
+  }
+ }
+}

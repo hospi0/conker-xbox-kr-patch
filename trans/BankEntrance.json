@@ -1,0 +1,366 @@
+{
+ "scene": "BankEntrance",
+ "n": 24,
+ "entries": {
+  "0": {
+   "en": [
+    "Is it safe, I wonder?"
+   ],
+   "jp": [
+    "ヤバそうだな"
+   ],
+   "ko": [
+    "위험해 보이는데"
+   ]
+  },
+  "1": {
+   "en": [
+    "Let's find out."
+   ],
+   "jp": [
+    "行ってみよ"
+   ],
+   "ko": [
+    "가봐야지"
+   ]
+  },
+  "2": {
+   "en": [
+    "I think it's about to..."
+   ],
+   "jp": [
+    "もしかして..."
+   ],
+   "ko": [
+    "혹시..."
+   ]
+  },
+  "3": {
+   "en": [
+    "Ah heck!",
+    "Doesn't look like i'm going that way just yet."
+   ],
+   "jp": [
+    "クソッ！",
+    "\nやっぱやめとこう"
+   ],
+   "ko": [
+    "젠장！",
+    "\n역시 관두자"
+   ]
+  },
+  "4": {
+   "en": [
+    "Whoa!"
+   ],
+   "jp": [
+    "お前！"
+   ],
+   "ko": [
+    "너！"
+   ]
+  },
+  "5": {
+   "en": [
+    "I thought i told you",
+    "to leave town.",
+    "But seein' as you're here,",
+    "anyways,",
+    "we have a little job for you!"
+   ],
+   "jp": [
+    "町を出ろと",
+    "言ったはずだが",
+    "ここにいるなら",
+    "ちょうどいい",
+    "もうひと仕事してもらおう"
+   ],
+   "ko": [
+    "마을을 떠나라고",
+    "말했을 텐데",
+    "여기 있다면",
+    "딱 좋네",
+    "일 하나 더 해줘야겠다"
+   ]
+  },
+  "6": {
+   "en": [
+    "Yeah, that's right.",
+    "I'm her boyfriend."
+   ],
+   "jp": [
+    "そうそう",
+    "おれの彼女だぜ"
+   ],
+   "ko": [
+    "그러고 보니",
+    "내 여자친구다"
+   ]
+  },
+  "7": {
+   "en": [
+    "Am I interrupting something here?",
+    "When you two little lovebirds",
+    "are finished with your",
+    "reunion tête-a-tête {SWIRL}{STAR}{LIGHTNING}{SKULL},",
+    "maybe we can get on with",
+    "the job in hand, please."
+   ],
+   "jp": [
+    "ジャマして悪いが...",
+    "お前たちの",
+    "おアツい再会",
+    "{SWIRL}{STAR}{LIGHTNING}{SKULL}がすんだら",
+    "仕事の話に",
+    "戻りたいんだがな"
+   ],
+   "ko": [
+    "방해해서 미안하지만...",
+    "너희들의",
+    "뜨거운 재회가",
+    "{SWIRL}{STAR}{LIGHTNING}{SKULL}가 끝나면",
+    "일 얘기로",
+    "돌아가고 싶은데 말이야"
+   ]
+  },
+  "8": {
+   "en": [
+    "Okay, okay,",
+    "Whaddya want us to do?"
+   ],
+   "jp": [
+    "わかったよ",
+    "何をするんだ？"
+   ],
+   "ko": [
+    "알았어",
+    "뭘 하려는 거지?"
+   ]
+  },
+  "9": {
+   "en": [
+    "Okay, since your little",
+    "escapades with those cavemen",
+    "kinda put me outta business,",
+    "now I need to replenish my funds.",
+    "Here we have it,",
+    "the feral reserve bank!"
+   ],
+   "jp": [
+    "あの爆弾がらみの",
+    "ゴタゴタのせいで",
+    "仕事に支障が出た",
+    "それで資金を調達したい",
+    "目の前の",
+    "この連邦準備銀行からな！"
+   ],
+   "ko": [
+    "그 폭탄 관련",
+    "소동 때문에",
+    "일에 지장이 생겼다",
+    "그래서 자금을 조달하고 싶다",
+    "눈앞의",
+    "이 연방준비은행에서 말이야！"
+   ]
+  },
+  "10": {
+   "en": [
+    "Okay,",
+    "but I'll do it",
+    "on one condition only."
+   ],
+   "jp": [
+    "わかった...\n",
+    "だけどひとつだけ",
+    "条件がある"
+   ],
+   "ko": [
+    "알았어...\n",
+    "근데 한 가지",
+    "조건이 있다"
+   ]
+  },
+  "11": {
+   "en": [
+    "What? "
+   ],
+   "jp": [
+    "何だ？"
+   ],
+   "ko": [
+    "뭐지?"
+   ]
+  },
+  "12": {
+   "en": [
+    "That I get an outfit",
+    "that's as cool as hers!"
+   ],
+   "jp": [
+    "服をくれ！",
+    "ベリーのくらい\nカッコいいヤツ"
+   ],
+   "ko": [
+    "옷을 줘！",
+    "베리 것만큼\n멋진 걸로"
+   ]
+  },
+  "13": {
+   "en": [
+    "Deal!"
+   ],
+   "jp": [
+    "いいだろう"
+   ],
+   "ko": [
+    "좋다"
+   ]
+  },
+  "14": {
+   "en": [
+    "Oh, not another one.",
+    "Can't I just go home, please?"
+   ],
+   "jp": [
+    "カンベンしてよ\n",
+    "家に帰らせてくれ"
+   ],
+   "ko": [
+    "제발 봐줘\n",
+    "집에 가게 해줘"
+   ]
+  },
+  "15": {
+   "en": [
+    "I said,",
+    "we may have",
+    "a little job.",
+    "Take it,",
+    "or leave it."
+   ],
+   "jp": [
+    "おれは",
+    "仕事を頼むと",
+    "言ったんだが",
+    "まさか",
+    "聞こえなかったのか？"
+   ],
+   "ko": [
+    "나는",
+    "일을 부탁한다고",
+    "말했는데",
+    "설마",
+    "못 들었나?"
+   ]
+  },
+  "16": {
+   "en": [
+    "Okay,",
+    "I'll take it!"
+   ],
+   "jp": [
+    "わかったよ",
+    "やるってば"
+   ],
+   "ko": [
+    "알았어",
+    "한다니까"
+   ]
+  },
+  "17": {
+   "en": [
+    "These pants are so uncomfortable!"
+   ],
+   "jp": [
+    "この服　着ごこち悪いわ！"
+   ],
+   "ko": [
+    "이 옷　입기 불편해！"
+   ]
+  },
+  "18": {
+   "en": [
+    "Oh, fancy meeting you here."
+   ],
+   "jp": [
+    "意外なとこで会うわね"
+   ],
+   "ko": [
+    "의외의 장소에서 만나네"
+   ]
+  },
+  "19": {
+   "en": [
+    "Berri!",
+    "You look great."
+   ],
+   "jp": [
+    "ベリー！",
+    "カッコいい"
+   ],
+   "ko": [
+    "베리！",
+    "멋있어"
+   ]
+  },
+  "20": {
+   "en": [
+    "Really! "
+   ],
+   "jp": [
+    "あら　そう？"
+   ],
+   "ko": [
+    "어머　그래?"
+   ]
+  },
+  "21": {
+   "en": [
+    "I thought you said",
+    "you didn't know this guy?"
+   ],
+   "jp": [
+    "お前　こいつを",
+    "知らんと言ってたろ"
+   ],
+   "ko": [
+    "너　이놈을",
+    "모른다고 했잖아"
+   ]
+  },
+  "22": {
+   "en": [
+    "Oh yeah, i know him.",
+    "He's like my boyfriend!"
+   ],
+   "jp": [
+    "そんなこと言ったかしら？\n",
+    "あたしの彼よ"
+   ],
+   "ko": [
+    "그런 말을 했던가?\n",
+    "내 남자친구야"
+   ]
+  },
+  "23": {
+   "en": [
+    "Hmmm,",
+    "Get the impression somebody doesn't want me to be here.",
+    "Certainly don't want me to go that way.",
+    "Mmm, I think I'll go that way."
+   ],
+   "jp": [
+    "うーん",
+    "すごいイヤな感じ....",
+    "近づくなってことだな",
+    "とりあえず行ってみるか"
+   ],
+   "ko": [
+    "으음",
+    "정말 불길한 느낌이야....",
+    "가까이 오지 말라는 거군",
+    "일단 가볼까"
+   ]
+  }
+ }
+}

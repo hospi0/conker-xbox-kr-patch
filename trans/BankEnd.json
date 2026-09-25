@@ -1,0 +1,34 @@
+{
+ "scene": "BankEnd",
+ "n": 2,
+ "entries": {
+  "0": {
+   "en": [
+    "Yeh! You're one in a million.",
+    "Speaking of which..."
+   ],
+   "jp": [
+    "すごい才能だ",
+    "ほれ直したよ"
+   ],
+   "ko": [
+    "대단한 재능이야",
+    "다시 반했어"
+   ]
+  },
+  "1": {
+   "en": [
+    "Give me a break.",
+    "Don't worry. It's in hand, ok!"
+   ],
+   "jp": [
+    "こりゃダメだ",
+    "心配ないわ　あたしにまかせて"
+   ],
+   "ko": [
+    "이건 안 되겠어",
+    "걱정 마　내게 맡겨"
+   ]
+  }
+ }
+}

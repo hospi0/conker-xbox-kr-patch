@@ -1,0 +1,317 @@
+{
+ "scene": "HorrorIntro",
+ "n": 16,
+ "entries": {
+  "0": {
+   "en": [
+    "Aaah!",
+    " Missed the little {RED}{SKULL}{SWIRL}{LIGHTNING}{STAR}{SWIRL}{LIGHTNING}{STAR}{NORMAL} again.",
+    " I've got your number, mate.",
+    " It's down to two for you.",
+    " Aah, there's a oner.",
+    " Not long for you now,",
+    "you little prick!"
+   ],
+   "jp": [
+    "ああ！　また",
+    "{RED}{SKULL}{SWIRL}{LIGHTNING}{STAR}{SWIRL}{LIGHTNING}{STAR}{NORMAL}を やりそこねた",
+    "バカにしおって",
+    "どいつもこいつも",
+    "まとめて",
+    "片付けてやる！",
+    "このタマなしめ！"
+   ],
+   "ko": [
+    "아！　또",
+    "{RED}{SKULL}{SWIRL}{LIGHTNING}{STAR}{SWIRL}{LIGHTNING}{STAR}{NORMAL}를 놓쳤다",
+    "무시하다니",
+    "이놈이고 저놈이고",
+    "한꺼번에",
+    "정리해주마！",
+    "이 겁쟁이 놈！"
+   ]
+  },
+  "1": {
+   "en": [
+    "Hmmm. A shotgun, yeah!",
+    " I don't like the sound of zombies, though.",
+    " Still, if it gets on his nerves,",
+    "then that's alright by me.",
+    " And what was that about ancestor?",
+    " Undead ancestor!",
+    " Well, if he's undead, then technically,",
+    "that makes him kinda dead.",
+    " Which means I should get the inheritance.",
+    " I mean, how bad can a handful of dead people be?",
+    " They're dead!",
+    " Well, undead.",
+    "Hmmm. Now let's see, shotgun.",
+    " I think it's one of those",
+    "{B} pressing moments,",
+    "don't you?"
+   ],
+   "jp": [
+    "ショットガンか...　いいね！",
+    "要するに\nヤツらはゾンビってことだから",
+    "怒らせたって",
+    "平気だろ",
+    "何て呼んでたっけ？",
+    "そう　アンデッドだ！",
+    "アンデッドっていうからには",
+    "生きてもないわけで",
+    "当然　遺産はおれのもの！",
+    "どうせ",
+    "何もできやしない",
+    "死んでんだから！",
+    "ショットガンね",
+    "これを使うには",
+    "{B}　を押すんだぞ",
+    "いいな？"
+   ],
+   "ko": [
+    "샷건인가...　좋은데！",
+    "요컨대\n그놈들은 좀비란 거니까",
+    "화나게 해도",
+    "괜찮겠지",
+    "뭐라고 불렀더라?",
+    "맞아　언데드다！",
+    "언데드라고 하는 이상",
+    "살아 있지도 않은 거니까",
+    "당연히　유산은 내 거！",
+    "어차피",
+    "아무것도 못 하겠지",
+    "죽었으니까！",
+    "샷건이라",
+    "이걸 쓰려면",
+    "{B}　를 눌러라",
+    "알겠나?"
+   ]
+  },
+  "2": {
+   "en": [
+    "Let's go!"
+   ],
+   "jp": [
+    "行くぞ！"
+   ],
+   "ko": [
+    "간다！"
+   ]
+  },
+  "3": {
+   "en": [
+    "Ah! Not bad, I suppose.",
+    " That's another twelve souls.",
+    " Right, come on! "
+   ],
+   "jp": [
+    "なかなかいいぞ",
+    "ここには１２の魂がいる",
+    "さあ行け！"
+   ],
+   "ko": [
+    "제법 좋은데",
+    "여긴 12개의 영혼이 있다",
+    "자 가라！"
+   ]
+  },
+  "4": {
+   "en": [
+    "In you go!",
+    " And I think you'll find that",
+    "you're the one that'll be needing a will.",
+    " Inheritance, pah!"
+   ],
+   "jp": [
+    "行け！",
+    "お前はきっと",
+    "後悔するだろうよ",
+    "遺産なんて！ バカめ"
+   ],
+   "ko": [
+    "가라！",
+    "너는 분명",
+    "후회할 거다",
+    "유산이라니！ 바보 같으니"
+   ]
+  },
+  "5": {
+   "en": [
+    "Oh! you again!"
+   ],
+   "jp": [
+    "またお前か！"
+   ],
+   "ko": [
+    "또 너냐！"
+   ]
+  },
+  "6": {
+   "en": [
+    "Why don't you piss off?"
+   ],
+   "jp": [
+    "この忙しいのに！"
+   ],
+   "ko": [
+    "이 바쁜 와중에！"
+   ]
+  },
+  "7": {
+   "en": [
+    "Can't you see i'm busy?",
+    " I suppose you want to",
+    "go up there now, do you?",
+    " Where there's lots of money, no doubt."
+   ],
+   "jp": [
+    "とっとと出てけ！ ",
+    "そうか...　お前...",
+    "あそこへ行く気だな",
+    "なにせ大金があるからな"
+   ],
+   "ko": [
+    "얼른 나가！ ",
+    "그렇군...　너...",
+    "저기로 갈 생각이군",
+    "아무튼 큰돈이 있으니까"
+   ]
+  },
+  "8": {
+   "en": [
+    "One of those rich ancestors of yours."
+   ],
+   "jp": [
+    "あそこには\n金持ちなお前の先祖がいる"
+   ],
+   "ko": [
+    "저기엔\n부자인 네 선조가 있다"
+   ]
+  },
+  "9": {
+   "en": [
+    "Bloody undead!",
+    " Unbloody dead!",
+    " I mean, it's even worse than bloody cats.",
+    " Undead!"
+   ],
+   "jp": [
+    "アンデッド...",
+    "\nお前の先祖だよ！",
+    "生死がハッキリせんとは",
+    "何よりたちが悪い！"
+   ],
+   "ko": [
+    "언데드...",
+    "\n네 선조라고！",
+    "생사가 분명치 않다니",
+    "무엇보다 악질이지！"
+   ]
+  },
+  "10": {
+   "en": [
+    "What's the bloody point?"
+   ],
+   "jp": [
+    "まったく！"
+   ],
+   "ko": [
+    "정말이지！"
+   ]
+  },
+  "11": {
+   "en": [
+    "Um. You may be needing a bit of help.",
+    " So I've got this!",
+    " I hate the undead, hate them!",
+    " It's the only thing that kills them.",
+    " Shot through the head.",
+    " Nothing more, nothing less.",
+    " It's better than that pissing baseball bat,",
+    "that's for sure!",
+    " Take it!"
+   ],
+   "jp": [
+    "さては助けが欲しいんだな",
+    " ならこれをやる！",
+    "アンデッドはキライなんだ！",
+    "ヤツらはこれでしか殺せない",
+    "しっかり",
+    "頭をねらえよ",
+    "バットをふりまわすよりマシだ",
+    "そうだろ？",
+    "持ってけ！"
+   ],
+   "ko": [
+    "역시 도움이 필요한 거군",
+    " 그럼 이걸 주지！",
+    "언데드는 싫단 말이야！",
+    "그놈들은 이걸로만 죽일 수 있다",
+    "제대로",
+    "머리를 노려라",
+    "배트를 휘두르는 것보단 낫다",
+    "그렇지?",
+    "가져가！"
+   ]
+  },
+  "12": {
+   "en": [
+    "That's it!"
+   ],
+   "jp": [
+    "それだけだ！"
+   ],
+   "ko": [
+    "그게 다다！"
+   ]
+  },
+  "13": {
+   "en": [
+    "Piss off!"
+   ],
+   "jp": [
+    "出てけ！"
+   ],
+   "ko": [
+    "나가라！"
+   ]
+  },
+  "14": {
+   "en": [
+    "Oh no!",
+    "Guess I'm not going back that way."
+   ],
+   "jp": [
+    "うわ！",
+    "戻るのはやめとこう"
+   ],
+   "ko": [
+    "우왁！",
+    "돌아가는 건 관두자"
+   ]
+  },
+  "15": {
+   "en": [
+    "I don't bloody believe it!",
+    " They've got fish versions",
+    "of the little bastards now.",
+    " Come here!",
+    " I'll show them."
+   ],
+   "jp": [
+    "こんなの認めんぞ！",
+    "今度は魚か",
+    "ザコどもめ！",
+    "こっち来い！",
+    "目にもの見せてやる"
+   ],
+   "ko": [
+    "이런 건 인정 못 해！",
+    "이번엔 물고기냐",
+    "잔챙이 녀석들！",
+    "이리 와라！",
+    "본때를 보여주마"
+   ]
+  }
+ }
+}

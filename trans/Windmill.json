@@ -1,0 +1,1106 @@
+{
+ "scene": "Windmill",
+ "n": 61,
+ "entries": {
+  "0": {
+   "en": [
+    "Cool!",
+    "Laughing all the way to the bank."
+   ],
+   "jp": [
+    "やったね！",
+    "笑いが止まんないや"
+   ],
+   "ko": [
+    "해냈다！",
+    "웃음이 안 멈추네"
+   ]
+  },
+  "1": {
+   "en": [
+    "Cool!",
+    "Laughing all the way to the bank."
+   ],
+   "jp": [
+    "やったね！",
+    "笑いが止まんないや"
+   ],
+   "ko": [
+    "해냈다！",
+    "웃음이 안 멈추네"
+   ]
+  },
+  "2": {
+   "en": [
+    "Just add one stick of tnt..."
+   ],
+   "jp": [
+    "爆薬を入れてっと..."
+   ],
+   "ko": [
+    "폭약을 넣고..."
+   ]
+  },
+  "3": {
+   "en": [
+    "That's blown it!"
+   ],
+   "jp": [
+    "こっぱみじんだ！"
+   ],
+   "ko": [
+    "산산조각이다！"
+   ]
+  },
+  "4": {
+   "en": [
+    "What a stink!",
+    "I think this calls for my gas mask!"
+   ],
+   "jp": [
+    "うわっ！ クッセー！ ",
+    "ガスマスクの出番だ！"
+   ],
+   "ko": [
+    "우왁！ 구려！",
+    "방독면 나설 차례다！"
+   ]
+  },
+  "5": {
+   "en": [
+    "There you go, now what?",
+    "Want to go for a ride?",
+    "Ummm... Not really.",
+    "Not really what?",
+    "A ride.",
+    "A ride, yeh!",
+    "Let's go for a ride."
+   ],
+   "jp": [
+    "これでどうだ",
+    "おれに乗ってみるか？",
+    "やめとくよ",
+    "何をだよ？",
+    "タル乗りをだよ",
+    "そうか　乗りたいか！",
+    "さあ　乗れ！"
+   ],
+   "ko": [
+    "이러면 어떠냐",
+    "나 좀 타볼래?",
+    "관두겠어",
+    "뭘 관둬?",
+    "통 타는 거 말이야",
+    "그래　타고 싶구나！",
+    "자　타라！"
+   ]
+  },
+  "6": {
+   "en": [
+    "Somebody call for me?"
+   ],
+   "jp": [
+    "誰か呼んだ？"
+   ],
+   "ko": [
+    "누가 불렀나?"
+   ]
+  },
+  "7": {
+   "en": [
+    "Who wants some of the dough?"
+   ],
+   "jp": [
+    "現ナマ欲しい人ー！"
+   ],
+   "ko": [
+    "현금 원하는 사람ー！"
+   ]
+  },
+  "8": {
+   "en": [
+    "Yeah!",
+    " Cash prizes."
+   ],
+   "jp": [
+    "やった！",
+    "現ナマサイコー！"
+   ],
+   "ko": [
+    "좋았어！",
+    "현금 최고！"
+   ]
+  },
+  "9": {
+   "en": [
+    "Détends-toi call for me?"
+   ],
+   "jp": [
+    "Dé呼んだ？"
+   ],
+   "ko": [
+    "Dé 불렀나?"
+   ]
+  },
+  "10": {
+   "en": [
+    "àáâäÄçÇèéÉêëíìîï ñÑòóôöÖùúûüÜÿ"
+   ],
+   "jp": [
+    "àáâäÄçÇèéÉêëíìîï ñÑòóôöÖùúûüÜÿ"
+   ],
+   "ko": [
+    "àáâäÄçÇèéÉêëíìîï ñÑòóôöÖùúûüÜÿ"
+   ]
+  },
+  "11": {
+   "en": [
+    "Can't quite make it out...",
+    "Anyway, seems pretty familiar to me!"
+   ],
+   "jp": [
+    "全然わかんないや...",
+    "ん？　なんか見覚えあるな..."
+   ],
+   "ko": [
+    "하나도 모르겠네...",
+    "음?　어디서 본 것 같은데..."
+   ]
+  },
+  "12": {
+   "en": [
+    "Em, this way, i suppose!"
+   ],
+   "jp": [
+    "たぶんこっちだな！"
+   ],
+   "ko": [
+    "아마 이쪽이겠지！"
+   ]
+  },
+  "13": {
+   "en": [
+    "Hello, it's me again...",
+    " Mr. Scarecrow birdy!",
+    " Right, what seems to be the problem?",
+    " Oh yes, you need manual!",
+    " Otherwise no...",
+    " Doesn't work."
+   ],
+   "jp": [
+    "また　お前さんか",
+    "わしじゃよ\nバーディ様を忘れたか",
+    "なんだ困ってるのか？",
+    "そうか\nマニュアルがないんじゃな！",
+    "あれがないとは",
+    "そりゃ いかん"
+   ],
+   "ko": [
+    "또　자넨가",
+    "날세\n버디 님을 잊었나",
+    "뭔가 곤란한가?",
+    "그렇군\n설명서가 없구먼！",
+    "그게 없으면",
+    "그건 안 되지"
+   ]
+  },
+  "14": {
+   "en": [
+    "It'll cost you!",
+    "How much?",
+    "Eh, got any mepsipax?",
+    "What?",
+    "Don't matter.",
+    "Actually eh,",
+    "I think eh,",
+    "well em, ten dollars...",
+    " Long time,",
+    "you love manual long time!"
+   ],
+   "jp": [
+    "売ってやろう！",
+    "いくら？",
+    "メプシパックスあるか？",
+    "は？",
+    "気にするな",
+    "それじゃ...　そうじゃな",
+    "よーし　１０ドルでどうじゃ",
+    "お得だぞ",
+    "ずっと使えるしな！",
+    ""
+   ],
+   "ko": [
+    "팔아주지！",
+    "얼마?",
+    "멥시팍스 있나?",
+    "뭐?",
+    "신경 쓰지 마",
+    "그럼...　글쎄다",
+    "좋아　１０달러 어떤가",
+    "싸게 주는 거네",
+    "평생 쓰는 거고！",
+    ""
+   ]
+  },
+  "15": {
+   "en": [
+    "Here ya go."
+   ],
+   "jp": [
+    "はい １０ドル"
+   ],
+   "ko": [
+    "여기 １０달러"
+   ]
+  },
+  "16": {
+   "en": [
+    "Here ya go,",
+    "manual,",
+    "just press {B}"
+   ],
+   "jp": [
+    "よーし",
+    "やるよ",
+    "{B}　を押しな"
+   ],
+   "ko": [
+    "좋았어",
+    "받게",
+    "{B}　를 누르게"
+   ]
+  },
+  "17": {
+   "en": [
+    "Oh, ugh, ah!",
+    " Get me outta here.",
+    " Hey you, come here,",
+    "come on,",
+    "I wanna go back in there.",
+    " Hurry up!"
+   ],
+   "jp": [
+    "うわっ　何だよ！",
+    "こっから出せ！",
+    "おい 助けてくれ",
+    "ちょっと！",
+    "あっちがいい",
+    "逃げろ！"
+   ],
+   "ko": [
+    "우왁　뭐야！",
+    "여기서 꺼내줘！",
+    "야 좀 도와줘",
+    "잠깐！",
+    "저쪽이 좋아",
+    "도망쳐！"
+   ]
+  },
+  "18": {
+   "en": [
+    "Okay, suits me!",
+    " Yeah, cash."
+   ],
+   "jp": [
+    "いいぜ　戻ってきな！",
+    "\n現ナマちゃん！"
+   ],
+   "ko": [
+    "좋아　돌아와라！",
+    "\n현금이다！"
+   ]
+  },
+  "19": {
+   "en": [
+    "Ah, who are those guys?",
+    "Oh! Hello.",
+    "Ummm... And what do you do then?",
+    "Mmmm...",
+    "It'll cost you.",
+    "Oh, how much?",
+    "A lot!",
+    "Come back when you've got more money.",
+    "Go on... On your bike."
+   ],
+   "jp": [
+    "あいつら 何なんだ？",
+    "こんちは",
+    "あんた何してんの？",
+    "んん...",
+    "金を払えば話す",
+    "いくら欲しいのさ",
+    "たくさんだ！",
+    "もっと金持って来い",
+    "とっとと失せろ"
+   ],
+   "ko": [
+    "저놈들 뭐야?",
+    "안녕하쇼",
+    "당신 뭐 하는 사람이야?",
+    "으음...",
+    "돈을 내면 말해주지",
+    "얼마나 원하는데",
+    "아주 많이！",
+    "돈 더 갖고 와",
+    "얼른 꺼져"
+   ]
+  },
+  "20": {
+   "en": [
+    "They are evil beyond reproach.",
+    "Where they have come from i do not know.",
+    "We need to send them back to",
+    "wherever it was they came from.",
+    "We need you, soldier!",
+    "Yes...",
+    "... You!",
+    "Sign up at your nearest signing-up station.",
+    "Should be one near you.",
+    "But remember, soldier,",
+    "Your country will be indebted to you."
+   ],
+   "jp": [
+    "連中はきわめて凶悪だ",
+    "どこから来たかは知らんが",
+    "元いた場所へと",
+    "追い返さねばならん",
+    "戦士よ！　君が必要なのだ",
+    "そう！",
+    "君だ！",
+    "志願者は もよりの登録所まで",
+    "近所にあるハズだ",
+    "いいか！",
+    "君の貢献に期待する"
+   ],
+   "ko": [
+    "놈들은 지독하게 흉악하다",
+    "어디서 왔는지는 모르지만",
+    "원래 있던 곳으로",
+    "쫓아 보내야만 한다",
+    "전사여！　자네가 필요하다",
+    "그래！",
+    "자네다！",
+    "지원자는 가까운 등록소로",
+    "근처에 있을 것이다",
+    "잘 듣게！",
+    "자네의 헌신을 기대한다"
+   ]
+  },
+  "21": {
+   "en": [
+    "That's right. It's war once again.",
+    "Your country needs you now, boys.",
+    "We are fighting an enemy",
+    "like we have never encountered before."
+   ],
+   "jp": [
+    "諸君 また戦争が起きた",
+    "祖国が君を必要としてる",
+    "われわれはいまだかつてない",
+    "強敵と戦っているのだ"
+   ],
+   "ko": [
+    "제군 또 전쟁이 났다",
+    "조국이 자네를 필요로 한다",
+    "우리는 일찍이 없던",
+    "강적과 싸우고 있다"
+   ]
+  },
+  "22": {
+   "en": [
+    "Still not enough.",
+    "Oh! How much do I need?",
+    "You'll find out when you've got it.",
+    "Get lost!"
+   ],
+   "jp": [
+    "まだ足りないぞ",
+    "いくらあればいいんだよ",
+    "足りたらわかる",
+    "うせろ！"
+   ],
+   "ko": [
+    "아직 모자라",
+    "얼마나 있어야 하는데",
+    "채워지면 알게 돼",
+    "꺼져！"
+   ]
+  },
+  "23": {
+   "en": [
+    "Oh! Oh! It's you, Mr. Squirrel.",
+    " I'm so happy to see you again.",
+    "Oh, really?",
+    " I'm happy to see you.",
+    " Hey! Where's the hive gone?"
+   ],
+   "jp": [
+    "あなたなのね　リスさん",
+    "また会えてよかったわ",
+    "そうかい",
+    "おれもだよ",
+    "\n巣はどうした？"
+   ],
+   "ko": [
+    "당신이군요　다람쥐 씨",
+    "또 만나서 다행이에요",
+    "그래요?",
+    "나도 반갑수",
+    "\n벌집은 어떻게 됐수?"
+   ]
+  },
+  "24": {
+   "en": [
+    "That's just the point.",
+    " They've stolen it again.",
+    " And I don't know what to do.",
+    " My husband hasn't returned yet.",
+    " He's a fiend. If he were here,",
+    "he'd sort them out.",
+    " It's just gonna have to be",
+    "somebody else.",
+    "Oh, really!",
+    " And who would that be this time,",
+    "I wonder?"
+   ],
+   "jp": [
+    "それが大変なの",
+    "また盗まれてしまったの",
+    "もうどうしたらいいか...",
+    "夫もまだ戻らないし",
+    "あてにできないわ",
+    "こうなったら",
+    "誰か別の人に",
+    "頼まないと...",
+    "へえ",
+    "...で誰に？ ",
+    "もしかして...　おれ？"
+   ],
+   "ko": [
+    "그게 큰일이에요",
+    "또 도둑맞았어요",
+    "어떡해야 할지...",
+    "남편도 아직 안 돌아오고",
+    "믿을 수가 없어요",
+    "이렇게 됐으니",
+    "다른 사람한테",
+    "부탁해야겠어요...",
+    "허어",
+    "...누구한테?",
+    "설마...　나?"
+   ]
+  },
+  "25": {
+   "en": [
+    "Well! You did help last time,",
+    "and I don't know who to turn to.",
+    "Ok! Ok!",
+    " But what's in it for me?",
+    "Oh... Money!",
+    "Yeh, but it'll have to be",
+    "double last time.",
+    "Double...",
+    "... Ok!",
+    "Treble!",
+    "...Treble.",
+    "... Ok.",
+    "Get my hive back."
+   ],
+   "jp": [
+    "前も助けてくれたでしょ",
+    "頼れる人もいないし",
+    "わかったよ",
+    "何かくれる？",
+    "お金はどう？",
+    "いいよ",
+    "前の２倍ね",
+    "２倍...",
+    "いいわ",
+    "やっぱ３倍",
+    "３倍？",
+    "しかたないわ",
+    "巣を取り戻して"
+   ],
+   "ko": [
+    "지난번에도 도와줬잖아요",
+    "기댈 사람도 없고요",
+    "알았어",
+    "뭐 좀 줄 거야?",
+    "돈은 어때요?",
+    "좋아",
+    "지난번의 ２배야",
+    "２배...",
+    "좋아요",
+    "아니 ３배",
+    "３배?",
+    "어쩔 수 없죠",
+    "벌집을 되찾아줘요"
+   ]
+  },
+  "26": {
+   "en": [
+    "Just follow the signs again.",
+    "You'll have to go a bit further.",
+    "It's a deep insurgency mission",
+    "This time.",
+    "It won't be as easy, I can tell you.",
+    "Really. Deep insurgency.",
+    "Quadruple!",
+    "What!",
+    "Ok, well, yeh, fair enough.",
+    "This looks quite nice over here.",
+    "I'll just go..."
+   ],
+   "jp": [
+    "前と同じよ",
+    "でも今度は少し遠いの",
+    "荒っぽい仕事になるわ",
+    "今回はね",
+    "簡単にはいかないの",
+    "そう 荒っぽい仕事か",
+    "じゃ...　４倍だ",
+    "そんな！",
+    "んじゃ　お断りだ",
+    "おっ　あっちに何かある",
+    "行ってみよ"
+   ],
+   "ko": [
+    "지난번과 같아요",
+    "근데 이번엔 좀 멀어요",
+    "거친 일이 될 거예요",
+    "이번엔요",
+    "쉽게는 안 될 거예요",
+    "그래 거친 일이라",
+    "그럼...　４배다",
+    "그런！",
+    "그럼　사양하지",
+    "오　저쪽에 뭔가 있네",
+    "가봐야지"
+   ]
+  },
+  "27": {
+   "en": [
+    "Ok! Come back. Quadruple.",
+    "That will be two hundred dollars?",
+    "Hang on a sec.",
+    "My math isn't that good,",
+    "but I seem to think it was",
+    "four hundred dollars.",
+    "Ok...",
+    "Go on then!"
+   ],
+   "jp": [
+    "待って！　４倍でいいわ",
+    "それじゃ ２００ドルね？",
+    "待った",
+    "算数苦手だけど",
+    "計算すると",
+    "４００ドルだろ",
+    "わかったわ",
+    "お願いね！"
+   ],
+   "ko": [
+    "잠깐！　４배로 할게요",
+    "그럼 ２００달러죠?",
+    "잠깐만",
+    "산수는 약하지만",
+    "계산해보면",
+    "４００달러잖아",
+    "알겠어요",
+    "부탁해요！"
+   ]
+  },
+  "28": {
+   "en": [
+    "Just follow the signs."
+   ],
+   "jp": [
+    "道しるべの反対側よ"
+   ],
+   "ko": [
+    "이정표 반대편이에요"
+   ]
+  },
+  "29": {
+   "en": [
+    "Ok, I'll get it back.",
+    " Where is it?"
+   ],
+   "jp": [
+    "まかしとけ",
+    "...でどこにあんの？"
+   ],
+   "ko": [
+    "맡겨두쇼",
+    "...그래서 어디 있는데?"
+   ]
+  },
+  "30": {
+   "en": [
+    "Chew on this, buzz suckers!"
+   ],
+   "jp": [
+    "これでもくわえてろ　クソバチ！"
+   ],
+   "ko": [
+    "이거나 물어라　똥벌들아！"
+   ]
+  },
+  "31": {
+   "en": [
+    "Oh, those nasty, nasty wasps.",
+    "Whatever shall we do?",
+    "My beautiful hive has gone,",
+    "and I'll never see it again now."
+   ],
+   "jp": [
+    "なんてヒドいスズメバチ！",
+    "どうしましょう",
+    "巣が盗まれたの",
+    "あきらめるしかないのかしら"
+   ],
+   "ko": [
+    "저 못된 말벌들！",
+    "어떡하죠",
+    "벌집을 도둑맞았어요",
+    "포기하는 수밖에 없나요"
+   ]
+  },
+  "32": {
+   "en": [
+    "Hope she's rich 'cos she ain't cute."
+   ],
+   "jp": [
+    "顔はダメでも金持ちか"
+   ],
+   "ko": [
+    "얼굴은 그래도 부자겠지"
+   ]
+  },
+  "33": {
+   "en": [
+    "What do you want me to do about it?"
+   ],
+   "jp": [
+    "どうしろっての？"
+   ],
+   "ko": [
+    "나더러 어쩌라고?"
+   ]
+  },
+  "34": {
+   "en": [
+    "Please get it back for us,",
+    "or I don't know what we're going to do."
+   ],
+   "jp": [
+    "巣を取り返して",
+    "でなきゃ私どうしたらいいか"
+   ],
+   "ko": [
+    "벌집을 되찾아줘요",
+    "아니면 저는 어떡해야 할지"
+   ]
+  },
+  "35": {
+   "en": [
+    "Ok, ok, calm down! I'll go and get it for you.",
+    "Now where is it?"
+   ],
+   "jp": [
+    "しょうがないな　わかったよ",
+    "...で　場所は？"
+   ],
+   "ko": [
+    "어쩔 수 없군　알았수",
+    "...그래서　어디요?"
+   ]
+  },
+  "36": {
+   "en": [
+    "Just follow the signs."
+   ],
+   "jp": [
+    "道しるべの反対側よ"
+   ],
+   "ko": [
+    "이정표 반대편이에요"
+   ]
+  },
+  "37": {
+   "en": [
+    "Thank you, Mr. Squirrel.",
+    " Once again I'd like to thank you",
+    "for your good service",
+    "and noble contribution",
+    "to the bee community.",
+    " I somewhat begrudgingly",
+    "present you with these."
+   ],
+   "jp": [
+    "感謝してるわ",
+    "本当にありがとう",
+    "あなたのその",
+    "ミツバチ社会への",
+    "多大な貢献をたたえ",
+    "ちょっと惜しいけれど",
+    "あれをさし上げましょう"
+   ],
+   "ko": [
+    "고마워요",
+    "정말 고마워요",
+    "당신의 그",
+    "꿀벌 사회에 대한",
+    "크나큰 헌신을 기려",
+    "좀 아깝지만",
+    "이걸 드릴게요"
+   ]
+  },
+  "38": {
+   "en": [
+    "Hey! somebody call for us?"
+   ],
+   "jp": [
+    "誰かおれたちを呼んだ？"
+   ],
+   "ko": [
+    "누가 우릴 불렀나?"
+   ]
+  },
+  "39": {
+   "en": [
+    "Who wants some of us doughs?"
+   ],
+   "jp": [
+    "現ナマ欲しい人ー！"
+   ],
+   "ko": [
+    "현금 원하는 사람ー！"
+   ]
+  },
+  "40": {
+   "en": [
+    "Yeah!",
+    "More sponduli."
+   ],
+   "jp": [
+    "やった！",
+    "またイタダキだ！"
+   ],
+   "ko": [
+    "좋았어！",
+    "또 챙겼다！"
+   ]
+  },
+  "41": {
+   "en": [
+    "Must have been out for some time.",
+    " It's night. "
+   ],
+   "jp": [
+    "気を失ってたのか",
+    "もう夜だ"
+   ],
+   "ko": [
+    "기절했었나",
+    "벌써 밤이네"
+   ]
+  },
+  "42": {
+   "en": [
+    "Yeh, there it is over there.",
+    " A big ball of poo.",
+    "Oh, thanks.",
+    "You're welcome to it, mate.",
+    "Yeh, thanks."
+   ],
+   "jp": [
+    "そこにあるぜ",
+    "ウンコ玉だ",
+    "助かるよ...",
+    "好きに転がしな",
+    "ありがとう"
+   ],
+   "ko": [
+    "저기 있잖수",
+    "똥 덩어리다",
+    "고맙수...",
+    "맘대로 굴리쇼",
+    "고마워"
+   ]
+  },
+  "43": {
+   "en": [
+    "I hope that's the last thing that happens to us.",
+    "What could possibly go wrong now?",
+    "Here's to a wonderful year."
+   ],
+   "jp": [
+    "もう何も起きないといいわ",
+    "きっと大丈夫",
+    "ステキな年になりそうだわ"
+   ],
+   "ko": [
+    "이제 아무 일 없었으면",
+    "분명 괜찮을 거예요",
+    "멋진 한 해가 될 것 같아요"
+   ]
+  },
+  "44": {
+   "en": [
+    "Right! Do I have enough money now?",
+    "No! You need",
+    "$2110.",
+    "Come back when you've got it.",
+    "See ya."
+   ],
+   "jp": [
+    "これで十分だろ？",
+    "ダメだ！",
+    "２１１０ドルだ",
+    "２１１０ドル持って来い",
+    "じゃあな"
+   ],
+   "ko": [
+    "이제 충분하겠지?",
+    "안 돼！",
+    "２１１０달러다",
+    "２１１０달러 갖고 와",
+    "그럼 가보지"
+   ]
+  },
+  "45": {
+   "en": [
+    "Mmm... Ten o'clock.",
+    " What time is it now?",
+    "Ooww...",
+    " Ah well,",
+    "suppose I'll come back later then."
+   ],
+   "jp": [
+    "んー　１０時開店か",
+    "今　何時だよ",
+    "まだか...",
+    "またあとで来よう",
+    ""
+   ],
+   "ko": [
+    "음ー　１０시 개점인가",
+    "지금　몇 시야",
+    "아직인가...",
+    "이따 다시 오지",
+    ""
+   ]
+  },
+  "46": {
+   "en": [
+    "Mmm, let's see.",
+    "That way?",
+    "Or that way?",
+    "Mmm, that way smells a bit pooey.",
+    "Mmm, let me see."
+   ],
+   "jp": [
+    "どっちにするかな",
+    "あっちか",
+    "それともこっちか",
+    "あっちはなんかウンチくさいぞ",
+    "どうするかな"
+   ],
+   "ko": [
+    "어느 쪽으로 갈까",
+    "저쪽인가",
+    "아니면 이쪽인가",
+    "저쪽은 좀 똥냄새가 나는데",
+    "어떡할까"
+   ]
+  },
+  "47": {
+   "en": [
+    "Oh, thank you, Mr. Squirrel.",
+    " None of this would have happened",
+    "if it weren't for that no-good husband of mine.",
+    " He's gone off with another woman."
+   ],
+   "jp": [
+    "感謝してるわ！",
+    "ダメ亭主のせいで",
+    "こんなことになったのよ",
+    "浮気なんかして"
+   ],
+   "ko": [
+    "고마워요！",
+    "못난 남편 때문에",
+    "이렇게 된 거예요",
+    "바람이나 피우고"
+   ]
+  },
+  "48": {
+   "en": [
+    "Oh, really, that doesn't surprise me."
+   ],
+   "jp": [
+    "したくもなるよな"
+   ],
+   "ko": [
+    "그럴 만도 하지"
+   ]
+  },
+  "49": {
+   "en": [
+    "What?"
+   ],
+   "jp": [
+    "何ですって？"
+   ],
+   "ko": [
+    "뭐라고요?"
+   ]
+  },
+  "50": {
+   "en": [
+    "Anyway, as a reward for your good service to the bee community,",
+    "I present you with this."
+   ],
+   "jp": [
+    "ミツバチ社会に貢献したお礼よ",
+    "あれを受け取って"
+   ],
+   "ko": [
+    "꿀벌 사회에 헌신한 보답이에요",
+    "이걸 받아줘요"
+   ]
+  },
+  "51": {
+   "en": [
+    "Nothing."
+   ],
+   "jp": [
+    "なんでもないよ"
+   ],
+   "ko": [
+    "아무것도 아니야"
+   ]
+  },
+  "52": {
+   "en": [
+    "Must have been out for some time.",
+    " It's night. "
+   ],
+   "jp": [
+    "気を失ってたのか",
+    "もう夜だ"
+   ],
+   "ko": [
+    "기절했었나",
+    "벌써 밤이네"
+   ]
+  },
+  "53": {
+   "en": [
+    "Alright, who's dis?"
+   ],
+   "jp": [
+    "あれ誰だ？"
+   ],
+   "ko": [
+    "쟨 누구야?"
+   ]
+  },
+  "54": {
+   "en": [
+    "It's like one of them squirrels.",
+    "I reckon we should get down there and kick the {BLUE}{STAR}{SKULL}{LIGHTNING} out of him.",
+    "Ah, wait till he comes up here, alright?",
+    "Ok den, yeh."
+   ],
+   "jp": [
+    "どっかのリスだろ",
+    "早いとこ{BLUE}{STAR}{SKULL}{LIGHTNING}ぶちのめしてやろう",
+    "近づくまで待て",
+    "わかったよ"
+   ],
+   "ko": [
+    "어디 다람쥐겠지",
+    "얼른 {BLUE}{STAR}{SKULL}{LIGHTNING}두들겨 패주자",
+    "올 때까지 기다려",
+    "알았어"
+   ]
+  },
+  "55": {
+   "en": [
+    "Hey,",
+    "some wise guy's trying to steal our nice new hive."
+   ],
+   "jp": [
+    "おい",
+    "あのバカ 巣を盗む気だ"
+   ],
+   "ko": [
+    "야",
+    "저 바보 벌집을 훔칠 셈이야"
+   ]
+  },
+  "56": {
+   "en": [
+    "C'mon, boss! Let's go get him."
+   ],
+   "jp": [
+    "つかまえてやろう"
+   ],
+   "ko": [
+    "잡으러 가자"
+   ]
+  },
+  "57": {
+   "en": [
+    "Yeah, let's get him!"
+   ],
+   "jp": [
+    "ああ つかまえよう"
+   ],
+   "ko": [
+    "그래 잡자"
+   ]
+  },
+  "58": {
+   "en": [
+    "EAT LEAD, MUTHER BUZZER!"
+   ],
+   "jp": [
+    "クソバチども食らえ！"
+   ],
+   "ko": [
+    "똥벌들아 받아라！"
+   ]
+  },
+  "59": {
+   "en": [
+    "Hey, where the {RED}{LIGHTNING}{RED}{SKULL}{RED}{LIGHTNING}{RED}{SWIRL}{NORMAL}you been,",
+    "ya ginger bastard."
+   ],
+   "jp": [
+    "お前{THROB}{RED}{LIGHTNING}{RED}{SKULL}{RED}{STAR}{RED}{SWIRL}{NORMAL}なんだろ？",
+    "この赤毛リス！"
+   ],
+   "ko": [
+    "너 {THROB}{RED}{LIGHTNING}{RED}{SKULL}{RED}{STAR}{RED}{SWIRL}{NORMAL}지?",
+    "이 빨간머리 다람쥐！"
+   ]
+  },
+  "60": {
+   "en": [
+    "Hey, where the {RED}{LIGHTNING}{RED}{SKULL}{RED}{LIGHTNING}{RED}{SWIRL}{NORMAL}you been,",
+    "ya ginger bastard."
+   ],
+   "jp": [
+    "お前{THROB}{RED}{LIGHTNING}{RED}{SKULL}{RED}{STAR}{RED}{SWIRL}{NORMAL}なんだろ？",
+    "この赤毛リス！"
+   ],
+   "ko": [
+    "너 {THROB}{RED}{LIGHTNING}{RED}{SKULL}{RED}{STAR}{RED}{SWIRL}{NORMAL}지?",
+    "이 빨간머리 다람쥐！"
+   ]
+  }
+ }
+}

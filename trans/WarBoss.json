@@ -1,0 +1,635 @@
+{
+ "scene": "WarBoss",
+ "n": 34,
+ "entries": {
+  "0": {
+   "en": [
+    "You {RED}{LIGHTNING}{RED}{SKULL}{STAR}{RED}{SWIRL}",
+    "no, no,",
+    "keep calm,",
+    "keep calm."
+   ],
+   "jp": [
+    "この{RED}{LIGHTNING}{RED}{SKULL}{STAR}{RED}{SWIRL}！",
+    "ダメよ",
+    "落ち着け",
+    "落ち着くのよ"
+   ],
+   "ko": [
+    "이{RED}{LIGHTNING}{RED}{SKULL}{STAR}{RED}{SWIRL}！",
+    "안 돼",
+    "진정해",
+    "진정하라고"
+   ]
+  },
+  "1": {
+   "en": [
+    "Quick! Get out the way!",
+    "I'm taking over."
+   ],
+   "jp": [
+    "早く降りろ！",
+    "おれがやる！"
+   ],
+   "ko": [
+    "빨리 내려！",
+    "내가 한다！"
+   ]
+  },
+  "2": {
+   "en": [
+    "This is my mini-gun.",
+    "It fires 8000 rounds per second.",
+    "Brass cased 8mm."
+   ],
+   "jp": [
+    "これはミニガン",
+    "１　秒間になんと８０００発",
+    "８ミリ弾よ"
+   ],
+   "ko": [
+    "이건 미니건",
+    "１　초에 무려 ８０００발",
+    "８밀리탄"
+   ]
+  },
+  "3": {
+   "en": [
+    "Now, then, lesson one.",
+    "Ballistics."
+   ],
+   "jp": [
+    "ではレッスン　１　！",
+    "弾道学"
+   ],
+   "ko": [
+    "그럼 레슨　１　！",
+    "탄도학"
+   ]
+  },
+  "4": {
+   "en": [
+    "With tungsten alloy heads.",
+    "And high explosive charge.",
+    "Very, very messy!"
+   ],
+   "jp": [
+    "タングステン合金の弾頭に",
+    "高性能爆薬よ",
+    "やっかいでしょ！"
+   ],
+   "ko": [
+    "텅스텐 합금 탄두에",
+    "고성능 폭약",
+    "성가시지！"
+   ]
+  },
+  "5": {
+   "en": [
+    "High energy, inverted...",
+    "Magneto laser,",
+    "with a six-pronged attack."
+   ],
+   "jp": [
+    "高エネルギーの",
+    "磁力レーザーよ",
+    "６方向から攻撃するの"
+   ],
+   "ko": [
+    "고에너지",
+    "자력 레이저야",
+    "여섯 방향에서 공격해"
+   ]
+  },
+  "6": {
+   "en": [
+    "Now this is very special!"
+   ],
+   "jp": [
+    "これはとっておき！"
+   ],
+   "ko": [
+    "이건 비장의 무기！"
+   ]
+  },
+  "7": {
+   "en": [
+    "With multiple warheads.",
+    "Don't fancy your...",
+    "...Chances very much,",
+    "Mr. Squirrel!"
+   ],
+   "jp": [
+    "多弾頭ミサイルよ",
+    "勝てるだなんて",
+    "思わないでね",
+    "リスさん！"
+   ],
+   "ko": [
+    "다탄두 미사일이야",
+    "이길 수 있다고",
+    "생각하지 마",
+    "다람쥐 씨！"
+   ]
+  },
+  "8": {
+   "en": [
+    "Ah! Missiles!",
+    "I think you're already",
+    "familiar with these.",
+    "Mark twos this time, however!",
+    "Fur-guided,"
+   ],
+   "jp": [
+    "ミサイルよ！",
+    "これはもう",
+    "おなじみね",
+    "でも今度は改良型！",
+    "毛皮を追うの"
+   ],
+   "ko": [
+    "미사일이야！",
+    "이건 이미",
+    "낯익겠네",
+    "근데 이번엔 개량형！",
+    "털을 쫓아가"
+   ]
+  },
+  "9": {
+   "en": [
+    "I command you to get up.",
+    "This is the end!",
+    "My little babies,",
+    "yes,",
+    "my little babies!"
+   ],
+   "jp": [
+    "命令だ 起きろ！",
+    "もう終わりだ！",
+    "でも あの子が",
+    "そうよ",
+    "あの子たちがいる"
+   ],
+   "ko": [
+    "명령이다 일어나라！",
+    "이제 끝이다！",
+    "하지만 그 애가",
+    "맞아",
+    "그 아이들이 있어"
+   ]
+  },
+  "10": {
+   "en": [
+    "This is the end!",
+    "My little babies,",
+    "yes,",
+    "my little babies."
+   ],
+   "jp": [
+    "もう終わりだ！",
+    "でも あの子が",
+    "そうよ",
+    "あの子たちがいる"
+   ],
+   "ko": [
+    "이제 끝이다！",
+    "하지만 그 애가",
+    "맞아",
+    "그 아이들이 있어"
+   ]
+  },
+  "11": {
+   "en": [
+    "Get up!",
+    "Get up! "
+   ],
+   "jp": [
+    "起きろ！",
+    "立て！"
+   ],
+   "ko": [
+    "일어나라！",
+    "일어서！"
+   ]
+  },
+  "12": {
+   "en": [
+    "Oh, oh the...",
+    "The tank's gone.",
+    "Well, it served us well.",
+    "Rodent,",
+    "Rodent!"
+   ],
+   "jp": [
+    "ああ...",
+    "戦車がおじゃんだ",
+    "でも役に立ってくれた",
+    "ロデント",
+    "ロデント！"
+   ],
+   "ko": [
+    "아아...",
+    "전차가 박살났다",
+    "하지만 도움이 됐다",
+    "로던트",
+    "로던트！"
+   ]
+  },
+  "13": {
+   "en": [
+    "Oh no!",
+    "He didn't make it.",
+    "He was a great guy,",
+    "a superb soldier,",
+    "a military tactician,",
+    "and yet, he was mortal,",
+    "like the rest of us.",
+    "But at least we showed",
+    "that bitch who's boss!"
+   ],
+   "jp": [
+    "そんな！",
+    "ダメだったのか",
+    "偉大な男だった",
+    "優れた戦士であり",
+    "戦略家だった",
+    "だが　彼にも寿命があった",
+    "我々と同じように...",
+    "せめてもの救いは",
+    "あのクソ人形を倒したことだな"
+   ],
+   "ko": [
+    "그런！",
+    "안 됐던 건가",
+    "위대한 사나이였다",
+    "뛰어난 전사이자",
+    "전략가였다",
+    "허나　그에게도 수명이 있었다",
+    "우리와 마찬가지로...",
+    "그나마 위안은",
+    "저 빌어먹을 인형을 잡은 거군"
+   ]
+  },
+  "14": {
+   "en": [
+    "Mr. Squirrel!"
+   ],
+   "jp": [
+    "リスさーん"
+   ],
+   "ko": [
+    "다람쥐 씨ー"
+   ]
+  },
+  "15": {
+   "en": [
+    "The show's not over,",
+    "till the little girl sings."
+   ],
+   "jp": [
+    "勝負は最後まで",
+    "わからないものよ"
+   ],
+   "ko": [
+    "승부는 끝까지",
+    "모르는 거야"
+   ]
+  },
+  "16": {
+   "en": [
+    "Ooh, what's that?",
+    "A lovely countdown.",
+    "I wonder what's going...",
+    "... To happen now?"
+   ],
+   "jp": [
+    "何かしら！",
+    "カウントダウンよ",
+    "何が起きるか",
+    "楽しみね！"
+   ],
+   "ko": [
+    "뭐지！",
+    "카운트다운이야",
+    "무슨 일이 날지",
+    "기대되네！"
+   ]
+  },
+  "17": {
+   "en": [
+    "Self-destruct!",
+    "Aaah! Give me strength!"
+   ],
+   "jp": [
+    "自爆かよ！",
+    "いいかげんにしろっての！"
+   ],
+   "ko": [
+    "자폭이냐！",
+    "적당히 좀 하라고！"
+   ]
+  },
+  "18": {
+   "en": [
+    "Guess what?"
+   ],
+   "jp": [
+    "知ってる？"
+   ],
+   "ko": [
+    "알고 있어?"
+   ]
+  },
+  "19": {
+   "en": [
+    "Ooh! What's this?",
+    "A little red button!",
+    "I think i'll press it!"
+   ],
+   "jp": [
+    "これ 何かしら！",
+    "赤いボタンね",
+    "押しちゃいましょう！"
+   ],
+   "ko": [
+    "이거 뭐지！",
+    "빨간 버튼이네",
+    "눌러버려요！"
+   ]
+  },
+  "20": {
+   "en": [
+    "Mummy,",
+    "I want my mummy, mummy, boohoo.",
+    "Hello, it's a little squirrel.",
+    "Hello ,",
+    "help me. Please."
+   ],
+   "jp": [
+    "ママ",
+    "ママに会いたいの",
+    "あら リスさんね",
+    "来て",
+    "お願い 助けて"
+   ],
+   "ko": [
+    "엄마",
+    "엄마가 보고 싶어요",
+    "어머 다람쥐 씨네",
+    "이리 와",
+    "제발 살려주세요"
+   ]
+  },
+  "21": {
+   "en": [
+    "Uh, it's a little girl.",
+    "It's dangerous around here, little girl.",
+    "I don't think you wanna be here.",
+    "Have you come to rescue me?",
+    "What is that?",
+    "That's the inverse phase sonar.",
+    "Very efficient with em, ooh!",
+    "How'd you know about that?",
+    "Eh, school?",
+    "I never learnt things like that at school.",
+    "Anyway, what is it?",
+    "It fires a missile, i think,",
+    "a teddifunkin u47...",
+    "Intercontilental...",
+    "Ballistic missile.",
+    "A missile?",
+    "Yes, like that one!"
+   ],
+   "jp": [
+    "お嬢ちゃん",
+    "ここは危ないんだぞ",
+    "うちに帰りたいだろ",
+    "助けに来てくれたの？",
+    "この音は何だ？",
+    "あれは逆位相ソナーよ",
+    "とても性能がいいの...おっと！",
+    "何でそんなこと",
+    "学校で習ったの",
+    "おれは習ってないぞ",
+    "今度は何だ？",
+    "ミサイルを撃ったのね",
+    "クマ軍の誇る U４７",
+    "大陸間...",
+    "弾道ミサイル",
+    "ミサイル？",
+    "そう！ ミサイル！"
+   ],
+   "ko": [
+    "꼬마 아가씨",
+    "여긴 위험하다고",
+    "집에 가고 싶지?",
+    "구하러 와준 거야?",
+    "이 소리는 뭐지?",
+    "저건 역위상 소나야",
+    "성능이 아주 좋아...이런！",
+    "왜 그런 걸",
+    "학교에서 배웠어",
+    "난 못 배웠는데",
+    "이번엔 뭐야?",
+    "미사일을 쐈구나",
+    "곰군이 자랑하는 U４７",
+    "대륙간...",
+    "탄도미사일",
+    "미사일?",
+    "맞아！ 미사일！"
+   ]
+  },
+  "22": {
+   "en": [
+    "Don't you worry, little girl.",
+    "I'll rescue you.",
+    "Oh goody, goody.",
+    "Her parents are bound to have some cash!"
+   ],
+   "jp": [
+    "心配しないで",
+    "助けてやる",
+    "ああ よかった",
+    "親から金まきあげてやる！"
+   ],
+   "ko": [
+    "걱정하지 마",
+    "구해줄게",
+    "아 다행이다",
+    "부모한테 돈을 뜯자！"
+   ]
+  },
+  "23": {
+   "en": [
+    "Yeah, that was a blast.",
+    "Right, now to sort out the ransom,",
+    "Eh, rescue the little girl."
+   ],
+   "jp": [
+    "今のはすごかったな",
+    "よし！\n金ヅルの方をなんとかしよう",
+    "いや...　救助活動だ"
+   ],
+   "ko": [
+    "방금 건 굉장했지",
+    "좋아！\n돈줄 쪽을 어떻게든 해보자",
+    "아니...　구조 활동이다"
+   ]
+  },
+  "24": {
+   "en": [
+    "You little...",
+    "No, must keep my cool."
+   ],
+   "jp": [
+    "この野郎...",
+    "ダメよ\n落ち着かなきゃ"
+   ],
+   "ko": [
+    "이 자식이...",
+    "안 돼\n진정해야지"
+   ]
+  },
+  "25": {
+   "en": [
+    "I'm so happy.",
+    "I'm going to see my mummy and daddy again.",
+    "Yep, ok, come on. Let's try and get you out of here."
+   ],
+   "jp": [
+    "うれしい",
+    "パパとママに会えるのね",
+    "そうだよ　こっから出られるぞ"
+   ],
+   "ko": [
+    "기뻐요",
+    "아빠 엄마를 만나는 거죠",
+    "그래　여기서 나갈 수 있어"
+   ]
+  },
+  "26": {
+   "en": [
+    "What the...",
+    "Uh, it's you guys."
+   ],
+   "jp": [
+    "何だ？",
+    "お前か！"
+   ],
+   "ko": [
+    "뭐지?",
+    "너였구나！"
+   ]
+  },
+  "27": {
+   "en": [
+    "Conker...",
+    "{THROB}Nooo!!!{NORMAL}"
+   ],
+   "jp": [
+    "コンカー...",
+    "{THROB}危ない！！！{NORMAL}"
+   ],
+   "ko": [
+    "콩커...",
+    "{THROB}위험해！！！{NORMAL}"
+   ]
+  },
+  "28": {
+   "en": [
+    "Do you know what your {RED}{LIGHTNING}{RED}{STAR}{SKULL}{RED}{SWIRL}{RED}{LIGHTNING} daughter did?",
+    "What?",
+    "I don't have a daughter.",
+    "Yes, I haven't been a little girl for some time now."
+   ],
+   "jp": [
+    "お前の{RED}{LIGHTNING}{RED}{STAR}{SKULL}{RED}{SWIRL}{RED}{LIGHTNING}な娘が\n何をしたかわかったか？",
+    "はあ？",
+    "娘なんていないよ",
+    "私だってお嬢ちゃんなどではないのだ"
+   ],
+   "ko": [
+    "네 {RED}{LIGHTNING}{RED}{STAR}{SKULL}{RED}{SWIRL}{RED}{LIGHTNING}딸이\n무슨 짓을 했는지 알겠나?",
+    "허?",
+    "딸 같은 거 없어",
+    "나도 어린 아가씨 같은 게 아니다"
+   ]
+  },
+  "29": {
+   "en": [
+    "I haven't been a little girl",
+    "for some time now."
+   ],
+   "jp": [
+    "私だってお嬢ちゃんなどでは",
+    "ないのだ"
+   ],
+   "ko": [
+    "나도 어린 아가씨 같은 게",
+    "아니다"
+   ]
+  },
+  "30": {
+   "en": [
+    "Yes, mr. Squirrel,",
+    "I'm the brains and the eyes,",
+    "and he's the brawn."
+   ],
+   "jp": [
+    "そうよ　リスさん",
+    "私は頭脳と目なの",
+    "そして彼は筋肉よ"
+   ],
+   "ko": [
+    "맞아　다람쥐 씨",
+    "나는 두뇌와 눈",
+    "그는 근육이야"
+   ]
+  },
+  "31": {
+   "en": [
+    "Yes!"
+   ],
+   "jp": [
+    "イエス！"
+   ],
+   "ko": [
+    "예스！"
+   ]
+  },
+  "32": {
+   "en": [
+    "Oh well,",
+    "in for a penny, in for a pound, I suppose."
+   ],
+   "jp": [
+    "さてと",
+    "これも金のためだ"
+   ],
+   "ko": [
+    "자아",
+    "이것도 돈 때문이다"
+   ]
+  },
+  "33": {
+   "en": [
+    "You little...",
+    "No, no,",
+    "keep calm,",
+    "keep calm."
+   ],
+   "jp": [
+    "この野郎...",
+    "ダメよ",
+    "落ち着け",
+    "落ち着くのよ"
+   ],
+   "ko": [
+    "이 자식이...",
+    "안 돼",
+    "진정해",
+    "진정하라고"
+   ]
+  }
+ }
+}

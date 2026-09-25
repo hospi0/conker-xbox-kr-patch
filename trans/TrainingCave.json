@@ -1,0 +1,61 @@
+{
+ "scene": "TrainingCave",
+ "n": 5,
+ "entries": {
+  "0": {
+   "en": [
+    "Ahh, that should do it. Eenie, meenie, miney mo."
+   ],
+   "jp": [
+    "こりゃ武器になりそうだぞ どれにしようかな...　よーし"
+   ],
+   "ko": [
+    "이거 무기가 될 것 같은데 뭘로 할까...　좋아"
+   ]
+  },
+  "1": {
+   "en": [
+    "A frying pan. "
+   ],
+   "jp": [
+    "フライパンだ"
+   ],
+   "ko": [
+    "프라이팬이다"
+   ]
+  },
+  "2": {
+   "en": [
+    "Oh just great.  I thought the designers said this was just a straight port.  What a hack!  Now, which one was it?"
+   ],
+   "jp": [
+    "ここは楽勝って聞いてたのに！\nあーあ　カギ持ってるのは\nどいつなんだよ？"
+   ],
+   "ko": [
+    "여긴 완전 쉽다고 들었는데！\n아아　열쇠 갖고 있는 게\n누구야?"
+   ]
+  },
+  "3": {
+   "en": [
+    "This is an empty string that is not used anywhere in the game."
+   ],
+   "jp": [
+    "This is an empty string that is not used anywhere in the game."
+   ],
+   "ko": [
+    "This is an empty string that is not used anywhere in the game."
+   ]
+  },
+  "4": {
+   "en": [
+    "Hang on a second, this is really no good at all.  Hmm, I need a weapon."
+   ],
+   "jp": [
+    "どうすりゃいいんだよ 何か使えるもんないかな..."
+   ],
+   "ko": [
+    "어떡해야 하지 뭔가 쓸 만한 게 없을까..."
+   ]
+  }
+ }
+}

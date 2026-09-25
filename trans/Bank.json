@@ -1,0 +1,17 @@
+{
+ "scene": "Bank",
+ "n": 1,
+ "entries": {
+  "0": {
+   "en": [
+    "Please place any metallic objects in the tray..."
+   ],
+   "jp": [
+    "金属製のものはすべてトレーに..."
+   ],
+   "ko": [
+    "금속 제품은 전부 트레이에..."
+   ]
+  }
+ }
+}

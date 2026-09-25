@@ -1,0 +1,154 @@
+{
+ "scene": "VolcanoRace",
+ "n": 11,
+ "entries": {
+  "0": {
+   "en": [
+    "OH! hi, I..."
+   ],
+   "jp": [
+    "よお！ おれ..."
+   ],
+   "ko": [
+    "어이！ 나..."
+   ]
+  },
+  "1": {
+   "en": [
+    "Hey, squirrel, you've woken up..."
+   ],
+   "jp": [
+    "目が覚めたか"
+   ],
+   "ko": [
+    "정신이 들었나"
+   ]
+  },
+  "2": {
+   "en": [
+    "Ha! Ha! look what we've got!",
+    "We nicked your money! Money! Money! Money!"
+   ],
+   "jp": [
+    "どうだ これ見てみろ！",
+    "金はもらった！ カネ！ カネ！ カネ！"
+   ],
+   "ko": [
+    "어때 이거 좀 봐봐！",
+    "돈은 받았다！ 돈！ 돈！ 돈！"
+   ]
+  },
+  "3": {
+   "en": [
+    "I recognize that money.",
+    "Oh no! What is the world coming to...",
+    "When a squirrel can't even go to a dinosaur-themed world,",
+    "without getting mugged by a bunch of prehistoric brats!"
+   ],
+   "jp": [
+    "おれの金じゃん",
+    "いったいどうなってんだ",
+    "リスだからってこんなとこで",
+    "あんなやつらに強盗されるわけ？"
+   ],
+   "ko": [
+    "내 돈이잖아",
+    "대체 어떻게 된 거야",
+    "다람쥐라고 이런 데서",
+    "저런 놈들한테 강도를 당한 거야?"
+   ]
+  },
+  "4": {
+   "en": [
+    "Oi! Give me my money back!"
+   ],
+   "jp": [
+    "おれの金返せよ！"
+   ],
+   "ko": [
+    "내 돈 돌려줘！"
+   ]
+  },
+  "5": {
+   "en": [
+    "Prepare to moony moon him.",
+    "About face!"
+   ],
+   "jp": [
+    "ケツ見せてやろうぜ",
+    "せーの！"
+   ],
+   "ko": [
+    "엉덩이나 보여주자",
+    "하나 둘！"
+   ]
+  },
+  "6": {
+   "en": [
+    "Ahh! Now that gives me another idea..."
+   ],
+   "jp": [
+    "いいこと思いついちゃった"
+   ],
+   "ko": [
+    "좋은 생각이 났어"
+   ]
+  },
+  "7": {
+   "en": [
+    "Ha! Ha! Simon, the stupid bastard, fell off!",
+    "Yeah, the stupid bastard is burned up!",
+    "Now if the stupid squirrel wants his money back...",
+    "He can use Simon's board to race us!"
+   ],
+   "jp": [
+    "バカだな サイモンが落っこちた！",
+    "燃えつきてカスも残んねえ！",
+    "バカなヤツはほっといて...",
+    "この金をかけて\nあっちでレースだ！"
+   ],
+   "ko": [
+    "바보네 사이먼이 떨어졌어！",
+    "다 타서 재도 안 남겠어！",
+    "바보 같은 놈은 내버려두고...",
+    "이 돈을 걸고\n저기서 레이스다！"
+   ]
+  },
+  "8": {
+   "en": [
+    "Yeah, let's go race him!",
+    "Let's go!"
+   ],
+   "jp": [
+    "よし！ 早くやろうぜ！",
+    "いくぞ！"
+   ],
+   "ko": [
+    "좋아！ 빨리 하자！",
+    "간다！"
+   ]
+  },
+  "9": {
+   "en": [
+    "Right! Time to teach those giro spazers a lesson!"
+   ],
+   "jp": [
+    "よし！ あいつらにヤキ入れてやる！"
+   ],
+   "ko": [
+    "좋아！ 저놈들 혼내주마！"
+   ]
+  },
+  "10": {
+   "en": [
+    "Where could we be now then?"
+   ],
+   "jp": [
+    "ここ どこなんだ？"
+   ],
+   "ko": [
+    "여기 어디야?"
+   ]
+  }
+ }
+}

@@ -1,0 +1,345 @@
+{
+ "scene": "Frontend",
+ "n": 18,
+ "entries": {
+  "0": {
+   "en": [
+    "Hi, you've reached, like, Berri's place.",
+    " I'm not available to answer the phone... Obviously!",
+    " However, if you leave your, like, name and number,",
+    "and sound cute,",
+    "I may ring you back. Ciao!"
+   ],
+   "jp": [
+    "ベリーよ　お電話ありがと",
+    "今...　電話に出られないの",
+    "よかったら伝言残してね",
+    "よろしく！",
+    "あとでかけ直すわ チャオ！"
+   ],
+   "ko": [
+    "베리야　전화 고마워",
+    "지금...　전화를 못 받아",
+    "괜찮으면 메시지 남겨줘",
+    "잘 부탁해！",
+    "이따 다시 걸게 차오！"
+   ]
+  },
+  "1": {
+   "en": [
+    "Hi, Berri!",
+    " Hello...",
+    " Berri, if you're there, pick up.",
+    " Hello!",
+    " Oh anyway, look..."
+   ],
+   "jp": [
+    "ベリー？",
+    " あのさ...",
+    "いるなら出てよ",
+    " おーい！",
+    "いいや...　あのさ..."
+   ],
+   "ko": [
+    "베리?",
+    "저기...",
+    "있으면 좀 받아",
+    "어이！",
+    "아니...　있잖아..."
+   ]
+  },
+  "2": {
+   "en": [
+    "I'm gonna be a bit late...",
+    " Met up with a couple of guys...",
+    " And they're off tomorrow to some...",
+    " I dunno, fight some war somewhere.",
+    " Anyway..."
+   ],
+   "jp": [
+    "帰り...　おそくなるよ",
+    "知り合いに会ったんだ",
+    "明日戦争に行くんだって",
+    " ...だから送別会\nそういうことだから",
+    " "
+   ],
+   "ko": [
+    "오늘...　좀 늦을 거야",
+    "아는 놈들을 만났거든",
+    "내일 전쟁 나간다더라",
+    "...그래서 송별회야\n그런 거니까",
+    ""
+   ]
+  },
+  "3": {
+   "en": [
+    "I'll see ya.",
+    " Love you!"
+   ],
+   "jp": [
+    "またあとで",
+    "愛してるよ！"
+   ],
+   "ko": [
+    "이따 봐",
+    "사랑해！"
+   ]
+  },
+  "4": {
+   "en": [
+    "I think she bought it.",
+    "Conker, put the phone down.",
+    "Oh, okay...",
+    " Right, whose round is it?",
+    "Yours!",
+    "What, again?"
+   ],
+   "jp": [
+    "信じたハズ",
+    "コンカー 来いよ",
+    "わかったよ",
+    "つぎ　誰のおごり？",
+    "お前だよ！",
+    "また？"
+   ],
+   "ko": [
+    "속아 넘어갔겠지",
+    "콩커 이리 와",
+    "알았어",
+    "다음　누가 살 차례야?",
+    "너지！",
+    "또?"
+   ]
+  },
+  "5": {
+   "en": [
+    "I don't feel so good now.",
+    " You guys enjoy yourselves and all that,",
+    "and I'll probably see you sometime next week...",
+    " I gotta go home."
+   ],
+   "jp": [
+    "オエッ...　飲みすぎたな",
+    "お前ら...　聞いてる？",
+    "おれはもう帰るよ",
+    "...また来週な"
+   ],
+   "ko": [
+    "우엑...　너무 마셨네",
+    "야...　듣고 있냐?",
+    "난 이만 갈래",
+    "...다음 주에 보자"
+   ]
+  },
+  "6": {
+   "en": [
+    "I'll go this way.",
+    " Eh no, that's the toilets...",
+    " I'll go this way!",
+    " Yep, that's better."
+   ],
+   "jp": [
+    "こっちだっけ？",
+    "ああ....　ちがう　トイレか",
+    "じゃ...　こっちだ！",
+    "うん...　そうそう"
+   ],
+   "ko": [
+    "이쪽이었나?",
+    "아....　아니네　화장실이잖아",
+    "그럼...　이쪽이다！",
+    "응...　그래 그래"
+   ]
+  },
+  "7": {
+   "en": [
+    "He, like, better have a good excuse this time.",
+    " That is the last time he stands me up.",
+    " Conker! I've had it just about up to...",
+    " Who are you?"
+   ],
+   "jp": [
+    "下手な言い訳はしないことね",
+    "もう頭に来たわ　コンカー！",
+    "いいかげんに...",
+    "あなた　誰？"
+   ],
+   "ko": [
+    "허접한 변명은 안 통해",
+    "진짜 열받았어　콩커！",
+    "적당히 좀...",
+    "당신　누구야?"
+   ]
+  },
+  "8": {
+   "en": [
+    "Look, whatever it is you're selling,",
+    "I'm just not interested.",
+    " Well..."
+   ],
+   "jp": [
+    "セールスはお断り\n",
+    "買う気ないわ",
+    "それじゃ"
+   ],
+   "ko": [
+    "영업이면 사양이야\n",
+    "살 생각 없어",
+    "그럼 이만"
+   ]
+  },
+  "9": {
+   "en": [
+    "So? What'll it be?",
+    "Em...",
+    "Scotch...",
+    "Single malt...",
+    "Speyside...",
+    "No ice."
+   ],
+   "jp": [
+    "何にする？",
+    "あー",
+    "スコッチ",
+    "シングルモルト",
+    "スペイサイド",
+    "氷はナシ"
+   ],
+   "ko": [
+    "뭘로 하시겠소?",
+    "어어",
+    "스카치",
+    "싱글 몰트",
+    "스페이사이드",
+    "얼음은 빼고"
+   ]
+  },
+  "10": {
+   "en": [
+    "A man of taste.",
+    "There you go."
+   ],
+   "jp": [
+    "ちがいのわかる男だ",
+    "ほらよ"
+   ],
+   "ko": [
+    "맛을 아는 양반이군",
+    "자 여기"
+   ]
+  },
+  "11": {
+   "en": [
+    "Whoa!",
+    " Whoa there, cowboy!",
+    " Keep it comin'."
+   ],
+   "jp": [
+    "おっと！",
+    "おいおい！",
+    "\nもっと頼む"
+   ],
+   "ko": [
+    "이런！",
+    "어이 어이！",
+    "\n더 줘"
+   ]
+  },
+  "12": {
+   "en": [
+    "Lookin' a bit down.",
+    "What's the matter?"
+   ],
+   "jp": [
+    "元気がないな",
+    "\nどうした？"
+   ],
+   "ko": [
+    "기운이 없군",
+    "\n무슨 일인가?"
+   ]
+  },
+  "13": {
+   "en": [
+    "Ughh...",
+    " You wouldn't believe it.",
+    " Anyway...",
+    " I don't wanna talk about it.",
+    " I'll just drink this."
+   ],
+   "jp": [
+    "ああ...",
+    "信じやしないさ",
+    "それに...",
+    "話したくない",
+    "ただ飲みたいんだ"
+   ],
+   "ko": [
+    "아아...",
+    "믿지도 않을걸",
+    "게다가...",
+    "말하기 싫어",
+    "그냥 마시고 싶다고"
+   ]
+  },
+  "14": {
+   "en": [
+    "Oh!",
+    " Leave the bottle."
+   ],
+   "jp": [
+    "ああ...",
+    "置いといてくれ"
+   ],
+   "ko": [
+    "아아...",
+    "병째 두고 가"
+   ]
+  },
+  "15": {
+   "en": [
+    "Yeah."
+   ],
+   "jp": [
+    "わかった"
+   ],
+   "ko": [
+    "알겠네"
+   ]
+  },
+  "16": {
+   "en": [
+    "Doesn't look too good tonight."
+   ],
+   "jp": [
+    "今夜も雨か..."
+   ],
+   "ko": [
+    "오늘도 비인가..."
+   ]
+  },
+  "17": {
+   "en": [
+    "Doesn't look too good tonight.",
+    " Ugh ooh, hang on a sec.",
+    "Ah ha,",
+    "sorry about that, old chap.",
+    "Gotta go."
+   ],
+   "jp": [
+    "ああ...　雨か",
+    "オエッ　ちょい待ち",
+    "あーあ",
+    "\n悪かったな...　じいさん",
+    " 帰るか..."
+   ],
+   "ko": [
+    "아아...　비인가",
+    "우엑　잠깐만",
+    "아아",
+    "\n미안하게 됐수...　영감",
+    "가야겠다..."
+   ]
+  }
+ }
+}

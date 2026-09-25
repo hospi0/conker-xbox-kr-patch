@@ -1,0 +1,556 @@
+{
+ "scene": "MPPopsicle",
+ "n": 90,
+ "entries": {
+  "0": {
+   "en": [
+    "Yay! Excellent work, fellas. Keep up the pressure, we’re winnin’ this one! Move it, soldiers, only one more gate to go and we’re in…"
+   ],
+   "jp": [
+    "よくやった諸君　そのまま進め　勝利は目の前だ！　行け！ 残るゲートは あとひとつだ"
+   ],
+   "ko": [
+    "잘했다 제군　그대로 전진해라　승리가 코앞이다！　가라！ 남은 문은 하나뿐이다"
+   ]
+  },
+  "1": {
+   "en": [
+    "Yeehaa! We’re in, fellas. Now everyone get in there and lay waste to that Panther bastard. Remember guys, the heart, aim for the heart!"
+   ],
+   "jp": [
+    "よし 侵入したぞ！　全員奥へ進み パンサー野郎をぶちのめせ　忘れるな　心臓を狙え！"
+   ],
+   "ko": [
+    "좋다 침입했다！　전원 안으로 판서 놈을 두들겨라　잊지 마라　심장이다！"
+   ]
+  },
+  "2": {
+   "en": [
+    "Zey’re through! Oh @#@$ it, @$#@! Lay down a suppressing fire and hold zem back!"
+   ],
+   "jp": [
+    "ゲートを突破された！　なんて @#@$ な　@$#@ め！　反撃だ　ヤツらを止めろ！"
+   ],
+   "ko": [
+    "문이 뚫렸다！　이런 @#@$ 같은　@$#@ 놈들！　반격이다　놈들을 막아라！"
+   ]
+  },
+  "3": {
+   "en": [
+    "What are you doin’? @$#$’ @#$@ @#$#wits. Fall back, fall back and defend ze Master! Zey must not get through!"
+   ],
+   "jp": [
+    "何をやってる　この @$#$ @#$@ @#$# ども！　退いて王を守れ！　ヤツらを通してはならん！"
+   ],
+   "ko": [
+    "뭐 하냐　이 @$#$ @#$@ @#$# 놈들！　물러나 왕을 지켜라！　통과시키지 마라！"
+   ]
+  },
+  "4": {
+   "en": [
+    "Oh no, @#$@! What are you incompetent @$#$wits doin’? Zey’re through! Fall back and defend. He’s nearly thawed, we cannot lose! Not now, here at ze end of all things…"
+   ],
+   "jp": [
+    "そんな！　@#$@！　この無能な @$#$ どもめ！　ヤツらが侵入しているぞ！　大王の解凍が終わるまで　なんとしても守り抜け！"
+   ],
+   "ko": [
+    "그럴 수가！　@#$@！　무능한 @$#$ 놈들！　놈들이 침입했다！　대왕 해동이 끝날 때까지　기어코 지켜내라！"
+   ]
+  },
+  "5": {
+   "en": [
+    "Oh my beautiful Tediz, ze Master is nearly free. We are moments from total victory! But what’s zis? #$@# @#@$ Squirrels. Don’t zey ever give up? Get down zere, my Tediz, and defend zose gates!"
+   ],
+   "jp": [
+    "クマたちよ　我らの王がじき復活する　完全勝利は目の前だ！　...何だ？　また @#@$ のリスどもか！　なぜあきらめない！　クマたちよ　ゲートを守れ！"
+   ],
+   "ko": [
+    "곰들이여　왕이 곧 부활한다　승리가 코앞이다！　...뭐냐?　또 @#@$ 다람쥐냐！　왜 포기를 안 해！　곰들이여　문을 지켜라！"
+   ]
+  },
+  "42": {
+   "en": [
+    "Things hadn’t quite turned out as expected"
+   ],
+   "jp": [
+    "両軍とも"
+   ],
+   "ko": [
+    "양군 모두"
+   ]
+  },
+  "43": {
+   "en": [
+    "the body was gone"
+   ],
+   "jp": [
+    "大王の体が"
+   ],
+   "ko": [
+    "대왕의 몸이"
+   ]
+  },
+  "44": {
+   "en": [
+    "stolen!"
+   ],
+   "jp": [
+    "盗まれてしまった！"
+   ],
+   "ko": [
+    "도둑맞고 말았다！"
+   ]
+  },
+  "45": {
+   "en": [
+    "Intelligence told them"
+   ],
+   "jp": [
+    "リス軍情報部は"
+   ],
+   "ko": [
+    "다람쥐군 정보부"
+   ]
+  },
+  "46": {
+   "en": [
+    "where their ancient enemy had been taken."
+   ],
+   "jp": [
+    "そのありかを突き止めた"
+   ],
+   "ko": [
+    "그 소재를 알아냈다"
+   ]
+  },
+  "47": {
+   "en": [
+    "The Tediz homeworld,"
+   ],
+   "jp": [
+    "クマ軍のふるさと"
+   ],
+   "ko": [
+    "곰군의 고향"
+   ]
+  },
+  "48": {
+   "en": [
+    "also known as"
+   ],
+   "jp": [
+    "ドゥーンと呼ばれる"
+   ],
+   "ko": [
+    "둔이라 불리는"
+   ]
+  },
+  "49": {
+   "en": [
+    "Doon."
+   ],
+   "jp": [
+    "場所である"
+   ],
+   "ko": [
+    "장소다"
+   ]
+  },
+  "50": {
+   "en": [
+    "It was a race against time:"
+   ],
+   "jp": [
+    "これは時間との戦いだ"
+   ],
+   "ko": [
+    "이건 시간과의 싸움이다"
+   ]
+  },
+  "51": {
+   "en": [
+    "if the Tediz managed to revive"
+   ],
+   "jp": [
+    "クマ軍が大王を"
+   ],
+   "ko": [
+    "곰군이 대왕을"
+   ]
+  },
+  "52": {
+   "en": [
+    "their dormant leader"
+   ],
+   "jp": [
+    "よみがえらせれば"
+   ],
+   "ko": [
+    "되살린다면"
+   ]
+  },
+  "53": {
+   "en": [
+    "for either side,"
+   ],
+   "jp": [
+    "予想を裏切られた"
+   ],
+   "ko": [
+    "예상을 뒤엎는"
+   ]
+  },
+  "54": {
+   "en": [
+    "then a new reign of terror would begin,"
+   ],
+   "jp": [
+    "新たな恐怖が始まってしまう"
+   ],
+   "ko": [
+    "새로운 공포가 시작된다"
+   ]
+  },
+  "55": {
+   "en": [
+    "but if the small SHC assault force"
+   ],
+   "jp": [
+    "リス軍の強襲チームが"
+   ],
+   "ko": [
+    "다람쥐군의 강습팀이"
+   ]
+  },
+  "56": {
+   "en": [
+    "could get there first…"
+   ],
+   "jp": [
+    "先手を打たねば..."
+   ],
+   "ko": [
+    "선수를 쳐야..."
+   ]
+  },
+  "58": {
+   "en": [
+    "All they needed to do"
+   ],
+   "jp": [
+    "まずクマ軍の防衛ゲートを突破"
+   ],
+   "ko": [
+    "먼저 곰군의 방어문을 돌파한다"
+   ]
+  },
+  "59": {
+   "en": [
+    "was break through the Tediz defence gates,"
+   ],
+   "jp": [
+    "突破するのは　この３ヶ所"
+   ],
+   "ko": [
+    "돌파할 곳은　이 세 군데"
+   ]
+  },
+  "60": {
+   "en": [
+    "here,"
+   ],
+   "jp": [
+    "ここと"
+   ],
+   "ko": [
+    "여기와"
+   ]
+  },
+  "61": {
+   "en": [
+    "here"
+   ],
+   "jp": [
+    "ここ"
+   ],
+   "ko": [
+    "여기"
+   ]
+  },
+  "62": {
+   "en": [
+    "and here."
+   ],
+   "jp": [
+    "そして... ここだ"
+   ],
+   "ko": [
+    "그리고... 여기다"
+   ]
+  },
+  "63": {
+   "en": [
+    "They could be broken by either destroying"
+   ],
+   "jp": [
+    "方法は　ロックの破壊か"
+   ],
+   "ko": [
+    "방법은　자물쇠 파괴"
+   ]
+  },
+  "64": {
+   "en": [
+    "as it was revealed that the 'Thing'"
+   ],
+   "jp": [
+    "「それ」は..."
+   ],
+   "ko": [
+    "「그것」은..."
+   ]
+  },
+  "65": {
+   "en": [
+    "the locking mechanism or hacking it."
+   ],
+   "jp": [
+    "ハッキングだ"
+   ],
+   "ko": [
+    "해킹이다"
+   ]
+  },
+  "66": {
+   "en": [
+    "Once into the Tediz base,"
+   ],
+   "jp": [
+    "クマ軍の基地に入れば"
+   ],
+   "ko": [
+    "곰군의 기지에 들어가면"
+   ]
+  },
+  "67": {
+   "en": [
+    "all hell would break loose."
+   ],
+   "jp": [
+    "そこは地獄だ"
+   ],
+   "ko": [
+    "그곳은 지옥이다"
+   ]
+  },
+  "68": {
+   "en": [
+    "This time they had to be sure."
+   ],
+   "jp": [
+    "目標は明確"
+   ],
+   "ko": [
+    "목표는 명확"
+   ]
+  },
+  "70": {
+   "en": [
+    "The heart"
+   ],
+   "jp": [
+    "心臓だ"
+   ],
+   "ko": [
+    "심장이다"
+   ]
+  },
+  "71": {
+   "en": [
+    "they must destroy the heart!"
+   ],
+   "jp": [
+    "大王の心臓を破壊するのだ！"
+   ],
+   "ko": [
+    "대왕 심장을 파괴하라！"
+   ]
+  },
+  "72": {
+   "en": [
+    "wasn’t a weapon after all."
+   ],
+   "jp": [
+    "兵器ではなかった"
+   ],
+   "ko": [
+    "병기가 아니었다"
+   ]
+  },
+  "73": {
+   "en": [
+    "It was a tomb!"
+   ],
+   "jp": [
+    "２００年にわたり"
+   ],
+   "ko": [
+    "２００년에 걸쳐"
+   ]
+  },
+  "74": {
+   "en": [
+    "The Panther King had lain at rest"
+   ],
+   "jp": [
+    "パンサー大王が眠る"
+   ],
+   "ko": [
+    "판서 대왕이 잠든"
+   ]
+  },
+  "75": {
+   "en": [
+    "for two hundred years,"
+   ],
+   "jp": [
+    "墓だったのだ"
+   ],
+   "ko": [
+    "무덤이었다"
+   ]
+  },
+  "76": {
+   "en": [
+    "frozen in his icy prison."
+   ],
+   "jp": [
+    "まさに氷の墓標だ"
+   ],
+   "ko": [
+    "그야말로 얼음 묘비"
+   ]
+  },
+  "77": {
+   "en": [
+    "Before the SHC could react,"
+   ],
+   "jp": [
+    "リス軍が行動を起こす前に"
+   ],
+   "ko": [
+    "다람쥐군이 움직이기 전에"
+   ]
+  },
+  "78": {
+   "en": [
+    "That’s the first one down, but this is where the trouble begins. Get through that gate and onto the next one."
+   ],
+   "jp": [
+    "第１ゲート突破だ！ だが これからが面倒だぞ　次のゲートへ急げ "
+   ],
+   "ko": [
+    "제1문 돌파！ 이제부터가 골치다　다음 문으로 서둘러"
+   ]
+  },
+  "79": {
+   "en": [
+    "Okay guys, time is of the essence. Get through those gates A.S.A.P!"
+   ],
+   "jp": [
+    "いいか　時間がないぞ　一刻も早くゲートを抜けるんだ！"
+   ],
+   "ko": [
+    "알겠나　시간이 없다　한시라도 빨리 문을 통과해라！"
+   ]
+  },
+  "80": {
+   "en": [
+    "Base Beta"
+   ],
+   "jp": [
+    "ベータ基地"
+   ],
+   "ko": [
+    "베타 기지"
+   ]
+  },
+  "81": {
+   "en": [
+    "The Ship"
+   ],
+   "jp": [
+    "船上"
+   ],
+   "ko": [
+    "선상"
+   ]
+  },
+  "83": {
+   "en": [
+    "Base Alpha"
+   ],
+   "jp": [
+    "アルファ基地"
+   ],
+   "ko": [
+    "알파 기지"
+   ]
+  },
+  "84": {
+   "en": [
+    "Panther King is open to attack"
+   ],
+   "jp": [
+    "今だ　パンサー大王を攻撃しろ！"
+   ],
+   "ko": [
+    "지금이다　판서 대왕을 쳐라！"
+   ]
+  },
+  "85": {
+   "en": [
+    "Doon"
+   ],
+   "jp": [
+    "ドゥーン"
+   ],
+   "ko": [
+    "둔"
+   ]
+  },
+  "87": {
+   "en": [
+    "Doon"
+   ],
+   "jp": [
+    "ドゥーン"
+   ],
+   "ko": [
+    "둔"
+   ]
+  },
+  "88": {
+   "en": [
+    "Outside Base"
+   ],
+   "jp": [
+    "基地外側"
+   ],
+   "ko": [
+    "기지 외곽"
+   ]
+  },
+  "89": {
+   "en": [
+    "Second Defence"
+   ],
+   "jp": [
+    "第２ゲート"
+   ],
+   "ko": [
+    "제2문"
+   ]
+  }
+ }
+}

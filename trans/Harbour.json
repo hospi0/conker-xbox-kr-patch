@@ -1,0 +1,568 @@
+{
+ "scene": "Harbour",
+ "n": 26,
+ "entries": {
+  "0": {
+   "en": [
+    "Ughh!",
+    " I seem to have been knocked out for a second."
+   ],
+   "jp": [
+    "うあー！",
+    "気を失ってたのか"
+   ],
+   "ko": [
+    "으아ー！",
+    "기절했었나"
+   ]
+  },
+  "1": {
+   "en": [
+    "Ahh!",
+    " Yeah.",
+    " Now I remember.",
+    " Countdown. "
+   ],
+   "jp": [
+    "ああ！",
+    "そうか！\n",
+    "思い出した",
+    "爆発するんだ"
+   ],
+   "ko": [
+    "그래！",
+    "그래！\n",
+    "생각났다",
+    "폭발한다"
+   ]
+  },
+  "2": {
+   "en": [
+    "Ohhh shhhh..."
+   ],
+   "jp": [
+    "ああ　クソ..."
+   ],
+   "ko": [
+    "아　젠장..."
+   ]
+  },
+  "3": {
+   "en": [
+    "Oh! You're awake!",
+    " Come over here, boy."
+   ],
+   "jp": [
+    "目が覚めたか\n",
+    "こっちへ来い"
+   ],
+   "ko": [
+    "정신이 들었나\n",
+    "이리 와라"
+   ]
+  },
+  "4": {
+   "en": [
+    "Come and look at this."
+   ],
+   "jp": [
+    "見てみろ"
+   ],
+   "ko": [
+    "봐라"
+   ]
+  },
+  "5": {
+   "en": [
+    "Yeah!",
+    " War is a terrible thing, you know.",
+    "You're right there.",
+    " All these fine young men...",
+    " Sent off to do the dying.",
+    " While those bigwigs...",
+    " Those pen pushers...",
+    " Those guys who never ever...",
+    " See a single bullet whizz past their heads...",
+    " We wanna get them down here.",
+    " Those so-called generals...",
+    " In their big fancy houses...",
+    " Twenty miles behind enemy lines.",
+    " Who are they to tell us?",
+    " Who are they indeed?"
+   ],
+   "jp": [
+    "ああ！",
+    "戦争はひどい",
+    "まったくだ...",
+    "善良な若者たちが...",
+    "死ぬために戦地へ",
+    "送られてくる",
+    "デカい家にいる 将軍たちや",
+    "安全な場所で",
+    "座っているだけの連中に",
+    "この光景を",
+    "見せてやりたいよ",
+    "命の危険など",
+    "感じたこともないってのに",
+    "あいつらは何だ",
+    "何様のつもりなんだ"
+   ],
+   "ko": [
+    "그래！",
+    "전쟁은 끔찍하다",
+    "정말이지...",
+    "선량한 젊은이들이...",
+    "죽으러 전장으로",
+    "보내지고 있다",
+    "큰 집에 사는 장군들이나",
+    "안전한 곳에",
+    "앉아 있기만 하는 놈들에게",
+    "이 광경을",
+    "보여주고 싶다",
+    "목숨의 위험 따위",
+    "느껴본 적도 없으면서",
+    "그놈들은 뭐냐",
+    "자기가 뭐라도 되는 줄 아나"
+   ]
+  },
+  "6": {
+   "en": [
+    "Look at that!",
+    " What a sight.",
+    "Yes it is.",
+    " Yes it is.",
+    "The horror!"
+   ],
+   "jp": [
+    "あれを見ろ！",
+    "なんて光景だ",
+    "ああ...　まったくだ\n",
+    "恐ろしいよ！",
+    "恐ろしい..."
+   ],
+   "ko": [
+    "저것을 봐라！",
+    "이 무슨 광경이냐",
+    "아아...　정말이지\n",
+    "무서워！",
+    "무섭다..."
+   ]
+  },
+  "7": {
+   "en": [
+    "The horror!"
+   ],
+   "jp": [
+    "恐ろしい！"
+   ],
+   "ko": [
+    "무섭다！"
+   ]
+  },
+  "8": {
+   "en": [
+    "I recognize that voice!"
+   ],
+   "jp": [
+    "あの声は..."
+   ],
+   "ko": [
+    "저 소리는..."
+   ]
+  },
+  "9": {
+   "en": [
+    "It's rodent!",
+    " He made it, guys! Yeah!",
+    "Wahay!",
+    "Way to go!",
+    "Our hero!",
+    "Yeah, he made it!"
+   ],
+   "jp": [
+    "ロデント！",
+    "ヤツが助かった！",
+    "やった！",
+    "でかした！",
+    "ヒーローだ！",
+    "生きてた！"
+   ],
+   "ko": [
+    "로던트！",
+    "저놈이 살았다！",
+    "좋았어！",
+    "잘했다！",
+    "영웅이다！",
+    "살아 있었어！"
+   ]
+  },
+  "10": {
+   "en": [
+    "Some time later..."
+   ],
+   "jp": [
+    "しばらくして..."
+   ],
+   "ko": [
+    "잠시 후..."
+   ]
+  },
+  "11": {
+   "en": [
+    "Yeh, I've got a bit of a problem.",
+    " I'll come out now."
+   ],
+   "jp": [
+    "ごめん　調子が悪いもんで\n",
+    "今　出るよ"
+   ],
+   "ko": [
+    "미안　몸이 안 좋아서\n",
+    "지금　나갈게"
+   ]
+  },
+  "12": {
+   "en": [
+    "I seem to have this thing attached to my back.",
+    " I can't see what it is.",
+    "You needn't worry about that.",
+    "C'mon, let's go.",
+    "I'm a little tired.",
+    " Could you give me a hand?",
+    " Just get around back there,",
+    "and just give me a hand?",
+    "Well, okay."
+   ],
+   "jp": [
+    "背中に何がくっついてるのか",
+    "自分じゃ見えないんだ",
+    "心配いらないって",
+    "ほら　行こう",
+    "ちょっと疲れたな",
+    "手を貸して",
+    "ぼくの後ろに来て",
+    "押してくれるかい",
+    "ああ　いいとも"
+   ],
+   "ko": [
+    "등에 뭐가 붙어 있는지",
+    "나 자신은 안 보인단 말이야",
+    "걱정할 것 없다니까",
+    "자　가자",
+    "좀 지쳤네",
+    "손 좀 빌려줘",
+    "내 뒤로 와",
+    "밀어줄래",
+    "아　그러지"
+   ]
+  },
+  "13": {
+   "en": [
+    "I'll just sit here."
+   ],
+   "jp": [
+    "ここに座ろう"
+   ],
+   "ko": [
+    "여기 앉자"
+   ]
+  },
+  "14": {
+   "en": [
+    "Dang, boy!",
+    " We sure is lucky bastards!",
+    " To survive that atrocious atrocity.",
+    " Come over here now, sonny!"
+   ],
+   "jp": [
+    "やったなこいつ！",
+    "運がいいぞ！",
+    "あんな状況で生き延びるとは！",
+    "来るんだ　若ぞう！"
+   ],
+   "ko": [
+    "해냈구나 이놈！",
+    "운이 좋구나！",
+    "그런 상황에서 살아남다니！",
+    "이리 와라　젊은이！"
+   ]
+  },
+  "15": {
+   "en": [
+    "Attention! "
+   ],
+   "jp": [
+    "気をつけ！"
+   ],
+   "ko": [
+    "차렷！"
+   ]
+  },
+  "16": {
+   "en": [
+    "That's better, form a nice line...",
+    " Oh! There's only one of you,",
+    "right, son...",
+    " we have a problem.",
+    " 08:30 Boat must arrive...",
+    " At said destination.",
+    " Then!",
+    " At 08:25, wait? Oh...",
+    " Eh? 08... Oh {SKULL}{STAR}{SWIRL}{LIGHTNING}{NORMAL}!",
+    " Tell you what...",
+    " {RED}{LIGHTNING}{SKULL}{STAR}{SWIRL}{NORMAL} that {SKULL}{RED}{STAR}{SWIRL}{LIGHTNING}{NORMAL}.",
+    " You certainly look like a resourceful kinda guy.",
+    " I don't care much for...",
+    " The attire.",
+    " But let's just see if you can redeem yourself.",
+    " Here is the mission...",
+    " You can accept it",
+    "as you wish.",
+    " One...",
+    " Clear the way.",
+    " We have gotta get our men outta here pronto!",
+    " We is got a war to fight!",
+    " Two...",
+    " Clear the way!",
+    " Oh eh!",
+    " {RED}{LIGHTNING}{RED}{SKULL}{RED}{STAR}{RED}{SWIRL}{NORMAL} that {SKULL}{STAR}{SWIRL}{LIGHTNING}{NORMAL}.",
+    " What are you waiting for, sonny?",
+    " Get that dang thing outta there.",
+    " Right! See you in the boat."
+   ],
+   "jp": [
+    "きちんと整列するんだ！",
+    " ん？ なんだ？ お前ひとりだけなのか？",
+    "まあいい...　よく聞くんだ！",
+    "\n実は...　問題が起きた",
+    "予定では...　０８:３０にボートが",
+    "目的地に到着",
+    " そして！　それでだな...",
+    "０８:２５に...　待てよ？",
+    "あっ？　あれ？ ０８...　って{SKULL}{STAR}{SWIRL}{LIGHTNING}{NORMAL}！",
+    "あのな...　",
+    "{RED}{LIGHTNING}{SKULL}{STAR}{SWIRL}{NORMAL}だから{SKULL}{RED}{STAR}{SWIRL}{LIGHTNING}{NORMAL}か！ クソっ！",
+    "　 \nいや...　お前ならきっと なんとかなるだろう",
+    "         服装については",
+    "気にせんが...",
+    "改善の努力はしてほしい",
+    "\nでは任務だ",
+    "成功するかどうかは",
+    "お前しだいだぞ",
+    "\nひとつめは...",
+    "道を切りひらけ ",
+    "ここを速やかに出発する！",
+    "戦争に行くんだからな！",
+    " ふたつめは...",
+    "道を切りひらけ！",
+    "　 ああ　ちがった！",
+    "{RED}{LIGHTNING}{RED}{SKULL}{RED}{STAR}{RED}{SWIRL}{NORMAL}なんて{SKULL}{STAR}{SWIRL}{LIGHTNING}{NORMAL}だ！\n",
+    "なんで突っ立ってる！",
+    "早くあの飛行機を片づけろ",
+    "よし！　ボートで会おう！"
+   ],
+   "ko": [
+    "제대로 줄을 서라！",
+    " 음? 뭐냐? 너 혼자뿐인가?",
+    "뭐 됐다...　잘 들어라！",
+    "\n실은...　문제가 생겼다",
+    "예정으로는...　０８:３０에 보트가",
+    "목적지에 도착",
+    " 그리고！　그래서 말이지...",
+    "０８:２５에...　잠깐?",
+    "아?　어? ０８...　이라니 {SKULL}{STAR}{SWIRL}{LIGHTNING}{NORMAL}！",
+    "저기 말이야...　",
+    "{RED}{LIGHTNING}{SKULL}{STAR}{SWIRL}{NORMAL}라서 {SKULL}{RED}{STAR}{SWIRL}{LIGHTNING}{NORMAL}인가！ 젠장！",
+    "　 \n아니...　자네라면 분명 어떻게든 될 거다",
+    "         복장에 대해선",
+    "신경 안 쓰지만...",
+    "개선하려는 노력은 해주게",
+    "\n그럼 임무다",
+    "성공하느냐 마느냐는",
+    "자네에게 달렸다",
+    "\n첫째는...",
+    "길을 뚫어라 ",
+    "여기서 신속히 출발한다！",
+    "전쟁에 나가는 거니까！",
+    " 둘째는...",
+    "길을 뚫어라！",
+    "　 아　틀렸다！",
+    "{RED}{LIGHTNING}{RED}{SKULL}{RED}{STAR}{RED}{SWIRL}{NORMAL}같은 {SKULL}{STAR}{SWIRL}{LIGHTNING}{NORMAL}이다！\n",
+    "왜 우두커니 서 있나！",
+    "빨리 저 비행기를 치워라",
+    "좋다！　보트에서 보자！"
+   ]
+  },
+  "17": {
+   "en": [
+    "I don't know what I've been told...",
+    " Do do do do do do do..."
+   ],
+   "jp": [
+    "ふたつめは何だっけ...",
+    "ドゥドゥドゥ..."
+   ],
+   "ko": [
+    "둘째가 뭐였더라...",
+    "두두두..."
+   ]
+  },
+  "18": {
+   "en": [
+    "I don't know what I've been told...",
+    " Do do do...",
+    " I don't know...",
+    " What eh?"
+   ],
+   "jp": [
+    "ふたつめは何だっけ...",
+    "ドゥドゥドゥ...",
+    "ふたつめは...",
+    "忘れた"
+   ],
+   "ko": [
+    "둘째가 뭐였더라...",
+    "두두두...",
+    "둘째는...",
+    "잊어버렸다"
+   ]
+  },
+  "19": {
+   "en": [
+    "Ah, {RED}{SKULL}{STAR}{LIGHTNING}{SWIRL}{NORMAL} that {SKULL}{RED}{STAR}{SWIRL}{LIGHTNING}{NORMAL}!"
+   ],
+   "jp": [
+    "まったく...　{RED}{SKULL}{STAR}{LIGHTNING}{SWIRL}{NORMAL}だから{SKULL}{RED}{STAR}{SWIRL}{LIGHTNING}{NORMAL}！"
+   ],
+   "ko": [
+    "정말이지...　{RED}{SKULL}{STAR}{LIGHTNING}{SWIRL}{NORMAL}라서 {SKULL}{RED}{STAR}{SWIRL}{LIGHTNING}{NORMAL}！"
+   ]
+  },
+  "20": {
+   "en": [
+    "I'll just stay here.",
+    " You go on."
+   ],
+   "jp": [
+    "ここにいるよ",
+    "君は行って"
+   ],
+   "ko": [
+    "여기 있어",
+    "너는 가서"
+   ]
+  },
+  "21": {
+   "en": [
+    "Ah! Another one.",
+    " Hi."
+   ],
+   "jp": [
+    "また別のがいる",
+    "やあ"
+   ],
+   "ko": [
+    "또 다른 게 있어",
+    "안녕"
+   ]
+  },
+  "22": {
+   "en": [
+    "Er, what do you mean?",
+    " I don't suppose you could...",
+    "Yeah, I know, toilet paper. C'mon, out."
+   ],
+   "jp": [
+    "別のって　どういう意味？\n",
+    "あれ　ある？",
+    "紙ならない　出て来いよ"
+   ],
+   "ko": [
+    "다른 게　무슨 뜻이야?\n",
+    "저거　있나?",
+    "휴지는 없어　나오라고"
+   ]
+  },
+  "23": {
+   "en": [
+    "Ok, I've done what you asked.",
+    "Well done, soldier.",
+    "What the hell is that?"
+   ],
+   "jp": [
+    "任務完了したよ",
+    "でかしたぞ！",
+    "あれは何だ？"
+   ],
+   "ko": [
+    "임무 완료했어",
+    "잘했다！",
+    "저건 뭐지?"
+   ]
+  },
+  "24": {
+   "en": [
+    "Whoa, you've got a problem.",
+    "Hi there, little fella,",
+    "are you the janitor?",
+    " I don't suppose you have any toilet paper?",
+    "No, I'm not the janitor,",
+    "and can we please have this conversation",
+    "somewhere else?",
+    " I think I'm starting to gag."
+   ],
+   "jp": [
+    "オエッ\nカンベンしてくれよ",
+    "やあ　こんにちは",
+    "そうじ係かい？",
+    "トイレットペーパー持ってない？",
+    "そうじ係じゃないんだ",
+    "\n話の続きは",
+    "よそでやろう\n",
+    "おれ　もう吐きそう"
+   ],
+   "ko": [
+    "우엑\n좀 봐줘",
+    "어이　안녕",
+    "청소부인가?",
+    "휴지 없어?",
+    "청소부가 아니라고",
+    "\n얘기는 이어서",
+    "다른 데서 하지\n",
+    "나　토할 것 같아"
+   ]
+  },
+  "25": {
+   "en": [
+    "Oh yeah!",
+    " Power nodes are down.",
+    " They need to have some electricity",
+    "put through them.",
+    " How ya gonna do that I don't know.",
+    " Suffice to say there's an electric eel in there.",
+    " And some things.",
+    " I'll leave it up to you."
+   ],
+   "jp": [
+    "ああ！",
+    "電源が入ってない",
+    "なんとか電気を通す",
+    "必要があるな",
+    "どうやってもかまわん",
+    "ここには電気ウナギがいるぞ",
+    "ほかにもいろいろな",
+    "お前にまかせたぞ"
+   ],
+   "ko": [
+    "그래！",
+    "전원이 안 켜져",
+    "어떻게든 전기를 통하게",
+    "해야겠는데",
+    "어떻게 하든 상관없다",
+    "여기 전기뱀장어가 있잖아",
+    "그 밖에도 여러 가지",
+    "너한테 맡기겠다"
+   ]
+  }
+ }
+}

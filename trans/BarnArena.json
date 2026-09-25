@@ -1,0 +1,237 @@
+{
+ "scene": "BarnArena",
+ "n": 9,
+ "entries": {
+  "0": {
+   "en": [
+    "Mr. Squirrel...",
+    "I think I'm a goner.",
+    "You don't look too good.",
+    "Em, you may be alright.",
+    "Whaddya mean alright.",
+    "Look at me...",
+    " I'm broken in two!",
+    "I'm just firewood from now.",
+    "They'll be using me as toothpicks before you know it.",
+    "Aw, you'll be alright, c'mon.",
+    "What are ya goin' to do?",
+    "Well, I've got an idea...",
+    "... Okay let's see!"
+   ],
+   "jp": [
+    "リスさん...",
+    "もうダメだ",
+    "かもな",
+    "いや　きっと大丈夫だ",
+    "大丈夫だって？",
+    "見てよ　まっぷたつ！",
+    "これじゃあ",
+    "ただの棒きれだ！",
+    "つまようじにされちゃうよ！",
+    "心配するなって",
+    "どうするのさ？",
+    "まかせとけって",
+    "待ってな"
+   ],
+   "ko": [
+    "다람쥐 씨...",
+    "이제 틀렸어",
+    "그럴지도",
+    "아니　분명 괜찮을 거야",
+    "괜찮다고?",
+    "봐봐　반토막이야！",
+    "이래서야",
+    "그냥 막대기잖아！",
+    "이쑤시개 신세가 될 거야！",
+    "걱정하지 말라니까",
+    "어떻게 할 건데?",
+    "맡기라니까",
+    "기다려"
+   ]
+  },
+  "1": {
+   "en": [
+    "There ya go.",
+    "Good as new.",
+    "Eh, kinda feels alright!",
+    "It ain't so bad after all.",
+    "Whaddya think?",
+    "Yeh, looks great.",
+    "Whaddya mean?",
+    "No, it looks great!",
+    "Y'know, thank you, mr. Squirrel.",
+    "I think that, of all the people in the world",
+    "that I've ever met,",
+    "you is got to be the most generous,",
+    "kindest, nicest, nicest...",
+    "Okay, no need to get sentimental.",
+    "Anyway, we need to find a way outta here now!",
+    "Yeh, you could be right."
+   ],
+   "jp": [
+    "どうだ",
+    "バッチリ！",
+    "これならいけそうだ",
+    "\n悪くない気分だ",
+    "どうかな？",
+    "いいじゃん",
+    "ホントに？",
+    "最高じゃん！",
+    "ありがとう",
+    "ぼくの知り合いのなかで",
+    "あんたは",
+    "誰よりも太っ腹で",
+    "親切で 思いやりがあって それに...",
+    "しめっぽいのはよせ",
+    "それより早く逃げないと",
+    "その通りだね"
+   ],
+   "ko": [
+    "어때",
+    "완벽해！",
+    "이거면 될 것 같은데",
+    "\n나쁘지 않은 기분이야",
+    "어떨까?",
+    "괜찮잖아",
+    "정말로?",
+    "최고잖아！",
+    "고마워",
+    "내가 아는 사람들 중에서",
+    "당신은",
+    "누구보다 통이 크고",
+    "친절하고 배려심 있고 게다가...",
+    "감상적인 건 그만둬",
+    "그보다 빨리 도망가야지",
+    "맞는 말이야"
+   ]
+  },
+  "2": {
+   "en": [
+    "Yep!",
+    "Just typical.",
+    "Er, oh! anyway, mr. Squirrel,",
+    "I've... Er, i've gotta go.",
+    "See ya!"
+   ],
+   "jp": [
+    "やっぱり！",
+    "お約束だな",
+    "それじゃ リスさん",
+    "\nお別れだ",
+    "...またね！"
+   ],
+   "ko": [
+    "역시！",
+    "정해진 수순이지",
+    "그럼 다람쥐 씨",
+    "\n작별이다",
+    "...또 봐！"
+   ]
+  },
+  "3": {
+   "en": [
+    "Oh!",
+    "Suppose I better start swimming.",
+    "Don't like the look of those wires.",
+    "Better be quick."
+   ],
+   "jp": [
+    "あー！",
+    "泳いだ方がいいな",
+    "あのワイヤーもヤバそうだし",
+    "\n急がないと"
+   ],
+   "ko": [
+    "아ー！",
+    "헤엄치는 게 낫겠다",
+    "저 전선도 위험해 보이고",
+    "\n서둘러야지"
+   ]
+  },
+  "4": {
+   "en": [
+    "What's up, little squirrel fella?",
+    "We showed him, didn't we!",
+    "Yeh! that was a piece of cake.",
+    "Yeh! it was, actually.",
+    "Makes a change."
+   ],
+   "jp": [
+    "リスさん　大丈夫？",
+    "ヤツを倒したね",
+    "ホント楽勝だったよね",
+    "ああ　まったくだ",
+    "スッキリした"
+   ],
+   "ko": [
+    "다람쥐 씨　괜찮아?",
+    "저놈을 쓰러뜨렸네",
+    "정말 완승이었지",
+    "그래　정말이지",
+    "속이 시원해"
+   ]
+  },
+  "5": {
+   "en": [
+    "I don't think I like the sound of that music!",
+    "I don't think I like the sound of that music either!"
+   ],
+   "jp": [
+    "この音楽　イヤな予感がする",
+    "ぼくも　イヤな予感がするんだよね"
+   ],
+   "ko": [
+    "이 음악　불길한 예감이 들어",
+    "나도　불길한 예감이 들어"
+   ]
+  },
+  "6": {
+   "en": [
+    "Suzie 9mm!",
+    "I'm right here, sweety pie.",
+    "Just tell me where to shoot."
+   ],
+   "jp": [
+    "スージー出てこい",
+    "ダーリン呼んだ？",
+    "\nどこを狙えばいい？"
+   ],
+   "ko": [
+    "수지 나와라",
+    "달링 불렀어?",
+    "\n어딜 노려야 해?"
+   ]
+  },
+  "7": {
+   "en": [
+    "Ooww! I think I've hurt my leg."
+   ],
+   "jp": [
+    "足　ケガしちまった"
+   ],
+   "ko": [
+    "다리를　다쳤어"
+   ]
+  },
+  "8": {
+   "en": [
+    "We definitely showed him that time!",
+    "Em, hey, Franky...\n",
+    "...Franky, where's he gone?",
+    "Oh no..."
+   ],
+   "jp": [
+    "ざまー見ろ！",
+    "あれ　フランキーは？",
+    "フランキー　どこだ？",
+    "ああ..."
+   ],
+   "ko": [
+    "꼴 좋다！",
+    "어라　프랭키는?",
+    "프랭키　어디 있어?",
+    "아아..."
+   ]
+  }
+ }
+}

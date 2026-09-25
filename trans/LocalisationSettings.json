@@ -1,0 +1,17 @@
+{
+ "scene": "LocalisationSettings",
+ "n": 5,
+ "entries": {
+  "2": {
+   "en": [
+    "no"
+   ],
+   "jp": [
+    "いいえ"
+   ],
+   "ko": [
+    "아니오"
+   ]
+  }
+ }
+}

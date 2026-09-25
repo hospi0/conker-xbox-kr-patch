@@ -1,0 +1,413 @@
+{
+ "scene": "MPFortress",
+ "n": 61,
+ "entries": {
+  "19": {
+   "en": [
+    "With the second assault finally over,"
+   ],
+   "jp": [
+    "２度目の突撃が終わり"
+   ],
+   "ko": [
+    "두 번째 돌격이 끝나"
+   ]
+  },
+  "20": {
+   "en": [
+    "Demoralise the enemy"
+   ],
+   "jp": [
+    "敵の大切なフラッグをうばうことで"
+   ],
+   "ko": [
+    "적의 소중한 깃발을 빼앗음으로써"
+   ]
+  },
+  "21": {
+   "en": [
+    "by capturing their precious colors:"
+   ],
+   "jp": [
+    "相手の士気を"
+   ],
+   "ko": [
+    "상대의 사기를"
+   ]
+  },
+  "22": {
+   "en": [
+    "their flag."
+   ],
+   "jp": [
+    "くじくのだ"
+   ],
+   "ko": [
+    "꺾는 것이다"
+   ]
+  },
+  "24": {
+   "en": [
+    "The flags were deep inside each half"
+   ],
+   "jp": [
+    "フラッグは敵陣の奥深くにある"
+   ],
+   "ko": [
+    "깃발은 적진 깊숙한 곳에 있다"
+   ]
+  },
+  "25": {
+   "en": [
+    "In order to secure victory"
+   ],
+   "jp": [
+    "勝利のために"
+   ],
+   "ko": [
+    "승리를 위해"
+   ]
+  },
+  "26": {
+   "en": [
+    "each would need to be brought intact"
+   ],
+   "jp": [
+    "敵のフラッグをうばい"
+   ],
+   "ko": [
+    "적의 깃발을 빼앗아"
+   ]
+  },
+  "27": {
+   "en": [
+    "to the pick-up point,"
+   ],
+   "jp": [
+    "無事　自陣まで持ち帰れ"
+   ],
+   "ko": [
+    "무사히　자기 진영까지"
+   ]
+  },
+  "28": {
+   "en": [
+    "there to be filmed"
+   ],
+   "jp": [
+    "その様子は"
+   ],
+   "ko": [
+    "그 모습은"
+   ]
+  },
+  "29": {
+   "en": [
+    "and broadcast to all the enemy troops."
+   ],
+   "jp": [
+    "敵軍に向け放送される"
+   ],
+   "ko": [
+    "적군을 향해 방송된다"
+   ]
+  },
+  "30": {
+   "en": [
+    "the battle moved inland,"
+   ],
+   "jp": [
+    "戦いは内陸へ"
+   ],
+   "ko": [
+    "싸움은 내륙으로"
+   ]
+  },
+  "31": {
+   "en": [
+    "It was a long shot and unlikely to work,"
+   ],
+   "jp": [
+    "成功の見込みのない作戦だが"
+   ],
+   "ko": [
+    "가망 없는 작전이지만"
+   ]
+  },
+  "32": {
+   "en": [
+    "but in war, anything goes."
+   ],
+   "jp": [
+    "戦争で常識は通用しない"
+   ],
+   "ko": [
+    "전쟁에 상식은 없다"
+   ]
+  },
+  "33": {
+   "en": [
+    "Von Kriplespac's forces making a tactical retreat"
+   ],
+   "jp": [
+    "クリプルスパックらは"
+   ],
+   "ko": [
+    "크리플스팩 일당은"
+   ]
+  },
+  "34": {
+   "en": [
+    "to a disused prison known as"
+   ],
+   "jp": [
+    "フォートレスと呼ばれる古い監獄へ"
+   ],
+   "ko": [
+    "포트리스라 불리는 낡은 감옥으로"
+   ]
+  },
+  "35": {
+   "en": [
+    "'The Fortress'."
+   ],
+   "jp": [
+    "戦略的退却をした"
+   ],
+   "ko": [
+    "전략적 퇴각을 했다"
+   ]
+  },
+  "36": {
+   "en": [
+    "The Tediz had secured one half of the structure,"
+   ],
+   "jp": [
+    "クマ軍は建物の半分を確保したが"
+   ],
+   "ko": [
+    "곰군은 건물의 절반을 확보했지만"
+   ]
+  },
+  "37": {
+   "en": [
+    "and the SHC the other…"
+   ],
+   "jp": [
+    "残り半分はリス軍が占拠"
+   ],
+   "ko": [
+    "나머지는 다람쥐군 점거"
+   ]
+  },
+  "38": {
+   "en": [
+    "a stalemate."
+   ],
+   "jp": [
+    "こう着状態に"
+   ],
+   "ko": [
+    "교착 상태로"
+   ]
+  },
+  "39": {
+   "en": [
+    "Only one thing here could assure victory."
+   ],
+   "jp": [
+    "ここで勝利する方法はひとつ"
+   ],
+   "ko": [
+    "여기서 승리하는 방법은 하나"
+   ]
+  },
+  "40": {
+   "en": [
+    "Hu! @#$@# idiots, they've dropped it. Quickly guys! Locate that flag and retrieve it."
+   ],
+   "jp": [
+    "まぬけな @#$@# め！ フラッグを落としたぞ　フラッグを見つけ 取り戻せ！"
+   ],
+   "ko": [
+    "멍청한 @#$@# 놈！ 깃발을 떨어뜨렸다　깃발을 찾아 되찾아라！"
+   ]
+  },
+  "41": {
+   "en": [
+    "Oh no, all is lost, they’ve captured the flag! This is the end…"
+   ],
+   "jp": [
+    "ああ みんなやられた　フラッグをうばわれた！　おしまいだ..."
+   ],
+   "ko": [
+    "아 다들 당했다　깃발을 빼앗겼다！　끝이다..."
+   ]
+  },
+  "42": {
+   "en": [
+    "Yeh! Excellent. We are victorious. Look at em all? They're hanging themselves; they're setting fire to themselves. They are in despair. The S.H.C. have claimed another victory."
+   ],
+   "jp": [
+    "やった！　我々の勝利だ！　ヤツら味方同士で撃ち合いはじめたぞ　ヤケになってる　我らリス軍は勝利したんだ！"
+   ],
+   "ko": [
+    "됐다！　우리의 승리다！　놈들이 아군끼리 총질을 시작했다　자포자기했군　우리 다람쥐군이 승리했다！"
+   ]
+  },
+  "43": {
+   "en": [
+    "Yeh! We've got the flag. Man coming through. Hurry guys, he's vulnerable out there!"
+   ],
+   "jp": [
+    "よし  フラッグを手に入れた！　これでクマどもも 終わりだ！  さあ 急いで戻れ！"
+   ],
+   "ko": [
+    "좋다 깃발을 손에 넣었다！　이걸로 곰 놈들도 끝이다！ 자 서둘러 돌아가라！"
+   ]
+  },
+  "44": {
+   "en": [
+    "Ha ha! Zey have dropped ze flag. Quickly my Tediz, find it and retrieve it."
+   ],
+   "jp": [
+    "まぬけめ　フラッグを落としたぞ　急げ　フラッグを取り戻せ"
+   ],
+   "ko": [
+    "멍청한 놈　깃발을 떨어뜨렸다　서둘러라　깃발을 되찾아라"
+   ]
+  },
+  "45": {
+   "en": [
+    "Oh no, zey have captured ze flag! We are lost, we are lost…"
+   ],
+   "jp": [
+    "ああ　ヤツらがフラッグを！　我々の敗北だ　そんな..."
+   ],
+   "ko": [
+    "아　놈들이 깃발을！　우리의 패배다　그럴 수가..."
+   ]
+  },
+  "46": {
+   "en": [
+    "Ha ha! Good! Excellent! We are victorious. Zey are zrowing zemselves onto zeir weapons in despair. Ze Tediz are victorious!"
+   ],
+   "jp": [
+    "すばらしい！　我々の勝利だ！　リスどもめ ヤケになって自分の武器で自分を撃ち始めたぞ　我々クマ軍の勝利だ！"
+   ],
+   "ko": [
+    "훌륭하다！　우리의 승리！　다람쥐 놈들 자포자기해 제 무기로 자길 쏘기 시작했다　곰군의 승리다！"
+   ]
+  },
+  "47": {
+   "en": [
+    "Ha ha, wonderbar! We have ze flag. Now all of you, bring it back to me. Hurry, hurry!"
+   ],
+   "jp": [
+    "いいぞ！  フラッグは手に入れた  さあ　フラッグを私のもとへ戻すんだ  急げ！"
+   ],
+   "ko": [
+    "좋다！ 깃발은 손에 넣었다 자　깃발을 내게로 가져와라 서둘러라！"
+   ]
+  },
+  "48": {
+   "en": [
+    "Oh no! Ze flag has been stolen. Find ze thieves and eliminate zem immediately."
+   ],
+   "jp": [
+    "たいへんだ フラッグが盗まれた！　直ちに泥棒どもを見つけて排除しろ！"
+   ],
+   "ko": [
+    "큰일이다 깃발을 도둑맞았다！　즉시 도둑놈들을 찾아 배제해라！"
+   ]
+  },
+  "49": {
+   "en": [
+    "The Bridge"
+   ],
+   "jp": [
+    "橋"
+   ],
+   "ko": [
+    "다리"
+   ]
+  },
+  "51": {
+   "en": [
+    "Flag"
+   ],
+   "jp": [
+    "フラッグ"
+   ],
+   "ko": [
+    "깃발"
+   ]
+  },
+  "52": {
+   "en": [
+    "Oh no guys! The flag's been stolen. Find those thieving #@$#@ and eliminate them immediately."
+   ],
+   "jp": [
+    "たいへんだ　フラッグが盗まれた！　盗んだ#@$#@ どもを見つけて 排除しろ！"
+   ],
+   "ko": [
+    "큰일이다　깃발을 도둑맞았다！　훔친 #@$#@ 놈들을 찾아 배제해라！"
+   ]
+  },
+  "54": {
+   "en": [
+    "Fortress Deux"
+   ],
+   "jp": [
+    "ダブルフォートレス"
+   ],
+   "ko": [
+    "더블 포트리스"
+   ]
+  },
+  "55": {
+   "en": [
+    "The Bridge"
+   ],
+   "jp": [
+    "橋"
+   ],
+   "ko": [
+    "다리"
+   ]
+  },
+  "58": {
+   "en": [
+    "Fortress Deux"
+   ],
+   "jp": [
+    "ダブルフォートレス"
+   ],
+   "ko": [
+    "더블 포트리스"
+   ]
+  },
+  "59": {
+   "en": [
+    "Fortress"
+   ],
+   "jp": [
+    "とりで"
+   ],
+   "ko": [
+    "요새"
+   ]
+  },
+  "60": {
+   "en": [
+    "Fortress"
+   ],
+   "jp": [
+    "とりで"
+   ],
+   "ko": [
+    "요새"
+   ]
+  }
+ }
+}

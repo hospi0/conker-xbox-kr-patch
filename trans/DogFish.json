@@ -1,0 +1,561 @@
+{
+ "scene": "DogFish",
+ "n": 36,
+ "entries": {
+  "0": {
+   "en": [
+    "What! A dollar."
+   ],
+   "jp": [
+    "たったの　１　ドル？"
+   ],
+   "ko": [
+    "겨우　１　달러?"
+   ]
+  },
+  "1": {
+   "en": [
+    "Yes! Ten percent, as we agreed."
+   ],
+   "jp": [
+    "１０パーセントって約束したでしょ"
+   ],
+   "ko": [
+    "１０퍼센트라고 약속했잖아"
+   ]
+  },
+  "2": {
+   "en": [
+    "One...",
+    " Two...",
+    " Three...",
+    " Ten...",
+    " Ten dollars!",
+    " Ten dollars!",
+    " I thought you said it was a fortune?"
+   ],
+   "jp": [
+    "１...",
+    "２...",
+    "３...",
+    "１０...",
+    "たった１０ドル！",
+    "１０ドルぽっちかよ！",
+    "なにがお宝だ！"
+   ],
+   "ko": [
+    "１...",
+    "２...",
+    "３...",
+    "１０...",
+    "겨우 １０달러！",
+    "고작 １０달러냐！",
+    "무슨 보물이야！"
+   ]
+  },
+  "3": {
+   "en": [
+    "It is a fortune."
+   ],
+   "jp": [
+    "立派なお宝よ"
+   ],
+   "ko": [
+    "훌륭한 보물이야"
+   ]
+  },
+  "4": {
+   "en": [
+    "I'll tell you what, here's the new deal.",
+    " I keep the lot. See ya!"
+   ],
+   "jp": [
+    "それじゃ こうしよう",
+    "おれが全部もらっとく！\nじゃあな！"
+   ],
+   "ko": [
+    "그럼 이렇게 하지",
+    "내가 전부 가져갈게！\n그럼！"
+   ]
+  },
+  "5": {
+   "en": [
+    "What! what! The cheek?"
+   ],
+   "jp": [
+    "んまあ！ なんて図々しい！"
+   ],
+   "ko": [
+    "어머！ 뻔뻔하기도 해라！"
+   ]
+  },
+  "6": {
+   "en": [
+    "What do you think you're doing?",
+    " That's our money!"
+   ],
+   "jp": [
+    "なんてこと！",
+    "私たちのお金よ！"
+   ],
+   "ko": [
+    "이럴 수가！",
+    "우리 돈이야！"
+   ]
+  },
+  "7": {
+   "en": [
+    "Oh, um, ladies,",
+    "never mind the money for now.",
+    " I think it's time we were off.",
+    " Tally ho."
+   ],
+   "jp": [
+    "ねえ みなさん",
+    "この話はあとよ",
+    "もう行かないと",
+    "行きましょ"
+   ],
+   "ko": [
+    "저기 여러분",
+    "이 얘긴 나중에",
+    "이제 가야 해",
+    "가자고요"
+   ]
+  },
+  "8": {
+   "en": [
+    "So, you want some green stuff?"
+   ],
+   "jp": [
+    "おれ様が欲しいのか？"
+   ],
+   "ko": [
+    "나님을 원하는 거냐?"
+   ]
+  },
+  "9": {
+   "en": [
+    "Cool!",
+    "I'll be able to get rid of my mortgage",
+    "and buy my car.",
+    " Excellent!"
+   ],
+   "jp": [
+    "やったね！",
+    "ローンも返せるし",
+    "\n車も買えちゃうぜ",
+    "サイコー！"
+   ],
+   "ko": [
+    "해냈다！",
+    "대출도 갚을 수 있고",
+    "\n차도 살 수 있어",
+    "최고！"
+   ]
+  },
+  "10": {
+   "en": [
+    "What!"
+   ],
+   "jp": [
+    "はあ？"
+   ],
+   "ko": [
+    "허?"
+   ]
+  },
+  "11": {
+   "en": [
+    "Let me handle this, dear.",
+    " Listen here, you,",
+    "listen to me.",
+    " We'll give you ten percent.",
+    " That's our final offer."
+   ],
+   "jp": [
+    "私にまかせて\n",
+    "いい あなた",
+    "お聞きなさい\n",
+    "１０パーセントでどう？",
+    "それ以上はダメよ！"
+   ],
+   "ko": [
+    "내게 맡겨\n",
+    "이봐 당신",
+    "잘 들어\n",
+    "１０퍼센트면 어때?",
+    "그 이상은 안 돼！"
+   ]
+  },
+  "12": {
+   "en": [
+    "Ten percent?"
+   ],
+   "jp": [
+    "１０パーセント？"
+   ],
+   "ko": [
+    "１０퍼센트?"
+   ]
+  },
+  "13": {
+   "en": [
+    "Yes. But one thing to remember...",
+    " Shh! Come closer,",
+    "he's easily wound up.",
+    " Oh, and by the way,",
+    "the safe has a combination.",
+    " Yes, you know what that means?",
+    " Well, when it's not dangerous down there for us,",
+    "come back, and we'll open it for you.",
+    " Right, good luck, chop! chop!",
+    " Off with you!"
+   ],
+   "jp": [
+    "そうよ でも覚えておいて",
+    "こっちへ来て",
+    "ヤツの始末は簡単よ",
+    "それより金庫には",
+    "暗証番号がいるの",
+    "おわかりかしら？",
+    "ここが安全になったら",
+    "私たちが金庫を開けるわ",
+    "それじゃお願いね",
+    "行って！"
+   ],
+   "ko": [
+    "맞아 근데 기억해둬",
+    "이리 와",
+    "저놈 처리는 간단해",
+    "그보다 금고에는",
+    "비밀번호가 필요해",
+    "알겠어?",
+    "여기가 안전해지면",
+    "우리가 금고를 열게",
+    "그럼 부탁해",
+    "가！"
+   ]
+  },
+  "14": {
+   "en": [
+    "Hang on a sec! What was that about disposable?",
+    " Hey!",
+    " Ah well, cash!"
+   ],
+   "jp": [
+    "どうでもいい人がおれかよ！",
+    "おい！ ",
+    "...いいや 金のためだ！"
+   ],
+   "ko": [
+    "아무래도 좋은 사람이 나냐！",
+    "야！ ",
+    "...아니 돈을 위해서다！"
+   ]
+  },
+  "15": {
+   "en": [
+    "Well, you look like you could do with a little extra, my boy,",
+    "and we thought you might actually be interested in earning some cash."
+   ],
+   "jp": [
+    "なんだか物欲しそうに見えるからよ",
+    "あなた　おこづかい欲しくない？"
+   ],
+   "ko": [
+    "왠지 뭔가 원하는 것처럼 보여서",
+    "당신　용돈 필요하지 않아?"
+   ]
+  },
+  "16": {
+   "en": [
+    "You're offering me cash? Ok!",
+    " What's the catch?"
+   ],
+   "jp": [
+    "あんた金くれんの？\nいいよ！",
+    "何すんだ？"
+   ],
+   "ko": [
+    "너 돈 주는 거야?\n좋지！",
+    "뭐 하는 거야?"
+   ]
+  },
+  "17": {
+   "en": [
+    "There's this awful, awful brute swimming around.",
+    " He's terrible, and he's stolen our valuable belongings.",
+    " We need somebody disposable to go in and get rid of him."
+   ],
+   "jp": [
+    "恐ろしいブル魚が\n泳ぎ回ってるの",
+    "ヤツは私たちの宝を盗んだのよ",
+    "だから...　どうでもいい人に 追っぱらってもらおうと..."
+   ],
+   "ko": [
+    "무서운 황소물고기가\n헤엄쳐 다니고 있어",
+    "그놈이 우리 보물을 훔쳤어",
+    "그래서...　아무래도 좋은 사람한테 쫓아내달라고..."
+   ]
+  },
+  "18": {
+   "en": [
+    "Me, you mean?"
+   ],
+   "jp": [
+    "つまり おれに？"
+   ],
+   "ko": [
+    "그러니까 나한테?"
+   ]
+  },
+  "19": {
+   "en": [
+    "Well, you can't expect one of us to go, can he, ladies?",
+    " We're blue-blooded, don't you know."
+   ],
+   "jp": [
+    "私たちにできるわけないでしょ",
+    "育ちがいいんだから"
+   ],
+   "ko": [
+    "우리가 할 수 있을 리 없잖아",
+    "제대로 자랐으니까"
+   ]
+  },
+  "20": {
+   "en": [
+    "Well, asses to you then.",
+    " I gotta watch out for myself."
+   ],
+   "jp": [
+    "クソ食らえだ",
+    "お断りだね"
+   ],
+   "ko": [
+    "엿이나 먹으라지",
+    "사양이야"
+   ]
+  },
+  "21": {
+   "en": [
+    "Oh dear, what language."
+   ],
+   "jp": [
+    "まあ なんて言葉でしょ"
+   ],
+   "ko": [
+    "어머 그게 무슨 말이야"
+   ]
+  },
+  "22": {
+   "en": [
+    "Don't worry, dear, he's as common as muck.",
+    " Commoners talk like that. It's dreadful, isn't it?"
+   ],
+   "jp": [
+    "しかたない ただの凡人なのさ",
+    "凡人はみんなこう ひどいもんだ"
+   ],
+   "ko": [
+    "어쩔 수 없지 그냥 평범한 놈이라",
+    "평범한 놈들은 다 이렇지 고약해"
+   ]
+  },
+  "23": {
+   "en": [
+    "Ladies! Ladies!",
+    " It's that squirrel person again.",
+    " How are you?",
+    " I see our brutish friend didn't get his vittles today."
+   ],
+   "jp": [
+    "みなさん！見て！",
+    "あのリスさんよ",
+    "ごきげんよう",
+    "ヤツがおとなしいわ\nうまくいったのね？ "
+   ],
+   "ko": [
+    "여러분！ 봐요！",
+    "저 다람쥐 씨야",
+    "안녕하신가",
+    "저놈이 얌전하네\n잘된 거지? "
+   ]
+  },
+  "24": {
+   "en": [
+    "Yeh! Time enough for that.",
+    " I need the combination, thanks."
+   ],
+   "jp": [
+    "そろそろいいだろ...",
+    "暗証番号教えてくれよ"
+   ],
+   "ko": [
+    "슬슬 됐잖아...",
+    "비밀번호 알려줘"
+   ]
+  },
+  "25": {
+   "en": [
+    "No! No! You don't seem to understand.",
+    " Yes, you don't understand.",
+    " We can't go about giving away classified information like that",
+    "just to anybody."
+   ],
+   "jp": [
+    "ダメよ！ あなた何もわかってないようね",
+    "困った人だわ",
+    "大切な暗証番号を 教えられるわけないでしょ？",
+    "おわかり？"
+   ],
+   "ko": [
+    "안 돼！ 당신 아무것도 모르는군",
+    "곤란한 사람이네",
+    "소중한 비밀번호를 알려줄 수 있을 리 없잖아?",
+    "알겠어?"
+   ]
+  },
+  "26": {
+   "en": [
+    "We'll open the safe, won't we, ladies?",
+    " Lead the way."
+   ],
+   "jp": [
+    "金庫は私たちが開けるわ",
+    "先に行ってちょうだい"
+   ],
+   "ko": [
+    "금고는 우리가 열게",
+    "먼저 가 있어"
+   ]
+  },
+  "27": {
+   "en": [
+    "Now then, ladies.",
+    " There he is."
+   ],
+   "jp": [
+    "じゃ　みなさん",
+    "\nごらんあれ"
+   ],
+   "ko": [
+    "그럼　여러분",
+    "\n저길 봐요"
+   ]
+  },
+  "28": {
+   "en": [
+    "Oh! Oh look at..."
+   ],
+   "jp": [
+    "まあ！ あれを見て！"
+   ],
+   "ko": [
+    "어머！ 저것 좀 봐！"
+   ]
+  },
+  "29": {
+   "en": [
+    "Poo! Poo! To you, yes.",
+    " You brute.",
+    " Yes, that told him."
+   ],
+   "jp": [
+    "クソったれ！",
+    "ろくでなし！",
+    "言ってやったわ"
+   ],
+   "ko": [
+    "빌어먹을！",
+    "이 몹쓸 놈아！",
+    "말해줬어"
+   ]
+  },
+  "30": {
+   "en": [
+    "Oh! Dear!",
+    " He is bad-tempered, isn't he?",
+    " Now, where were we?"
+   ],
+   "jp": [
+    "あらイヤだ！",
+    "気むずかしいこと！",
+    "さあ　行きましょ..."
+   ],
+   "ko": [
+    "어머 싫어！",
+    "까다롭기도 하지！",
+    "자　가요..."
+   ]
+  },
+  "31": {
+   "en": [
+    "Now, let me see."
+   ],
+   "jp": [
+    "ちょっと待って"
+   ],
+   "ko": [
+    "잠깐만"
+   ]
+  },
+  "32": {
+   "en": [
+    "We'll wait here."
+   ],
+   "jp": [
+    "行ってちょうだい"
+   ],
+   "ko": [
+    "가주세요"
+   ]
+  },
+  "33": {
+   "en": [
+    "There you go. Open."
+   ],
+   "jp": [
+    "さあ...　開いたわ"
+   ],
+   "ko": [
+    "자...　열렸어"
+   ]
+  },
+  "34": {
+   "en": [
+    "You hoo! Squirrel person,",
+    "are you begging for food?"
+   ],
+   "jp": [
+    "ちょっとそこのリスさん　あなたよ！ ",
+    "食べ物でも欲しいの？"
+   ],
+   "ko": [
+    "잠깐 거기 다람쥐 씨　당신 말이야！ ",
+    "먹을 거라도 원하는 거야?"
+   ]
+  },
+  "35": {
+   "en": [
+    "Oh good, ladies!",
+    " He has the money.",
+    "Now give us back our money, honey,",
+    "and you'll get your dollar."
+   ],
+   "jp": [
+    "みなさん見て！\n",
+    "お金を持ってるわ",
+    "それを返してちょうだい",
+    "あなたには　１　ドルよ"
+   ],
+   "ko": [
+    "여러분 봐요！\n",
+    "돈을 갖고 있어",
+    "그거 돌려줘",
+    "당신한텐　１　달러야"
+   ]
+  }
+ }
+}

@@ -1,0 +1,622 @@
+{
+ "scene": "Credits",
+ "n": 59,
+ "entries": {
+  "0": {
+   "en": [
+    "<ƒ=1>"
+   ],
+   "jp": [
+    "<ƒ=1>"
+   ],
+   "ko": [
+    "<ƒ=1>"
+   ]
+  },
+  "1": {
+   "en": [
+    "<@[320,240]>"
+   ],
+   "jp": [
+    "<@[320,240]>"
+   ],
+   "ko": [
+    "<@[320,240]>"
+   ]
+  },
+  "2": {
+   "en": [
+    "<ƒ2>SPECIAL THANKS TO,,Mark Edmonds,Damien Sparks"
+   ],
+   "jp": [
+    "<ƒ2>SPECIAL THANKS TO,,Mark Edmonds,Damien Sparks"
+   ],
+   "ko": [
+    "<ƒ2>SPECIAL THANKS TO,,Mark Edmonds,Damien Sparks"
+   ]
+  },
+  "3": {
+   "en": [
+    "Aaron Nicholls,Mark Gere,Glenn Doren,Estelle Ellis,,,"
+   ],
+   "jp": [
+    "Aaron Nicholls,Mark Gere,Glenn Doren,Estelle Ellis,,,"
+   ],
+   "ko": [
+    "Aaron Nicholls,Mark Gere,Glenn Doren,Estelle Ellis,,,"
+   ]
+  },
+  "4": {
+   "en": [
+    "<ƒ2>THE MANUAL,,Leigh Loveday,"
+   ],
+   "jp": [
+    "<ƒ2>THE MANUAL,,Leigh Loveday,"
+   ],
+   "ko": [
+    "<ƒ2>THE MANUAL,,Leigh Loveday,"
+   ]
+  },
+  "5": {
+   "en": [
+    "Steve Burke,Christopher Marlow,and Grant (begrudgingly) Kirkhope,"
+   ],
+   "jp": [
+    "Steve Burke,Christopher Marlow,and Grant (begrudgingly) Kirkhope,"
+   ],
+   "ko": [
+    "Steve Burke,Christopher Marlow,and Grant (begrudgingly) Kirkhope,"
+   ]
+  },
+  "6": {
+   "en": [
+    "Nile Rodgers,Dweezil Zappa,Rabbit in the Moon,"
+   ],
+   "jp": [
+    "Nile Rodgers,Dweezil Zappa,Rabbit in the Moon,"
+   ],
+   "ko": [
+    "Nile Rodgers,Dweezil Zappa,Rabbit in the Moon,"
+   ]
+  },
+  "7": {
+   "en": [
+    "Gareth Stevenson,Gary Phelps,Scott MacDowall,"
+   ],
+   "jp": [
+    "Gareth Stevenson,Gary Phelps,Scott MacDowall,"
+   ],
+   "ko": [
+    "Gareth Stevenson,Gary Phelps,Scott MacDowall,"
+   ]
+  },
+  "8": {
+   "en": [
+    "Simon Chang,David Parkinson,Richard Cousins,Ross Bullimore,"
+   ],
+   "jp": [
+    "Simon Chang,David Parkinson,Richard Cousins,Ross Bullimore,"
+   ],
+   "ko": [
+    "Simon Chang,David Parkinson,Richard Cousins,Ross Bullimore,"
+   ]
+  },
+  "9": {
+   "en": [
+    "Donnchadh Murphy,Mark Betteridge,"
+   ],
+   "jp": [
+    "Donnchadh Murphy,Mark Betteridge,"
+   ],
+   "ko": [
+    "Donnchadh Murphy,Mark Betteridge,"
+   ]
+  },
+  "10": {
+   "en": [
+    "Simon Farmer,Mark Betteridge,Timothy Stamper,Christopher Stamper,"
+   ],
+   "jp": [
+    "Simon Farmer,Mark Betteridge,Timothy Stamper,Christopher Stamper,"
+   ],
+   "ko": [
+    "Simon Farmer,Mark Betteridge,Timothy Stamper,Christopher Stamper,"
+   ]
+  },
+  "11": {
+   "en": [
+    "<ƒ2>MICROSOFT TEST,,"
+   ],
+   "jp": [
+    "<ƒ2>MICROSOFT TEST,,"
+   ],
+   "ko": [
+    "<ƒ2>MICROSOFT TEST,,"
+   ]
+  },
+  "12": {
+   "en": [
+    "Andrew Franklin,Tom Arnold,Mike Forgey,Rick Lockyear,Paul Shinoda,Chris Hind,Mark Harrington,Sean Kellogg,Dave Johnson,Karie Daniel,Greg Swanson,Patrick Hui,Chris Chamberlain,TJ Duez,Rufus Marshall(Volt),Theo Lankford(Volt),"
+   ],
+   "jp": [
+    "Andrew Franklin,Tom Arnold,Mike Forgey,Rick Lockyear,Paul Shinoda,Chris Hind,Mark Harrington,Sean Kellogg,Dave Johnson,Karie Daniel,Greg Swanson,Patrick Hui,Chris Chamberlain,TJ Duez,Rufus Marshall(Volt),Theo Lankford(Volt),"
+   ],
+   "ko": [
+    "Andrew Franklin,Tom Arnold,Mike Forgey,Rick Lockyear,Paul Shinoda,Chris Hind,Mark Harrington,Sean Kellogg,Dave Johnson,Karie Daniel,Greg Swanson,Patrick Hui,Chris Chamberlain,TJ Duez,Rufus Marshall(Volt),Theo Lankford(Volt),"
+   ]
+  },
+  "13": {
+   "en": [
+    "<ƒ2>MICROSOFT TEST,,"
+   ],
+   "jp": [
+    "<ƒ2>MICROSOFT TEST,,"
+   ],
+   "ko": [
+    "<ƒ2>MICROSOFT TEST,,"
+   ]
+  },
+  "14": {
+   "en": [
+    "Joel Jackson(Volt),Toby Normoyle(Volt),Brian Noonan(Volt),Matt Rodgers(Volt),Bruce Lam(Volt),Greg Hanefeld(Volt),Joseph Moe(Volt),Matthew Germann(Volt),Jon Pulling(Volt),Craig Marshall,and the Recon and Cavalry Teams,"
+   ],
+   "jp": [
+    "Joel Jackson(Volt),Toby Normoyle(Volt),Brian Noonan(Volt),Matt Rodgers(Volt),Bruce Lam(Volt),Greg Hanefeld(Volt),Joseph Moe(Volt),Matthew Germann(Volt),Jon Pulling(Volt),Craig Marshall,and the Recon and Cavalry Teams,"
+   ],
+   "ko": [
+    "Joel Jackson(Volt),Toby Normoyle(Volt),Brian Noonan(Volt),Matt Rodgers(Volt),Bruce Lam(Volt),Greg Hanefeld(Volt),Joseph Moe(Volt),Matthew Germann(Volt),Jon Pulling(Volt),Craig Marshall,and the Recon and Cavalry Teams,"
+   ]
+  },
+  "15": {
+   "en": [
+    "<ƒ2>LOCALISATION,,"
+   ],
+   "jp": [
+    "<ƒ2>LOCALISATION,,"
+   ],
+   "ko": [
+    "<ƒ2>현지화,,"
+   ]
+  },
+  "16": {
+   "en": [
+    "<ƒ2>Conker Live,<ƒ2>and Reloaded,,,THE GANG IN THE BACKGROUND...,"
+   ],
+   "jp": [
+    "<ƒ2>Conker Live,<ƒ2>and Reloaded,,,THE GANG IN THE BACKGROUND...,"
+   ],
+   "ko": [
+    "<ƒ2>Conker Live,<ƒ2>and Reloaded,,,THE GANG IN THE BACKGROUND...,"
+   ]
+  },
+  "17": {
+   "en": [
+    "Levente Vero,Lorraine Quain,Jenni Gant,Virginia Spencer,Rita Thiede,Phoenix Cheng,Sophia Lai,Yoonhee Jung,Min Woo Lee,Asako Kido,Go Komatsu,Masae Yamakura,"
+   ],
+   "jp": [
+    "Levente Vero,Lorraine Quain,Jenni Gant,Virginia Spencer,Rita Thiede,Phoenix Cheng,Sophia Lai,Yoonhee Jung,Min Woo Lee,Asako Kido,Go Komatsu,Masae Yamakura,"
+   ],
+   "ko": [
+    "Levente Vero,Lorraine Quain,Jenni Gant,Virginia Spencer,Rita Thiede,Phoenix Cheng,Sophia Lai,Yoonhee Jung,Min Woo Lee,Asako Kido,Go Komatsu,Masae Yamakura,"
+   ]
+  },
+  "18": {
+   "en": [
+    "<ƒ2>Conker Live,<ƒ2>and Reloaded,,,THE MICROSOFT BANDWAGON...,"
+   ],
+   "jp": [
+    "<ƒ2>Conker Live,<ƒ2>and Reloaded,,,THE MICROSOFT BANDWAGON...,"
+   ],
+   "ko": [
+    "<ƒ2>Conker Live,<ƒ2>and Reloaded,,,THE MICROSOFT BANDWAGON...,"
+   ]
+  },
+  "19": {
+   "en": [
+    "<ƒ2>SDET SUPPORT,,"
+   ],
+   "jp": [
+    "<ƒ2>SDET SUPPORT,,"
+   ],
+   "ko": [
+    "<ƒ2>SDET SUPPORT,,"
+   ]
+  },
+  "20": {
+   "en": [
+    "Sean Jenkin,Steve Dolan,Dave Rieman,Anna Sweet,"
+   ],
+   "jp": [
+    "Sean Jenkin,Steve Dolan,Dave Rieman,Anna Sweet,"
+   ],
+   "ko": [
+    "Sean Jenkin,Steve Dolan,Dave Rieman,Anna Sweet,"
+   ]
+  },
+  "21": {
+   "en": [
+    "<ƒ2>PRODUCTION STUFF,,"
+   ],
+   "jp": [
+    "<ƒ2>PRODUCTION STUFF,,"
+   ],
+   "ko": [
+    "<ƒ2>PRODUCTION STUFF,,"
+   ]
+  },
+  "22": {
+   "en": [
+    "Chenelle Bremont,David Quiroz,Keith Cirillo,Beth Demetrescu,"
+   ],
+   "jp": [
+    "Chenelle Bremont,David Quiroz,Keith Cirillo,Beth Demetrescu,"
+   ],
+   "ko": [
+    "Chenelle Bremont,David Quiroz,Keith Cirillo,Beth Demetrescu,"
+   ]
+  },
+  "23": {
+   "en": [
+    "<ƒ2>MORE PRODUCTION STUFF,,"
+   ],
+   "jp": [
+    "<ƒ2>MORE PRODUCTION STUFF,,"
+   ],
+   "ko": [
+    "<ƒ2>MORE PRODUCTION STUFF,,"
+   ]
+  },
+  "24": {
+   "en": [
+    "Jim Hawk,Chuck Frizelle ,Jeff Dack,Sandy Ting,Eric Trautmann,Melethia Campbell,and Christy Cowan(Volt),"
+   ],
+   "jp": [
+    "Jim Hawk,Chuck Frizelle ,Jeff Dack,Sandy Ting,Eric Trautmann,Melethia Campbell,and Christy Cowan(Volt),"
+   ],
+   "ko": [
+    "Jim Hawk,Chuck Frizelle ,Jeff Dack,Sandy Ting,Eric Trautmann,Melethia Campbell,and Christy Cowan(Volt),"
+   ]
+  },
+  "25": {
+   "en": [
+    "<ƒ2>DEV SUPPORT,,"
+   ],
+   "jp": [
+    "<ƒ2>DEV SUPPORT,,"
+   ],
+   "ko": [
+    "<ƒ2>DEV SUPPORT,,"
+   ]
+  },
+  "26": {
+   "en": [
+    "Mark Terrano,Jason Graf & the Community site team,Jerry Schroeder,Tawm Perkowski (Artsource),Matthew Lee Johnston,,"
+   ],
+   "jp": [
+    "Mark Terrano,Jason Graf & the Community site team,Jerry Schroeder,Tawm Perkowski (Artsource),Matthew Lee Johnston,,"
+   ],
+   "ko": [
+    "Mark Terrano,Jason Graf & the Community site team,Jerry Schroeder,Tawm Perkowski (Artsource),Matthew Lee Johnston,,"
+   ]
+  },
+  "27": {
+   "en": [
+    "<ƒ2>PUBLIC RELATIONS,,"
+   ],
+   "jp": [
+    "<ƒ2>PUBLIC RELATIONS,,"
+   ],
+   "ko": [
+    "<ƒ2>PUBLIC RELATIONS,,"
+   ]
+  },
+  "28": {
+   "en": [
+    "Jen Martin,Michelle Jacob,"
+   ],
+   "jp": [
+    "Jen Martin,Michelle Jacob,"
+   ],
+   "ko": [
+    "Jen Martin,Michelle Jacob,"
+   ]
+  },
+  "29": {
+   "en": [
+    "Hubert Cheng,Sue Stickney,Jama Cantrell,Jana Smith,Mary Heuett,,,"
+   ],
+   "jp": [
+    "Hubert Cheng,Sue Stickney,Jama Cantrell,Jana Smith,Mary Heuett,,,"
+   ],
+   "ko": [
+    "Hubert Cheng,Sue Stickney,Jama Cantrell,Jana Smith,Mary Heuett,,,"
+   ]
+  },
+  "30": {
+   "en": [
+    "<ƒ:30[0.5,0.65,0.75,1.0]>"
+   ],
+   "jp": [
+    "<ƒ:30[0.5,0.65,0.75,1.0]>"
+   ],
+   "ko": [
+    "<ƒ:30[0.5,0.65,0.75,1.0]>"
+   ]
+  },
+  "31": {
+   "en": [
+    "<ƒ2>GEOPOLITICAL,,"
+   ],
+   "jp": [
+    "<ƒ2>GEOPOLITICAL,,"
+   ],
+   "ko": [
+    "<ƒ2>GEOPOLITICAL,,"
+   ]
+  },
+  "32": {
+   "en": [
+    "<ƒ2>RARE R&D,,Richard Gale,Tom Grove,David Meen,Jim Horth,Claude Marais,Kostas Anagnostou,Paul Mikell,Nicola Bhalerao,"
+   ],
+   "jp": [
+    "<ƒ2>RARE R&D,,Richard Gale,Tom Grove,David Meen,Jim Horth,Claude Marais,Kostas Anagnostou,Paul Mikell,Nicola Bhalerao,"
+   ],
+   "ko": [
+    "<ƒ2>RARE R&D,,Richard Gale,Tom Grove,David Meen,Jim Horth,Claude Marais,Kostas Anagnostou,Paul Mikell,Nicola Bhalerao,"
+   ]
+  },
+  "33": {
+   "en": [
+    "Tom Edwards,"
+   ],
+   "jp": [
+    "Tom Edwards,"
+   ],
+   "ko": [
+    "Tom Edwards,"
+   ]
+  },
+  "34": {
+   "en": [
+    "Ken Lobb,Phil Spencer,and Shane Kim,"
+   ],
+   "jp": [
+    "Ken Lobb,Phil Spencer,and Shane Kim,"
+   ],
+   "ko": [
+    "Ken Lobb,Phil Spencer,and Shane Kim,"
+   ]
+  },
+  "35": {
+   "en": [
+    "Mark Lucas,"
+   ],
+   "jp": [
+    "Mark Lucas,"
+   ],
+   "ko": [
+    "Mark Lucas,"
+   ]
+  },
+  "36": {
+   "en": [
+    "Ryan Firchau,Stefan David,"
+   ],
+   "jp": [
+    "Ryan Firchau,Stefan David,"
+   ],
+   "ko": [
+    "Ryan Firchau,Stefan David,"
+   ]
+  },
+  "37": {
+   "en": [
+    "Andrew Pollington,and Neill Harrison,"
+   ],
+   "jp": [
+    "Andrew Pollington,and Neill Harrison,"
+   ],
+   "ko": [
+    "Andrew Pollington,and Neill Harrison,"
+   ]
+  },
+  "38": {
+   "en": [
+    "<ƒ2>THE PERFORMERS,,David Clynick,Jamie Hughes,Ben Cullum,"
+   ],
+   "jp": [
+    "<ƒ2>THE PERFORMERS,,David Clynick,Jamie Hughes,Ben Cullum,"
+   ],
+   "ko": [
+    "<ƒ2>THE PERFORMERS,,David Clynick,Jamie Hughes,Ben Cullum,"
+   ]
+  },
+  "39": {
+   "en": [
+    "<ƒ2>RARE QA,,Matthew Smalley,Anthony Salway,Liam Davey,Christian Leech,"
+   ],
+   "jp": [
+    "<ƒ2>RARE QA,,Matthew Smalley,Anthony Salway,Liam Davey,Christian Leech,"
+   ],
+   "ko": [
+    "<ƒ2>RARE QA,,Matthew Smalley,Anthony Salway,Liam Davey,Christian Leech,"
+   ]
+  },
+  "40": {
+   "en": [
+    "<ƒ2>RARE QA,,Huw Ward,David Wong,Luke Munton,Hinesh Patel,"
+   ],
+   "jp": [
+    "<ƒ2>RARE QA,,Huw Ward,David Wong,Luke Munton,Hinesh Patel,"
+   ],
+   "ko": [
+    "<ƒ2>RARE QA,,Huw Ward,David Wong,Luke Munton,Hinesh Patel,"
+   ]
+  },
+  "41": {
+   "en": [
+    "<ƒ2>SOME SUITS,,"
+   ],
+   "jp": [
+    "<ƒ2>SOME SUITS,,"
+   ],
+   "ko": [
+    "<ƒ2>SOME SUITS,,"
+   ]
+  },
+  "42": {
+   "en": [
+    "<ƒ2>SOME BFD ORIGINALS,,"
+   ],
+   "jp": [
+    "<ƒ2>SOME BFD ORIGINALS,,"
+   ],
+   "ko": [
+    "<ƒ2>SOME BFD ORIGINALS,,"
+   ]
+  },
+  "43": {
+   "en": [
+    "<ƒ2>SOME PRODUCERS,,Alison Stroll,James Veevaert,"
+   ],
+   "jp": [
+    "<ƒ2>SOME PRODUCERS,,Alison Stroll,James Veevaert,"
+   ],
+   "ko": [
+    "<ƒ2>SOME PRODUCERS,,Alison Stroll,James Veevaert,"
+   ]
+  },
+  "44": {
+   "en": [
+    "<ƒ2>Conker Live,<ƒ2>and Reloaded,,,THE GANG ACROSS THE WATER...,"
+   ],
+   "jp": [
+    "<ƒ2>Conker Live,<ƒ2>and Reloaded,,,THE GANG ACROSS THE WATER...,"
+   ],
+   "ko": [
+    "<ƒ2>Conker Live,<ƒ2>and Reloaded,,,THE GANG ACROSS THE WATER...,"
+   ]
+  },
+  "45": {
+   "en": [
+    "<ƒ2>LEGAL,,"
+   ],
+   "jp": [
+    "<ƒ2>LEGAL,,"
+   ],
+   "ko": [
+    "<ƒ2>LEGAL,,"
+   ]
+  },
+  "46": {
+   "en": [
+    "<ƒ2>SOME MORE SUITS,,"
+   ],
+   "jp": [
+    "<ƒ2>SOME MORE SUITS,,"
+   ],
+   "ko": [
+    "<ƒ2>SOME MORE SUITS,,"
+   ]
+  },
+  "47": {
+   "en": [
+    "<ƒ2>Conker Live,<ƒ2>and Reloaded,,,THE GANG WHO DID IT ARE...,"
+   ],
+   "jp": [
+    "<ƒ2>Conker Live,<ƒ2>and Reloaded,,,THE GANG WHO DID IT ARE...,"
+   ],
+   "ko": [
+    "<ƒ2>Conker Live,<ƒ2>and Reloaded,,,THE GANG WHO DID IT ARE...,"
+   ]
+  },
+  "49": {
+   "en": [
+    "<ƒ2>THE LEADS,,Christopher Seavor,Christopher Marlow,Steve McFarlane,Louise Ridgeway,Robin Beanland,"
+   ],
+   "jp": [
+    "<ƒ2>THE LEADS,,Christopher Seavor,Christopher Marlow,Steve McFarlane,Louise Ridgeway,Robin Beanland,"
+   ],
+   "ko": [
+    "<ƒ2>THE LEADS,,Christopher Seavor,Christopher Marlow,Steve McFarlane,Louise Ridgeway,Robin Beanland,"
+   ]
+  },
+  "50": {
+   "en": [
+    "<ƒ2>THE SOFTWARE,,Shawn Pile,Philip Waymouth,Raymond Kerr,Mark Wilson,Mike Vine,Chris Pigas,"
+   ],
+   "jp": [
+    "<ƒ2>THE SOFTWARE,,Shawn Pile,Philip Waymouth,Raymond Kerr,Mark Wilson,Mike Vine,Chris Pigas,"
+   ],
+   "ko": [
+    "<ƒ2>THE SOFTWARE,,Shawn Pile,Philip Waymouth,Raymond Kerr,Mark Wilson,Mike Vine,Chris Pigas,"
+   ]
+  },
+  "51": {
+   "en": [
+    "<ƒ2>THE SOFTWARE,,Stuart Hill,Tom Berry,Kieran D'Archambaud,Gottfried Chen,Paul Mountain,Andrew Fenwick,and John Pegg,"
+   ],
+   "jp": [
+    "<ƒ2>THE SOFTWARE,,Stuart Hill,Tom Berry,Kieran D'Archambaud,Gottfried Chen,Paul Mountain,Andrew Fenwick,and John Pegg,"
+   ],
+   "ko": [
+    "<ƒ2>THE SOFTWARE,,Stuart Hill,Tom Berry,Kieran D'Archambaud,Gottfried Chen,Paul Mountain,Andrew Fenwick,and John Pegg,"
+   ]
+  },
+  "52": {
+   "en": [
+    "<ƒ2>THE VISUALS,,Dave Buttress,Dave Rose,Bryan Smyth,Paul Cunningham,"
+   ],
+   "jp": [
+    "<ƒ2>THE VISUALS,,Dave Buttress,Dave Rose,Bryan Smyth,Paul Cunningham,"
+   ],
+   "ko": [
+    "<ƒ2>THE VISUALS,,Dave Buttress,Dave Rose,Bryan Smyth,Paul Cunningham,"
+   ]
+  },
+  "54": {
+   "en": [
+    "<ƒ2>THE VISUALS,,Andrew Betts,Peter Hentze,Richard Morrall,"
+   ],
+   "jp": [
+    "<ƒ2>THE VISUALS,,Andrew Betts,Peter Hentze,Richard Morrall,"
+   ],
+   "ko": [
+    "<ƒ2>THE VISUALS,,Andrew Betts,Peter Hentze,Richard Morrall,"
+   ]
+  },
+  "56": {
+   "en": [
+    "<ƒ2>THE ANIMATION,,Daniel Carey,Christopher Phillips,Rhiannon Nicholas,"
+   ],
+   "jp": [
+    "<ƒ2>THE ANIMATION,,Daniel Carey,Christopher Phillips,Rhiannon Nicholas,"
+   ],
+   "ko": [
+    "<ƒ2>THE ANIMATION,,Daniel Carey,Christopher Phillips,Rhiannon Nicholas,"
+   ]
+  },
+  "57": {
+   "en": [
+    "<ƒ2>THE AUDIO,,Martin Penny,Robin Beanland,,,<ƒ2>THE PM,,Andy Wilson,"
+   ],
+   "jp": [
+    "<ƒ2>THE AUDIO,,Martin Penny,Robin Beanland,,,<ƒ2>THE PM,,Andy Wilson,"
+   ],
+   "ko": [
+    "<ƒ2>THE AUDIO,,Martin Penny,Robin Beanland,,,<ƒ2>THE PM,,Andy Wilson,"
+   ]
+  },
+  "58": {
+   "en": [
+    "<ƒ2>THE VOICES,,Christopher Seavor,Louise Ridgeway,Chris Marlow,Chris Sutherland,Eveline Novakovic,Fred Tastiscore,Duncan Botwood,"
+   ],
+   "jp": [
+    "<ƒ2>THE VOICES,,Christopher Seavor,Louise Ridgeway,Chris Marlow,Chris Sutherland,Eveline Novakovic,Fred Tastiscore,Duncan Botwood,"
+   ],
+   "ko": [
+    "<ƒ2>THE VOICES,,Christopher Seavor,Louise Ridgeway,Chris Marlow,Chris Sutherland,Eveline Novakovic,Fred Tastiscore,Duncan Botwood,"
+   ]
+  }
+ }
+}

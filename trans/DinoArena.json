@@ -1,0 +1,731 @@
+{
+ "scene": "DinoArena",
+ "n": 49,
+ "entries": {
+  "0": {
+   "en": [
+    "He's got a larger bone than you."
+   ],
+   "jp": [
+    "あなたより　アレ大きいかも"
+   ],
+   "ko": [
+    "당신보다　그게 클지도"
+   ]
+  },
+  "1": {
+   "en": [
+    "No one has a bone as big as mine.",
+    "If you're so big, why don't you show him,",
+    "Big boy."
+   ],
+   "jp": [
+    "おれのナニに勝てるもんか",
+    "だったら思い知らせてやれば？",
+    " ねえ...　ボク？"
+   ],
+   "ko": [
+    "내 그거를 이길 수 있을까",
+    "그럼 보여주면 되잖아?",
+    " 저기...　꼬마?"
+   ]
+  },
+  "2": {
+   "en": [
+    "Ok then."
+   ],
+   "jp": [
+    "いいともさ"
+   ],
+   "ko": [
+    "얼마든지"
+   ]
+  },
+  "3": {
+   "en": [
+    "I'm gonna take my big bone,",
+    "and smash that furry squirrel."
+   ],
+   "jp": [
+    "おれのデカいナニで",
+    "あんなリスなんかブッつぶしてやる"
+   ],
+   "ko": [
+    "내 큰 그것으로",
+    "저런 다람쥐 따위 뭉개주지"
+   ]
+  },
+  "4": {
+   "en": [
+    "Oh, my giddy aunt.",
+    " This is not good."
+   ],
+   "jp": [
+    "おい...　ウソだろ",
+    "\nヤバいって！"
+   ],
+   "ko": [
+    "야...　말도 안 돼",
+    "\n큰일이라니까！"
+   ]
+  },
+  "5": {
+   "en": [
+    "Nobody remarks about my bone.",
+    " You're going to get it, squirrel."
+   ],
+   "jp": [
+    "おれのデカさをなめるなよ",
+    "バツをくれてやる！"
+   ],
+   "ko": [
+    "내 크기를 얕보지 마",
+    "벌을 내려주마！"
+   ]
+  },
+  "6": {
+   "en": [
+    "I know you're not a vegetarian.",
+    " I think you should go for the meat and two veg.",
+    " Looks like he needs tenderizing, though.",
+    " You know what I mean?"
+   ],
+   "jp": [
+    "お前　肉食だよな？",
+    " ソーセージは好きか？",
+    "ヤツを大人しくさせよう\n",
+    "わかるな？"
+   ],
+   "ko": [
+    "너　육식이지?",
+    " 소시지는 좋아하나?",
+    "저놈을 조용히 만들어주지\n",
+    "알겠나?"
+   ]
+  },
+  "7": {
+   "en": [
+    "Oooohhh!",
+    " Nasty! Nasty!"
+   ],
+   "jp": [
+    "いかんな...\n",
+    "なんとも胸クソ悪い"
+   ],
+   "ko": [
+    "안 되겠는데...\n",
+    "정말이지 속이 뒤틀리는군"
+   ]
+  },
+  "8": {
+   "en": [
+    "More blood and guts."
+   ],
+   "jp": [
+    "やられるばかりだな"
+   ],
+   "ko": [
+    "당하기만 하는군"
+   ]
+  },
+  "9": {
+   "en": [
+    "Fangy showed the squirrel.",
+    " That's how it's done."
+   ],
+   "jp": [
+    "リスも思い知ったろう\n",
+    "もう終わりだ"
+   ],
+   "ko": [
+    "다람쥐도 뼈저리게 느꼈겠지\n",
+    "이제 끝이다"
+   ]
+  },
+  "10": {
+   "en": [
+    "Oh, hi, you're going this way too, i take it.",
+    " I'll just wait here and follow you guys."
+   ],
+   "jp": [
+    "あんたも逃げんの？",
+    "おれもついて行っていいかな？"
+   ],
+   "ko": [
+    "당신도 도망가는 거야?",
+    "나도 따라가도 될까?"
+   ]
+  },
+  "11": {
+   "en": [
+    "What the... "
+   ],
+   "jp": [
+    "おっ..."
+   ],
+   "ko": [
+    "오..."
+   ]
+  },
+  "12": {
+   "en": [
+    "Uh oh! Ranged combat.",
+    " Now this could be a bit tricky."
+   ],
+   "jp": [
+    "今度は遠距離戦だ",
+    "ちょっとめんどくさいかも"
+   ],
+   "ko": [
+    "이번엔 원거리전이다",
+    "좀 귀찮을지도"
+   ]
+  },
+  "13": {
+   "en": [
+    "Big boner, my ass!"
+   ],
+   "jp": [
+    "メチャ小さいじゃん！"
+   ],
+   "ko": [
+    "완전 작잖아！"
+   ]
+  },
+  "14": {
+   "en": [
+    "Aahhh! My secret."
+   ],
+   "jp": [
+    "おれのヒミツをデカい声で！"
+   ],
+   "ko": [
+    "내 비밀을 큰 소리로！"
+   ]
+  },
+  "15": {
+   "en": [
+    "My very small willy..."
+   ],
+   "jp": [
+    "気にしてたのに..."
+   ],
+   "ko": [
+    "신경 쓰고 있었는데..."
+   ]
+  },
+  "16": {
+   "en": [
+    "Well, so ends another incident in my day.",
+    "Now..."
+   ],
+   "jp": [
+    "これにて一件落着ってわけだ",
+    "さて..."
+   ],
+   "ko": [
+    "이걸로 사건 해결이라는 거지",
+    "자아..."
+   ]
+  },
+  "17": {
+   "en": [
+    "I think we should go up there and pay those babes a visit.",
+    " I'm pretty determined to get something out of this.",
+    " Maybe there's some cash up there too.",
+    " Ah well, live in hope."
+   ],
+   "jp": [
+    "カワイコちゃんと話すか",
+    "きっと　いいことがあるぞ",
+    "金もあるかもな",
+    "こりゃ楽しみだ"
+   ],
+   "ko": [
+    "귀여운 아가씨랑 얘기할까",
+    "분명　좋은 일이 있을 거야",
+    "돈도 있을지도",
+    "이거 기대되는데"
+   ]
+  },
+  "18": {
+   "en": [
+    "Right, you."
+   ],
+   "jp": [
+    "あのさ"
+   ],
+   "ko": [
+    "저기 있잖아"
+   ]
+  },
+  "19": {
+   "en": [
+    "I think this is where we say goodbye."
+   ],
+   "jp": [
+    "そろそろお別れだ"
+   ],
+   "ko": [
+    "이제 이별이네"
+   ]
+  },
+  "20": {
+   "en": [
+    "Oh no, don't start that.",
+    " I know we had a good time together,",
+    "but the fun's over now.",
+    " Go on, off with you.",
+    "Right... Babe time."
+   ],
+   "jp": [
+    "おい　よせってば",
+    "ホント楽しかったよ",
+    "でも...　おしまいだ",
+    "もう行きな",
+    "よーし　お楽しみだ"
+   ],
+   "ko": [
+    "야　그만두라니까",
+    "정말 즐거웠어",
+    "하지만...　끝이야",
+    "이제 가",
+    "좋아　재밌겠는데"
+   ]
+  },
+  "21": {
+   "en": [
+    "Hey... What are you doing?",
+    " Stop following me.",
+    " Go back, go on..."
+   ],
+   "jp": [
+    "お前　何やってんだ",
+    "来るなよ",
+    "あっち行けって"
+   ],
+   "ko": [
+    "너　뭐 하는 거야",
+    "오지 마",
+    "저리 가라고"
+   ]
+  },
+  "22": {
+   "en": [
+    "Er... Ah well,",
+    "fetch."
+   ],
+   "jp": [
+    "それじゃ...　これだ\n",
+    "取ってこい"
+   ],
+   "ko": [
+    "그럼...　이거다\n",
+    "가져와"
+   ]
+  },
+  "23": {
+   "en": [
+    "Ha... Good. Psychology,",
+    "always works with these animals.",
+    "Now then, let's see."
+   ],
+   "jp": [
+    "作戦成功っと\n",
+    "動物ってのはこれだからな",
+    "それじゃ行くぞ"
+   ],
+   "ko": [
+    "작전 성공이군\n",
+    "동물이란 게 이렇다니까",
+    "그럼 간다"
+   ]
+  },
+  "24": {
+   "en": [
+    "Babe?",
+    " Where are those big babes?",
+    " Huh?"
+   ],
+   "jp": [
+    "おーい！",
+    "どこ行った？",
+    "んん？"
+   ],
+   "ko": [
+    "어이ー！",
+    "어디 갔지?",
+    "음?"
+   ]
+  },
+  "25": {
+   "en": [
+    "Paradise!   "
+   ],
+   "jp": [
+    "すっげえ！"
+   ],
+   "ko": [
+    "대단해！"
+   ]
+  },
+  "26": {
+   "en": [
+    "Wake up! Bedtime's over. "
+   ],
+   "jp": [
+    "起きて　もう起きる時間よ"
+   ],
+   "ko": [
+    "일어나　이제 일어날 시간이야"
+   ]
+  },
+  "27": {
+   "en": [
+    "Ahh, you're so cute.",
+    "Hello, hello, I love you.",
+    "No, I can't love you anymore.",
+    " Conker and jugga won't work.",
+    "What?",
+    " No, no, we can work it out.",
+    "Conker, you will break my heart.",
+    "No, I'll be good, I'll be really good.",
+    " I'll be a new squirrel. The drink's out.",
+    " Whatever you've heard about me, it's not true.",
+    " It's totally exaggerated.",
+    "I'll put you up here.",
+    " Jugga doesn't like goodbyes.",
+    " But bye-bye.",
+    "You go, leave now.",
+    "Bye-bye then.",
+    "I'll always love you.",
+    "Bye-bye."
+   ],
+   "jp": [
+    "あなたカワイイ",
+    "やあ　どうも...　愛してるよ",
+    "でもダメ　好きになれないの",
+    "これじゃできないもの",
+    "そんな...",
+    "きっとうまくヤレるって",
+    "私を悲しませるに決まってる",
+    "いい子にするよ",
+    "生まれ変わる 酒もやめる",
+    "ウワサはウソだよ",
+    "ただのウワサ",
+    "ここに降ろすわね",
+    "さよならはキライ",
+    "でも　さよなら",
+    "もう行ってちょうだい",
+    "じゃあね",
+    "ずっと好きよ",
+    "バイバイ"
+   ],
+   "ko": [
+    "당신 귀여워",
+    "어이　저기...　사랑해",
+    "근데 안 돼　좋아할 수가 없어",
+    "이대로는 안 되겠어",
+    "그런...",
+    "분명 잘될 거라고",
+    "날 슬프게 할 게 분명해",
+    "착하게 굴게",
+    "새사람이 될게 술도 끊고",
+    "소문은 거짓말이야",
+    "그냥 소문일 뿐",
+    "여기서 내려줄게",
+    "이별은 싫어",
+    "그래도　잘 가",
+    "이제 가줘",
+    "그럼 안녕",
+    "계속 좋아할게",
+    "바이바이"
+   ]
+  },
+  "28": {
+   "en": [
+    "Ah well."
+   ],
+   "jp": [
+    "さてと"
+   ],
+   "ko": [
+    "자아"
+   ]
+  },
+  "29": {
+   "en": [
+    "Every cloud has a silver lining!"
+   ],
+   "jp": [
+    "いいこともある"
+   ],
+   "ko": [
+    "좋은 일도 있는 법이지"
+   ]
+  },
+  "30": {
+   "en": [
+    "So, you want some green stuff?"
+   ],
+   "jp": [
+    "おれ様が欲しいのか？"
+   ],
+   "ko": [
+    "나님을 원하는 거냐?"
+   ]
+  },
+  "31": {
+   "en": [
+    "Yeh!",
+    " Let's hope there's more",
+    "Where that came from."
+   ],
+   "jp": [
+    "やった！",
+    "もっと",
+    "ガンガン来い！"
+   ],
+   "ko": [
+    "좋았어！",
+    "더",
+    "마음껏 와라！"
+   ]
+  },
+  "32": {
+   "en": [
+    "Who is that?"
+   ],
+   "jp": [
+    "あいつは誰だ？"
+   ],
+   "ko": [
+    "저놈은 누구지?"
+   ]
+  },
+  "33": {
+   "en": [
+    "Send in fangy.",
+    " Saturday matinee."
+   ],
+   "jp": [
+    "ヤツを入れるんだ ",
+    "土曜の午後のお楽しみだ"
+   ],
+   "ko": [
+    "저놈을 넣어라 ",
+    "토요일 오후의 즐거움이지"
+   ]
+  },
+  "34": {
+   "en": [
+    "A squirrel."
+   ],
+   "jp": [
+    "リスだ"
+   ],
+   "ko": [
+    "다람쥐다"
+   ]
+  },
+  "35": {
+   "en": [
+    "Hum, not quite sure what's going on here.",
+    " There seems to be a door over there.",
+    " So I think I'll just mosey on over",
+    "and say my farewells."
+   ],
+   "jp": [
+    "何がどうなってんだろ？",
+    "あれが出口かな？",
+    "さりげなく近づいて",
+    "そのままトンズラしよう"
+   ],
+   "ko": [
+    "뭐가 어떻게 된 거지?",
+    "저게 출구일까?",
+    "은근슬쩍 다가가서",
+    "그대로 도망치자"
+   ]
+  },
+  "36": {
+   "en": [
+    "All the way up it.  Yowch! .  Ooh, bleedy bleed, bleed. Nice and big one!"
+   ],
+   "jp": [
+    "今日はひさしぶりに\nずいぶんもりあがってるぞ\n楽しみだな！"
+   ],
+   "ko": [
+    "오늘은 오랜만에\n꽤나 신났군\n기대되는데！"
+   ]
+  },
+  "37": {
+   "en": [
+    "Oh!",
+    "This doesn't sound good."
+   ],
+   "jp": [
+    "うわっ！\n",
+    "こりゃ　ヤバそうだ"
+   ],
+   "ko": [
+    "우왁！\n",
+    "이거　큰일 나겠는데"
+   ]
+  },
+  "38": {
+   "en": [
+    "Brown loincloth time!"
+   ],
+   "jp": [
+    "面白くなるぞ！"
+   ],
+   "ko": [
+    "재미있어지겠군！"
+   ]
+  },
+  "39": {
+   "en": [
+    "Oh, is that the time? I gotta scoot."
+   ],
+   "jp": [
+    "もうこんな時間か...\n失礼するよ"
+   ],
+   "ko": [
+    "벌써 이런 시간인가...\n실례하지"
+   ]
+  },
+  "40": {
+   "en": [
+    "Uh, ah well.",
+    " We need some more entertainment.",
+    " Send in the infantry!"
+   ],
+   "jp": [
+    "ん...　そうだな... ",
+    "もっと面白いショーが見たい",
+    "歩兵どもを入れるんだ！"
+   ],
+   "ko": [
+    "음...　그렇군... ",
+    "더 재밌는 쇼를 보고 싶다",
+    "보병들을 넣어라！"
+   ]
+  },
+  "41": {
+   "en": [
+    "Oh, don't like the look of this.",
+    " I think they're sending in the big boys."
+   ],
+   "jp": [
+    "マズいな...\n",
+    "数で勝負する気か"
+   ],
+   "ko": [
+    "곤란한데...\n",
+    "수로 승부할 셈이군"
+   ]
+  },
+  "42": {
+   "en": [
+    "What a pair."
+   ],
+   "jp": [
+    "なんてヤツだ"
+   ],
+   "ko": [
+    "이런 녀석이"
+   ]
+  },
+  "43": {
+   "en": [
+    "Bruce! Get back in line.",
+    " Stupid prat."
+   ],
+   "jp": [
+    "ブルース！ 線まで下がれよ",
+    "バカなヤツだな"
+   ],
+   "ko": [
+    "브루스！ 선까지 물러나라",
+    "멍청한 녀석이군"
+   ]
+  },
+  "44": {
+   "en": [
+    "Who moved the line?"
+   ],
+   "jp": [
+    "位置を変えたな？"
+   ],
+   "ko": [
+    "위치를 바꿨나?"
+   ]
+  },
+  "45": {
+   "en": [
+    "Taunt the squirrel..."
+   ],
+   "jp": [
+    "リスを挑発しよう"
+   ],
+   "ko": [
+    "다람쥐를 도발해보지"
+   ]
+  },
+  "46": {
+   "en": [
+    "Ok, big fella,",
+    "I think it's time for hors d'oeuvres."
+   ],
+   "jp": [
+    "いいか...",
+    "まずはオードブルだ"
+   ],
+   "ko": [
+    "잘 들어라...",
+    "먼저 애피타이저다"
+   ]
+  },
+  "47": {
+   "en": [
+    "Ah yeh! This is more like it.",
+    " An appreciative audience at last.",
+    " Somebody's pleased to see me.",
+    " Yeh, I know I'm great, yeh, oh!",
+    " I knew it was too good to be true."
+   ],
+   "jp": [
+    "こりゃいいや",
+    "ここの客はお目が高い",
+    "おれ見てよろこんでる",
+    "おれってすごいんだ",
+    "あれ？　やっぱ...\nなんかおかしいぞ"
+   ],
+   "ko": [
+    "이거 좋은데",
+    "여기 손님들은 안목이 높군",
+    "나를 보고 좋아하네",
+    "난 정말 대단해",
+    "어?　역시...\n뭔가 이상한데"
+   ]
+  },
+  "48": {
+   "en": [
+    "Oh dear!",
+    " That was not supposed to happen.",
+    "Oh, but he's so cute, though."
+   ],
+   "jp": [
+    "なんてことだ",
+    "こんなハズじゃ...",
+    "でも...　彼カワイイわね"
+   ],
+   "ko": [
+    "이럴 수가",
+    "이럴 리가...",
+    "그래도...　저 사람 귀엽네"
+   ]
+  }
+ }
+}

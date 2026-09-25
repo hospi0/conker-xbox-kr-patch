@@ -1,0 +1,296 @@
+{
+ "scene": "Canyon",
+ "n": 10,
+ "entries": {
+  "0": {
+   "en": [
+    "What's that up there?",
+    " Looks like bombers.",
+    " Bringing out the heavy stuff.",
+    " You go first.",
+    "Ok... Ok!",
+    " I'll go first.",
+    "Go on then!"
+   ],
+   "jp": [
+    "ありゃ何だ？",
+    "爆撃機だ",
+    "敵はやる気だな",
+    "先に行けよ",
+    "わかった",
+    "先に行くよ",
+    "早くしろ"
+   ],
+   "ko": [
+    "저건 뭐지?",
+    "폭격기다",
+    "적이 제대로 하려나 보군",
+    "먼저 가",
+    "알겠네",
+    "먼저 갈게",
+    "빨리 해"
+   ]
+  },
+  "1": {
+   "en": [
+    "Hey!",
+    " Hey fella!",
+    " Fella!",
+    " C'mon.",
+    " This is not the place",
+    "you wanna be hanging around."
+   ],
+   "jp": [
+    "おい！",
+    "おいってば！",
+    "置いてくぞ！",
+    "こんなとこに",
+    "いたくないだろ？",
+    ""
+   ],
+   "ko": [
+    "어이！",
+    "야 좀！",
+    "두고 간다！",
+    "이런 곳에",
+    "있고 싶지 않지?",
+    ""
+   ]
+  },
+  "2": {
+   "en": [
+    "What do ya mean?",
+    " Oh!",
+    " Oh! Hey!",
+    " You killed them.",
+    " That's great. Thanks for that.",
+    " Conker!"
+   ],
+   "jp": [
+    "どういう意味？",
+    "あ！　なんだ！",
+    "やっつけたのか",
+    "すごいや　ありがとう",
+    "コンカー！",
+    ""
+   ],
+   "ko": [
+    "무슨 뜻이야?",
+    "아！　뭐야！",
+    "해치운 거야?",
+    "대단해　고마워",
+    "콩커！",
+    ""
+   ]
+  },
+  "3": {
+   "en": [
+    "What? Oh!",
+    " Hey! Hey, it's rodent, isn't it?",
+    " How ya doing?",
+    "Umm...",
+    " Not too good at the moment.",
+    " They wanted to kill me.",
+    "Ah well, they're dead now.",
+    " Say, I noticed that your outfit",
+    "is a little bit different to the",
+    "usual army regulation attire.",
+    " What is it?"
+   ],
+   "jp": [
+    "あれ？",
+    "なんだロデントじゃん",
+    "大丈夫かよ？",
+    "あのねえ",
+    "大丈夫なもんか",
+    "殺されかけてたろ",
+    "ああ　でも全員やったぜ",
+    "それより...　その装備は？",
+    "普通のとは",
+    "ちょっとちがうじゃん",
+    "何なんだ　それ？"
+   ],
+   "ko": [
+    "어라?",
+    "뭐야 로던트잖아",
+    "괜찮은 거야?",
+    "저기 있잖아",
+    "괜찮을 리가",
+    "죽을 뻔했잖아",
+    "그래　근데 다 해치웠어",
+    "그보다...　그 장비는?",
+    "보통 거랑은",
+    "좀 다르잖아",
+    "뭐야　그거?"
+   ]
+  },
+  "4": {
+   "en": [
+    "Oh yeah,",
+    "it's experiment number g7224.",
+    " I'm the first to be fitted with this.",
+    " It's an indestructible,",
+    "erm, titanium laminate."
+   ],
+   "jp": [
+    "これはね...",
+    "実験番号　g７２２４っていうんだ",
+    "これが合うのはぼくだけ",
+    "絶対に破壊されない",
+    "チタンコーティングだよ"
+   ],
+   "ko": [
+    "이건 말이야...",
+    "실험 번호　g７２２４라고 해",
+    "이게 맞는 건 나뿐이야",
+    "절대 파괴되지 않는",
+    "티타늄 코팅이야"
+   ]
+  },
+  "5": {
+   "en": [
+    "Right, so what does that mean?",
+    "Oh!",
+    " It means that",
+    "if somebody shoots me,",
+    "I don't die.",
+    "Really, that's a pretty good idea.",
+    " I'll get me some of them."
+   ],
+   "jp": [
+    "それってどういうことだ？",
+    "ああ...",
+    "つまりね",
+    "\n撃たれても",
+    "死なないんだ",
+    "へえ　いいなそれ",
+    "\nおれも欲しいな"
+   ],
+   "ko": [
+    "그게 무슨 소리야?",
+    "아아...",
+    "그러니까 말이야",
+    "\n총에 맞아도",
+    "안 죽어",
+    "허어　좋은데 그거",
+    "\n나도 갖고 싶다"
+   ]
+  },
+  "6": {
+   "en": [
+    "It's the only one.",
+    " Very expensive.",
+    " Stick behind me,",
+    "And you should be alright.",
+    " I can be your",
+    "operation squirrel shield.",
+    " What do ya say?"
+   ],
+   "jp": [
+    "これひとつしかないんだ",
+    "すごく高いんだよ",
+    "じゃあ...　ぼくの後ろにいて！",
+    "そうすれば",
+    "ぼくが君をかばえるだろ？",
+    "これで安全だ",
+    "どうかな？"
+   ],
+   "ko": [
+    "이거 하나밖에 없어",
+    "엄청 비싸단 말이야",
+    "그럼...　내 뒤에 있어！",
+    "그러면",
+    "내가 널 지켜줄 수 있잖아?",
+    "이러면 안전해",
+    "어떨까?"
+   ]
+  },
+  "7": {
+   "en": [
+    "Sounds good to me.",
+    " Right, which way?",
+    "Eenie, meenie,",
+    "minie,",
+    "moe!",
+    "Right, let's go."
+   ],
+   "jp": [
+    "そうしよう",
+    "どっち行く？",
+    "どちらに...",
+    "しようか",
+    "なっと！",
+    "よし　行こう"
+   ],
+   "ko": [
+    "그렇게 하자",
+    "어느 쪽으로 가?",
+    "어느 쪽으로...",
+    "할까",
+    "옜다！",
+    "좋아　가자"
+   ]
+  },
+  "8": {
+   "en": [
+    "So then,",
+    "any last requests?",
+    "Could you untie me",
+    "and just let me go, please?",
+    "No!",
+    "Present arms!",
+    "Take aim!",
+    "Wait for it, wait for it.",
+    "Choose a target,",
+    "and... Fire!"
+   ],
+   "jp": [
+    "それでは...",
+    "\n最後の願いはあるか？",
+    "ほどいてくれ...\n逃がしてくれよ...",
+    "",
+    "ダメだ！",
+    "射撃準備！",
+    "よく狙え！",
+    "まだだ　待てよ",
+    "外すなよ",
+    "撃て！"
+   ],
+   "ko": [
+    "그럼...",
+    "\n마지막 소원은 있나?",
+    "풀어줘...\n놓아달라고...",
+    "",
+    "안 돼！",
+    "사격 준비！",
+    "잘 조준해！",
+    "아직이야　기다려",
+    "빗나가지 마",
+    "쏴라！"
+   ]
+  },
+  "9": {
+   "en": [
+    "I'll go and wait by the door.",
+    " You shoot off the locks,",
+    "and I'll meet you there.",
+    " We'll rendezvous whenever you've got done.",
+    "Ok, I'll see you in a bit."
+   ],
+   "jp": [
+    "ぼくドアのそばにいるから",
+    "カギを撃って！",
+    "仕事が終わったら",
+    "合流しよう",
+    "またあとでな！"
+   ],
+   "ko": [
+    "난 문 옆에 있을 테니까",
+    "자물쇠를 쏴줘！",
+    "일이 끝나면",
+    "합류하자",
+    "이따 보자！"
+   ]
+  }
+ }
+}

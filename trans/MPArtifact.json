@@ -1,0 +1,545 @@
+{
+ "scene": "MPArtifact",
+ "n": 82,
+ "entries": {
+  "28": {
+   "en": [
+    "With the two halves of the map now reunited,"
+   ],
+   "jp": [
+    "２枚の地図が"
+   ],
+   "ko": [
+    "두 지도가"
+   ]
+  },
+  "29": {
+   "en": [
+    "Unfortunately"
+   ],
+   "jp": [
+    "クリプルスパックは "
+   ],
+   "ko": [
+    "크리플스팩은 "
+   ]
+  },
+  "30": {
+   "en": [
+    "Von Kriplespac made an immediate wrong turn,"
+   ],
+   "jp": [
+    "地図を読み違え"
+   ],
+   "ko": [
+    "지도를 잘못 읽고"
+   ]
+  },
+  "31": {
+   "en": [
+    "ending up"
+   ],
+   "jp": [
+    "まちがった方向に進んだが"
+   ],
+   "ko": [
+    "잘못된 방향으로 갔지만"
+   ]
+  },
+  "32": {
+   "en": [
+    "(due to the fact the map was printed upside-down)"
+   ],
+   "jp": [
+    "なぜか難なく目的地に到着した"
+   ],
+   "ko": [
+    "어째선지 무사히 도착했다"
+   ]
+  },
+  "33": {
+   "en": [
+    "in precisely the right place."
+   ],
+   "jp": [
+    "実は 地図は逆さまだったのだ"
+   ],
+   "ko": [
+    "실은 지도가 거꾸로였다"
+   ]
+  },
+  "34": {
+   "en": [
+    "As the Tediz commander prepared"
+   ],
+   "jp": [
+    "そして クマ軍が「それ」の"
+   ],
+   "ko": [
+    "그리고 곰군이 「그것」의"
+   ]
+  },
+  "35": {
+   "en": [
+    "to excavate the ‘Thing’,"
+   ],
+   "jp": [
+    "発掘準備をはじめたころ"
+   ],
+   "ko": [
+    "발굴 준비를 할 무렵"
+   ]
+  },
+  "36": {
+   "en": [
+    "the SHC had finally realised their mistake"
+   ],
+   "jp": [
+    "リス軍はようやく間違いに気づき"
+   ],
+   "ko": [
+    "다람쥐군은 겨우 실수를 깨닫고"
+   ]
+  },
+  "37": {
+   "en": [
+    "and headed full pelt towards the outpost…"
+   ],
+   "jp": [
+    "全速力で廃坑へ"
+   ],
+   "ko": [
+    "전속력으로 폐광"
+   ]
+  },
+  "39": {
+   "en": [
+    "the long lost resting place of the 'Thing'"
+   ],
+   "jp": [
+    "再びひとつになり"
+   ],
+   "ko": [
+    "다시 하나가 되어"
+   ]
+  },
+  "40": {
+   "en": [
+    "They must destroy the 'Thing'"
+   ],
+   "jp": [
+    "「それ」が何であれ"
+   ],
+   "ko": [
+    "「그것」이 무엇이든"
+   ]
+  },
+  "41": {
+   "en": [
+    "before it, whatever it was,"
+   ],
+   "jp": [
+    "一刻も早く"
+   ],
+   "ko": [
+    "한시바삐"
+   ]
+  },
+  "42": {
+   "en": [
+    "destroyed them!"
+   ],
+   "jp": [
+    "破壊しなくてはならない！"
+   ],
+   "ko": [
+    "파괴해야만 한다！"
+   ]
+  },
+  "43": {
+   "en": [
+    "Both sides realised the key to victory"
+   ],
+   "jp": [
+    "勝利のカギは"
+   ],
+   "ko": [
+    "승리의 열쇠는"
+   ]
+  },
+  "44": {
+   "en": [
+    "lay within the Three Towers."
+   ],
+   "jp": [
+    "３つのタワーにあると両軍は気づいた"
+   ],
+   "ko": [
+    "세 타워에 있다고 양군은 깨달았다"
+   ]
+  },
+  "45": {
+   "en": [
+    "Reactivate them to re-route"
+   ],
+   "jp": [
+    "タワーのスイッチを入れ"
+   ],
+   "ko": [
+    "타워의 스위치를 켜서"
+   ]
+  },
+  "46": {
+   "en": [
+    "and deactivate the enemy shielding,"
+   ],
+   "jp": [
+    "敵のシールドを無効化"
+   ],
+   "ko": [
+    "적 실드를 무효화"
+   ]
+  },
+  "47": {
+   "en": [
+    "then bring their firepower to bear"
+   ],
+   "jp": [
+    "そして武力で　敵をせん滅するのだ"
+   ],
+   "ko": [
+    "그리고 무력으로　적을 섬멸한다"
+   ]
+  },
+  "48": {
+   "en": [
+    "and blow the other back to oblivion"
+   ],
+   "jp": [
+    "やられるのは"
+   ],
+   "ko": [
+    "당하는 건"
+   ]
+  },
+  "49": {
+   "en": [
+    "either SHC's Spawner"
+   ],
+   "jp": [
+    "リス軍か"
+   ],
+   "ko": [
+    "다람쥐군"
+   ]
+  },
+  "50": {
+   "en": [
+    "had finally been located:"
+   ],
+   "jp": [
+    "「それ」の眠る場所がついに分かった"
+   ],
+   "ko": [
+    "「그것」이 잠든 곳을 알아냈다"
+   ]
+  },
+  "51": {
+   "en": [
+    "or the Tediz' excavation."
+   ],
+   "jp": [
+    "あるいは「それ」か・・・"
+   ],
+   "ko": [
+    "아니면 「그것」인가..."
+   ]
+  },
+  "52": {
+   "en": [
+    "an abandoned mining outpost way up the Big Rim."
+   ],
+   "jp": [
+    "その場所とは ビッグリムの廃坑だ"
+   ],
+   "ko": [
+    "그 장소란 빅림의 폐광이다"
+   ]
+  },
+  "53": {
+   "en": [
+    "However,"
+   ],
+   "jp": [
+    "しかし..."
+   ],
+   "ko": [
+    "그러나..."
+   ]
+  },
+  "54": {
+   "en": [
+    "the secret didn’t stay safe very long,"
+   ],
+   "jp": [
+    "この秘密も長くは続かなかった"
+   ],
+   "ko": [
+    "이 비밀도 오래가진 못했다"
+   ]
+  },
+  "55": {
+   "en": [
+    "particularly when it appeared"
+   ],
+   "jp": [
+    "くだらない週刊誌に"
+   ],
+   "ko": [
+    "시시한 주간지에"
+   ]
+  },
+  "56": {
+   "en": [
+    "on the front cover of 'Fur Only'."
+   ],
+   "jp": [
+    "すっぱ抜かれてしまったのだ"
+   ],
+   "ko": [
+    "특종으로 터져버린 것이다"
+   ]
+  },
+  "57": {
+   "en": [
+    "It was now simply a case of who got there first."
+   ],
+   "jp": [
+    "誰が最初にたどり着くかが問題に"
+   ],
+   "ko": [
+    "누가 먼저 도착하느냐가 문제로"
+   ]
+  },
+  "58": {
+   "en": [
+    "Base"
+   ],
+   "jp": [
+    "基地"
+   ],
+   "ko": [
+    "기지"
+   ]
+  },
+  "59": {
+   "en": [
+    "SHC shields now powered down"
+   ],
+   "jp": [
+    "リス軍のシールドがダウンした"
+   ],
+   "ko": [
+    "다람쥐군의 실드가 다운됐다"
+   ]
+  },
+  "60": {
+   "en": [
+    "Tower now compromised by S.H.C. Capture next tower to lock."
+   ],
+   "jp": [
+    "リス軍がタワーを占拠　次のタワーを狙え"
+   ],
+   "ko": [
+    "다람쥐군 타워 점거　다음 타워를 노려라"
+   ]
+  },
+  "61": {
+   "en": [
+    "All towers captured by Tediz. Shield generator deactivated."
+   ],
+   "jp": [
+    "全タワーをクマ軍が占拠　シールド発生器停止"
+   ],
+   "ko": [
+    "전 타워를 곰군이 점거　실드 발생기 정지"
+   ]
+  },
+  "62": {
+   "en": [
+    "Tower now compromised by Tediz. Capture next tower to lock."
+   ],
+   "jp": [
+    "クマ軍がタワーを占拠　次のタワーを狙え"
+   ],
+   "ko": [
+    "곰군 타워 점거　다음 타워를 노려라"
+   ]
+  },
+  "63": {
+   "en": [
+    "Vunderbah! Vunderbah! You are zrough my Tediz. Ze shield is down! Now, as if you don't know what to do!"
+   ],
+   "jp": [
+    "すばらしい！　よくやった　クマ軍よ！　敵のシールドがダウンしたぞ　行け！"
+   ],
+   "ko": [
+    "훌륭하다！　잘했다　곰군이여！　적의 실드가 다운됐다　가라！"
+   ]
+  },
+  "64": {
+   "en": [
+    "It's happened, it's happened. Oh it’s so beautiful. My beauty. Whats zis? Not zose @#*$ squirrels again. I’m getting sick of zem. Capture zose towers and destroy zeir boarder. Hurry!"
+   ],
+   "jp": [
+    "美しい...　私の兵器は本当に美しいな　何だ？　またあの @#*$ なリスどもか　もううんざりだ　タワーを占拠し ヤツらを排除しろ　急げ！"
+   ],
+   "ko": [
+    "아름답군...　내 병기는 참 아름다워　뭐냐?　또 @#*$ 다람쥐냐　지긋지긋하다　타워를 점거해 놈들을 쳐라　서둘러！"
+   ]
+  },
+  "65": {
+   "en": [
+    "Tediz tower downgraded to neutral. Recapture, priority one."
+   ],
+   "jp": [
+    "クマ軍のタワーが解放された　再度占拠せよ"
+   ],
+   "ko": [
+    "곰군의 타워가 해방됐다　다시 점거해라"
+   ]
+  },
+  "66": {
+   "en": [
+    "Three Towers"
+   ],
+   "jp": [
+    "スリータワーズ"
+   ],
+   "ko": [
+    "쓰리 타워즈"
+   ]
+  },
+  "67": {
+   "en": [
+    "All towers captured by S.H.C. Shield generator deactivated."
+   ],
+   "jp": [
+    "全タワーをリス軍が占拠　シールド発生器停止"
+   ],
+   "ko": [
+    "전 타워 다람쥐군 점거　실드 발생기 정지"
+   ]
+  },
+  "68": {
+   "en": [
+    "Hear that guys? The shield is down. Get over there and destroy that disturbing looking thing."
+   ],
+   "jp": [
+    "シールドがダウンしたぞ！　突入だ！　あのヤバそうなブツを破壊しろ！"
+   ],
+   "ko": [
+    "실드가 다운됐다！　돌입！　저 수상한 물건을 부숴라！"
+   ]
+  },
+  "70": {
+   "en": [
+    "Central Tower"
+   ],
+   "jp": [
+    "セントラルタワー"
+   ],
+   "ko": [
+    "센트럴 타워"
+   ]
+  },
+  "72": {
+   "en": [
+    "The Artifact"
+   ],
+   "jp": [
+    "アーティファクト"
+   ],
+   "ko": [
+    "아티팩트"
+   ]
+  },
+  "74": {
+   "en": [
+    "Alpha Tower"
+   ],
+   "jp": [
+    "アルファタワー"
+   ],
+   "ko": [
+    "알파 타워"
+   ]
+  },
+  "76": {
+   "en": [
+    "Tedi shields now powered down"
+   ],
+   "jp": [
+    "クマ軍のシールドがダウンした"
+   ],
+   "ko": [
+    "곰군의 실드가 다운됐다"
+   ]
+  },
+  "77": {
+   "en": [
+    "All towers now neutral. Proceed to towers, priority one"
+   ],
+   "jp": [
+    "全タワー 現在すべて中立　タワーへ向かい 占拠せよ"
+   ],
+   "ko": [
+    "전 타워 현재 모두 중립　타워로 향해 점거해라"
+   ]
+  },
+  "78": {
+   "en": [
+    "Beta Tower"
+   ],
+   "jp": [
+    "ベータタワー"
+   ],
+   "ko": [
+    "베타 타워"
+   ]
+  },
+  "79": {
+   "en": [
+    "Three Towers"
+   ],
+   "jp": [
+    "スリータワーズ"
+   ],
+   "ko": [
+    "쓰리 타워즈"
+   ]
+  },
+  "80": {
+   "en": [
+    "S.H.C. tower now downgraded to neutral. Recapture, priority one."
+   ],
+   "jp": [
+    "リス軍のタワーが解放された　再度占拠せよ"
+   ],
+   "ko": [
+    "다람쥐군 타워 해방됨　다시 점거해라"
+   ]
+  },
+  "81": {
+   "en": [
+    "Here we go again fellas. You know the routine by now. Get to that first tower pronto. Can't afford to let this one slip. Hurry now!"
+   ],
+   "jp": [
+    "お前たち　やるべき事はわかってるな　すみやかに最初のタワーへ向かえ！　失敗は許されないぞ　急げ！"
+   ],
+   "ko": [
+    "너희들　할 일은 알겠지　즉시 첫 타워로 향해라！　실패는 용납 못 한다　서둘러！"
+   ]
+  }
+ }
+}

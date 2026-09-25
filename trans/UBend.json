@@ -1,0 +1,262 @@
+{
+ "scene": "UBend",
+ "n": 8,
+ "entries": {
+  "0": {
+   "en": [
+    "Well, short...",
+    "...With red fur...",
+    "... A big bushy tail...",
+    "... And a twitchy nose.",
+    "You're a squirrel, all right,",
+    "and you're coming with me!",
+    "Look, I told you, i'm not a squirrel.",
+    "Get your hands off me!",
+    "Well, what are you then?",
+    "I'm an elephant!",
+    "Squirrels aren't short and furry.",
+    "They're big and grey!",
+    "What?",
+    "Yeh, and as for twitchy noses,",
+    "they don't have them?",
+    "No, they're long and snouty,",
+    "and they also have flappy ears.",
+    "Are you sure?",
+    "'Course I'm sure.",
+    "See ya!"
+   ],
+   "jp": [
+    "背が低くて...",
+    "赤い毛皮で...",
+    "ふさふさのシッポ...",
+    "ピクピクする鼻",
+    "お前　リスだろ",
+    "一緒に来てもらおう！",
+    "だから リスじゃないってば",
+    "手をはなせ！",
+    "それじゃ何者だ？",
+    "おれはゾウだよ！",
+    "リスは小さくないし　毛皮もない",
+    "デカくて灰色だ",
+    "何だと？",
+    "ピクピクする鼻もちがう",
+    "ちがうのか？",
+    "リスの鼻は長くてとがってる",
+    "それにたれた耳",
+    "ホントなのか？",
+    "当たり前じゃん",
+    "じゃあな！"
+   ],
+   "ko": [
+    "키가 작고...",
+    "붉은 털가죽에...",
+    "복슬복슬한 꼬리...",
+    "실룩거리는 코",
+    "너　다람쥐지",
+    "같이 가줘야겠다！",
+    "그러니까 다람쥐 아니라니까",
+    "손 놔！",
+    "그럼 뭐냐?",
+    "난 코끼리야！",
+    "다람쥐는 작지도 않고　털가죽도 없어",
+    "크고 회색이지",
+    "뭐라고?",
+    "실룩거리는 코도 다르고",
+    "다른 건가?",
+    "다람쥐 코는 길고 뾰족해",
+    "게다가 늘어진 귀",
+    "정말인가?",
+    "당연하잖아",
+    "그럼！"
+   ]
+  },
+  "1": {
+   "en": [
+    "Ah, there's nothing quite like a good {RED}{LIGHTNING}{STAR}{SKULL}{SWIRL}{SKULL}{NORMAL}!",
+    "Now then...",
+    "It's all right. That's not a squirrel.",
+    "He's an elephant!",
+    "An elephant. You stupid {SKULL}{LIGHTNING}{STAR}{SWIRL}!"
+   ],
+   "jp": [
+    "いい{RED}{LIGHTNING}{STAR}{SKULL}{SWIRL}{SKULL}{NORMAL}なんてもんは\nありっこないな！",
+    "あいつは...",
+    "あれはリスじゃない",
+    "あれはゾウだ！",
+    "ゾウだって？\nお前ホントに{SKULL}{LIGHTNING}{STAR}{SWIRL}だろ？"
+   ],
+   "ko": [
+    "좋은 {RED}{LIGHTNING}{STAR}{SKULL}{SWIRL}{SKULL}{NORMAL}같은 건\n있을 리가 없지！",
+    "저놈은...",
+    "저건 다람쥐가 아니다",
+    "저건 코끼리다！",
+    "코끼리라고?\n너 진짜 {SKULL}{LIGHTNING}{STAR}{SWIRL}이지?"
+   ]
+  },
+  "2": {
+   "en": [
+    "Halt!",
+    "Em, can I get past?",
+    "No, you have to pay...",
+    "... Em, the toll! yes.",
+    "A toll. How much?",
+    "Em, $ 1ooo.",
+    "Yep, $ 1ooo!",
+    "$ 1Ooo should do it.",
+    "$ 5Oo each.",
+    "Come on, cough up.",
+    "He doesn't look like he's got it.",
+    "Nah, looks like kind of a pauper.",
+    "Skedaddle!",
+    "$ 1Ooo!",
+    "Means I gotta go back that way."
+   ],
+   "jp": [
+    "止まれ！",
+    "ここ通っていい？",
+    "ダメだ 通りたいなら...",
+    "そうだ通行料を払え！ いいな？",
+    "通行料っていくら？",
+    "そうだなあ １０００ドルにしよう",
+    "１０００ドルだ！",
+    "１０００ドルか",
+    "５００ドルずつだ",
+    "さっさと出せ！",
+    "金持ちには見えないな",
+    "見るからに貧乏そうだ",
+    "あっち行け！",
+    "１０００ドルだってさ！",
+    "ここは戻るしかないな"
+   ],
+   "ko": [
+    "멈춰라！",
+    "여기 지나가도 돼?",
+    "안 된다 지나가고 싶으면...",
+    "그래 통행료를 내라！ 알겠나?",
+    "통행료가 얼만데?",
+    "글쎄 １０００달러로 하지",
+    "１０００달러다！",
+    "１０００달러라",
+    "５００달러씩이다",
+    "얼른 내놔！",
+    "부자로는 안 보이는데",
+    "딱 봐도 가난해 보여",
+    "저리 가！",
+    "１０００달러래！",
+    "여긴 돌아갈 수밖에 없나"
+   ]
+  },
+  "3": {
+   "en": [
+    "Squirrels, what do they look like?",
+    "Em, I can't remember!",
+    "I'm sure it'll come back.",
+    "Right, let's keep... Guarding!"
+   ],
+   "jp": [
+    "リスってどんなだったっけ？",
+    "とっくに忘れちまった！",
+    "また来るだろう",
+    "よし ここの番を続けるか！"
+   ],
+   "ko": [
+    "다람쥐가 어떻게 생겼더라?",
+    "진작에 까먹었어！",
+    "또 오겠지",
+    "좋아 여기 계속 지키자！"
+   ]
+  },
+  "4": {
+   "en": [
+    "Oh yeh, let's see."
+   ],
+   "jp": [
+    "よーし いいぞ"
+   ],
+   "ko": [
+    "좋아 좋아"
+   ]
+  },
+  "5": {
+   "en": [
+    "So, you want some green stuff?"
+   ],
+   "jp": [
+    "おれ様が欲しいのか？"
+   ],
+   "ko": [
+    "나님을 원하는 거냐?"
+   ]
+  },
+  "6": {
+   "en": [
+    "Yeh!",
+    "Let's hope there's more",
+    "where that came from."
+   ],
+   "jp": [
+    "やったね！",
+    "こういうの",
+    "もっとガンガン来い！"
+   ],
+   "ko": [
+    "해냈다！",
+    "이런 거",
+    "더 팍팍 와라！"
+   ]
+  },
+  "7": {
+   "en": [
+    "You have to pay the toll.",
+    "You mercenaries!",
+    "There ya go,",
+    "$ 1000.",
+    "Thank you!",
+    "Can I get past now?",
+    "Hey, I'm not finished yet.",
+    "We're looking for a squirrel,",
+    "and I think, by the description given to me,",
+    "that you are a squirrel.",
+    "I am not a squirrel!",
+    "Yes you are,",
+    "you fit the description perfectly.",
+    "Oh really,",
+    "and could you describe this description to me?"
+   ],
+   "jp": [
+    "通行料を払うんだ",
+    "がめつい兵隊だな",
+    "ほら",
+    "１０００ドルだ",
+    "ありがとよ",
+    "じゃ通るよ",
+    "まだ話は終わってないぞ",
+    "リスを探してるんだ",
+    "おれが聞いた説明から考えると",
+    "お前はリスじゃないか？",
+    "おれはリスじゃない",
+    "リスだろ",
+    "完全に特徴が一致してる",
+    "そうかい",
+    "どんなさ　言ってみてよ"
+   ],
+   "ko": [
+    "통행료를 내라",
+    "욕심 많은 병사네",
+    "자",
+    "１０００달러다",
+    "고맙수",
+    "그럼 지나갈게",
+    "아직 얘기 안 끝났다",
+    "다람쥐를 찾고 있다",
+    "내가 들은 설명으로 생각해보면",
+    "넌 다람쥐 아니냐?",
+    "난 다람쥐가 아니다",
+    "다람쥐잖아",
+    "특징이 완전히 일치해",
+    "그래요?",
+    "어떤데　말해봐"
+   ]
+  }
+ }
+}

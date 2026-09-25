@@ -1,0 +1,37 @@
+{
+ "scene": "VolcanoInside",
+ "n": 2,
+ "entries": {
+  "0": {
+   "en": [
+    "Cool!",
+    "I can put this with the rest of",
+    "my dead presidents."
+   ],
+   "jp": [
+    "やったね！",
+    "おれの貯金は",
+    "増えるいっぽうだぜ"
+   ],
+   "ko": [
+    "해냈다！",
+    "내 저금은",
+    "계속 늘고 있어"
+   ]
+  },
+  "1": {
+   "en": [
+    "Hey! Where the {THROB}{RED}{LIGHTNING}{RED}{SKULL}{RED}{STAR}{RED}{SWIRL}{NORMAL} you been?",
+    "Ya ginger bastard!"
+   ],
+   "jp": [
+    "お前{THROB}{RED}{LIGHTNING}{RED}{SKULL}{RED}{STAR}{RED}{SWIRL}{NORMAL}なんだろ？",
+    "この赤毛リス！"
+   ],
+   "ko": [
+    "너 {THROB}{RED}{LIGHTNING}{RED}{SKULL}{RED}{STAR}{RED}{SWIRL}{NORMAL}지?",
+    "이 빨간머리 다람쥐！"
+   ]
+  }
+ }
+}

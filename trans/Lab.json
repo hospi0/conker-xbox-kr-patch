@@ -1,0 +1,184 @@
+{
+ "scene": "Lab",
+ "n": 8,
+ "entries": {
+  "0": {
+   "en": [
+    "What the {THROB}{RED}{LIGHTNING}{SKULL}{STAR}{SWIRL}{NORMAL}!",
+    "It's that bloody squirrel!",
+    " Quick, into character!"
+   ],
+   "jp": [
+    "見ろ {THROB}{RED}{LIGHTNING}{SKULL}{STAR}{SWIRL}{NORMAL}だ！",
+    "あのリスだ！",
+    "仕事に戻るぞ！"
+   ],
+   "ko": [
+    "봐라 {THROB}{RED}{LIGHTNING}{SKULL}{STAR}{SWIRL}{NORMAL}다！",
+    "저 다람쥐다！",
+    "일로 돌아간다！"
+   ]
+  },
+  "1": {
+   "en": [
+    "Am I glad to see you...",
+    " Could you get me outta here?",
+    " I think it's that switch over there...",
+    " But, be careful...",
+    " I think the other one is, you know...",
+    " Frying tonight!"
+   ],
+   "jp": [
+    "よかった　味方か",
+    "手をかしてくれ",
+    "そこのスイッチを入れるんだ",
+    "だが気をつけろ",
+    "まちがえると",
+    "おれは黒コゲだ！"
+   ],
+   "ko": [
+    "다행이다　아군인가",
+    "손 좀 빌려줘",
+    "저기 스위치를 켜",
+    "근데 조심해",
+    "잘못하면",
+    "난 새까맣게 타버려！"
+   ]
+  },
+  "2": {
+   "en": [
+    "Yeh, um, just stay there...",
+    " The cavalry has arrived!",
+    " Ha! sorry you can't move.",
+    " Let's see now...",
+    "Do you know which switch it is?",
+    "Yeh, um, it's written on it."
+   ],
+   "jp": [
+    "まかせとけって！",
+    "そこで待ってろ",
+    "...って動けないんだった",
+    "ちょっと待ってな",
+    "どっちかわかるか？",
+    "ああ　書いてあるから"
+   ],
+   "ko": [
+    "맡기라니까！",
+    "거기서 기다려",
+    "...라지만 못 움직이지",
+    "잠깐만 기다려",
+    "어느 쪽인지 알겠나?",
+    "아　적혀 있으니까"
+   ]
+  },
+  "3": {
+   "en": [
+    "Eenie, meenie, minie...",
+    " Okay!"
+   ],
+   "jp": [
+    "どっちかな...",
+    "よーし"
+   ],
+   "ko": [
+    "어느 쪽일까...",
+    "좋았어"
+   ]
+  },
+  "4": {
+   "en": [
+    "Oh, hang a sec.",
+    " I think it's this one, actually.",
+    " Eh, okay."
+   ],
+   "jp": [
+    "待ってろ",
+    "きっとこっちだ\n",
+    "ああ...　手遅れか"
+   ],
+   "ko": [
+    "기다려",
+    "분명 이쪽이다\n",
+    "아...　늦었나"
+   ]
+  },
+  "5": {
+   "en": [
+    "Well what do you know,",
+    " I'm not quite dead."
+   ],
+   "jp": [
+    "何を言うか",
+    "まだ生きてるぞ"
+   ],
+   "ko": [
+    "무슨 소릴",
+    "아직 살아 있어"
+   ]
+  },
+  "6": {
+   "en": [
+    "Thanks for that.",
+    " Feel a bit strange, though.",
+    " How do I look?",
+    "You look great.",
+    " Mmm... I've got to go.",
+    " See ya!"
+   ],
+   "jp": [
+    "礼は言っとく",
+    "変な気分だがな\n",
+    "私は　どうなってる？",
+    "すごいよ",
+    "\nあの...　もう行くよ",
+    "じゃあな！"
+   ],
+   "ko": [
+    "고맙단 말은 해두지",
+    "이상한 기분이지만\n",
+    "나는　어떻게 된 거지?",
+    "대단해",
+    "\n저기...　이제 갈게",
+    "그럼！"
+   ]
+  },
+  "7": {
+   "en": [
+    "What's this? This is a bit different.",
+    " What are those guys?",
+    " Oh, more tediz.",
+    "Really, that's incredible.",
+    "What if you were to give this game",
+    " To say, twenty...",
+    " Intelligent people.",
+    " I mean, what would that do?",
+    " Let's face it, what would it do?",
+    "Really, that's interesting."
+   ],
+   "jp": [
+    "何だろ？　さっきまでと感じがちがうな...",
+    "あいつら何なんだ？",
+    "クマ軍か？",
+    "そりゃ　すごいな",
+    "もしこのゲームを",
+    "２０人の知識人で",
+    "やったとしたら",
+    "どうなると思う？",
+    "試してみようぜ",
+    "そいつは面白そうだ"
+   ],
+   "ko": [
+    "뭐지?　아까랑 느낌이 다른데...",
+    "저놈들 뭐야?",
+    "곰군인가?",
+    "그거　대단한데",
+    "만약 이 게임을",
+    "２０명의 지식인이",
+    "한다면",
+    "어떻게 될 것 같아?",
+    "시험해보자",
+    "그거 재밌겠는데"
+   ]
+  }
+ }
+}

@@ -1,0 +1,436 @@
+{
+ "scene": "BladeBoardroom",
+ "n": 29,
+ "entries": {
+  "0": {
+   "en": [
+    "Get off me! "
+   ],
+   "jp": [
+    "手をはなせ！"
+   ],
+   "ko": [
+    "손 놔！"
+   ]
+  },
+  "1": {
+   "en": [
+    "So!",
+    " This is the wise guy that tried to steal my dough.",
+    " Whaddya gotta say for yourself, boy?"
+   ],
+   "jp": [
+    "こいつか！",
+    "おれの金を盗もうとしたおろか者は",
+    "どう言い訳するつもりだ？"
+   ],
+   "ko": [
+    "이놈인가！",
+    "내 돈을 훔치려 한 놈은",
+    "어떻게 변명할 셈이냐?"
+   ]
+  },
+  "2": {
+   "en": [
+    "Eh, what?",
+    " Oh hey, hey, Berri! How're you doing?",
+    " It's me!"
+   ],
+   "jp": [
+    "そんなあ",
+    "ベリー！\nどうしたんだよ？",
+    "おれだよ！"
+   ],
+   "ko": [
+    "그런...",
+    "베리！\n무슨 일이야?",
+    "나야！"
+   ]
+  },
+  "3": {
+   "en": [
+    "Do you know this tea leaf?"
+   ],
+   "jp": [
+    "こいつを知ってるのか？"
+   ],
+   "ko": [
+    "이놈을 아나?"
+   ]
+  },
+  "4": {
+   "en": [
+    "Yeah! Like I'd associate with a caveman."
+   ],
+   "jp": [
+    "こんな下品な人と付き合うと思う？"
+   ],
+   "ko": [
+    "이런 천박한 놈이랑 사귀겠어?"
+   ]
+  },
+  "5": {
+   "en": [
+    "The broad does not seem to know you."
+   ],
+   "jp": [
+    "彼女は知らんとさ"
+   ],
+   "ko": [
+    "모른다는군"
+   ]
+  },
+  "6": {
+   "en": [
+    "Like, is it ok if I go now?",
+    " I've gotta go powder my nose."
+   ],
+   "jp": [
+    "もう行っていい？",
+    "お化粧直すの"
+   ],
+   "ko": [
+    "이제 가도 돼?",
+    "화장 고치러"
+   ]
+  },
+  "7": {
+   "en": [
+    "Get outta here."
+   ],
+   "jp": [
+    "行け"
+   ],
+   "ko": [
+    "가라"
+   ]
+  },
+  "8": {
+   "en": [
+    "Right, let's get back to business.",
+    " I just got one thing to do, though.",
+    " I'll be with you in a minute."
+   ],
+   "jp": [
+    "仕事の話をしたいが",
+    "先にやることがある",
+    "ちょっと待ってろ"
+   ],
+   "ko": [
+    "일 얘기를 하려는데",
+    "먼저 할 일이 있다",
+    "잠깐 기다려"
+   ]
+  },
+  "9": {
+   "en": [
+    "People have gotta show the appropriate levels of respect.",
+    " When you step outta line, you can expect to be respected back.",
+    " One of you guys has shown no respect.",
+    "Who it is? I don't know.",
+    " Could've been..."
+   ],
+   "jp": [
+    "人への敬意はきちんと払わねばいかん",
+    "マズいことになったとき 自分に返ってくるんだ",
+    "ここに敬意を知らん者がいる",
+    "一体誰だろうな？",
+    "それは..."
+   ],
+   "ko": [
+    "남에 대한 존중은 표해야 한다",
+    "일이 틀어지면 자신에게 돌아온다",
+    "여기 존중 모르는 자가 있다",
+    "대체 누구일까?",
+    "그건..."
+   ]
+  },
+  "10": {
+   "en": [
+    "Frankie!",
+    "Could've been...",
+    "Chicho!",
+    "Could've been...",
+    "Paulie."
+   ],
+   "jp": [
+    "フランキーか！",
+    "それとも...",
+    "チーチョか？",
+    "それとも...",
+    "ポーリーか"
+   ],
+   "ko": [
+    "프랭키인가！",
+    "아니면...",
+    "치초인가?",
+    "아니면...",
+    "폴리인가"
+   ]
+  },
+  "11": {
+   "en": [
+    "Don't you ever!",
+    "Do that!",
+    "Again!",
+    "To me!"
+   ],
+   "jp": [
+    "いいか二度とするな！",
+    "二度と！",
+    "このおれに！",
+    "あんなマネを！"
+   ],
+   "ko": [
+    "두 번 다시 마라！",
+    "다시는！",
+    "이 몸한테！",
+    "그런 짓을！"
+   ]
+  },
+  "12": {
+   "en": [
+    "Eh, look, you know, you can have the money.",
+    " In fact, I've got more money. You can have that too...",
+    " If you want? Oh no, what am I doing?",
+    "You can keep the money.",
+    "But you gotta do me a little job first.",
+    "A job? Oh yeah, cool, but I mean, I'm gonna have to...",
+    " I'll have to consider it first.",
+    " What is it? What do I have to do?",
+    "Good, good. I'm glad you accepted...",
+    " Step this way."
+   ],
+   "jp": [
+    "あのう...　金は返すよ",
+    "それに　おれの金もやる",
+    "って何言ってんだ？",
+    "金はお前にやる",
+    "だが　ひと仕事してもらおう",
+    "仕事？ いいけど...　その前に...",
+    "ちょっと考えさせて",
+    "いや...　何すればいい？",
+    "よし...　物分かりがいいな",
+    "こっちへ来い"
+   ],
+   "ko": [
+    "저기...　돈은 돌려줄게",
+    "게다가　내 돈도 주지",
+    "라니 무슨 소리야?",
+    "돈은 네게 준다",
+    "하지만　일 하나 해줘야겠다",
+    "일? 좋지만...　그 전에...",
+    "잠깐 생각 좀 하고",
+    "아니...　뭘 하면 되지?",
+    "좋아...　이해가 빠르군",
+    "이리 와라"
+   ]
+  },
+  "13": {
+   "en": [
+    "Ok, here's the plan.",
+    " We got ourselves a little problem."
+   ],
+   "jp": [
+    "計画はこうだ ",
+    "おれたちは問題をかかえてる"
+   ],
+   "ko": [
+    "계획은 이렇다 ",
+    "우리는 문제를 안고 있다"
+   ]
+  },
+  "14": {
+   "en": [
+    "In fact, several little problems."
+   ],
+   "jp": [
+    "しかもひとつじゃなく　いくつもな"
+   ],
+   "ko": [
+    "그것도 하나가 아니라　여러 개다"
+   ]
+  },
+  "15": {
+   "en": [
+    "And by the way..."
+   ],
+   "jp": [
+    "それからな"
+   ],
+   "ko": [
+    "그리고"
+   ]
+  },
+  "16": {
+   "en": [
+    "When that bomb goes off...",
+    "I suggest you leave town."
+   ],
+   "jp": [
+    "成功したら...",
+    "町を出た方がいい"
+   ],
+   "ko": [
+    "성공하면...",
+    "마을을 떠나라"
+   ]
+  },
+  "17": {
+   "en": [
+    "And if you don't pull it off...",
+    "I suggest you leave town."
+   ],
+   "jp": [
+    "失敗しても...",
+    "町を出た方がいい"
+   ],
+   "ko": [
+    "실패해도...",
+    "마을을 떠나라"
+   ]
+  },
+  "18": {
+   "en": [
+    "Let's go to work."
+   ],
+   "jp": [
+    "仕事にかかれ"
+   ],
+   "ko": [
+    "일을 시작해라"
+   ]
+  },
+  "19": {
+   "en": [
+    "You already got the disguise...",
+    " So that's that one covered."
+   ],
+   "jp": [
+    "もう変装はしてるな\n",
+    "それでよかろう"
+   ],
+   "ko": [
+    "이미 변장은 했겠지\n",
+    "그거면 됐다"
+   ]
+  },
+  "20": {
+   "en": [
+    "What else you need is one of these."
+   ],
+   "jp": [
+    "ほかに必要な物がある"
+   ],
+   "ko": [
+    "더 필요한 게 있다"
+   ]
+  },
+  "21": {
+   "en": [
+    "It's called...",
+    "A bomb."
+   ],
+   "jp": [
+    "それは...",
+    "爆弾だ"
+   ],
+   "ko": [
+    "그건...",
+    "폭탄이다"
+   ]
+  },
+  "22": {
+   "en": [
+    "These are the problem.",
+    " Where they came from? I don't know."
+   ],
+   "jp": [
+    "問題とはヤツらのことだ",
+    "どこから来たかも分からん"
+   ],
+   "ko": [
+    "문제란 그놈들 얘기다",
+    "어디서 왔는지도 모른다"
+   ]
+  },
+  "23": {
+   "en": [
+    "They seem totally outta place in this ecosystem."
+   ],
+   "jp": [
+    "生態系からも外れてる"
+   ],
+   "ko": [
+    "생태계에도 없다"
+   ]
+  },
+  "24": {
+   "en": [
+    "But they're here, and they're on my patch."
+   ],
+   "jp": [
+    "だが　おれのナワバリにいやがる"
+   ],
+   "ko": [
+    "근데　내 구역에 있단 말이야"
+   ]
+  },
+  "25": {
+   "en": [
+    "So what I propose that you do...",
+    " Is use your disguise acumen."
+   ],
+   "jp": [
+    "それでお前に頼みたいんだ",
+    "その変装の才能を使ってくれ"
+   ],
+   "ko": [
+    "그래서 네게 부탁한다",
+    "그 변장 재능을 써줘"
+   ]
+  },
+  "26": {
+   "en": [
+    "Take the bomb..."
+   ],
+   "jp": [
+    "この爆弾を..."
+   ],
+   "ko": [
+    "이 폭탄을..."
+   ]
+  },
+  "27": {
+   "en": [
+    "Well, this is the fella."
+   ],
+   "jp": [
+    "ボス　連れてきました"
+   ],
+   "ko": [
+    "보스　데려왔습니다"
+   ]
+  },
+  "28": {
+   "en": [
+    "Through here...",
+    "Down here...",
+    "Out of here...",
+    "And drop it here."
+   ],
+   "jp": [
+    "ここを通り...",
+    "ここをのぼって...",
+    "ここを出て...",
+    "ここに落とすんだ"
+   ],
+   "ko": [
+    "여길 지나서...",
+    "여길 올라가서...",
+    "여길 나가서...",
+    "여기에 떨어뜨려라"
+   ]
+  }
+ }
+}

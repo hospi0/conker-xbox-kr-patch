@@ -1,0 +1,43 @@
+{
+ "scene": "GenericCutscenes",
+ "n": 2,
+ "entries": {
+  "0": {
+   "en": [
+    "Ah, let's see...",
+    " Big hand is...",
+    "Yeh, it's ten o'clock.",
+    "Ten o'clock. Oh yeh, I remember."
+   ],
+   "jp": [
+    "どれどれ...",
+    "今 何時かな",
+    "ちょうど１０時か",
+    "１０時？ そうだ 思い出した"
+   ],
+   "ko": [
+    "어디 보자...",
+    "지금 몇 시지",
+    "딱 １０시인가",
+    "１０시? 그래 생각났다"
+   ]
+  },
+  "1": {
+   "en": [
+    "Cool!",
+    "This day ain't turned out quite so bad after all.",
+    "Oh! Hang on."
+   ],
+   "jp": [
+    "いいぞ",
+    "そう悪い日でもないな",
+    "おっと そうだ"
+   ],
+   "ko": [
+    "좋아",
+    "그렇게 나쁜 날도 아니네",
+    "이런 맞다"
+   ]
+  }
+ }
+}

@@ -1,0 +1,1362 @@
+{
+ "scene": "ThroneRoom",
+ "n": 75,
+ "entries": {
+  "0": {
+   "en": [
+    "Stupid {THROB}{RED}{SWIRL}{SKULL}{LIGHTNING}{STAR}{SWIRL}{SKULL}{NORMAL}...",
+    "All I do all day is try and sort his stupid {THROB}{RED}{LIGHTNING}{SKULL}{SWIRL}{STAR}{LIGHTNING}{SWIRL}{NORMAL} problems out!",
+    "{RED}{LIGHTNING}{STAR}{SKULL}{STAR}{LIGHTNING}{SWIRL}{SKULL}{NORMAL}, I {THROB}{RED}{LIGHTNING}{STAR}{SWIRL}{SKULL}{STAR}{NORMAL} hate that {THROB}{BLUE}{STAR}{SWIRL}{SKULL}{LIGHTNING}{SWIRL}{SKULL}{NORMAL}!",
+    "Anyway, vat ver ve?",
+    "Ze milk, ze milk, ze table, ze table!",
+    "Vat shall ve do vit zis?",
+    "Clean slate, ja, clean slate.",
+    "Anti-gravity chocolate...",
+    "Is kinda vurking!",
+    "Ah, zat vill do...",
+    "Out the {THROB}{BLUE}{LIGHTNING}{STAR}{SKULL}{SWIRL}{LIGHTNING}{STAR}{NORMAL} vindow vit zat!"
+   ],
+   "jp": [
+    "あの{THROB}{RED}{SWIRL}{SKULL}{LIGHTNING}{STAR}{SWIRL}{SKULL}{NORMAL}　野郎！",
+    "この私に{THROB}{RED}{LIGHTNING}{SKULL}{SWIRL}{STAR}{LIGHTNING}{SWIRL}{NORMAL}ばかりさせて！",
+    "{RED}{LIGHTNING}{STAR}{SKULL}{STAR}{LIGHTNING}{SWIRL}{SKULL}{NORMAL}...私の{THROB}{RED}{LIGHTNING}{STAR}{SWIRL}{SKULL}{STAR}{NORMAL}はもう{THROB}{BLUE}{STAR}{SWIRL}{SKULL}{LIGHTNING}{SWIRL}{SKULL}{NORMAL}だ！",
+    "何の話だったかな？",
+    "ミルクとテーブルだ！",
+    "どうするかな",
+    "いちから考えよう",
+    "反重力チョコは...",
+    "使えるはず！",
+    "イヤ...　ダメだ",
+    "こんな{THROB}{BLUE}{LIGHTNING}{STAR}{SKULL}{SWIRL}{LIGHTNING}{STAR}{NORMAL}窓から捨ててやる！"
+   ],
+   "ko": [
+    "저 {THROB}{RED}{SWIRL}{SKULL}{LIGHTNING}{STAR}{SWIRL}{SKULL}{NORMAL}　놈！",
+    "이 나한테 {THROB}{RED}{LIGHTNING}{SKULL}{SWIRL}{STAR}{LIGHTNING}{SWIRL}{NORMAL}만 시켜！",
+    "{RED}{LIGHTNING}{STAR}{SKULL}{STAR}{LIGHTNING}{SWIRL}{SKULL}{NORMAL}...내 {THROB}{RED}{LIGHTNING}{STAR}{SWIRL}{SKULL}{STAR}{NORMAL}는 이제 {THROB}{BLUE}{STAR}{SWIRL}{SKULL}{LIGHTNING}{SWIRL}{SKULL}{NORMAL}다！",
+    "무슨 얘기였더라?",
+    "우유랑 탁자였지！",
+    "어떡할까",
+    "처음부터 생각해보자",
+    "반중력 초콜릿은...",
+    "쓸 수 있을 텐데！",
+    "아니...　안 되겠어",
+    "이런 {THROB}{BLUE}{LIGHTNING}{STAR}{SKULL}{SWIRL}{LIGHTNING}{STAR}{NORMAL}창밖으로 던져버리마！"
+   ]
+  },
+  "1": {
+   "en": [
+    "So! What is the key elements",
+    "In zis experimentation?",
+    "We have ze table.",
+    "Ze milk in ze glass broken.",
+    "Ah! I see problem.",
+    "Oh! And there seems to be a,",
+    "hmmm, seems to be a hmmm.",
+    "I must do some experiments, I think,",
+    "ja, ja, and we will sort this out.",
+    "And when my tediz are ready,",
+    "then, my lord, we will see",
+    "who uses the duct tape!",
+    "Ha! ha! ha!"
+   ],
+   "jp": [
+    "これを解くカギは",
+    "何だろう？",
+    "あるのはテーブル...",
+    "それに割れたミルクのコップ",
+    "そうか...　わかったぞ！",
+    "この部分に合う物か...",
+    "何がピッタリはまるだろう？",
+    "実験するしかない",
+    "我がクマ軍が集結すれば",
+    "解決できるはずだ",
+    "テープの刑を受けるのが誰なのか...",
+    "大王にわからせてやる",
+    "楽しみだ"
+   ],
+   "ko": [
+    "이걸 풀 열쇠는",
+    "뭘까?",
+    "있는 건 탁자...",
+    "그리고 깨진 우유컵",
+    "그래...　알았다！",
+    "이 부분에 맞는 게...",
+    "뭐가 딱 맞을까?",
+    "실험할 수밖에",
+    "우리 곰군이 모이면",
+    "해결할 수 있을 거야",
+    "누가 테이프형을 받을지...",
+    "대왕님께 알려드려야지",
+    "기대되는군"
+   ]
+  },
+  "2": {
+   "en": [
+    "He better hurry up! "
+   ],
+   "jp": [
+    "もう戻ってもよいころだ！"
+   ],
+   "ko": [
+    "이제 돌아올 때가 됐군！"
+   ]
+  },
+  "3": {
+   "en": [
+    "What are you looking at?"
+   ],
+   "jp": [
+    "何を見ている？"
+   ],
+   "ko": [
+    "뭘 보고 있나?"
+   ]
+  },
+  "4": {
+   "en": [
+    "Nothing, sire."
+   ],
+   "jp": [
+    "何も 陛下"
+   ],
+   "ko": [
+    "없습니다 폐하"
+   ]
+  },
+  "5": {
+   "en": [
+    "Good...!"
+   ],
+   "jp": [
+    "そうか"
+   ],
+   "ko": [
+    "그런가"
+   ]
+  },
+  "6": {
+   "en": [
+    "I think I can hear him."
+   ],
+   "jp": [
+    "博士が来たようだな"
+   ],
+   "ko": [
+    "박사가 온 모양이군"
+   ]
+  },
+  "7": {
+   "en": [
+    "AAHH...  "
+   ],
+   "jp": [
+    "ああ...  "
+   ],
+   "ko": [
+    "아아...  "
+   ]
+  },
+  "8": {
+   "en": [
+    "Ah, my lord...",
+    "You'll never guess what?",
+    "I zink I have found ze problem.",
+    "Now, ve have here, if you look...",
+    "Ze table.",
+    "If you analyze ze table closely...",
+    "As I have done, most particularly,",
+    "you vill see, zat zere is a gap!",
+    "And ve're not talking any old gap here, my lord,",
+    "it is a sizeable one.",
+    "Now, milk goes here,",
+    "vat happens? Ve have ze fulcrum here...",
+    "... Ze milk here,",
+    "veight problem, not good.",
+    "Milk falls off because of a gap,",
+    "ja, zat is vat is ze problem...",
+    "Ze gap!"
+   ],
+   "jp": [
+    "ああ 陛下...",
+    "きっとビックリなさいます",
+    "問題を発見しました",
+    "ご覧になって下さい",
+    "テーブルを！",
+    "よーくご覧に",
+    "詳しく調べましたところ",
+    "すき間がございます！",
+    "心の話ではございません",
+    "テーブルの話です",
+    "ミルクをここに置くと",
+    "下に足がないので",
+    "倒れます",
+    "重さの問題です",
+    "すき間のせいで倒れる",
+    "それが問題なのです",
+    "すき間が！"
+   ],
+   "ko": [
+    "아 폐하...",
+    "분명 놀라실 겁니다",
+    "문제를 발견했습니다",
+    "봐 주십시오",
+    "탁자를！",
+    "잘 좀 보시면",
+    "자세히 조사해본 결과",
+    "틈이 있습니다！",
+    "마음 얘기가 아닙니다",
+    "탁자 얘기입니다",
+    "우유를 여기 두면",
+    "밑에 다리가 없어서",
+    "쓰러집니다",
+    "무게 문제입니다",
+    "틈 때문에 쓰러지는 겁니다",
+    "그게 문제입니다",
+    "틈이！"
+   ]
+  },
+  "9": {
+   "en": [
+    "Hmmm, I think i see...",
+    "... And the solution?",
+    "Ah, now zis is where it gets complicated.",
+    "I vas mulling over vat would fit in ze gap...",
+    "I tried many zings.",
+    "I tried elephants...",
+    "... Pot plants...",
+    "... Many zings.",
+    "But ze one thing,",
+    "and I vas sure of it at ze time,",
+    "I vas sure it vas a rodent...",
+    "... And sure enough, it vas.",
+    "Zis one...",
+    "... Furrius squidgeterrius,",
+    "to use the proper vernacular.",
+    "To ze lay man, ze red squirrel.",
+    "Zis red squirrel."
+   ],
+   "jp": [
+    "なるほど わかった気がするぞ",
+    "それで解決法は？",
+    "それがフクザツで",
+    "何がはまるか考え...",
+    "いろいろ試しました",
+    "まずゾウを試し",
+    "植え木を試し",
+    "山ほど試して",
+    "見つけました",
+    "ピッタリ合うものを",
+    "それは　げっ歯類です",
+    "まちがいありません",
+    "これです",
+    "このフワフワ生物が",
+    "ピッタリはまるのです",
+    "アカリスです",
+    "アカリスがピッタリ！"
+   ],
+   "ko": [
+    "그렇군 알 것 같다",
+    "그래서 해결책은?",
+    "그게 복잡해서",
+    "뭐가 맞을지 생각하고...",
+    "여러 가지 시험해봤습니다",
+    "코끼리를 시험하고",
+    "화분을 시험하고",
+    "잔뜩 시험해서",
+    "찾아냈습니다",
+    "딱 맞는 것을",
+    "그건　설치류입니다",
+    "틀림없습니다",
+    "이겁니다",
+    "이 복슬복슬한 생물이",
+    "딱 맞아떨어집니다",
+    "붉은다람쥐입니다",
+    "붉은다람쥐가 딱 맞습니다！"
+   ]
+  },
+  "10": {
+   "en": [
+    "Hmm, yes...",
+    "Squirrel, I've heard of them.",
+    "Yes... So?",
+    "So it is simple, my liege...",
+    "Ve need a squirrel,",
+    "... And ve put him here.",
+    "You no spill your milk...",
+    "... Ve don't get duct tape."
+   ],
+   "jp": [
+    "ふむ なるほど...",
+    "リスか 聞いたことがある",
+    "それで...　どうする？",
+    "あとは簡単",
+    "リスをつかまえて",
+    "すき間にはめるだけです",
+    "ミルクは無事",
+    "粘着テープもナシ"
+   ],
+   "ko": [
+    "흠 그렇군...",
+    "다람쥐라 들어본 적 있군",
+    "그래서...　어떻게 하지?",
+    "나머진 간단합니다",
+    "다람쥐를 붙잡아서",
+    "틈에 끼우기만 하면 됩니다",
+    "우유는 무사",
+    "접착테이프도 없이"
+   ]
+  },
+  "11": {
+   "en": [
+    "Gentlemen...",
+    "Yes, my liege.",
+    "Get me one of these...",
+    "... Red squirrels!",
+    "Yes, my liege."
+   ],
+   "jp": [
+    "お前たち...",
+    "はい 陛下",
+    "私のもとへ連れて来るのだ",
+    "そのアカリスとやらを！",
+    "わかりました 陛下"
+   ],
+   "ko": [
+    "너희들...",
+    "예 폐하",
+    "내 앞으로 데려와라",
+    "그 붉은다람쥐인가 뭔가를！",
+    "알겠습니다 폐하"
+   ]
+  },
+  "12": {
+   "en": [
+    "Eureka! Eureka! "
+   ],
+   "jp": [
+    "わかった！"
+   ],
+   "ko": [
+    "알았다！"
+   ]
+  },
+  "13": {
+   "en": [
+    "I've found it... I've found it..."
+   ],
+   "jp": [
+    "わかりました！"
+   ],
+   "ko": [
+    "알겠습니다！"
+   ]
+  },
+  "14": {
+   "en": [
+    "Ja, ja, EUREKA! "
+   ],
+   "jp": [
+    "わかりましたよ！"
+   ],
+   "ko": [
+    "알겠다니까요！"
+   ]
+  },
+  "15": {
+   "en": [
+    "Yes...",
+    "Much better.",
+    "I won't be spilling my milk anymore.",
+    "Yes, boss,",
+    "and we won't be getting the duct tape."
+   ],
+   "jp": [
+    "いいぞ",
+    "よくなった",
+    "これでミルクはこぼれん！",
+    "そのとおりです",
+    "粘着テープは必要ありません"
+   ],
+   "ko": [
+    "좋아",
+    "좋아졌군",
+    "이제 우유는 안 쏟는다！",
+    "그렇습니다",
+    "접착테이프는 필요 없습니다"
+   ]
+  },
+  "16": {
+   "en": [
+    "Cool!",
+    "Now, mr. Alien,",
+    "let's see."
+   ],
+   "jp": [
+    "いいぞ！",
+    "見てろ エイリアンめ",
+    "いくぞ"
+   ],
+   "ko": [
+    "좋아！",
+    "봐라 외계인 놈아",
+    "간다"
+   ]
+  },
+  "17": {
+   "en": [
+    "Let's get into position,",
+    "steady,",
+    "check the shot,",
+    "there we go!",
+    "Right!"
+   ],
+   "jp": [
+    "位置についてと",
+    "こうだ",
+    "ポーズよし",
+    "これでいい",
+    "よーし！"
+   ],
+   "ko": [
+    "자리에 서고",
+    "이렇게",
+    "포즈 좋고",
+    "이러면 됐다",
+    "좋았어！"
+   ]
+  },
+  "18": {
+   "en": [
+    "On my mark,",
+    "and not a moment sooner."
+   ],
+   "jp": [
+    "それじゃ いくぞ",
+    "合図したらすぐだ"
+   ],
+   "ko": [
+    "그럼 간다",
+    "신호하면 바로다"
+   ]
+  },
+  "22": {
+   "en": [
+    "And action."
+   ],
+   "jp": [
+    "いくぜ！"
+   ],
+   "ko": [
+    "간다！"
+   ]
+  },
+  "23": {
+   "en": [
+    "Oh no,",
+    "that's a bit volatile."
+   ],
+   "jp": [
+    "ああー",
+    "そうじが大変そう"
+   ],
+   "ko": [
+    "아아ー",
+    "청소가 힘들겠는데"
+   ]
+  },
+  "24": {
+   "en": [
+    "Clean that up later!"
+   ],
+   "jp": [
+    "まあ あとでいいや！"
+   ],
+   "ko": [
+    "뭐 나중에 하지！"
+   ]
+  },
+  "25": {
+   "en": [
+    "Well,",
+    "I suppose that's it.",
+    "Anything else?",
+    "Who're these guys?"
+   ],
+   "jp": [
+    "さてと",
+    "これで終わりだろ",
+    "それで？",
+    "ん？ 誰だ？"
+   ],
+   "ko": [
+    "자아",
+    "이걸로 끝이겠지",
+    "그래서?",
+    "음? 누구지?"
+   ]
+  },
+  "26": {
+   "en": [
+    "Oh, hello.",
+    "It's you again."
+   ],
+   "jp": [
+    "なんだ",
+    "またお前か"
+   ],
+   "ko": [
+    "뭐야",
+    "또 너냐"
+   ]
+  },
+  "27": {
+   "en": [
+    "Well, if it isn't Conker.",
+    "How ya doin', mr. Squirrel?",
+    "You have defeated",
+    "the evil panther-type king."
+   ],
+   "jp": [
+    "本当にコンカー？",
+    "よく無事だったね",
+    "あの邪悪な",
+    "パンサー大王を倒したっていうのに！"
+   ],
+   "ko": [
+    "진짜 콩커야?",
+    "용케 무사했네",
+    "그 사악한",
+    "판서 대왕을 쓰러뜨렸다면서！"
+   ]
+  },
+  "28": {
+   "en": [
+    "We didn't like him either.",
+    "In fact,",
+    "there seems to be",
+    "an empty throne."
+   ],
+   "jp": [
+    "おれたちも好きじゃなかった",
+    "本当はな",
+    "ところで王座が",
+    "空いてるみたいだぜ"
+   ],
+   "ko": [
+    "우리도 안 좋아했어",
+    "사실은 말이야",
+    "근데 왕좌가",
+    "비어 있는 것 같은데"
+   ]
+  },
+  "29": {
+   "en": [
+    "Yes, "
+   ],
+   "jp": [
+    "そうさ"
+   ],
+   "ko": [
+    "그렇다니까"
+   ]
+  },
+  "30": {
+   "en": [
+    "Too bloody right there is.",
+    "Come on, Conker,",
+    "up on t' throne wi' ya."
+   ],
+   "jp": [
+    "まったくそのとおり",
+    "さあコンカー",
+    "王座に座ってくれ"
+   ],
+   "ko": [
+    "완전히 맞는 말이야",
+    "자 콩커",
+    "왕좌에 앉아줘"
+   ]
+  },
+  "31": {
+   "en": [
+    "There seems to be",
+    "an empty throne."
+   ],
+   "jp": [
+    "ところで王座が",
+    "空いてるみたいだぜ"
+   ],
+   "ko": [
+    "근데 왕좌가",
+    "비어 있는 것 같은데"
+   ]
+  },
+  "32": {
+   "en": [
+    "What?",
+    "But I,",
+    "no, you don't understand.",
+    "I don't really wanna be king."
+   ],
+   "jp": [
+    "はあ？",
+    "あのな",
+    "バカ言うな",
+    "王様になんかなりたくない！"
+   ],
+   "ko": [
+    "허?",
+    "있잖나",
+    "말도 안 돼",
+    "왕 같은 거 되고 싶지 않아！"
+   ]
+  },
+  "33": {
+   "en": [
+    "Oh no,",
+    "I forgot to,",
+    "I should have",
+    "brought Berri back to life.",
+    "Oh no!"
+   ],
+   "jp": [
+    "そうだ",
+    "忘れてた",
+    "おれはベリーを",
+    "生き返らせなきゃ",
+    "しまった"
+   ],
+   "ko": [
+    "맞다",
+    "잊고 있었네",
+    "난 베리를",
+    "되살려야 해",
+    "이런"
+   ]
+  },
+  "34": {
+   "en": [
+    "Hello, programmer.",
+    "Ah, they're gone.",
+    "What are ya doin'?",
+    "Get off."
+   ],
+   "jp": [
+    "プログラマー！",
+    "いないのか！",
+    "何すんだ！",
+    "はなせ！"
+   ],
+   "ko": [
+    "프로그래머！",
+    "없는 거야！",
+    "뭐 하는 거야！",
+    "놔줘！"
+   ]
+  },
+  "35": {
+   "en": [
+    "It's okay.",
+    "It'll be good.",
+    "Here's the rest of the guys."
+   ],
+   "jp": [
+    "大丈夫",
+    "心配ない",
+    "ぼくらがついてる"
+   ],
+   "ko": [
+    "괜찮아",
+    "걱정 없어",
+    "우리가 있잖아"
+   ]
+  },
+  "36": {
+   "en": [
+    "Marvellous!",
+    "I like it in here!",
+    "Ooh, cheese!"
+   ],
+   "jp": [
+    "メチャすご！",
+    "ここ気に入った！",
+    "チーズだ！"
+   ],
+   "ko": [
+    "완전 대단해！",
+    "여기 마음에 들어！",
+    "치즈다！"
+   ]
+  },
+  "37": {
+   "en": [
+    "You're king?",
+    "Heh, heh, king!",
+    "You couldn't be king of a toilet.",
+    "Yeh, king of a toilet!",
+    "You don't know",
+    "how close you are.",
+    "You realize that?",
+    "Eh, sorry."
+   ],
+   "jp": [
+    "お前が王？",
+    "笑わせるな",
+    "トイレの王にもなれん",
+    "トイレの王にも！",
+    "お前な",
+    "マネするな",
+    "わかってんのか？",
+    "ごめんよ"
+   ],
+   "ko": [
+    "네가 왕이라고?",
+    "웃기지 마",
+    "화장실 왕도 못 될걸",
+    "화장실 왕도！",
+    "너 말이야",
+    "따라 하지 마",
+    "알고나 있냐?",
+    "미안해"
+   ]
+  },
+  "38": {
+   "en": [
+    "Conker, you're king!",
+    "Who'd have thought that?",
+    "Can I be your general?"
+   ],
+   "jp": [
+    "コンカー 王様になったって？",
+    "みんなビックリだよ",
+    "ぼくを将軍にしてくれる？"
+   ],
+   "ko": [
+    "콩커가 왕이 됐다고?",
+    "다들 깜짝 놀랐어",
+    "날 장군으로 삼아줄래?"
+   ]
+  },
+  "39": {
+   "en": [
+    "Oh no,",
+    "of all the people in the world",
+    "That I don't like,",
+    "and I'm in a room full of them."
+   ],
+   "jp": [
+    "信じられない",
+    "おれはこいつらが",
+    "大キライなのに",
+    "周りにはこいつらしかいないなんて"
+   ],
+   "ko": [
+    "믿을 수가 없어",
+    "난 이놈들이",
+    "정말 싫은데",
+    "주변엔 이놈들뿐이라니"
+   ]
+  },
+  "40": {
+   "en": [
+    "I heard the good news.",
+    "We came back from holiday",
+    "as soon as we could,",
+    "just to celebrate with you",
+    "On this wonderful,",
+    "momentous occasion.",
+    "Didn't we, ladies?"
+   ],
+   "jp": [
+    "聞きましたわ",
+    "私たち 急いで",
+    "戻りましたの",
+    "お祝いしなきゃ",
+    "このすばらしい",
+    "大きな出来事をね",
+    "そうでしょ？"
+   ],
+   "ko": [
+    "들었어요",
+    "저희 서둘러",
+    "돌아왔어요",
+    "축하해야죠",
+    "이 멋진",
+    "큰 사건을요",
+    "그렇죠?"
+   ]
+  },
+  "41": {
+   "en": [
+    "There we go."
+   ],
+   "jp": [
+    "さあ どうぞ"
+   ],
+   "ko": [
+    "자 드세요"
+   ]
+  },
+  "42": {
+   "en": [
+    "The king is dead.",
+    "Long live the king!"
+   ],
+   "jp": [
+    "パンサーは死んだ！",
+    "王様 バンザイ！"
+   ],
+   "ko": [
+    "판서는 죽었다！",
+    "국왕 폐하 만세！"
+   ]
+  },
+  "43": {
+   "en": [
+    "Gone,"
+   ],
+   "jp": [
+    "大切なものを"
+   ],
+   "ko": [
+    "소중한 것을"
+   ]
+  },
+  "44": {
+   "en": [
+    "Gone!"
+   ],
+   "jp": [
+    "失うまで"
+   ],
+   "ko": [
+    "잃기 전까진"
+   ]
+  },
+  "45": {
+   "en": [
+    "It's not gonna happen.",
+    "It's true what they say,",
+    "the grass is always greener.",
+    "You don't really know",
+    "what it is you have",
+    "until it's gone!"
+   ],
+   "jp": [
+    "こんなハズじゃなかった",
+    "あの言葉は本当だ",
+    "「となりの芝生は青い」",
+    "気がつかないんだ",
+    "何が大切なのか",
+    "それを失うまで"
+   ],
+   "ko": [
+    "이럴 리 없었는데",
+    "그 말은 사실이야",
+    "「남의 떡이 커 보인다」",
+    "깨닫지 못하는 거야",
+    "뭐가 소중한지",
+    "그걸 잃기 전까진"
+   ]
+  },
+  "46": {
+   "en": [
+    "Yeh, long live the king!"
+   ],
+   "jp": [
+    "王様 バンザイ！"
+   ],
+   "ko": [
+    "국왕 폐하 만세！"
+   ]
+  },
+  "47": {
+   "en": [
+    "Long live the king!"
+   ],
+   "jp": [
+    "王様 バンザイ！"
+   ],
+   "ko": [
+    "국왕 폐하 만세！"
+   ]
+  },
+  "48": {
+   "en": [
+    "Heh, heh, long live the king."
+   ],
+   "jp": [
+    "王様 バンザイ！"
+   ],
+   "ko": [
+    "국왕 폐하 만세！"
+   ]
+  },
+  "49": {
+   "en": [
+    "Will you stop repeating me?"
+   ],
+   "jp": [
+    "おれのマネするな！"
+   ],
+   "ko": [
+    "내 따라 하지 마！"
+   ]
+  },
+  "50": {
+   "en": [
+    "I'm not.",
+    "I'm repeating him."
+   ],
+   "jp": [
+    "してない",
+    "あいつのマネだ"
+   ],
+   "ko": [
+    "안 했어",
+    "저놈 따라 한 거야"
+   ]
+  },
+  "51": {
+   "en": [
+    "Long live the king!",
+    "Long live the king!"
+   ],
+   "jp": [
+    "王様 バンザイ！",
+    "王様 バンザイ！"
+   ],
+   "ko": [
+    "국왕 폐하 만세！",
+    "국왕 폐하 만세！"
+   ]
+  },
+  "52": {
+   "en": [
+    "So, here i am,",
+    "King,",
+    "King of all the land.",
+    "Who'd have thought that?",
+    "Huh, not me.",
+    "I guess you know who",
+    "these guys are now.",
+    "'Cause I certainly do.",
+    "I don't wanna know them."
+   ],
+   "jp": [
+    "こうして おれは",
+    "王になった",
+    "すべての世界の王",
+    "こんなの誰が予想した？",
+    "おれ自身おどろいてる",
+    "こいつらが誰なのか",
+    "もうわかったろ",
+    "おれもわかった",
+    "知りたくもなかった"
+   ],
+   "ko": [
+    "이렇게 해서 나는",
+    "왕이 되었다",
+    "온 세상의 왕",
+    "이런 걸 누가 예상했을까?",
+    "나 자신도 놀랐다",
+    "이놈들이 누구인지",
+    "이제 알았겠지",
+    "나도 알았다",
+    "알고 싶지도 않았다"
+   ]
+  },
+  "53": {
+   "en": [
+    "Yep, I may be king,",
+    "and have all the",
+    "money in the world,",
+    "and all the land,",
+    "And all that stuff,"
+   ],
+   "jp": [
+    "おれは確かに王だ",
+    "世界一の",
+    "金持ちだ",
+    "土地でも",
+    "何でも持ってる"
+   ],
+   "ko": [
+    "나는 분명 왕이다",
+    "세상에서 제일",
+    "부자다",
+    "땅이든",
+    "뭐든 다 가졌다"
+   ]
+  },
+  "54": {
+   "en": [
+    "So.",
+    "Did you get him?",
+    "Yes,",
+    "We got him."
+   ],
+   "jp": [
+    "では",
+    "つかまえたのか",
+    "はい",
+    "つかまえました"
+   ],
+   "ko": [
+    "그럼",
+    "잡았나?",
+    "예",
+    "잡았습니다"
+   ]
+  },
+  "55": {
+   "en": [
+    "A bit messy, though.",
+    "Ah!",
+    "Good."
+   ],
+   "jp": [
+    "手こずりましたが なんとか",
+    "そうか",
+    "良くやった"
+   ],
+   "ko": [
+    "애먹긴 했지만 어떻게든",
+    "그런가",
+    "잘했다"
+   ]
+  },
+  "56": {
+   "en": [
+    "More milk, sire?"
+   ],
+   "jp": [
+    "陛下　おかわりは？"
+   ],
+   "ko": [
+    "폐하　더 드릴까요?"
+   ]
+  },
+  "57": {
+   "en": [
+    "Yes.   "
+   ],
+   "jp": [
+    "もらおう"
+   ],
+   "ko": [
+    "받도록 하지"
+   ]
+  },
+  "58": {
+   "en": [
+    "Well...",
+    "Have you got him yet?",
+    "Yes, boss,",
+    "but he's a bit frazzled.",
+    "Ah well...",
+    "Never mind..."
+   ],
+   "jp": [
+    "それで...",
+    "もうつかまえたか？",
+    "はい陛下",
+    "少しばかりボロボロですが",
+    "そうか",
+    "気にするな..."
+   ],
+   "ko": [
+    "그래서...",
+    "벌써 잡았나?",
+    "예 폐하",
+    "조금 너덜너덜하지만",
+    "그런가",
+    "신경 쓰지 마라..."
+   ]
+  },
+  "59": {
+   "en": [
+    "Well...",
+    "Have you got him this time?",
+    "Kind of, boss.",
+    "Err... Uhh!",
+    "A bit soggy, though.",
+    "Sorry.",
+    "Oh well,",
+    "not to worry."
+   ],
+   "jp": [
+    "それで...",
+    "今度こそつかまえたか？",
+    "一応は",
+    "うう...",
+    "ですが このとおりで",
+    "申し訳ありません",
+    "かまわん",
+    "心配いらんだろう"
+   ],
+   "ko": [
+    "그래서...",
+    "이번엔 잡았나?",
+    "일단은",
+    "으으...",
+    "하지만 보시다시피",
+    "죄송합니다",
+    "상관없다",
+    "걱정할 것 없겠지"
+   ]
+  },
+  "60": {
+   "en": [
+    "Have I got everything?",
+    "Have I got everything?"
+   ],
+   "jp": [
+    "大丈夫か？",
+    "忘れ物は？"
+   ],
+   "ko": [
+    "괜찮나?",
+    "잊은 건 없나?"
+   ]
+  },
+  "61": {
+   "en": [
+    "Hurry, hurry, hurry...",
+    "You know what he's like.",
+    "You know what he's like!"
+   ],
+   "jp": [
+    "早く早く！",
+    "急げ！",
+    "怒られる！"
+   ],
+   "ko": [
+    "빨리 빨리！",
+    "서둘러！",
+    "혼난다！"
+   ]
+  },
+  "62": {
+   "en": [
+    "Make a good entrance.",
+    "Zis could be important...!"
+   ],
+   "jp": [
+    "堂々と入らねば",
+    "最初が肝心だ！"
+   ],
+   "ko": [
+    "당당하게 들어가야지",
+    "첫인상이 중요하다！"
+   ]
+  },
+  "63": {
+   "en": [
+    "AAH! Professor,",
+    "welcome!",
+    "I have a job for you,",
+    "as you can see...",
+    "The Table! "
+   ],
+   "jp": [
+    "博士...",
+    "よく来たな",
+    "お前に頼みがあるのだ",
+    "これを見てくれ...",
+    "テーブルが"
+   ],
+   "ko": [
+    "박사...",
+    "잘 왔군",
+    "자네에게 부탁이 있다",
+    "이걸 좀 봐줘...",
+    "탁자가"
+   ]
+  },
+  "64": {
+   "en": [
+    "Ze table, Ah Yes!",
+    "So you have spilt ze milk again?",
+    "That's not gut, not gut!",
+    "Let me have a look at it for you."
+   ],
+   "jp": [
+    "ああテーブルが！",
+    "ミルクがこぼれますな",
+    "お困りでしょう",
+    "私が見てさし上げます"
+   ],
+   "ko": [
+    "아 탁자가！",
+    "우유가 쏟아지겠군요",
+    "곤란하시겠습니다",
+    "제가 봐드리겠습니다"
+   ]
+  },
+  "65": {
+   "en": [
+    "Don't be too long! "
+   ],
+   "jp": [
+    "あまり待たせるな"
+   ],
+   "ko": [
+    "오래 기다리게 마라"
+   ]
+  },
+  "66": {
+   "en": [
+    "Aha, I vill be as quick as I can, sire!"
+   ],
+   "jp": [
+    "もちろんでございます"
+   ],
+   "ko": [
+    "물론입니다"
+   ]
+  },
+  "67": {
+   "en": [
+    "Cos, you know what happened last time!"
+   ],
+   "jp": [
+    "待たせたら\nどうなるかわかるな"
+   ],
+   "ko": [
+    "기다리게 하면\n어떻게 될지 알겠지"
+   ]
+  },
+  "68": {
+   "en": [
+    "Oh he! Only too well! Only too well!",
+    "I will go now."
+   ],
+   "jp": [
+    "もちろん！\n知ってますとも！",
+    "では失礼を"
+   ],
+   "ko": [
+    "물론！\n알고말고요！",
+    "그럼 실례를"
+   ]
+  },
+  "69": {
+   "en": [
+    "I don't want to have to...",
+    "Get the duct tape out again!"
+   ],
+   "jp": [
+    "わしも願い下げだ",
+    "また粘着テープの刑など"
+   ],
+   "ko": [
+    "나도 사양이다",
+    "또 접착테이프형 같은 건"
+   ]
+  },
+  "70": {
+   "en": [
+    "Yes, I mean no!",
+    "I don't want you to get the duct tape out again!",
+    "Goodbye, Goodbye."
+   ],
+   "jp": [
+    "イヤですとも！",
+    "粘着テープの刑なんて！",
+    "それでは失礼"
+   ],
+   "ko": [
+    "싫고말고요！",
+    "접착테이프형이라니！",
+    "그럼 실례하겠습니다"
+   ]
+  },
+  "71": {
+   "en": [
+    "Yes I... I think I see The problem!",
+    "I vill see vat i can do.",
+    "You must give me a moment, though.",
+    "I vill come back later."
+   ],
+   "jp": [
+    "何が問題かわかりました！",
+    "おまかせ下さい",
+    "ただ お時間を",
+    "ではあとで"
+   ],
+   "ko": [
+    "뭐가 문제인지 알았습니다！",
+    "맡겨 주십시오",
+    "다만 시간을",
+    "그럼 나중에"
+   ]
+  },
+  "72": {
+   "en": [
+    "But, ya know,",
+    "I don't really think",
+    "I want it.",
+    "I just wanna go home,",
+    "with Berri,",
+    "and, i dunno,",
+    "have a bottle of beer."
+   ],
+   "jp": [
+    "だけど",
+    "そんなのいらない",
+    "欲しくない",
+    "ベリーと一緒に",
+    "家に帰りたい",
+    "そして ビールでも",
+    "飲めたら...　それでいい"
+   ],
+   "ko": [
+    "근데",
+    "그런 건 필요 없어",
+    "원하지 않아",
+    "베리랑 같이",
+    "집에 가고 싶어",
+    "그리고 맥주라도",
+    "마시면...　그걸로 돼"
+   ]
+  },
+  "73": {
+   "en": [
+    "Duct tape...",
+    "I'll give him a duct tape...",
+    "{THROB}{RED}{STAR}{LIGHTNING}{SKULL}{STAR}{LIGHTNING}{SWIRL}{NORMAL} {RED}{LIGHTNING}{STAR}{SKULL}{STAR}{LIGHTNING}{SWIRL}{SKULL}{NORMAL}!",
+    "I'll come down here...",
+    "I'll show him where the duct tape is...",
+    "I'll show him where to stuff it!"
+   ],
+   "jp": [
+    "テープの刑...",
+    "今にやってやるぞ！",
+    "{THROB}{RED}{STAR}{LIGHTNING}{SKULL}{STAR}{LIGHTNING}{SWIRL}{NORMAL}野郎め！　{RED}{LIGHTNING}{STAR}{SKULL}{STAR}{LIGHTNING}{SWIRL}{SKULL}{NORMAL}！",
+    "いつか...　お前こそ",
+    "テープの刑だ！",
+    "今に見てろ！"
+   ],
+   "ko": [
+    "테이프형...",
+    "곧 해주마！",
+    "{THROB}{RED}{STAR}{LIGHTNING}{SKULL}{STAR}{LIGHTNING}{SWIRL}{NORMAL}놈！　{RED}{LIGHTNING}{STAR}{SKULL}{STAR}{LIGHTNING}{SWIRL}{SKULL}{NORMAL}！",
+    "언젠가...　너야말로",
+    "테이프형이다！",
+    "두고 봐라！"
+   ]
+  },
+  "74": {
+   "en": [
+    "Well, here I am.  Conker the King.  King of all the land.  Who'd have thought that?  But how did I come to this, I hear you say?  And who are those strange fellows that surround my throne, I hear you also say?  Well, it's a long story.  Come closer, and I'll tell you.  It all started, yesterday.  What a day that was!  It's what I call, a bad fur day."
+   ],
+   "jp": [
+    "おれはコンカー\nこの世界の王様で大金持ち\n何でも思いのまま\n...こんなのありえない\n　\nなんでこんなことになったかって？\nこのおかしな連中は誰かって？\n聞きたいか...　話せば長いけど\n知りたきゃ教えてやるよ\nすべては昨日のできごとだ\nそれはまさに...\n最低最悪の　１　日"
+   ],
+   "ko": [
+    "난 콩커\n이 세계의 왕이자 대부호\n뭐든 마음대로지\n...이런 게 있을 리가\n　\n어쩌다 이렇게 됐냐고?\n이 이상한 놈들은 누구냐고?\n듣고 싶나 얘기하면 길지만\n알고 싶다면 말해주지\n모든 건 어제 일어난 일이야\n그건 그야말로\n최악의 하루"
+   ]
+  }
+ }
+}

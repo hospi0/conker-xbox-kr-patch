@@ -1,0 +1,468 @@
+{
+ "scene": "MPBeach",
+ "n": 64,
+ "entries": {
+  "18": {
+   "en": [
+    "The second assault had begun."
+   ],
+   "jp": [
+    "２度目の突撃が始まった"
+   ],
+   "ko": [
+    "두 번째 돌격 개시"
+   ]
+  },
+  "19": {
+   "en": [
+    "However,"
+   ],
+   "jp": [
+    "しかし..."
+   ],
+   "ko": [
+    "그러나..."
+   ]
+  },
+  "20": {
+   "en": [
+    "the Tediz Battle Master,"
+   ],
+   "jp": [
+    "クマ軍のリーダーである"
+   ],
+   "ko": [
+    "곰군의 지휘관인"
+   ]
+  },
+  "21": {
+   "en": [
+    "the mysterious Von Kriplespac,"
+   ],
+   "jp": [
+    "フォン・クリプルスパックが"
+   ],
+   "ko": [
+    "폰 크리플스팩이"
+   ]
+  },
+  "22": {
+   "en": [
+    "was waiting with his giant gun of doom,"
+   ],
+   "jp": [
+    "リス軍を吹き飛ばそうと"
+   ],
+   "ko": [
+    "다람쥐군을 날려버리려고"
+   ]
+  },
+  "23": {
+   "en": [
+    "waiting to blow them back into history."
+   ],
+   "jp": [
+    "死の兵器をかまえ"
+   ],
+   "ko": [
+    "죽음의 병기를 겨눠"
+   ]
+  },
+  "24": {
+   "en": [
+    "The Tediz were ready to defend,"
+   ],
+   "jp": [
+    "待ち受けていた"
+   ],
+   "ko": [
+    "기다리고 있었다"
+   ]
+  },
+  "25": {
+   "en": [
+    "but time wasn’t on their side."
+   ],
+   "jp": [
+    "クマ軍は守りを固めたが優勢ではない"
+   ],
+   "ko": [
+    "곰군은 방어를 굳혔지만 우세하진 않다"
+   ]
+  },
+  "26": {
+   "en": [
+    "It all hinged on one thing."
+   ],
+   "jp": [
+    "勝敗のすべては"
+   ],
+   "ko": [
+    "승패의 모든 것은"
+   ]
+  },
+  "27": {
+   "en": [
+    "Could Von Kriplespac sink the SHC ship"
+   ],
+   "jp": [
+    "クリプルスパックが"
+   ],
+   "ko": [
+    "크리플스팩이"
+   ]
+  },
+  "28": {
+   "en": [
+    "or would the Squirrel attack force break through"
+   ],
+   "jp": [
+    "リス軍の船を沈めるか"
+   ],
+   "ko": [
+    "다람쥐군 배를 침몰시키냐"
+   ]
+  },
+  "29": {
+   "en": [
+    "The plan was a simple one:"
+   ],
+   "jp": [
+    "計画は単純だ"
+   ],
+   "ko": [
+    "계획은 단순하다"
+   ]
+  },
+  "30": {
+   "en": [
+    "and thwart him?"
+   ],
+   "jp": [
+    "リス軍が彼を阻止できるかにかかっている"
+   ],
+   "ko": [
+    "다람쥐군이 그를 막느냐에 달렸다"
+   ]
+  },
+  "31": {
+   "en": [
+    "the SHC were to attack from the sea"
+   ],
+   "jp": [
+    "リス軍は海から攻撃をかける"
+   ],
+   "ko": [
+    "다람쥐군은 바다에서 친다"
+   ]
+  },
+  "32": {
+   "en": [
+    "and secure the three obstacles"
+   ],
+   "jp": [
+    "そして次の３ヶ所を突破する"
+   ],
+   "ko": [
+    "그리고 세 곳을 돌파한다"
+   ]
+  },
+  "33": {
+   "en": [
+    "here,"
+   ],
+   "jp": [
+    "ここと"
+   ],
+   "ko": [
+    "여기와"
+   ]
+  },
+  "34": {
+   "en": [
+    "here,"
+   ],
+   "jp": [
+    "ここ"
+   ],
+   "ko": [
+    "여기"
+   ]
+  },
+  "35": {
+   "en": [
+    "and here."
+   ],
+   "jp": [
+    "そして...　ここだ"
+   ],
+   "ko": [
+    "그리고...　여기다"
+   ]
+  },
+  "36": {
+   "en": [
+    "This would allow the heavy stuff to get through"
+   ],
+   "jp": [
+    "成功すれば後続部隊が"
+   ],
+   "ko": [
+    "성공하면 후속 부대가"
+   ]
+  },
+  "37": {
+   "en": [
+    "ready for phase two."
+   ],
+   "jp": [
+    "重火器を投入できる"
+   ],
+   "ko": [
+    "중화기를 투입한다"
+   ]
+  },
+  "38": {
+   "en": [
+    "Second blockade cleared"
+   ],
+   "jp": [
+    "第 2 バリケード 突破"
+   ],
+   "ko": [
+    "제 2 바리케이드 돌파"
+   ]
+  },
+  "39": {
+   "en": [
+    "Third blockade cleared"
+   ],
+   "jp": [
+    "第 3 バリケード 突破"
+   ],
+   "ko": [
+    "제 3 바리케이드 돌파"
+   ]
+  },
+  "40": {
+   "en": [
+    "Nice knowing you guys."
+   ],
+   "jp": [
+    "がんばってこい"
+   ],
+   "ko": [
+    "잘하고 와라"
+   ]
+  },
+  "41": {
+   "en": [
+    "I don’t believe it. Excellent work fellas. Now through those trenches and we're nearly there. Remember your training and you will survive. Destroy that door!"
+   ],
+   "jp": [
+    "よくやった！　ざんごうを抜ければ 目的地はすぐだ　訓練を思い出せ！　なんとしてもトビラを破るんだ！"
+   ],
+   "ko": [
+    "잘했다！　참호를 빠지면 목적지가 코앞　훈련을 떠올려라！　기어코 문을 부숴라！"
+   ]
+  },
+  "42": {
+   "en": [
+    "Outstanding work men, you get a crate of beer for that. Now get in there and stop that mad man. Blow his legs off if you have to."
+   ],
+   "jp": [
+    "すごいぞ お前ら！　突入してあの野郎を倒すんだ！　足でもふっとばしてやれ！"
+   ],
+   "ko": [
+    "대단하다 너희들！　돌입해서 저놈을 쓰러뜨려라！　다리라도 날려버려라！"
+   ]
+  },
+  "43": {
+   "en": [
+    "Defend ze beaches my Tediz. Defend ze beaches, zey are all coming. Hurry up!"
+   ],
+   "jp": [
+    "クマたちよ　ビーチを守るんだ　ヤツらが来るぞ　急げ！"
+   ],
+   "ko": [
+    "곰들이여　해변을 지켜라　놈들이 온다　서둘러！"
+   ]
+  },
+  "44": {
+   "en": [
+    "Ze evil invaders have broken through ze beach defense. I don’t believe it. Right! Fall back. Fall back to ze bridges, now!"
+   ],
+   "jp": [
+    "邪悪な侵略者どもがビーチの防衛ラインを破った　信じられん！　退却しろ　今は橋まで退くんだ！"
+   ],
+   "ko": [
+    "사악한 침략자가 해변 방어선을 뚫었다　믿을 수 없다！　퇴각　지금은 다리까지 물러나라！"
+   ]
+  },
+  "45": {
+   "en": [
+    "Ahh! Unbelievable! Stupid svinehunt, Tediz useless @$#@! Zey are nearly through to me. To ze trenches my children, kill zem all!"
+   ],
+   "jp": [
+    "信じられん！　この役立たずの @$#@ め！　ヤツらが近づいている　前線へ行き 皆殺しにしろ！"
+   ],
+   "ko": [
+    "믿을 수 없다！　쓸모없는 @$#@ 놈들！　놈들이 다가온다　전선으로 가 전멸시켜라！"
+   ]
+  },
+  "46": {
+   "en": [
+    "Ah no! Zey are through, I can see zem. Hurry my Tediz! I have zeir ship in ze targeting area just keep zem out for a little while longer!"
+   ],
+   "jp": [
+    "ヤツらが突破してきた！　急げクマたちよ　もうじきヤツらの船が射程に入る　あと少しだけ持ちこたえてくれ..."
+   ],
+   "ko": [
+    "놈들이 돌파했다！　서둘러라 곰들이여　곧 놈들의 배가 사정거리에 들어온다　조금만 더 버텨줘..."
+   ]
+  },
+  "47": {
+   "en": [
+    "Second Defence"
+   ],
+   "jp": [
+    "とりで B - 2F"
+   ],
+   "ko": [
+    "요새 B - 2F"
+   ]
+  },
+  "48": {
+   "en": [
+    "Base"
+   ],
+   "jp": [
+    "基地"
+   ],
+   "ko": [
+    "기지"
+   ]
+  },
+  "49": {
+   "en": [
+    "Right Lander"
+   ],
+   "jp": [
+    "ドロップシップ B"
+   ],
+   "ko": [
+    "드롭십 B"
+   ]
+  },
+  "51": {
+   "en": [
+    "Great work guys. Defilade ahead! Now watch those bridges. Move in! Secure the next blockade."
+   ],
+   "jp": [
+    "いいぞ　物影に隠れて進め　橋の上から狙ってくるぞ　さあ　次のバリケードを破れ！"
+   ],
+   "ko": [
+    "좋다　엄폐물에 숨어 전진　다리 위에서 노린다　자　다음 바리케이드를 부숴라！"
+   ]
+  },
+  "53": {
+   "en": [
+    "Left Lander"
+   ],
+   "jp": [
+    "ドロップシップ A"
+   ],
+   "ko": [
+    "드롭십 A"
+   ]
+  },
+  "54": {
+   "en": [
+    "Outside Base"
+   ],
+   "jp": [
+    "基地外側"
+   ],
+   "ko": [
+    "기지 외곽"
+   ]
+  },
+  "55": {
+   "en": [
+    "First blockade cleared"
+   ],
+   "jp": [
+    "第 1 バリケード 突破"
+   ],
+   "ko": [
+    "제 1 바리케이드 돌파"
+   ]
+  },
+  "57": {
+   "en": [
+    "First Defence"
+   ],
+   "jp": [
+    "とりで B - 1F"
+   ],
+   "ko": [
+    "とりで B - 1F"
+   ]
+  },
+  "58": {
+   "en": [
+    "First Defence"
+   ],
+   "jp": [
+    "とりで A - 1F"
+   ],
+   "ko": [
+    "요새 A - 1F"
+   ]
+  },
+  "59": {
+   "en": [
+    "Ok guys! 30 seconds. Get up that beach as quickly as possible."
+   ],
+   "jp": [
+    "いいか　あと３０秒だ　できるだけ早く上陸するんだ"
+   ],
+   "ko": [
+    "알겠나　앞으로 ３０초다　최대한 빨리 상륙해라"
+   ]
+  },
+  "60": {
+   "en": [
+    "Beach Dead"
+   ],
+   "jp": [
+    "デッドビーチ"
+   ],
+   "ko": [
+    "데드 비치"
+   ]
+  },
+  "62": {
+   "en": [
+    "Beach Dead"
+   ],
+   "jp": [
+    "デッドビーチ"
+   ],
+   "ko": [
+    "데드 비치"
+   ]
+  },
+  "63": {
+   "en": [
+    "Second Defence"
+   ],
+   "jp": [
+    "とりで A - 2F"
+   ],
+   "ko": [
+    "요새 A - 2F"
+   ]
+  }
+ }
+}

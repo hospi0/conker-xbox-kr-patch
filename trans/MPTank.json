@@ -1,0 +1,108 @@
+{
+ "scene": "MPTank",
+ "n": 6,
+ "entries": {
+  "0": {
+   "en": [],
+   "jp": [
+    "Retrieve the chemical weapon",
+    "from the central silo area.",
+    "Return, avoiding any enemy activity,",
+    "to your own base.",
+    "Upon returning,",
+    "automate the chemical warfare attack,",
+    "thereby eliminating the enemy."
+   ],
+   "ko": [
+    "화학 무기를 회수해라",
+    "중앙 사일로 구역에서.",
+    "적의 활동을 피하며 돌아가라,",
+    "자기 기지로.",
+    "돌아온 뒤,",
+    "화학전 공격을 자동화해서,",
+    "적을 섬멸해라."
+   ]
+  },
+  "1": {
+   "en": [],
+   "jp": [
+    "Oh! one more thing.",
+    "Various pickups align the area.",
+    "Find them and use them",
+    "to your advantage.",
+    "If you don't, the enemy will.",
+    "Good luck, soldier.",
+    "Move it out."
+   ],
+   "ko": [
+    "아! 한 가지 더.",
+    "다양한 픽업이 구역에 널려 있다.",
+    "그것들을 찾아서 써라",
+    "유리하게.",
+    "안 쓰면 적이 쓴다.",
+    "행운을 빈다 병사.",
+    "출발해라."
+   ]
+  },
+  "2": {
+   "en": [],
+   "jp": [
+    "Well done, soldier.",
+    "You have sustained limited collateral damage.",
+    "Therefore you have achieved cost efficiency.",
+    "The government likes you for that.",
+    "You also killed a few of those bastards.",
+    "Well done, sonny,",
+    "fall out!"
+   ],
+   "ko": [
+    "잘했다 병사.",
+    "부수 피해를 최소한으로 유지했다.",
+    "그러므로 비용 효율을 달성했다.",
+    "정부가 그 점을 마음에 들어 하겠지.",
+    "그 자식들 몇 명도 죽였고.",
+    "잘했다 애송아,",
+    "해산！"
+   ]
+  },
+  "3": {
+   "en": [],
+   "jp": [
+    "This day will live in infamy.",
+    "We lost some fine men,",
+    "and for what?",
+    "War is a terrible thing."
+   ],
+   "ko": [
+    "이날은 오명으로 남을 것이다.",
+    "훌륭한 이들을 잃었다,",
+    "대체 무엇을 위해서?",
+    "전쟁은 끔찍한 것이다."
+   ]
+  },
+  "4": {
+   "en": [],
+   "jp": [
+    "Ok, boy, here's your mission.",
+    "You gotta get in that tank.",
+    "Make sure any of the other enemy in sight",
+    "are immediately evaporated."
+   ],
+   "ko": [
+    "좋아 이게 네 임무다.",
+    "저 전차에 타야 한다.",
+    "시야에 들어온 다른 적들은",
+    "즉시 증발시켜라."
+   ]
+  },
+  "5": {
+   "en": [],
+   "jp": [
+    "Tank"
+   ],
+   "ko": [
+    "Tank"
+   ]
+  }
+ }
+}

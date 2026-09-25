@@ -1,0 +1,779 @@
+{
+ "scene": "HauntedHouse",
+ "n": 43,
+ "entries": {
+  "0": {
+   "en": [
+    "Oh yeh!",
+    "Delicious!"
+   ],
+   "jp": [
+    "おお！",
+    "これはうまい！"
+   ],
+   "ko": [
+    "오오！",
+    "이거 맛있는걸！"
+   ]
+  },
+  "1": {
+   "en": [
+    "I think I have drunk too much!"
+   ],
+   "jp": [
+    "いかん！\n飲みすぎた！"
+   ],
+   "ko": [
+    "안 되겠다！\n너무 마셨어！"
+   ]
+  },
+  "2": {
+   "en": [
+    "Right!"
+   ],
+   "jp": [
+    "よーし！"
+   ],
+   "ko": [
+    "좋았어！"
+   ]
+  },
+  "3": {
+   "en": [
+    "Finally!"
+   ],
+   "jp": [
+    "やった！"
+   ],
+   "ko": [
+    "좋았어！"
+   ]
+  },
+  "4": {
+   "en": [
+    "Oh yeah , I forgot about those guys."
+   ],
+   "jp": [
+    "あいつらを忘れてた"
+   ],
+   "ko": [
+    "그놈들을 잊고 있었네"
+   ]
+  },
+  "5": {
+   "en": [
+    "Hmmmm ,",
+    "Mmm , yeah."
+   ],
+   "jp": [
+    "そうだなあ",
+    "あれ使うか"
+   ],
+   "ko": [
+    "그러게 말이야",
+    "그거 쓸까"
+   ]
+  },
+  "6": {
+   "en": [
+    "That doesn't happen to you every day."
+   ],
+   "jp": [
+    "めったにない体験だ"
+   ],
+   "ko": [
+    "흔치 않은 경험이군"
+   ]
+  },
+  "7": {
+   "en": [
+    "More zombies!",
+    "Time for the double-barrel boy...",
+    "... Hopefully, for the last time."
+   ],
+   "jp": [
+    "またゾンビ！ ",
+    "またショットガンの出番だな",
+    "これで最後だといいけど"
+   ],
+   "ko": [
+    "또 좀비다！ ",
+    "또 샷건이 나설 차례군",
+    "이게 마지막이면 좋겠는데"
+   ]
+  },
+  "8": {
+   "en": [
+    "So? Ve seldom have visitors in these parts,",
+    "vat being out here,",
+    "in ze middle of nowhere,",
+    "on such a cold and gloomy night.",
+    "Pray, follow me.",
+    "You look as if...",
+    "You are in need of sustenance,",
+    "and I have many things to eat...",
+    "And drink!",
+    "Pray, follow."
+   ],
+   "jp": [
+    "ここには来客などめったにない",
+    "あたりには何もないし",
+    "ましてこんな...",
+    "寒い夜ではな",
+    "さあ　こちらへどうぞ",
+    "さて...",
+    "食事はいかがかな",
+    "好きなだけ",
+    "召し上がれ",
+    "飲み物もある"
+   ],
+   "ko": [
+    "여긴 손님이 잘 안 온다네",
+    "주변에 아무것도 없고",
+    "하물며 이런...",
+    "추운 밤엔 말일세",
+    "자　이쪽으로 오게",
+    "자아...",
+    "식사는 어떤가",
+    "맘껏",
+    "들게나",
+    "마실 것도 있네"
+   ]
+  },
+  "9": {
+   "en": [
+    "Oh, okay. Food, yeah...",
+    "Getting a bit sick",
+    "of chocolate, anyway."
+   ],
+   "jp": [
+    "いいね　食事か...",
+    "\nチョコには",
+    "あきあきしてたんだ"
+   ],
+   "ko": [
+    "좋지　식사라...",
+    "\n초콜릿에는",
+    "질려 있었거든"
+   ]
+  },
+  "10": {
+   "en": [
+    "Zis vay."
+   ],
+   "jp": [
+    "こちらへ"
+   ],
+   "ko": [
+    "이리로"
+   ]
+  },
+  "11": {
+   "en": [
+    "Vat?",
+    "Nothing!"
+   ],
+   "jp": [
+    "何か？",
+    "別に"
+   ],
+   "ko": [
+    "뭔가?",
+    "별로"
+   ]
+  },
+  "12": {
+   "en": [
+    "As you can see ,",
+    "the house is in somevat a state of repair.",
+    "Ve are having a few refurbishments",
+    "doing at ze moment and...",
+    "... I vas going to have all this knocked through,",
+    "to make one big eh... But anyvay,",
+    "I think ve'll just stick to ze conservatory,",
+    "for the present."
+   ],
+   "jp": [
+    "言い忘れたが...",
+    "ごらんのとおり",
+    "改装作業の真っ最中なのだ",
+    "しばらくは不便だが仕方ない",
+    "カベを取り除いて",
+    "大きな...　いや...",
+    "さしあたり 温室にでもしようかと",
+    "思っているのだ"
+   ],
+   "ko": [
+    "말을 잊었는데...",
+    "보다시피",
+    "한창 개조 중이라네",
+    "당분간 불편해도 어쩌겠나",
+    "벽을 없애고",
+    "커다란...　아니...",
+    "일단 온실이라도 할까",
+    "생각하고 있다네"
+   ]
+  },
+  "13": {
+   "en": [
+    "Ah,",
+    "my dining room."
+   ],
+   "jp": [
+    "さあ",
+    "ここがダイニングだ"
+   ],
+   "ko": [
+    "자",
+    "여기가 식당이라네"
+   ]
+  },
+  "14": {
+   "en": [
+    "More vine?"
+   ],
+   "jp": [
+    "もっと飲むかな？"
+   ],
+   "ko": [
+    "좀 더 마실 텐가?"
+   ]
+  },
+  "15": {
+   "en": [
+    "I don't mind if i do, thank you."
+   ],
+   "jp": [
+    "いただくよ　どうも"
+   ],
+   "ko": [
+    "받지　고맙네"
+   ]
+  },
+  "16": {
+   "en": [
+    "Yeah, and he had really stupid teeth, as well!",
+    "Didn't they have any dentists back then?"
+   ],
+   "jp": [
+    "あんたの先祖...",
+    " 歯並び悪かったんだな"
+   ],
+   "ko": [
+    "당신 조상은...",
+    " 이가 삐뚤빼뚤했었나 보군"
+   ]
+  },
+  "17": {
+   "en": [
+    "Very nice!"
+   ],
+   "jp": [
+    "うまいな！"
+   ],
+   "ko": [
+    "맛있는데！"
+   ]
+  },
+  "18": {
+   "en": [
+    "Eh, you're not drinking then?"
+   ],
+   "jp": [
+    "あんたは飲まないの？"
+   ],
+   "ko": [
+    "당신은 안 마시나?"
+   ]
+  },
+  "19": {
+   "en": [
+    "No.   "
+   ],
+   "jp": [
+    "ああ"
+   ],
+   "ko": [
+    "아"
+   ]
+  },
+  "20": {
+   "en": [
+    "I never drink...",
+    "Vine."
+   ],
+   "jp": [
+    "私はワインは",
+    "飲まない"
+   ],
+   "ko": [
+    "난 와인은",
+    "안 마신다네"
+   ]
+  },
+  "21": {
+   "en": [
+    "So, em, who's this guy here?",
+    "He looks, eh...",
+    "He looks like you!"
+   ],
+   "jp": [
+    "この男は誰なんだい？",
+    "\nなんだか",
+    "あんたと似てるな"
+   ],
+   "ko": [
+    "이 남자는 누군가?",
+    "\n왠지",
+    "당신이랑 닮았네"
+   ]
+  },
+  "22": {
+   "en": [
+    "Mmm...",
+    "my forefather."
+   ],
+   "jp": [
+    "うむ...",
+    "私の先祖なのだ"
+   ],
+   "ko": [
+    "으음...",
+    "내 선조라네"
+   ]
+  },
+  "23": {
+   "en": [
+    "He vas a crusader in a war of long ago."
+   ],
+   "jp": [
+    "彼は大昔に聖なる戦に参加した"
+   ],
+   "ko": [
+    "그는 옛날 성전에 참가했다네"
+   ]
+  },
+  "24": {
+   "en": [
+    "When ve were allies...",
+    "Vit ze squirrels and ze panthers.",
+    "Zat union, alas!",
+    "Vas not successful."
+   ],
+   "jp": [
+    "われわれリスは...",
+    "パンサーと同盟を結んだ",
+    "だが悲しいかな それは",
+    "失敗に終わった"
+   ],
+   "ko": [
+    "우리 다람쥐들은...",
+    "판서와 동맹을 맺었지",
+    "하지만 슬프게도 그건",
+    "실패로 끝났다네"
+   ]
+  },
+  "25": {
+   "en": [
+    "Enough!",
+    "Who are you",
+    "to criticize me or my ancestors,",
+    "whose blood runs in these veins.",
+    "You are not of noble birth,",
+    "and never vill be."
+   ],
+   "jp": [
+    "だまらんか！",
+    "何様のつもりだ！",
+    "私の誇り高き",
+    "先祖をけなすとは！",
+    "立場もわきまえずに",
+    "自分を何だと思っている！"
+   ],
+   "ko": [
+    "닥치지 못할까！",
+    "건방진 놈！",
+    "나의 긍지 높은",
+    "선조를 헐뜯다니！",
+    "분수도 모르고",
+    "네가 뭐라고 생각하나！"
+   ]
+  },
+  "26": {
+   "en": [
+    "Pray, accept my apologies.",
+    "Vhenever I talk about my ancestors,",
+    "I get",
+    "somewhat,",
+    "touchy.",
+    "Aw, that's all right.",
+    "I know how it is, families!",
+    "So, eh, ya been here long?",
+    "Hmmm, about 300 years!",
+    "Quite a big family, then?",
+    "No, it's just me.",
+    "What's that noise?",
+    "Ah, the children of the night.",
+    "Vat sweet music they make.",
+    "Music? They're howling.",
+    "Vat is that noise?"
+   ],
+   "jp": [
+    "すまない...",
+    "どうか許してくれ",
+    "先祖の話になると",
+    "私はつい",
+    "気が短くなってしまうのだ",
+    "ああ　わかるよ",
+    "家族だもんな",
+    "...ここにはどのくらい？",
+    "３００年ほどになるかな",
+    "そりゃあ 家族も多いだろ？",
+    "いや 私だけだ",
+    "この音は何だ？",
+    "夜の子供たちだ",
+    "ステキな音楽だろう？",
+    "は？ 遠ぼえだろ？",
+    "何だ？"
+   ],
+   "ko": [
+    "미안하네...",
+    "제발 용서해주게",
+    "선조 얘기만 나오면",
+    "나는 그만",
+    "성질이 급해진다네",
+    "아　이해해",
+    "가족이니까",
+    "...여기 얼마나 살았나?",
+    "３００년쯤 됐으려나",
+    "그럼 가족도 많겠네?",
+    "아니 나뿐이라네",
+    "이 소리는 뭐지?",
+    "밤의 아이들이라네",
+    "멋진 음악이지?",
+    "뭐? 늑대 울음이잖아?",
+    "뭐지?"
+   ]
+  },
+  "27": {
+   "en": [
+    "Sounds like someone's braying on the door!",
+    "They don't like you either, i take it."
+   ],
+   "jp": [
+    "誰かがドアをたたいてる",
+    "\nイヤに激しいな"
+   ],
+   "ko": [
+    "누가 문을 두드려",
+    "\n꽤나 격렬한데"
+   ]
+  },
+  "28": {
+   "en": [
+    "Ah, {SKULL}{STAR}{SWIRL}{LIGHTNING}{NORMAL}."
+   ],
+   "jp": [
+    "さては...　{SKULL}{STAR}{SWIRL}{LIGHTNING}{NORMAL}！"
+   ],
+   "ko": [
+    "이건...　{SKULL}{STAR}{SWIRL}{LIGHTNING}{NORMAL}！"
+   ]
+  },
+  "29": {
+   "en": [
+    "Ze villagers again.",
+    "Sounds like there is more of them zis time."
+   ],
+   "jp": [
+    "また村人たちだな",
+    "\n今回は数が多そうだ"
+   ],
+   "ko": [
+    "또 마을 사람들이군",
+    "\n이번엔 수가 많군"
+   ]
+  },
+  "30": {
+   "en": [
+    "Zis could be your lucky night,",
+    "Conker."
+   ],
+   "jp": [
+    "お前は運がよいな",
+    "コンカー"
+   ],
+   "ko": [
+    "자넨 운이 좋군",
+    "콩커"
+   ]
+  },
+  "31": {
+   "en": [
+    "I vas going to kill you",
+    "and drink your blood."
+   ],
+   "jp": [
+    "お前を殺し",
+    "血を飲むつもりだったが"
+   ],
+   "ko": [
+    "자넬 죽이고",
+    "피를 마실 셈이었지만"
+   ]
+  },
+  "32": {
+   "en": [
+    "Eh, can we just go back a bit there?",
+    "The drinking-my-blood bit.",
+    "What's all that abou..."
+   ],
+   "jp": [
+    "ちょっと話戻すけど",
+    "おれの血を飲むって？",
+    "それ どういう..."
+   ],
+   "ko": [
+    "잠깐 얘기 되돌리는데",
+    "내 피를 마신다고?",
+    "그게 무슨..."
+   ]
+  },
+  "33": {
+   "en": [
+    "But now I think I vill be needing your help.",
+    "Pray, come here."
+   ],
+   "jp": [
+    "今はお前の助けがいる ",
+    "さあ　こっちへ来るのだ"
+   ],
+   "ko": [
+    "지금은 자네 도움이 필요해",
+    "자　이리 오게"
+   ]
+  },
+  "34": {
+   "en": [
+    "I said, come here!"
+   ],
+   "jp": [
+    "来いと言ったのだ！"
+   ],
+   "ko": [
+    "오라고 했다！"
+   ]
+  },
+  "35": {
+   "en": [
+    "Ah, delicious.",
+    "And familiar."
+   ],
+   "jp": [
+    "ああ　うまい",
+    "なつかしい味だ"
+   ],
+   "ko": [
+    "아　맛있군",
+    "그리운 맛이야"
+   ]
+  },
+  "36": {
+   "en": [
+    "I think you are my great,",
+    "great, great,",
+    "great, great grandson, Conker.",
+    "Velcome to the family.",
+    "Velcome indeed.",
+    "I have a little task for you.",
+    "These little villagers...",
+    "Occasionally pop into my establishment,",
+    "to have a little fun...",
+    " And see if they can kill me!",
+    "It's never vorked yet!",
+    "As you can see, i've had a few...",
+    "... Minor alterations to the house.",
+    "Ve have the grinder!",
+    "And ve have ze pumps.",
+    "And ve have some other bits and pieces.",
+    "It is your duty,",
+    "your errand,",
+    "Indeed, the whole point of your existence,",
+    "as of this day,",
+    "to fetch me the villagers,",
+    "put them in the grinder,",
+    "and let me feed.",
+    "You may feed too, if you vish,",
+    "but only later! vell?"
+   ],
+   "jp": [
+    "お前は私の",
+    "遠い遠い",
+    "ずっと遠い子孫なのだな　コンカー",
+    "一族にむかえてやろう",
+    "心からな",
+    "あの村人たちはな...",
+    "ときおり",
+    "ここへやってくる",
+    "そして",
+    "私を殺そうとする！",
+    "うまくいったためしはないが",
+    "このとおり この家は...",
+    "ちょっとした改造がしてある",
+    "グラインダーがあるし",
+    "ポンプもある",
+    "ほかにもいろいろな",
+    "お前に仕事をやろう",
+    "いや...　使命だ",
+    "お前の存在のすべては",
+    "このためにある",
+    "村人をさらってこい",
+    "グラインダーにかけ",
+    "血をしぼれ",
+    "お前も飲んでよいが",
+    "まずは私が先だ　いいな？"
+   ],
+   "ko": [
+    "자네는 나의",
+    "머나먼",
+    "먼 후손이었군　콩커",
+    "일족으로 맞아주지",
+    "진심일세",
+    "그 마을 사람들은...",
+    "가끔씩",
+    "여기로 찾아온다네",
+    "그리고",
+    "나를 죽이려 든다네！",
+    "성공한 적은 없지만",
+    "보다시피 이 집은...",
+    "약간 개조가 되어 있지",
+    "분쇄기도 있고",
+    "펌프도 있다네",
+    "그 밖에도 여러 가지",
+    "자네에게 일을 주지",
+    "아니...　사명이라네",
+    "자네 존재의 전부는",
+    "이걸 위해서일세",
+    "마을 사람을 잡아와",
+    "분쇄기에 넣고",
+    "피를 짜내게",
+    "자네도 마셔도 좋지만",
+    "먼저는 나부터일세　알겠나?"
+   ]
+  },
+  "37": {
+   "en": [
+    "Ah yes, i forgot.",
+    "You can only speak, like vat you are...",
+    "... A bat!"
+   ],
+   "jp": [
+    "おお...　忘れてた",
+    "今は",
+    "話せないのだな"
+   ],
+   "ko": [
+    "오오...　잊고 있었군",
+    "지금은",
+    "말할 수가 없구먼"
+   ]
+  },
+  "38": {
+   "en": [
+    "Right, chop-chop,",
+    "Fetch me ze villagers.",
+    "I am hungry."
+   ],
+   "jp": [
+    "さあ　急げ急げ！",
+    "村人を連れてこい",
+    "私は空腹なのだ"
+   ],
+   "ko": [
+    "자　서둘러 서둘러！",
+    "마을 사람을 데려와",
+    "난 배고프다네"
+   ]
+  },
+  "39": {
+   "en": [
+    "A bat!"
+   ],
+   "jp": [
+    "コウモリよ！"
+   ],
+   "ko": [
+    "박쥐여！"
+   ]
+  },
+  "40": {
+   "en": [
+    "Delicious!"
+   ],
+   "jp": [
+    "ああ　うまい！"
+   ],
+   "ko": [
+    "아　맛있어！"
+   ]
+  },
+  "41": {
+   "en": [
+    "Velcome to my house.",
+    "Please, enter of your own free will.",
+    "And bring vith you some of the happiness",
+    "that is so evident in your face,",
+    "and so lacking in my own.",
+    "Huh!He's not kidding there!",
+    "Okay, I'll just cross this threshold here.",
+    "I'm sure that's of some significance,",
+    "but can't think what it is.",
+    "Anyway, nice hairdo.",
+    "Vat?",
+    "Nothing!"
+   ],
+   "jp": [
+    "よくいらっしゃった",
+    "どうぞお入りなさい",
+    "その顔にあふれている",
+    "幸せをわけてくれ",
+    "私には足りないものだ",
+    "確かにそうだな",
+    "んじゃ おジャマするよ",
+    "なんかイヤな予感がするけど",
+    "よくわかんないな",
+    "いい髪型だな",
+    "何か？",
+    "別に"
+   ],
+   "ko": [
+    "잘 오셨소",
+    "어서 들어오시게",
+    "그 얼굴에 넘치는",
+    "행복을 좀 나눠주게",
+    "내겐 부족한 것이라네",
+    "확실히 그렇군",
+    "그럼 실례할게",
+    "왠지 예감이 안 좋은데",
+    "잘 모르겠네",
+    "머리 좋은데",
+    "뭔가?",
+    "별로"
+   ]
+  },
+  "42": {
+   "en": [
+    "Vonderful!",
+    "Bring me more."
+   ],
+   "jp": [
+    "すばらしい！",
+    "もっと持ってこい"
+   ],
+   "ko": [
+    "훌륭해！",
+    "더 가져와"
+   ]
+  }
+ }
+}

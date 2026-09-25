@@ -1,0 +1,9 @@
+{
+  "_comment": "각자 환경 경로. local.json.example 을 복사해 쓴다.",
+  "game_dir": "C:/claude/roms/xbox/Conker - Live & Reloaded (Japan, Korea) (En,Ja,Fr,De,Es,It)",
+  "iso": "C:/claude/roms/xbox/Conker - Live & Reloaded (Japan, Korea) (En,Ja,Fr,De,Es,It).iso",
+  "xiso_exe": "C:/claude/roms/xbox/extract-xiso.exe",
+  "out_dir": "F:/hospi/roms/xbox roms",
+  "font_src": "C:/claude/utils/font",
+  "n64_project": "C:/claude/project/conker-kr-patch"
+}

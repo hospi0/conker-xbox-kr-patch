@@ -1,0 +1,383 @@
+{
+ "scene": "PooBoss",
+ "n": 16,
+ "entries": {
+  "0": {
+   "en": [
+    "Yeh! More sponduli."
+   ],
+   "jp": [
+    "やった！ またイタダキだ！"
+   ],
+   "ko": [
+    "됐다！ 또 챙겼다！"
+   ]
+  },
+  "1": {
+   "en": [
+    "Do you really think you'll survive in here?",
+    "You don't seem to know",
+    "which creek you're in",
+    "sweet corn is the only thing",
+    "that makes it through my rear.",
+    "How d'you think I keep this lovely grin?"
+   ],
+   "jp": [
+    "生きて帰れると思うなよ",
+    "貴様は知るまい",
+    "ここはおれのナワバリだ",
+    "おれの体を出られるのは",
+    "スイートコーンだけ",
+    "ヤツらのおかげでこの笑顔だ"
+   ],
+   "ko": [
+    "살아 돌아갈 생각 마라",
+    "네놈은 모르지",
+    "여긴 내 구역이다",
+    "내 몸을 나갈 수 있는 건",
+    "옥수수뿐이다",
+    "그놈들 덕분에 이 미소다"
+   ]
+  },
+  "2": {
+   "en": [
+    "Now I'm really getting rather mad.",
+    "You're like a niggly tickly",
+    "{SWIRL}{SKULL}{LIGHTNING}{STAR}{SKULL}{SWIRL} little tag nut.",
+    "When I've knocked you out",
+    "with all my bab",
+    "I'm going to take your head",
+    "and ram it up my butt.",
+    "Your butt.",
+    "My butt.",
+    "Your butt.",
+    "That's right my butt!",
+    "Errr...",
+    "My butt...",
+    "Errr...",
+    "My buuuuuuutt!"
+   ],
+   "jp": [
+    "このおれを怒らせたな",
+    "貴様はチンケで",
+    "ゲスなシッポ野郎",
+    "つぶしてやるぞ",
+    "おれ様のクソで！",
+    "その首もいで",
+    "ケツでつぶす！",
+    "あんたの？",
+    "そうだ！",
+    "ケツで？",
+    "そうおれ様の！",
+    "ウエッ...",
+    "ケツで！",
+    "オエッ...",
+    "ブッつぶーす！"
+   ],
+   "ko": [
+    "이 몸을 화나게 했군",
+    "네놈은 하찮고",
+    "천박한 꼬리 놈",
+    "뭉개주마",
+    "이 몸의 똥으로！",
+    "그 목을 뽑아서",
+    "엉덩이로 뭉갠다！",
+    "당신 거로?",
+    "그렇다！",
+    "엉덩이로?",
+    "그래 이 몸의！",
+    "우엑...",
+    "엉덩이로！",
+    "우엑...",
+    "뭉개주ー마！"
+   ]
+  },
+  "3": {
+   "en": [
+    "Oh! Oh!"
+   ],
+   "jp": [
+    "うわー"
+   ],
+   "ko": [
+    "우와ー"
+   ]
+  },
+  "4": {
+   "en": [
+    "Ah! You cursed squirrel!",
+    "Look what you've done.",
+    "I'm flushing! I'm flushing!",
+    "Oh, what a world, what a world.",
+    "Who'd have thought a good little squirrel",
+    "like you could have destroyed my",
+    "beautiful clagginess.",
+    "I'm going!",
+    "Aahh... No!"
+   ],
+   "jp": [
+    "いまいましいリスめ！",
+    "なんてことを！",
+    "流される！　ああ！",
+    "なんということだ...",
+    "こんな小さなリスごときに",
+    "美しいおれ様が",
+    "ほろぼされるなんて！",
+    "流される！",
+    "ああ～！！！"
+   ],
+   "ko": [
+    "괘씸한 다람쥐 놈！",
+    "이 무슨 짓을！",
+    "떠내려간다！　아아！",
+    "이럴 수가...",
+    "이런 작은 다람쥐 따위한테",
+    "아름다운 이 몸이",
+    "멸망당하다니！",
+    "떠내려간다！",
+    "아아ー！！！"
+   ]
+  },
+  "5": {
+   "en": [
+    "Now that's what I call",
+    "a bowel movement."
+   ],
+   "jp": [
+    "最後はちゃんと",
+    "流そうぜ！"
+   ],
+   "ko": [
+    "마지막엔 제대로",
+    "흘려보내자고！"
+   ]
+  },
+  "6": {
+   "en": [
+    "Hey, pal! Watch where you're goin'."
+   ],
+   "jp": [
+    "気をつけろよ！"
+   ],
+   "ko": [
+    "조심해！"
+   ]
+  },
+  "7": {
+   "en": [
+    "Eh! Alright there.",
+    "Take my advice and get outta here."
+   ],
+   "jp": [
+    "ああ　悪かった",
+    "お前も早く逃げろ"
+   ],
+   "ko": [
+    "아　미안했다",
+    "너도 빨리 도망쳐"
+   ]
+  },
+  "8": {
+   "en": [
+    "There's summat really bad in there.",
+    "You just don't wanna go in there.",
+    "Calm down! Now just calm down",
+    "and tell me what's the matter.",
+    "Right, ok, it all started about two days ago."
+   ],
+   "jp": [
+    "恐ろしいヤツがいるぞ\n",
+    "この先には行くな",
+    "いいから落ち着けって",
+    "何があったか説明しろよ",
+    "わかった　すべては２日前に始まった"
+   ],
+   "ko": [
+    "무서운 놈이 있다\n",
+    "이 앞으론 가지 마",
+    "일단 진정하라니까",
+    "무슨 일인지 설명해",
+    "알았어　모든 건 이틀 전에 시작됐어"
+   ]
+  },
+  "9": {
+   "en": [
+    "It was me and the lads.",
+    "We were havin' a cuppa tea.",
+    "And next thing we know, Tezza's gone!",
+    "We could... We couldn't find him!",
+    "We thought, aah! Maybe he's gone off,",
+    "you know like, do a bit a shoppin'.",
+    "Or summat. He never came back!",
+    "Bazza was next.",
+    "He was just walkin' along...",
+    "Mindin' his own business.",
+    "So I stood there and I said,"
+   ],
+   "jp": [
+    "仲間たちと",
+    "茶を飲んでたら",
+    "まずテザが消えた",
+    "どこにもいない！",
+    "買い物にでも出たんだ",
+    "そう思ってた",
+    "だが帰ってこなかった！",
+    "次はバザだ",
+    "歩きながら",
+    "考え事をしていたバザに",
+    "おれは声をかけた"
+   ],
+   "ko": [
+    "동료들과",
+    "차를 마시는데",
+    "먼저 테자가 사라져",
+    "어디에도 없었어！",
+    "장 보러 갔겠지",
+    "그렇게 생각했지",
+    "근데 안 돌아왔어！",
+    "다음은 바자",
+    "걸으면서",
+    "생각에 잠긴 바자에게",
+    "내가 말을 걸었어"
+   ]
+  },
+  "10": {
+   "en": [
+    "Bazza, how're ya doin' there, like, mate? "
+   ],
+   "jp": [
+    "バザ 調子どうだ？"
+   ],
+   "ko": [
+    "바자 어떻게 지내?"
+   ]
+  },
+  "11": {
+   "en": [
+    "And he waved over!",
+    "And that was it...",
+    "This thing came outta the shite!",
+    "And I thought to meself, oh no.",
+    "Oh! I'm gettin' outta heres!",
+    "So I' ad ta hide first."
+   ],
+   "jp": [
+    "あいつが手を振った",
+    "その時だ",
+    "何か出てきたんだ！",
+    "おれは怖くなって",
+    "思わず顔をかくし",
+    "目をつぶった"
+   ],
+   "ko": [
+    "그놈이 손을 흔들었어",
+    "그때였어",
+    "뭔가 나타났어！",
+    "나는 무서워져서",
+    "얼굴을 가리고",
+    "눈을 감았어"
+   ]
+  },
+  "12": {
+   "en": [
+    "And when I came out,",
+    "'Cause I thought it was all clear,",
+    "the lads had gone!",
+    "The bastards had nailed me in!",
+    "I'm outta here.",
+    "You can do what ya like.",
+    "There's some money up there.",
+    "If you can be arsed to get it.",
+    "Seeya's."
+   ],
+   "jp": [
+    "目を開けると",
+    "バザは消えてた",
+    "残るは",
+    "おれだけだ",
+    "だから逃げる",
+    "奥に金を",
+    "置いてきちまったが",
+    "仕方ない",
+    "じゃあな"
+   ],
+   "ko": [
+    "눈을 뜨니까",
+    "바자가 없었어",
+    "남은 건",
+    "나뿐이야",
+    "그래서 도망친다",
+    "안쪽에 돈을",
+    "두고 왔지만",
+    "어쩌겠나",
+    "그럼 가보지"
+   ]
+  },
+  "13": {
+   "en": [
+    "Sweet corn!",
+    "How ya doing, guys?",
+    "Bring me some sweet corn!",
+    "Who's that?",
+    "Can't see anyone.",
+    "Mmm... Ok!",
+    "If that's what he wants."
+   ],
+   "jp": [
+    "スイートコーン！",
+    "やあ　元気？",
+    "スイートコーンをよこせ！",
+    "誰だ？ 今の\n",
+    "そんなに欲しいのかな？",
+    "よっしゃ",
+    "投げこんでみるか"
+   ],
+   "ko": [
+    "옥수수！",
+    "안녕　잘 지내?",
+    "옥수수를 내놔라！",
+    "누구냐 방금\n",
+    "그렇게 갖고 싶은 건가?",
+    "좋았어",
+    "던져 넣어볼까"
+   ]
+  },
+  "14": {
+   "en": [
+    "I am the great mighty poo",
+    "and I'm going to throw my {SWIRL}{SKULL}{LIGHTNING}{STAR} at",
+    "you!",
+    "A huge supply of tish",
+    "come from my chocolate starfish.",
+    "How about some scat you little {SWIRL}{SKULL}{LIGHTNING}{STAR}?"
+   ],
+   "jp": [
+    "おれは偉大なウンチ大王",
+    "おれの立派な{SWIRL}{SKULL}{LIGHTNING}{STAR}を",
+    "貴様にぶつけてやろう",
+    "便所紙が売れるのは",
+    "おれ様のおかげさ",
+    "クソはいかがかな？　ちっこい{SWIRL}{SKULL}{LIGHTNING}{STAR}よ"
+   ],
+   "ko": [
+    "나는 위대한 똥 대왕",
+    "내 훌륭한 {SWIRL}{SKULL}{LIGHTNING}{STAR}를",
+    "네놈한테 던져주마",
+    "휴지가 팔리는 건",
+    "이 몸 덕분이지",
+    "똥은 어떠냐?　쪼그만 {SWIRL}{SKULL}{LIGHTNING}{STAR}야"
+   ]
+  },
+  "15": {
+   "en": [
+    "Here I am, you greedy bastard!"
+   ],
+   "jp": [
+    "おれはここだぞ ろくでなし！"
+   ],
+   "ko": [
+    "나 여기다 이 못난 놈아！"
+   ]
+  }
+ }
+}

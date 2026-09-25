@@ -1,0 +1,128 @@
+{
+ "scene": "MPHeist",
+ "n": 6,
+ "entries": {
+  "0": {
+   "en": [],
+   "jp": [
+    "Here's the joint.",
+    "You'll notice it's not very well guarded.",
+    "Take four of the doors,",
+    "one each.",
+    "Here are your names.",
+    "Mr. Blue...",
+    "Mr. Red...",
+    "Mr. Yellow...",
+    "Mr. Green...",
+    "Once inside, it's every man for himself."
+   ],
+   "ko": [
+    "이게 그 건물이다.",
+    "경비가 삼엄하지 않다는 걸 알 거다.",
+    "네 문 중 하나씩 맡아라,",
+    "한 명씩.",
+    "여기 너희 이름이다.",
+    "미스터 블루...",
+    "미스터 레드...",
+    "미스터 옐로...",
+    "미스터 그린...",
+    "안에 들어가면 각자 알아서 해라."
+   ]
+  },
+  "1": {
+   "en": [],
+   "jp": [
+    "Get a weapon, get the money,",
+    "preferably both,",
+    "then get your asses outta there,",
+    "Ok.",
+    "Let's go to work."
+   ],
+   "ko": [
+    "무기를 챙기고 돈을 챙겨라,",
+    "가능하면 둘 다,",
+    "그리고 얼른 빠져나와라,",
+    "좋다.",
+    "일하러 가자."
+   ]
+  },
+  "2": {
+   "en": [],
+   "jp": [
+    "You are my new number one.",
+    "C'mon, tough guy,",
+    "the drinks are on me."
+   ],
+   "ko": [
+    "네가 내 새로운 첫째다.",
+    "이리 와 터프가이,",
+    "술은 내가 산다."
+   ]
+  },
+  "3": {
+   "en": [],
+   "jp": [
+    "You know, some people have been asking me,",
+    "where's Frankie?",
+    "Where's Chicho?",
+    "Where's Ali?",
+    "Where's Paulie?",
+    "I can say, I think they gone for a swim.",
+    "Well, if you're waiting for 'em,",
+    "I wouldn't hold your breath,",
+    "which is ironic,",
+    "because I expect that's what they're doing right now.",
+    "Right, where's the next job."
+   ],
+   "ko": [
+    "저기 말이야 누가 나한테 물어보더군,",
+    "프랭키는 어디 있냐고?",
+    "치초는 어디 있냐고?",
+    "알리는 어디 있냐고?",
+    "폴리는 어디 있냐고?",
+    "그놈들 수영하러 간 것 같다고 해뒀지.",
+    "뭐 기다리고 있다면,",
+    "숨은 참지 않는 게 좋을걸,",
+    "아이러니하게도,",
+    "지금 딱 그러고 있을 테니까.",
+    "자 다음 일은 어디냐."
+   ]
+  },
+  "4": {
+   "en": [],
+   "jp": [
+    "Ok, wise guys,",
+    "here's the score.",
+    "Rule number one.",
+    "My way, or he's a dead mother {RED}{LIGHTNING}{STAR}{SWIRL}{SKULL}{NORMAL} way.",
+    "Take your pick.",
+    "There ain't no more rules.",
+    "Right.",
+    "We are robbing the feral reserve bank",
+    "at 08:30 hours,",
+    "Eastern standard time."
+   ],
+   "ko": [
+    "좋아 잘난 놈들아,",
+    "상황은 이렇다.",
+    "제1원칙.",
+    "내 방식대로, 아니면 뒈지는 거다.",
+    "골라라.",
+    "규칙은 그게 다다.",
+    "좋아.",
+    "우리는 야생 연방준비은행을 턴다",
+    "08:30시에,",
+    "동부 표준시로."
+   ]
+  },
+  "5": {
+   "en": [],
+   "jp": [
+    "Heist"
+   ],
+   "ko": [
+    "Heist"
+   ]
+  }
+ }
+}

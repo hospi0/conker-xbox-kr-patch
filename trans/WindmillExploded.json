@@ -1,0 +1,271 @@
+{
+ "scene": "WindmillExploded",
+ "n": 14,
+ "entries": {
+  "0": {
+   "en": [
+    "Rodent!",
+    "Rodent!",
+    "Hey, it's good to see ya, man.",
+    "What happened?"
+   ],
+   "jp": [
+    "ロデント！",
+    "ロデント！",
+    "会えて良かった",
+    "何があった？"
+   ],
+   "ko": [
+    "로던트！",
+    "로던트！",
+    "만나서 다행이야",
+    "무슨 일이 있었어?"
+   ]
+  },
+  "1": {
+   "en": [
+    "A bit sore but, you know what?",
+    "I reckon that that suit really works.",
+    "I was flying through the air...",
+    "Next thing is, bam!",
+    "Saw this thing coming towards me,",
+    "kinda like the windmill.",
+    "Doesn't seem to be there anymore.",
+    "Ah well, never mind.",
+    "At least I'm still here.",
+    "So what's happening?"
+   ],
+   "jp": [
+    "ちょっと痛かったけど...　平気",
+    "この装備はやっぱりすごいや",
+    "ぼくは空を飛んで...",
+    "次の瞬間 ドカン！　って",
+    "風車にぶつかったんだ",
+    "と思ったんだけど...",
+    "おかしいな　風車は？",
+    "まあ　いいか",
+    "助かったんだし",
+    "戦争はどうなった？"
+   ],
+   "ko": [
+    "좀 아팠지만...　괜찮아",
+    "역시 이 장비는 대단해",
+    "난 하늘을 날았고...",
+    "다음 순간 쾅！　하고",
+    "풍차에 부딪혔어",
+    "라고 생각했는데...",
+    "이상하네　풍차는?",
+    "뭐　됐나",
+    "살았으니까",
+    "전쟁은 어떻게 됐어?"
+   ]
+  },
+  "2": {
+   "en": [
+    "Not really sure,",
+    "but the war seems to be over.",
+    "You may as well go on your way.",
+    "Give my regards to the guys.",
+    "Yeh, I will.",
+    "Catch ya later?",
+    "Catch ya later.",
+    "You can buy me a pint.",
+    "Ok!"
+   ],
+   "jp": [
+    "よくわかんないけど",
+    "たぶん　終わったんだと思う",
+    "元の生活に戻れよ",
+    "みんなによろしくな",
+    "伝えとくよ",
+    "また会える？",
+    "ああ　そのときは",
+    "一杯おごれよ",
+    "いいよ"
+   ],
+   "ko": [
+    "잘 모르겠지만",
+    "아마　끝난 것 같아",
+    "원래 생활로 돌아가",
+    "다들에게 안부 전해줘",
+    "전해둘게",
+    "또 만날 수 있어?",
+    "그래　그때는",
+    "한 잔 사라",
+    "좋아"
+   ]
+  },
+  "3": {
+   "en": [
+    "Conker,",
+    "can I just say something?",
+    "Yeah,",
+    "that depends what it is.",
+    "It was a real privilege",
+    "working with you.",
+    "I would have to say,",
+    "if ever I need to go through",
+    "an operation such as that again,",
+    "I hope that it's with you."
+   ],
+   "jp": [
+    "コンカー",
+    "ひと言　いいかな？",
+    "ああ",
+    "内容によるけど",
+    "君と一緒に戦えて",
+    "光栄に思うよ",
+    "また戦争が起きて",
+    "あんな作戦が",
+    "あるとしたら",
+    "ぼくは君と一緒がいい"
+   ],
+   "ko": [
+    "콩커",
+    "한마디　해도 될까?",
+    "아",
+    "내용에 따라 다르지만",
+    "함께 싸울 수 있어",
+    "영광으로 생각해",
+    "또 전쟁이 일어나서",
+    "그런 작전이",
+    "있다면",
+    "난 너랑 같이 하고 싶어"
+   ]
+  },
+  "4": {
+   "en": [
+    "That's very nice of you to say."
+   ],
+   "jp": [
+    "うれしいこと言うな"
+   ],
+   "ko": [
+    "기쁜 말을 하는군"
+   ]
+  },
+  "5": {
+   "en": [
+    "Thank you, sir."
+   ],
+   "jp": [
+    "感謝します！"
+   ],
+   "ko": [
+    "감사합니다！"
+   ]
+  },
+  "6": {
+   "en": [
+    "Yeah, thank you, soldier.",
+    "Dismissed!"
+   ],
+   "jp": [
+    "感謝する　兵士よ！",
+    "解散！"
+   ],
+   "ko": [
+    "고맙다　병사여！",
+    "해산！"
+   ]
+  },
+  "7": {
+   "en": [
+    "What a great guy."
+   ],
+   "jp": [
+    "すばらしい男だ"
+   ],
+   "ko": [
+    "훌륭한 사나이다"
+   ]
+  },
+  "8": {
+   "en": [
+    "Idiot!"
+   ],
+   "jp": [
+    "戦争マニアめ！"
+   ],
+   "ko": [
+    "전쟁광 놈！"
+   ]
+  },
+  "9": {
+   "en": [
+    "Yeh! I'm here,",
+    "hurry up. Pick me up, {SWIRL}{STAR}{LIGHTNING}{SKULL}head."
+   ],
+   "jp": [
+    "おれはここだ！",
+    "早く取れ！　この{SWIRL}{STAR}{LIGHTNING}{SKULL}！"
+   ],
+   "ko": [
+    "나 여기 있다！",
+    "빨리 가져가！　이 {SWIRL}{STAR}{LIGHTNING}{SKULL}놈！"
+   ]
+  },
+  "10": {
+   "en": [
+    "Excellent!",
+    "Jet-packs and butlers, here we come."
+   ],
+   "jp": [
+    "サイコー！",
+    "何でも買えちゃうぜ　ヤッホー！"
+   ],
+   "ko": [
+    "최고！",
+    "뭐든 살 수 있어　야호！"
+   ]
+  },
+  "11": {
+   "en": [
+    "Yeh! I'm here,",
+    "hurry up. Pick me up, {SWIRL}{STAR}{LIGHTNING}{SKULL}head."
+   ],
+   "jp": [
+    "おれはここだ！",
+    "早く取れ！　この{SWIRL}{STAR}{LIGHTNING}{SKULL}！"
+   ],
+   "ko": [
+    "나 여기 있다！",
+    "빨리 가져가！　이 {SWIRL}{STAR}{LIGHTNING}{SKULL}놈！"
+   ]
+  },
+  "12": {
+   "en": [
+    "Excellent!",
+    "Jet-packs and butlers, here we come."
+   ],
+   "jp": [
+    "サイコー！",
+    "何でも買えちゃうぜ　ヤッホー！"
+   ],
+   "ko": [
+    "최고！",
+    "뭐든 살 수 있어　야호！"
+   ]
+  },
+  "13": {
+   "en": [
+    "Oh no!",
+    "Where did the windmill go?",
+    "I was sure that was the final level.",
+    "Ah well, obviously not."
+   ],
+   "jp": [
+    "そんな！",
+    "風車はどうした？",
+    "ここにあったはずなのに",
+    "なくなってるな"
+   ],
+   "ko": [
+    "그런！",
+    "풍차는 어떻게 된 거지?",
+    "여기 있었을 텐데",
+    "없어졌네"
+   ]
+  }
+ }
+}

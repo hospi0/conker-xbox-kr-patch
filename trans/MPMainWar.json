@@ -1,0 +1,131 @@
+{
+ "scene": "MPMainWar",
+ "n": 7,
+ "entries": {
+  "0": {
+   "en": [],
+   "jp": [
+    "Thereby you want to make sure",
+    "you find yourself either a gas mask,",
+    "or in that central area,",
+    "because you don't want to be outside.",
+    "No, sir.",
+    "Any questions, boys?",
+    "No!",
+    "Well, good luck.",
+    "Atten... Tion!",
+    "Great guys, every one of 'em."
+   ],
+   "ko": [
+    "그러니 반드시",
+    "방독면을 구하거나,",
+    "아니면 저 중앙 구역에 있어야 한다,",
+    "밖에 있으면 안 되니까.",
+    "아닙니다.",
+    "질문 있나 제군들?",
+    "없습니다！",
+    "그럼 행운을 빈다.",
+    "차렷...!",
+    "훌륭한 녀석들이다, 하나같이."
+   ]
+  },
+  "1": {
+   "en": [],
+   "jp": [
+    "You did a fine job, soldiers.",
+    "But don't forget about your brothers in arms",
+    "that did not return today.",
+    "They were fine men."
+   ],
+   "ko": [
+    "잘했다 병사들.",
+    "하지만 전우들을 잊지 마라",
+    "오늘 돌아오지 못한.",
+    "훌륭한 이들이었다."
+   ]
+  },
+  "2": {
+   "en": [],
+   "jp": [
+    "Find yourselves a weapon.",
+    "Then kill the enemy.",
+    "Retrieve the canister here,",
+    "then insert below.",
+    "Show no mercy!"
+   ],
+   "ko": [
+    "무기를 챙겨라.",
+    "그리고 적을 죽여라.",
+    "여기서 통을 회수해서,",
+    "아래쪽에 넣어라.",
+    "자비는 없다！"
+   ]
+  },
+  "3": {
+   "en": [],
+   "jp": [
+    "Once again the above-average bears",
+    "are victorious!",
+    "We should be in Paris by the summer.",
+    "Supreme victory."
+   ],
+   "ko": [
+    "다시 한번 평균 이상의 곰들이",
+    "승리했다！",
+    "여름까진 파리에 입성할 거다.",
+    "완벽한 승리."
+   ]
+  },
+  "4": {
+   "en": [],
+   "jp": [
+    "Look at this scum!",
+    "Get these monsters outta my sight.",
+    "I don't wanna see their faces again.",
+    "Looks like Paris will be ours again before the Summer.",
+    "Good show."
+   ],
+   "ko": [
+    "이 쓰레기들 좀 봐라！",
+    "이 괴물들을 내 눈앞에서 치워라.",
+    "다시는 저 얼굴들 보고 싶지 않다.",
+    "여름 전에 파리가 다시 우리 것이 될 것 같군.",
+    "잘했다."
+   ]
+  },
+  "5": {
+   "en": [],
+   "jp": [
+    "Ok, guys, atten... Tion!",
+    "Right.",
+    "Find a weapon.",
+    "Get yourself either defending this base,",
+    "attacking the other base,",
+    "or get the enemy canister.",
+    "Take enemy canister to sewer area",
+    "where you will find a place",
+    "to insert the canister."
+   ],
+   "ko": [
+    "좋아 제군들 차렷...!",
+    "좋아.",
+    "무기를 찾아라.",
+    "이 기지를 방어하든가,",
+    "다른 기지를 공격하든가,",
+    "아니면 적의 통을 노려라.",
+    "적의 통을 하수구 구역으로 가져가서",
+    "그곳에서 장소를 찾아",
+    "통을 넣어라."
+   ]
+  },
+  "6": {
+   "en": [],
+   "jp": [
+    "MainWar"
+   ],
+   "ko": [
+    "MainWar"
+   ]
+  }
+ }
+}

@@ -1,0 +1,695 @@
+{
+ "scene": "BarnInside",
+ "n": 46,
+ "entries": {
+  "0": {
+   "en": [
+    "Hey, Barry, look at this {THROB}{RED}{LIGHTNING}{RED}{SKULL}{RED}{STAR}{RED}{SWIRL}{RED}{SKULL}{RED}{LIGHTNING}{NORMAL}!!"
+   ],
+   "jp": [
+    "見ろよ{THROB}{RED}{LIGHTNING}{RED}{SKULL}{RED}{STAR}{RED}{SWIRL}{RED}{SKULL}{RED}{LIGHTNING}{NORMAL}だ！"
+   ],
+   "ko": [
+    "봐라 {THROB}{RED}{LIGHTNING}{RED}{SKULL}{RED}{STAR}{RED}{SWIRL}{RED}{SKULL}{RED}{LIGHTNING}{NORMAL}다！"
+   ]
+  },
+  "1": {
+   "en": [
+    "But I'm blind, you {THROB}{BLUE}{SKULL}{BLUE}{SWIRL}{BLUE}{LIGHTNING}{BLUE}{STAR}{NORMAL}!",
+    "Oh, use your {THROB}{RED}{LIGHTNING}{RED}{STAR}{RED}{SKULL}{RED}{SWIRL}{RED}{SKULL}{NORMAL} radar."
+   ],
+   "jp": [
+    "見えるかよ！　{THROB}{BLUE}{SKULL}{BLUE}{SWIRL}{BLUE}{LIGHTNING}{BLUE}{STAR}{NORMAL}！\nおれは目が悪いんだ",
+    "{THROB}{RED}{LIGHTNING}{RED}{STAR}{RED}{SKULL}{RED}{SWIRL}{RED}{SKULL}{NORMAL}レーダーで見ろよ"
+   ],
+   "ko": [
+    "보이나！　{THROB}{BLUE}{SKULL}{BLUE}{SWIRL}{BLUE}{LIGHTNING}{BLUE}{STAR}{NORMAL}！\n난 눈이 나빠",
+    "{THROB}{RED}{LIGHTNING}{RED}{STAR}{RED}{SKULL}{RED}{SWIRL}{RED}{SKULL}{NORMAL}레이더로 봐라"
+   ]
+  },
+  "2": {
+   "en": [
+    "Here I am, ya greedy bastard."
+   ],
+   "jp": [
+    "おれはここだぞ ろくでなし！"
+   ],
+   "ko": [
+    "나 여기다 이 못난 놈아！"
+   ]
+  },
+  "3": {
+   "en": [
+    "Who wants to be a millionaire?",
+    "Me, actually."
+   ],
+   "jp": [
+    "ミリオネアになりたいか？",
+    "もちろんさ"
+   ],
+   "ko": [
+    "백만장자가 되고 싶나?",
+    "당연하지"
+   ]
+  },
+  "4": {
+   "en": [
+    "What you do that for, dumb {THROB}{GREEN}{LIGHTNING}{GREEN}{SKULL}{GREEN}{STAR}{GREEN}{SWIRL}{NORMAL}.",
+    "Yeah! ya dumb {THROB}{BLUE}{SKULL}{BLUE}{LIGHTNING}{BLUE}{SWIRL}{BLUE}{STAR}{NORMAL}.",
+    "Why is it you have to repeat everything I say?",
+    "I don't repeat everything you say,",
+    "do I?",
+    "Yes, you do, actually.",
+    "Oh! sorry."
+   ],
+   "jp": [
+    "何やってんだ この{THROB}{GREEN}{LIGHTNING}{GREEN}{SKULL}{GREEN}{STAR}{GREEN}{SWIRL}{NORMAL}",
+    "そうだ この{THROB}{BLUE}{SKULL}{BLUE}{LIGHTNING}{BLUE}{SWIRL}{BLUE}{STAR}{NORMAL}",
+    "人の話をマネすんな",
+    "そんなことしてないよ",
+    "してる？",
+    "してるだろーが",
+    "ごめん"
+   ],
+   "ko": [
+    "뭐 하는 거야 이 {THROB}{GREEN}{LIGHTNING}{GREEN}{SKULL}{GREEN}{STAR}{GREEN}{SWIRL}{NORMAL}",
+    "그래 이 {THROB}{BLUE}{SKULL}{BLUE}{LIGHTNING}{BLUE}{SWIRL}{BLUE}{STAR}{NORMAL}",
+    "남 말 따라 하지 마",
+    "그런 적 없어",
+    "했다고?",
+    "했잖아",
+    "미안"
+   ]
+  },
+  "5": {
+   "en": [
+    "Why, thank you, mr. Squirrel.",
+    "I was hanging up there by my pretty little neck.",
+    "It was like one of them executions you hear about."
+   ],
+   "jp": [
+    "助かったよ　ありがとう",
+    "この細い首をつるされてたんだ",
+    "まるでしばり首みたいにね"
+   ],
+   "ko": [
+    "살았어　고마워",
+    "이 가는 목이 매달려 있었다고",
+    "꼭 교수형처럼 말이야"
+   ]
+  },
+  "6": {
+   "en": [
+    "Em, yeh, anyway!",
+    "What are we gonna do about this guy over here?"
+   ],
+   "jp": [
+    "まあ いいって！",
+    "それより あいつを何とかしなきゃ"
+   ],
+   "ko": [
+    "뭐 됐어！",
+    "그보다 저놈을 어떻게든 해야지"
+   ]
+  },
+  "7": {
+   "en": [
+    "What do you want to do about him?",
+    "I'll do anything for you.",
+    "You is my bestest buddy in the whole wide world."
+   ],
+   "jp": [
+    "どうしたいのさ？",
+    "何でも手伝うよ",
+    "あんたは世界一の友だちなんだ"
+   ],
+   "ko": [
+    "어쩌고 싶은데?",
+    "뭐든 도울게",
+    "넌 세상에서 제일 좋은 친구야"
+   ]
+  },
+  "8": {
+   "en": [
+    "Em, just a second."
+   ],
+   "jp": [
+    "ちょっと待った"
+   ],
+   "ko": [
+    "잠깐만"
+   ]
+  },
+  "9": {
+   "en": [
+    "So what exactly did you have in mind?",
+    "Well now!",
+    "Hop on the back here,",
+    "And we is gonna go for a ride.",
+    "Yeh, ok, but don't get any funny ideas now.",
+    "This is purely a means to an end.",
+    "I don't know what you're talking about!"
+   ],
+   "jp": [
+    "何か いい手ないかな？",
+    "それじゃあ",
+    "ぼくの背中に乗ってよ",
+    "クマデライドしよう",
+    "ふざけてる場合じゃないぞ",
+    "いい方法考えろよ",
+    "いいから乗りなって！"
+   ],
+   "ko": [
+    "뭔가 좋은 수 없을까?",
+    "그럼",
+    "내 등에 타",
+    "갈퀴 라이드 하자",
+    "장난칠 때가 아니야",
+    "좋은 방법을 생각해",
+    "그러지 말고 타라니까！"
+   ]
+  },
+  "10": {
+   "en": [
+    "This is pretty neat!"
+   ],
+   "jp": [
+    "バカにしやがったな！"
+   ],
+   "ko": [
+    "날 무시했겠다！"
+   ]
+  },
+  "11": {
+   "en": [
+    "Apparently, there's something real neat inside this barn.",
+    "I can't quite see it myself,",
+    "unless, of course, some guys jumping around",
+    "stinking of horse poo's real neat.",
+    "Which, of course, it isn't."
+   ],
+   "jp": [
+    "ここに何かあるって話だけど",
+    "どこだよ？",
+    "馬フンくさいのが",
+    "はねてるだけじゃん",
+    "メチャクッサー！"
+   ],
+   "ko": [
+    "여기 뭔가 있다던데",
+    "어디야?",
+    "말똥 냄새 나는 게",
+    "튀고 있을 뿐이잖아",
+    "완전 구려ー！"
+   ]
+  },
+  "12": {
+   "en": [
+    "Yeah? Yeah, You."
+   ],
+   "jp": [
+    "おいっ　お前"
+   ],
+   "ko": [
+    "야　너"
+   ]
+  },
+  "13": {
+   "en": [
+    "Hey, Franky,",
+    "I think there's a little fella over there,",
+    "just coming in through the door.",
+    "I think it's your turn. Is it his turn?"
+   ],
+   "jp": [
+    "フランキー",
+    "小さいのが来たぜ",
+    "入り口んとこだ",
+    "確かお前の番だったよな？"
+   ],
+   "ko": [
+    "프랭키",
+    "꼬맹이가 왔다",
+    "입구 쪽이야",
+    "네 차례였지 아마?"
+   ]
+  },
+  "14": {
+   "en": [
+    "Yeh, I think it's his turn.",
+    "Hey, Franky, go kick his ass,",
+    "go on, go kick his ass."
+   ],
+   "jp": [
+    "こいつの番だ",
+    "ボコボコにしてこい",
+    "やっちまえ"
+   ],
+   "ko": [
+    "얘 차례다",
+    "실컷 두들겨주고 와",
+    "해치워"
+   ]
+  },
+  "15": {
+   "en": [
+    "I ain't kicking.",
+    "It's always my turn to kick their ass."
+   ],
+   "jp": [
+    "やだよ",
+    "いつもぼくの番じゃないか"
+   ],
+   "ko": [
+    "싫어",
+    "맨날 내 차례잖아"
+   ]
+  },
+  "16": {
+   "en": [
+    "Franky, just go over there and kick his ass, for {THROB}{BLUE}{LIGHTNING}{BLUE}{SKULL}{BLUE}{STAR}{BLUE}{SWIRL}{BLUE}{SKULL}{NORMAL} sake."
+   ],
+   "jp": [
+    "いいから行けよ　この{THROB}{BLUE}{LIGHTNING}{BLUE}{SKULL}{BLUE}{STAR}{BLUE}{SWIRL}{BLUE}{SKULL}{NORMAL}め！"
+   ],
+   "ko": [
+    "됐으니까 가라　이 {THROB}{BLUE}{LIGHTNING}{BLUE}{SKULL}{BLUE}{STAR}{BLUE}{SWIRL}{BLUE}{SKULL}{NORMAL}놈！"
+   ]
+  },
+  "17": {
+   "en": [
+    "Yeh, go over there and kick his ass.",
+    "Someone's gotta kick his ass. I'm a brush. I don't kick ass."
+   ],
+   "jp": [
+    "いいから行け",
+    "ハケのおれにはムリだ"
+   ],
+   "ko": [
+    "그냥 가",
+    "붓인 나한텐 무리야"
+   ]
+  },
+  "18": {
+   "en": [
+    "I'm a paint pot. Anyway, I'm a {THROB}{BLUE}{SKULL}{BLUE}{STAR}{BLUE}{LIGHTNING}{BLUE}{SWIRL}{NORMAL}paint pot.",
+    "Go and kick his ass."
+   ],
+   "jp": [
+    "おれは{THROB}{BLUE}{SKULL}{BLUE}{STAR}{BLUE}{LIGHTNING}{BLUE}{SWIRL}{NORMAL}なペンキ缶だ",
+    "お前が行け"
+   ],
+   "ko": [
+    "난 {THROB}{BLUE}{SKULL}{BLUE}{STAR}{BLUE}{LIGHTNING}{BLUE}{SWIRL}{NORMAL}인 페인트 통이야",
+    "네가 가"
+   ]
+  },
+  "19": {
+   "en": [
+    "Ok, I'll kick his ass.",
+    "I'm not going over there, he can come over here."
+   ],
+   "jp": [
+    "わかったよ",
+    "近くに来たらね"
+   ],
+   "ko": [
+    "알았어",
+    "가까이 오면"
+   ]
+  },
+  "20": {
+   "en": [
+    "Ok, here he comes.",
+    "Keep still, keep still."
+   ],
+   "jp": [
+    "ヤツが来るぞ",
+    "じっとしてろ"
+   ],
+   "ko": [
+    "저놈이 온다",
+    "가만있어"
+   ]
+  },
+  "21": {
+   "en": [
+    "I've seen some kicking ass in my time,",
+    "and that is the {THROB}{RED}{LIGHTNING}{RED}{SKULL}{RED}{STAR}{RED}{SWIRL}{RED}{SKULL}{RED}{LIGHTNING}{NORMAL} crapest, crapiest {THROB}{BLUE}{LIGHTNING}{BLUE}{STAR}{BLUE}{SKULL}{BLUE}{SWIRL}{BLUE}{LIGHTNING}{NORMAL} kick ass",
+    "I've ever seen."
+   ],
+   "jp": [
+    "バカは多いが",
+    "こいつはまったく{THROB}{RED}{LIGHTNING}{RED}{SKULL}{RED}{STAR}{RED}{SWIRL}{RED}{SKULL}{RED}{LIGHTNING}{NORMAL}で{THROB}{BLUE}{LIGHTNING}{BLUE}{STAR}{BLUE}{SKULL}{BLUE}{SWIRL}{BLUE}{LIGHTNING}{NORMAL}なヤツだ！",
+    "最悪だな"
+   ],
+   "ko": [
+    "바보는 많지만",
+    "이놈은 정말이지 {THROB}{RED}{LIGHTNING}{RED}{SKULL}{RED}{STAR}{RED}{SWIRL}{RED}{SKULL}{RED}{LIGHTNING}{NORMAL}에 {THROB}{BLUE}{LIGHTNING}{BLUE}{STAR}{BLUE}{SKULL}{BLUE}{SWIRL}{BLUE}{LIGHTNING}{NORMAL}인 녀석이다！",
+    "최악이군"
+   ]
+  },
+  "22": {
+   "en": [
+    "Yeh, that was pretty crap.",
+    "As kicking ass goes, it was abysmal,",
+    "and you is a {THROB}{BLUE}{SKULL}{BLUE}{LIGHTNING}{BLUE}{SWIRL}{BLUE}{STAR}{NORMAL} bastard, stupid bastard.",
+    "Isn't he."
+   ],
+   "jp": [
+    "ほんとクズ野郎だ",
+    "救いようのない大バカだ！",
+    "ほんとにマヌケな {THROB}{BLUE}{SKULL}{BLUE}{LIGHTNING}{BLUE}{SWIRL}{BLUE}{STAR}{NORMAL}だよ！",
+    "そう思うだろ？"
+   ],
+   "ko": [
+    "진짜 쓰레기 자식이야",
+    "구제불능 멍청이다！",
+    "정말 멍청한 {THROB}{BLUE}{SKULL}{BLUE}{LIGHTNING}{BLUE}{SWIRL}{BLUE}{STAR}{NORMAL}야！",
+    "그렇지 않냐?"
+   ]
+  },
+  "23": {
+   "en": [
+    "Yeh, He sure is.  So what ya gonna do now, kill yourself?",
+    "That's what I would recommend."
+   ],
+   "jp": [
+    "そうだ 首でもつってみたらどうだ？",
+    "お似合いだぞ"
+   ],
+   "ko": [
+    "그래 목이라도 매보는 게 어때?",
+    "잘 어울릴 거다"
+   ]
+  },
+  "24": {
+   "en": [
+    "Yeh! you should kill yourself.",
+    "We got a rope right here, ain't we got a rope?",
+    "Yeh, we got a rope."
+   ],
+   "jp": [
+    "そうだ そうしろ",
+    "ロープもあったよな",
+    "ちょうどいい"
+   ],
+   "ko": [
+    "그래 그렇게 해",
+    "밧줄도 있었지",
+    "딱 좋네"
+   ]
+  },
+  "25": {
+   "en": [
+    "What kind of friends are you?",
+    "Oh! In that case, i is gonna kill myself.",
+    "I'm gonna kill myself right now!",
+    "That's all there is to it."
+   ],
+   "jp": [
+    "なんてヤツらだ！",
+    "やってやろうじゃないか",
+    "今すぐ！",
+    "おぼえてろよ"
+   ],
+   "ko": [
+    "저런 놈들！",
+    "해주지 뭐",
+    "당장！",
+    "두고 보자"
+   ]
+  },
+  "26": {
+   "en": [
+    "{THROB}{RED}{LIGHTNING}{RED}{SKULL}{RED}{STAR}{SWIRL} You!"
+   ],
+   "jp": [
+    "{THROB}{RED}{LIGHTNING}{RED}{SKULL}{RED}{STAR}{SWIRL}ユー！"
+   ],
+   "ko": [
+    "{THROB}{RED}{LIGHTNING}{RED}{SKULL}{RED}{STAR}{SWIRL}유！"
+   ]
+  },
+  "27": {
+   "en": [
+    "What are you doing?",
+    "You stupid bastard!",
+    "He hasn't even got a neck."
+   ],
+   "jp": [
+    "何だそりゃ",
+    "ほんとバカだな！",
+    "首もないのに"
+   ],
+   "ko": [
+    "그게 뭐야",
+    "진짜 바보네！",
+    "목도 없으면서"
+   ]
+  },
+  "28": {
+   "en": [
+    "Yeh! Look at him? Stupid bastard hasn't even got a neck.",
+    "He hasn't got a neck, has he?"
+   ],
+   "jp": [
+    "まったくだ　首なしの大バカだ",
+    "首もないのに"
+   ],
+   "ko": [
+    "그러게　목 없는 멍청이야",
+    "목도 없으면서"
+   ]
+  },
+  "29": {
+   "en": [
+    "I already said that. Shut up!"
+   ],
+   "jp": [
+    "マネすんな！"
+   ],
+   "ko": [
+    "따라 하지 마！"
+   ]
+  },
+  "30": {
+   "en": [
+    "Oh, ok!"
+   ],
+   "jp": [
+    "ごめん"
+   ],
+   "ko": [
+    "미안"
+   ]
+  },
+  "31": {
+   "en": [
+    "I don't believe it.",
+    "I don't appear to have a neck of any description.",
+    "In fact, I ain't got an oesophagus.",
+    "Oh! Diddle di dam,",
+    "I is gonna be up here for some time."
+   ],
+   "jp": [
+    "そんな！",
+    "確かに首なんかないし",
+    "食道だってない",
+    "こんなの意味ないよ",
+    "ぶら下がってるだけなんて"
+   ],
+   "ko": [
+    "그런！",
+    "하긴 목 같은 것도 없고",
+    "식도도 없어",
+    "이런 거 의미 없잖아",
+    "그냥 매달려 있을 뿐이라니"
+   ]
+  },
+  "32": {
+   "en": [
+    "What the damn diddly-squat are you doing in my barn?"
+   ],
+   "jp": [
+    "おれのシマで何やってんだ？"
+   ],
+   "ko": [
+    "내 구역에서 뭐 하는 거냐?"
+   ]
+  },
+  "33": {
+   "en": [
+    "Well I never, it's a talking pitch fork."
+   ],
+   "jp": [
+    "クマデがしゃべってる"
+   ],
+   "ko": [
+    "갈퀴가 말을 하네"
+   ]
+  },
+  "34": {
+   "en": [
+    "Not from 'round here, are you, boy?"
+   ],
+   "jp": [
+    "お前 よそ者だな"
+   ],
+   "ko": [
+    "너 외지인이구나"
+   ]
+  },
+  "35": {
+   "en": [
+    "No, I'm from the twenty-first century."
+   ],
+   "jp": [
+    "未来から来たんだ"
+   ],
+   "ko": [
+    "미래에서 왔어"
+   ]
+  },
+  "36": {
+   "en": [
+    "I don't rightly recollect liking your type,",
+    "therefore I conclude,",
+    "I is gonna kick your butt around this barn",
+    "like there's no tomorrow.",
+    "I is gonna stick my big fork right into yers."
+   ],
+   "jp": [
+    "お前みたいのは",
+    "初めて見た\nよし決めたぞ！",
+    "ボコボコにぶちのめして",
+    "その耳を",
+    "ブッ刺してやる"
+   ],
+   "ko": [
+    "너 같은 놈은",
+    "처음 봤다\n좋아 정했다！",
+    "실컷 두들겨 패서",
+    "그 귀를",
+    "쑤셔주마"
+   ]
+  },
+  "37": {
+   "en": [
+    "Were your parents related?",
+    "Like before they were married?"
+   ],
+   "jp": [
+    "ご両親は？",
+    "クマデと何？"
+   ],
+   "ko": [
+    "부모님은?",
+    "갈퀴랑 뭐?"
+   ]
+  },
+  "38": {
+   "en": [
+    "Right! That's it.",
+    "I is gonna give you a whupping!",
+    "Here we go!"
+   ],
+   "jp": [
+    "うるさい！",
+    "\nたたきのめしてやる！",
+    "行くぞ！"
+   ],
+   "ko": [
+    "시끄러워！",
+    "\n때려눕혀주마！",
+    "간다！"
+   ]
+  },
+  "39": {
+   "en": [
+    "What the heck's he moaning about?"
+   ],
+   "jp": [
+    "何言ってんだろ"
+   ],
+   "ko": [
+    "무슨 소리야"
+   ]
+  },
+  "40": {
+   "en": [
+    "So my nemesis is defeated."
+   ],
+   "jp": [
+    "おれの天敵は消えたようだな"
+   ],
+   "ko": [
+    "내 천적은 사라진 모양이군"
+   ]
+  },
+  "41": {
+   "en": [
+    "Yes!",
+    "It's me again."
+   ],
+   "jp": [
+    "よう！",
+    "また会ったな"
+   ],
+   "ko": [
+    "여어！",
+    "또 만났군"
+   ]
+  },
+  "42": {
+   "en": [
+    "Right!",
+    "Time to wander around,",
+    "aimlessly."
+   ],
+   "jp": [
+    "それじゃあ",
+    "ちょっと",
+    "ぶらついてくるか"
+   ],
+   "ko": [
+    "그럼",
+    "잠깐",
+    "좀 돌아다닐까"
+   ]
+  },
+  "43": {
+   "en": [
+    "Buff you, {SKULL}{SWIRL}{STAR}{LIGHTNING}{STAR}{SKULL}{SKULL}{NORMAL}!"
+   ],
+   "jp": [
+    "くたばれ！ この{SKULL}{SWIRL}{STAR}{LIGHTNING}{STAR}{SKULL}{SKULL}{NORMAL}！"
+   ],
+   "ko": [
+    "뒈져라！ 이 {SKULL}{SWIRL}{STAR}{LIGHTNING}{STAR}{SKULL}{SKULL}{NORMAL}！"
+   ]
+  },
+  "44": {
+   "en": [
+    "This is gonna hurt!"
+   ],
+   "jp": [
+    "危ない！"
+   ],
+   "ko": [
+    "위험해！"
+   ]
+  },
+  "45": {
+   "en": [
+    "Hey, you, over there."
+   ],
+   "jp": [
+    "ちょっと！"
+   ],
+   "ko": [
+    "잠깐！"
+   ]
+  }
+ }
+}

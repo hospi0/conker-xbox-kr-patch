@@ -1,0 +1,1149 @@
+{
+ "scene": "EndArena",
+ "n": 63,
+ "entries": {
+  "0": {
+   "en": [
+    "Phew! Finally.",
+    " Got it!"
+   ],
+   "jp": [
+    "ついにおれは...",
+    "やったぞ！"
+   ],
+   "ko": [
+    "드디어 나는...",
+    "해냈다！"
+   ]
+  },
+  "1": {
+   "en": [
+    "I'm a millionaire, Berri!",
+    " Berri, what are you looking at?",
+    "Conker, honey!",
+    "Aw, easy come, easy go."
+   ],
+   "jp": [
+    "大金持ちだぞ！",
+    "ベリー！ どうしたんだ？",
+    "コンカー 見て",
+    "そう簡単にはいかないか"
+   ],
+   "ko": [
+    "대부자다！",
+    "베리！ 무슨 일이야?",
+    "콩커 봐봐",
+    "그렇게 쉽게는 안 되나"
+   ]
+  },
+  "2": {
+   "en": [
+    "Aw, easy come , easy go."
+   ],
+   "jp": [
+    "そう簡単にはいかないか"
+   ],
+   "ko": [
+    "그렇게 쉽게는 안 되나"
+   ]
+  },
+  "3": {
+   "en": [
+    "Aw, cool!",
+    " Millionaire!  "
+   ],
+   "jp": [
+    "これで１００万ドル...",
+    "ミリオネアだ！！！"
+   ],
+   "ko": [
+    "이걸로 백만 달러...",
+    "백만장자다！！！"
+   ]
+  },
+  "4": {
+   "en": [
+    "Who's this guy?",
+    " Berri, do you know who he is?",
+    "Ya got me!",
+    "Hmmm, yes,",
+    "at last...",
+    " A red squirrel...",
+    " ...Good!",
+    "A red squirrel!",
+    " Oh, I think he means me.",
+    " I don't recognize this guy!",
+    " Unless, he's the fabled panther king!",
+    " But he lives just in stories,",
+    "like my mum used to tell me",
+    "to get me to sleep!",
+    " Looks like he was real after all.",
+    " The fairy panther king!"
+   ],
+   "jp": [
+    "誰だろ？",
+    "ベリー 知ってる？",
+    "知るわけないでしょ",
+    "いいぞ！",
+    "ついに...",
+    "アカリスを手に入れた",
+    "すばらしい",
+    "アカリスって？",
+    "おれのことだよな",
+    "おれはこんなヤツ知らないぞ",
+    "いや...　もしかして\n物語に出てくるパンサー大王か？",
+    "あれっておとぎ話だよな",
+    "本物なわけないさ",
+    "作り話なんだから！",
+    "むしろ実在するなら...",
+    "キュートな妖精なんて方が..."
+   ],
+   "ko": [
+    "누구지?",
+    "베리 알아?",
+    "알 리가 없잖아",
+    "좋아！",
+    "드디어...",
+    "붉은다람쥐를 손에 넣었다",
+    "훌륭해",
+    "붉은다람쥐라니?",
+    "나를 말하는 거겠지",
+    "난 이런 놈 몰라",
+    "아니...　혹시\n이야기에 나오는 판서 대왕인가?",
+    "그건 동화잖아",
+    "진짜일 리가 없어",
+    "지어낸 얘기니까！",
+    "차라리 실재한다면...",
+    "귀여운 요정 쪽이..."
+   ]
+  },
+  "5": {
+   "en": [
+    "Who are you calling a fairy?",
+    "No, as in, like, fairy,",
+    "as in ephemeral...",
+    " Like a fable, like a legend,",
+    "you know, that doesn't exi...",
+    " Doesn't matter.",
+    "Oh, no, doesn't matter,",
+    "not anymore,",
+    "not for you.",
+    "Weasel!"
+   ],
+   "jp": [
+    "妖精？ 何の話をしておる",
+    "いや...　あの...",
+    "妖精みたいに",
+    "物語のなかの",
+    "架空の存在だと...",
+    "いや...　どうでもいいか",
+    "確かにどうでもいいことだ",
+    "これからのお前には",
+    "どうでもな",
+    "出てこい"
+   ],
+   "ko": [
+    "요정? 무슨 소리냐",
+    "아니...　저...",
+    "요정처럼",
+    "이야기 속의",
+    "가상의 존재라고...",
+    "아니...　뭐 상관없나",
+    "확실히 상관없는 일이지",
+    "앞으로 네게는",
+    "상관없어",
+    "나와라"
+   ]
+  },
+  "6": {
+   "en": [
+    "Right here, boss."
+   ],
+   "jp": [
+    "はい 大王"
+   ],
+   "ko": [
+    "예 대왕님"
+   ]
+  },
+  "7": {
+   "en": [
+    "Your bounty.",
+    "Thanks very much."
+   ],
+   "jp": [
+    "ほうびをやろう",
+    "これはどうも"
+   ],
+   "ko": [
+    "상을 내리마",
+    "이거 감사합니다"
+   ]
+  },
+  "8": {
+   "en": [
+    "What are we gonna do with him?",
+    "You leave him to me.",
+    "So you're not gonna kill him?"
+   ],
+   "jp": [
+    "ヤツをどうするのです？",
+    "あとはわしにまかせればよい",
+    "殺さないのですか？"
+   ],
+   "ko": [
+    "이놈은 어쩌실 겁니까?",
+    "나머진 내게 맡기면 된다",
+    "죽이지 않으십니까?"
+   ]
+  },
+  "9": {
+   "en": [
+    "Not exactly!",
+    "Step aside, Conker.",
+    " I know how to deal",
+    "with men like this!"
+   ],
+   "jp": [
+    "殺しはしない",
+    "下がって コンカー",
+    "こういう男の",
+    "扱いはまかせて"
+   ],
+   "ko": [
+    "죽이진 않는다",
+    "물러나 있어라 콩커",
+    "이런 남자를",
+    "다루는 건 맡겨줘"
+   ]
+  },
+  "10": {
+   "en": [
+    "Such loyalty..."
+   ],
+   "jp": [
+    "そんな愛情など..."
+   ],
+   "ko": [
+    "그런 애정 따위..."
+   ]
+  },
+  "11": {
+   "en": [
+    "Misplaced!",
+    " Get rid of her! "
+   ],
+   "jp": [
+    "目ざわりだ！",
+    "女を片づけろ！"
+   ],
+   "ko": [
+    "눈에 거슬린다！",
+    "여자를 치워라！"
+   ]
+  },
+  "12": {
+   "en": [
+    "The easiest thing in the world!",
+    " Sorry, dollface.",
+    " Business is business!",
+    " Adios!"
+   ],
+   "jp": [
+    "わかりました　大王",
+    "悪いな...　カワイコちゃんよ",
+    "これも仕事なんでな ",
+    "\nアディオス！"
+   ],
+   "ko": [
+    "알겠습니다　대왕님",
+    "미안하네...　귀여운 아가씨",
+    "이것도 일이라서 말이야 ",
+    "\n아디오스！"
+   ]
+  },
+  "13": {
+   "en": [
+    "What the...?",
+    " Hey, mind where you're sssh..."
+   ],
+   "jp": [
+    "何だよ！",
+    "当たったらどうしてくれ..."
+   ],
+   "ko": [
+    "뭐야！",
+    "맞으면 어쩌려고..."
+   ]
+  },
+  "14": {
+   "en": [
+    "Berri?  "
+   ],
+   "jp": [
+    "ベリー？"
+   ],
+   "ko": [
+    "베리?"
+   ]
+  },
+  "15": {
+   "en": [
+    "Hey Berri? "
+   ],
+   "jp": [
+    "おい...　ベリー？"
+   ],
+   "ko": [
+    "야...　베리?"
+   ]
+  },
+  "16": {
+   "en": [
+    "Oh no!  "
+   ],
+   "jp": [
+    "そんな！"
+   ],
+   "ko": [
+    "그런！"
+   ]
+  },
+  "17": {
+   "en": [
+    "No problem, boss.",
+    " Boss?",
+    " You feelin' alright?"
+   ],
+   "jp": [
+    "片づきました",
+    "...大王？",
+    "ご気分でも？"
+   ],
+   "ko": [
+    "처리했습니다",
+    "...대왕님?",
+    "편찮으신지?"
+   ]
+  },
+  "18": {
+   "en": [
+    "Bit of...",
+    " ...Indigestion."
+   ],
+   "jp": [
+    "ちょっと...",
+    "消化不良だ"
+   ],
+   "ko": [
+    "좀...",
+    "소화불량이다"
+   ]
+  },
+  "19": {
+   "en": [
+    "Where's my milk?",
+    " Professor!",
+    " Professor!"
+   ],
+   "jp": [
+    "ミルクはどこだ",
+    "博士！",
+    "博士！"
+   ],
+   "ko": [
+    "우유는 어디 있느냐",
+    "박사！",
+    "박사！"
+   ]
+  },
+  "20": {
+   "en": [
+    "Ah, my liege,",
+    "how do you feel?"
+   ],
+   "jp": [
+    "ああ 陛下",
+    "ご気分はいかがで？"
+   ],
+   "ko": [
+    "예 폐하",
+    "몸은 좀 어떠십니까?"
+   ]
+  },
+  "21": {
+   "en": [
+    "Not good!",
+    " The sooner we get",
+    "this squirrel in place,",
+    "the sooner",
+    "I'll get my milk."
+   ],
+   "jp": [
+    "よくない！",
+    "早くそのリスを",
+    "テーブルの足にはめて",
+    "早くミルクを...",
+    "ミルクを持ってくるのだ"
+   ],
+   "ko": [
+    "안 좋다！",
+    "빨리 그 다람쥐를",
+    "탁자 다리에 끼워서",
+    "빨리 우유를...",
+    "우유를 가져오게"
+   ]
+  },
+  "22": {
+   "en": [
+    "It's getting worse."
+   ],
+   "jp": [
+    "ああ 苦しいぞ"
+   ],
+   "ko": [
+    "아 괴롭다"
+   ]
+  },
+  "23": {
+   "en": [
+    "Ah yes,",
+    "that's right, my liege,",
+    "it vould be getting vorse."
+   ],
+   "jp": [
+    "はい",
+    "そうでしょう",
+    "ドンドン悪くなる"
+   ],
+   "ko": [
+    "예",
+    "그러시겠지요",
+    "점점 나빠지는군"
+   ]
+  },
+  "24": {
+   "en": [
+    "Oh, really,",
+    "you don't look so good!"
+   ],
+   "jp": [
+    "ああ　本当にひどい",
+    "とても具合が悪そうだ！"
+   ],
+   "ko": [
+    "아　정말 지독하다",
+    "몸이 안 좋아 보입니다！"
+   ]
+  },
+  "25": {
+   "en": [
+    "Let me see, ze milk, yes,",
+    "ze squirrel, yes.",
+    " Ze problem is solved, methinks."
+   ],
+   "jp": [
+    "どれどれ ミルクですな",
+    "そしてアカリスですな",
+    "問題は解決ですよ"
+   ],
+   "ko": [
+    "어디 보자 우유로군요",
+    "그리고 붉은다람쥐로군요",
+    "문제는 해결됐습니다"
+   ]
+  },
+  "26": {
+   "en": [
+    "Right, squirrel,",
+    "I think you're coming vit me."
+   ],
+   "jp": [
+    "いいか リスよ",
+    "私と来るのだ"
+   ],
+   "ko": [
+    "알겠나 다람쥐야",
+    "나와 가는 거다"
+   ]
+  },
+  "27": {
+   "en": [
+    "What's going on here?"
+   ],
+   "jp": [
+    "何がどうなってんだ？"
+   ],
+   "ko": [
+    "뭐가 어떻게 된 거야?"
+   ]
+  },
+  "28": {
+   "en": [
+    "What's going",
+    "on?"
+   ],
+   "jp": [
+    "どうしたと",
+    "いうのだ"
+   ],
+   "ko": [
+    "무슨 일이냐고",
+    "하는 거다"
+   ]
+  },
+  "29": {
+   "en": [
+    "Ah yes,",
+    "here it comes.",
+    " Not sure",
+    "what's going on here,",
+    "but I think it's time",
+    "to make an exit!"
+   ],
+   "jp": [
+    "いよいよだ",
+    "来るぞ",
+    "いったい",
+    "何なのかわからんが",
+    "そろそろ",
+    "逃げた方がよさそうだ"
+   ],
+   "ko": [
+    "드디어군",
+    "온다",
+    "대체",
+    "뭔지는 모르겠지만",
+    "슬슬",
+    "도망치는 게 좋겠어"
+   ]
+  },
+  "30": {
+   "en": [
+    "Can't breathe. "
+   ],
+   "jp": [
+    "息ができん！"
+   ],
+   "ko": [
+    "숨이 막힌다！"
+   ]
+  },
+  "31": {
+   "en": [
+    "Since this squirrel",
+    "got rid of my tediz,",
+    "bastard,",
+    "I zink ze latest",
+    "addition to my plans",
+    "is about to take shape.",
+    " The incubation period",
+    "is just about complete!",
+    " Not a moment too soon!"
+   ],
+   "jp": [
+    "このリスが",
+    "あのクマ軍を倒すとは",
+    "まったく！",
+    "だが...　最後に計画に加えた ",
+    "アレがもうすぐ",
+    "実を結ぼうとしてる",
+    "ヤツが生まれるまで",
+    "あとほんの少しだ",
+    "待ってたぞ！"
+   ],
+   "ko": [
+    "이 다람쥐가",
+    "그 곰군을 쓰러뜨리다니",
+    "정말이지！",
+    "하지만...　마지막에 계획에 넣은 ",
+    "그것이 이제 곧",
+    "결실을 맺으려 한다",
+    "그것이 태어나기까지",
+    "조금만 있으면 된다",
+    "기다렸다！"
+   ]
+  },
+  "32": {
+   "en": [
+    "Yes, my liege,",
+    "let us kill two birds",
+    "vit one stone!"
+   ],
+   "jp": [
+    "どうです陛下",
+    "\nこれぞ一石二鳥と",
+    "いうものですよ！"
+   ],
+   "ko": [
+    "어떻습니까 폐하",
+    "\n이게 바로 일석이조",
+    "것이지요！"
+   ]
+  },
+  "33": {
+   "en": [
+    "What the...?",
+    "Oh no!",
+    "Oh yes!"
+   ],
+   "jp": [
+    "これは...",
+    "ウソだろ！",
+    "やったぞ！"
+   ],
+   "ko": [
+    "이건...",
+    "말도 안 돼！",
+    "해냈다！"
+   ]
+  },
+  "34": {
+   "en": [
+    "Ah! come here!",
+    " Ah! Such a beautiful animal!",
+    " Even though he is about to...",
+    " Annihilate you, squirrel!",
+    " Rip you limb from limb!"
+   ],
+   "jp": [
+    "さあ おいで！",
+    "美しいだろう？",
+    "この子がお前を",
+    "バラバラにして",
+    "殺すとしてもな！"
+   ],
+   "ko": [
+    "자 오너라！",
+    "아름답지 않은가?",
+    "이 아이가 너를",
+    "갈기갈기 찢어",
+    "죽인다 해도！"
+   ]
+  },
+  "35": {
+   "en": [
+    "You cannot help but admire...",
+    " Zis... Beauty!",
+    " His... Power!",
+    " His... Poise!",
+    " He is not a vonderful creature...",
+    " Is he?"
+   ],
+   "jp": [
+    "ほれぼれするだろう？",
+    "この美しさ！",
+    "この身のこなし！",
+    "そして...　この力！",
+    "すばらしいどころではない",
+    "そうだろう？"
+   ],
+   "ko": [
+    "황홀하지 않은가?",
+    "이 아름다움！",
+    "이 몸놀림！",
+    "그리고...　이 힘！",
+    "훌륭한 정도가 아니다",
+    "그렇지 않은가?"
+   ]
+  },
+  "36": {
+   "en": [
+    "You're right there...",
+    " He's not!"
+   ],
+   "jp": [
+    "そうだな",
+    "サイテーだ！"
+   ],
+   "ko": [
+    "그렇군",
+    "최악이다！"
+   ]
+  },
+  "37": {
+   "en": [
+    "Just ignore him!",
+    " Ha! Right...",
+    " I'm {THROB}{RED}{SKULL}{STAR}{SWIRL}{LIGHTNING}{STAR}{SWIRL}{NORMAL} if i'm gonna live in this world...",
+    " And in this castle!",
+    " So out of date!",
+    " I have something known...",
+    " ...As technology!"
+   ],
+   "jp": [
+    "気にするな",
+    "\nいいか...",
+    "もう時代おくれなのだ",
+    "この城も...　世界も...\nそして...　{THROB}{RED}{SKULL}{STAR}{SWIRL}{LIGHTNING}{STAR}{SWIRL}{NORMAL}も！\n何もかも",
+    "時代おくれなのだ！",
+    "だが私には",
+    "テクノロジーがある！"
+   ],
+   "ko": [
+    "신경 쓰지 마",
+    "\n잘 들어라...",
+    "이제 시대에 뒤떨어졌다",
+    "이 성도...　세상도...\n그리고...　{THROB}{RED}{SKULL}{STAR}{SWIRL}{LIGHTNING}{STAR}{SWIRL}{NORMAL}도！\n모든 것이",
+    "시대에 뒤떨어졌다！",
+    "하지만 내게는",
+    "기술이 있다！"
+   ]
+  },
+  "38": {
+   "en": [
+    "Take us into orbit."
+   ],
+   "jp": [
+    "軌道まで一気に浮上だ"
+   ],
+   "ko": [
+    "궤도까지 단숨에 오른다"
+   ]
+  },
+  "39": {
+   "en": [
+    "You see the power of liquid nitrogen,",
+    "mixed with oxygen,",
+    "two parts petrol."
+   ],
+   "jp": [
+    "どうだ 液体チッ素と酸素で作った",
+    "液体酸素の力",
+    "強力な燃料だ！"
+   ],
+   "ko": [
+    "어떠냐 액체질소와 산소로 만든",
+    "액체산소의 힘",
+    "강력한 연료다！"
+   ]
+  },
+  "40": {
+   "en": [
+    "Never gonna get home now."
+   ],
+   "jp": [
+    "もう家には帰れないな"
+   ],
+   "ko": [
+    "이제 집엔 못 돌아가겠군"
+   ]
+  },
+  "41": {
+   "en": [
+    "Kill!   "
+   ],
+   "jp": [
+    "やれ！"
+   ],
+   "ko": [
+    "해라！"
+   ]
+  },
+  "42": {
+   "en": [
+    "Heinrich! "
+   ],
+   "jp": [
+    "ハインリヒ！"
+   ],
+   "ko": [
+    "하인리히！"
+   ]
+  },
+  "43": {
+   "en": [
+    "Oh no! I felt sure that was it!"
+   ],
+   "jp": [
+    "マジかよ！\nやったと思ったのに！"
+   ],
+   "ko": [
+    "진짜냐！\n해냈다고 생각했는데！"
+   ]
+  },
+  "44": {
+   "en": [
+    "This is the end!"
+   ],
+   "jp": [
+    "もうおしまいだ！"
+   ],
+   "ko": [
+    "이제 끝장이다！"
+   ]
+  },
+  "45": {
+   "en": [
+    "And to think it would end like this.",
+    " So near!"
+   ],
+   "jp": [
+    "こんな死に方かよ",
+    "\nもうダメだ！"
+   ],
+   "ko": [
+    "이렇게 죽는 거냐",
+    "\n이제 틀렸다！"
+   ]
+  },
+  "46": {
+   "en": [
+    "Hello?",
+    " What's goin' on?",
+    "Is this a joke? "
+   ],
+   "jp": [
+    "もしもし？",
+    "どうした？",
+    "\nふざけてる？"
+   ],
+   "ko": [
+    "여보세요?",
+    "무슨 일이야?",
+    "\n장난하는 거야?"
+   ]
+  },
+  "47": {
+   "en": [
+    "The game's locked up!",
+    " Ha! I don't believe it!",
+    " What! Is it the",
+    " Testing department's day off",
+    "or somethin'?"
+   ],
+   "jp": [
+    "止まっちゃった！",
+    "どういうこと？",
+    "マジで？",
+    "デバッグチームは...",
+    "休みかい？"
+   ],
+   "ko": [
+    "멈춰버렸어！",
+    "어떻게 된 거야?",
+    "진짜로?",
+    "디버그 팀은...",
+    "쉬는 날인가?"
+   ]
+  },
+  "48": {
+   "en": [
+    "Hmmm.... This gives me an idea"
+   ],
+   "jp": [
+    "よし...　いいこと思いついたぞ"
+   ],
+   "ko": [
+    "좋아...　좋은 생각이 났다"
+   ]
+  },
+  "49": {
+   "en": [
+    "Hello.",
+    "",
+    "Err... Ok.",
+    "",
+    "How's that?",
+    "No problem.",
+    "",
+    "Ok."
+   ],
+   "jp": [
+    "やあ",
+    "",
+    "ああ...　いいよ",
+    "",
+    "これでどう？",
+    "いいとも",
+    "",
+    "わかった"
+   ],
+   "ko": [
+    "안녕",
+    "",
+    "아...　좋아",
+    "",
+    "이건 어때?",
+    "좋고말고",
+    "",
+    "알겠네"
+   ]
+  },
+  "50": {
+   "en": [
+    "Um! Hello...",
+    " Eh! If there are any software engineers",
+    " That can hear me? Just eh",
+    " Type something in."
+   ],
+   "jp": [
+    "もしもーし",
+    "\nプログラマーとかいるだろ",
+    "聞こえてたら...\nそうだな",
+    "タイプしてみて"
+   ],
+   "ko": [
+    "여보세ー요",
+    "\n프로그래머 같은 거 있잖아",
+    "들리고 있으면...\n그렇지",
+    "타이핑해봐"
+   ]
+  },
+  "51": {
+   "en": [
+    "Alright, yeah, hello."
+   ],
+   "jp": [
+    "やった　こんちは！"
+   ],
+   "ko": [
+    "됐다　안녕！"
+   ]
+  },
+  "52": {
+   "en": [
+    "Right, here's the plan!",
+    " I won't tell anyone there's been a lockup,",
+    "quite a bad one at that,",
+    "left in the game.",
+    " If you will say",
+    " Oh! I don't know,",
+    "help me out",
+    "with this guy here!",
+    " What d'ya think?"
+   ],
+   "jp": [
+    "頼みがあるんだ",
+    "こんなバグが",
+    "残ってたってこと",
+    "内緒にしとくよ",
+    "ヒミツにする",
+    "だからさ...",
+    "その代わりに　おれを",
+    "こいつに勝たせてよ！",
+    "どうだい？"
+   ],
+   "ko": [
+    "부탁이 있어",
+    "이런 버그가",
+    "남아 있었다는 거",
+    "비밀로 해둘게",
+    "비밀로 할게",
+    "그러니까...",
+    "그 대신　나를",
+    "이놈한테 이기게 해줘！",
+    "어때?"
+   ]
+  },
+  "53": {
+   "en": [
+    "Hmm! Now, get rid of this background.",
+    " It's really grimy!"
+   ],
+   "jp": [
+    "まずこの背景を消してくれ ",
+    "気に入らない！"
+   ],
+   "ko": [
+    "먼저 이 배경을 지워줘 ",
+    "맘에 안 들어！"
+   ]
+  },
+  "54": {
+   "en": [
+    "Hmm! Yeah, that's better.",
+    " Weapons maybe?",
+    "Oh cool!",
+    "Hmm, let's see now.",
+    "Hmm, yeah!",
+    "Um, no!",
+    "Oh, what about?",
+    "Oh! ho! ho! ho!",
+    "Yeah! That should do it!",
+    "Hmm! Double action!",
+    "Oh! Ho!",
+    "Oh! Ho!",
+    "Ha! you guys!",
+    "Yeah!",
+    "Right!",
+    " Ok! Take me back to, say, the throne room."
+   ],
+   "jp": [
+    "ずっといいや",
+    "武器くれる？",
+    "いいね！",
+    "どれどれ",
+    "カッコいい！",
+    "いまいち",
+    "これは？",
+    "いい感じ！",
+    "これにしようかな！",
+    "扱いがラクだ",
+    "おお！",
+    "いいじゃん！",
+    "やるじゃんか！",
+    "決まり！",
+    "よし！",
+    "地上に戻してくれ"
+   ],
+   "ko": [
+    "훨씬 나은데",
+    "무기 줄래?",
+    "좋은데！",
+    "어디 보자",
+    "멋있다！",
+    "별로네",
+    "이건?",
+    "괜찮은데！",
+    "이걸로 할까！",
+    "다루기 편하네",
+    "오오！",
+    "괜찮잖아！",
+    "제법인데！",
+    "결정！",
+    "좋아！",
+    "지상으로 돌려줘"
+   ]
+  },
+  "55": {
+   "en": [
+    "Well, there you go",
+    " Materialist!",
+    "Like you can talk.",
+    " Anyway, whoa",
+    " Where do i start?",
+    " Come here, my little beauties."
+   ],
+   "jp": [
+    "ほら見て...",
+    "金の亡者さん",
+    "何とでも呼べよ",
+    "さて...　どれから取ろう？",
+    "おいで",
+    "カワイコちゃんたち"
+   ],
+   "ko": [
+    "봐봐...",
+    "돈벌레 양반",
+    "맘대로 불러",
+    "자...　뭐부터 챙길까?",
+    "이리 와",
+    "귀여운 것들"
+   ]
+  },
+  "56": {
+   "en": [
+    "Oh!",
+    " Oh! No!"
+   ],
+   "jp": [
+    "ああ！",
+    "しまった！"
+   ],
+   "ko": [
+    "그래！",
+    "이런！"
+   ]
+  },
+  "57": {
+   "en": [
+    "Vat is??",
+    " Oh! I forgot about ze airlock!",
+    " Oh! {SWIRL}{STAR}{LIGHTNING}{SKULL}!"
+   ],
+   "jp": [
+    "何だ？",
+    "ああ エアロックか！",
+    "クソ！{SWIRL}{STAR}{LIGHTNING}{SKULL}！"
+   ],
+   "ko": [
+    "뭐지?",
+    "아 에어록인가！",
+    "젠장！{SWIRL}{STAR}{LIGHTNING}{SKULL}！"
+   ]
+  },
+  "58": {
+   "en": [
+    "What the {THROB}{RED}{SKULL}{STAR}{SWIRL}{LIGHTNING}{NORMAL}?"
+   ],
+   "jp": [
+    "なんたる{THROB}{RED}{SKULL}{STAR}{SWIRL}{LIGHTNING}{NORMAL}！"
+   ],
+   "ko": [
+    "이런{THROB}{RED}{SKULL}{STAR}{SWIRL}{LIGHTNING}{NORMAL}！"
+   ]
+  },
+  "59": {
+   "en": [
+    "Oh! I didn't put ze high powered...",
+    " I knew I should have done zat!",
+    " Whose idea was it to",
+    " Go into space??",
+    " Oh! It was mine!"
+   ],
+   "jp": [
+    "パワー不足だ！",
+    "こんなことなら改造しとくんだった！",
+    "誰のしわざだ...",
+    "宇宙なんて！ ",
+    "おっと　私か！"
+   ],
+   "ko": [
+    "출력이 부족하다！",
+    "이럴 줄 알았으면 개조해둘걸！",
+    "누구 짓이지...",
+    "우주 따위！ ",
+    "이런　나였군！"
+   ]
+  },
+  "60": {
+   "en": [
+    "{SWIRL}{STAR}{LIGHTNING}{SKULL}!!!",
+    " This is it!!",
+    " This is the end!!",
+    "No legs!",
+    "And now no life!"
+   ],
+   "jp": [
+    "{SWIRL}{STAR}{LIGHTNING}{SKULL}！",
+    "これまでか！",
+    "おしまいだ！",
+    "未来もない！",
+    "命もなーい！"
+   ],
+   "ko": [
+    "{SWIRL}{STAR}{LIGHTNING}{SKULL}！",
+    "여기까진가！",
+    "끝장이다！",
+    "미래도 없다！",
+    "목숨도 없ー다！"
+   ]
+  },
+  "61": {
+   "en": [
+    "Some time later...",
+    ""
+   ],
+   "jp": [
+    "しばらくして...",
+    ""
+   ],
+   "ko": [
+    "잠시 후...",
+    ""
+   ]
+  },
+  "62": {
+   "en": [
+    "Get away from her, you bitch!"
+   ],
+   "jp": [
+    "そのコにさわんなよ！"
+   ],
+   "ko": [
+    "그 애 건드리지 마！"
+   ]
+  }
+ }
+}

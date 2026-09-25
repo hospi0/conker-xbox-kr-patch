@@ -1,0 +1,23 @@
+{
+ "scene": "TankTunnel",
+ "n": 1,
+ "entries": {
+  "0": {
+   "en": [
+    "Well, hopefully that's opened the door on the outside.",
+    "But whatever it's done,",
+    "I think it's one of those let's-leg-it moments."
+   ],
+   "jp": [
+    "これで外のドアが開くだろう",
+    "でも とりあえず",
+    "早く逃げないとヤバそう"
+   ],
+   "ko": [
+    "이걸로 밖 문이 열리겠지",
+    "근데 일단",
+    "빨리 도망 안 가면 위험해"
+   ]
+  }
+ }
+}

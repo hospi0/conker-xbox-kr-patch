@@ -1,0 +1,335 @@
+{
+ "scene": "BeachRunup",
+ "n": 25,
+ "entries": {
+  "0": {
+   "en": [
+    "Get me the hell out of here!"
+   ],
+   "jp": [
+    "早くここから出してくれ！"
+   ],
+   "ko": [
+    "빨리 여기서 꺼내줘！"
+   ]
+  },
+  "1": {
+   "en": [
+    "This is it, i think.",
+    "Yeh, I'm the only one."
+   ],
+   "jp": [
+    "全員　やられたらしい",
+    "おれひとりだ"
+   ],
+   "ko": [
+    "전원　당한 것 같다",
+    "나 혼자다"
+   ]
+  },
+  "2": {
+   "en": [
+    "Ugh! Yeh, i gotta do it.",
+    "But I'm not equipped."
+   ],
+   "jp": [
+    "おれがやるしかない",
+    "でも武器がないぞ"
+   ],
+   "ko": [
+    "내가 할 수밖에 없다",
+    "근데 무기가 없어"
+   ]
+  },
+  "3": {
+   "en": [
+    "Yep, I think you should press {B} now."
+   ],
+   "jp": [
+    "こんなときは　{B}　を押すんだ"
+   ],
+   "ko": [
+    "이럴 땐　{B}　를 눌러"
+   ]
+  },
+  "4": {
+   "en": [
+    "Not enough!",
+    "Not enough!"
+   ],
+   "jp": [
+    "そんなバカな！",
+    "そんな！"
+   ],
+   "ko": [
+    "그럴 리가！",
+    "그런！"
+   ]
+  },
+  "5": {
+   "en": [
+    "What's going on here?"
+   ],
+   "jp": [
+    "今の状況は？"
+   ],
+   "ko": [
+    "지금 상황은?"
+   ]
+  },
+  "6": {
+   "en": [
+    "Tediz everywhere.",
+    "This is the last assault.",
+    "It's not looking good."
+   ],
+   "jp": [
+    "どこもクマ軍だらけだ",
+    "\n最後の抵抗だが",
+    "こちらが不利だな"
+   ],
+   "ko": [
+    "온통 곰군투성이다",
+    "\n마지막 저항이지만",
+    "이쪽이 불리하군"
+   ]
+  },
+  "7": {
+   "en": [
+    "Tediz...",
+    "I hate these guys."
+   ],
+   "jp": [
+    "クマどもめ...",
+    "あいつらはキライだ"
+   ],
+   "ko": [
+    "곰 자식들...",
+    "저놈들은 싫어"
+   ]
+  },
+  "8": {
+   "en": [
+    "Get your head down!"
+   ],
+   "jp": [
+    "伏せるんだ！"
+   ],
+   "ko": [
+    "엎드려！"
+   ]
+  },
+  "9": {
+   "en": [
+    "This is crazy!"
+   ],
+   "jp": [
+    "どうかしてる！"
+   ],
+   "ko": [
+    "어떻게 된 거야！"
+   ]
+  },
+  "10": {
+   "en": [
+    "Yeh, we've been locked down here for the last ten hours.",
+    "Murder holes up there.",
+    "Machine gun nests, you gotta clear 'em out, boy."
+   ],
+   "jp": [
+    "あの見張り塔からの攻撃で ",
+    "ここに１０時間も足止めだ",
+    "まずヤツらを...\nどうにかしないことには"
+   ],
+   "ko": [
+    "저 감시탑에서의 공격으로 ",
+    "여기서 １０시간 발이 묶였다",
+    "먼저 저놈들을...\n어떻게든 하지 않으면"
+   ]
+  },
+  "11": {
+   "en": [
+    "What was that you were saying?"
+   ],
+   "jp": [
+    "それってどういうこと？"
+   ],
+   "ko": [
+    "그게 무슨 뜻이야?"
+   ]
+  },
+  "12": {
+   "en": [
+    "Ok, soldier.",
+    "Move it out."
+   ],
+   "jp": [
+    "準備いいか？",
+    "行こうぜ"
+   ],
+   "ko": [
+    "준비됐나?",
+    "가자고"
+   ]
+  },
+  "13": {
+   "en": [
+    "Oh, my giddy aunt!",
+    "Snipers!"
+   ],
+   "jp": [
+    "まずいぞ！",
+    "援護しろ！"
+   ],
+   "ko": [
+    "위험해！",
+    "엄호해！"
+   ]
+  },
+  "14": {
+   "en": [
+    "Get outta here now! Come on!",
+    "Let's go! let's go!",
+    "We gotta get our asses outta here pronto!",
+    "Let's move it!"
+   ],
+   "jp": [
+    "こっから逃げよう！",
+    "早く早く！",
+    "今すぐここを脱出する！",
+    "行くぞ！"
+   ],
+   "ko": [
+    "여기서 도망치자！",
+    "빨리 빨리！",
+    "당장 여기서 탈출한다！",
+    "간다！"
+   ]
+  },
+  "15": {
+   "en": [
+    "I made it!",
+    "I made it!  "
+   ],
+   "jp": [
+    "やった！",
+    "助かった！"
+   ],
+   "ko": [
+    "좋았어！",
+    "살았다！"
+   ]
+  },
+  "16": {
+   "en": [
+    "Wait! Wait for me! Wait for me!",
+    "Where are you going?",
+    "What?",
+    "Hey, guys, hold it there!",
+    "There's another one."
+   ],
+   "jp": [
+    "待った！ 待ってくれ！",
+    "おいてくな！",
+    "おお！",
+    "お前たち 待て！",
+    "まだひとりいる"
+   ],
+   "ko": [
+    "기다려！ 기다려줘！",
+    "두고 가지 마！",
+    "오오！",
+    "너희들 기다려！",
+    "아직 한 명 있다"
+   ]
+  },
+  "17": {
+   "en": [
+    "Somebody hit me on the head."
+   ],
+   "jp": [
+    "誰だよ...　頭なぐったの"
+   ],
+   "ko": [
+    "누구야...　머리 때린 게"
+   ]
+  },
+  "18": {
+   "en": [
+    "Where am I?"
+   ],
+   "jp": [
+    "ここどこだ？"
+   ],
+   "ko": [
+    "여기가 어디지?"
+   ]
+  },
+  "19": {
+   "en": [
+    "What's this doing on my head"
+   ],
+   "jp": [
+    "頭のコレ　何だよ"
+   ],
+   "ko": [
+    "머리에 이거　뭐야"
+   ]
+  },
+  "20": {
+   "en": [
+    "Hi guy's.  Erm, would someone mind telling me what's going on here?"
+   ],
+   "jp": [
+    "やあ　こんちは\n何がどうなっちゃってるの？"
+   ],
+   "ko": [
+    "어이　안녕\n뭐가 어떻게 된 거야?"
+   ]
+  },
+  "21": {
+   "en": [
+    "Oh, suit yourselves."
+   ],
+   "jp": [
+    "飲みすぎたんだな"
+   ],
+   "ko": [
+    "너무 마셨구나"
+   ]
+  },
+  "22": {
+   "en": [
+    "O.K.  Thirty seconds, nice knowing you guys."
+   ],
+   "jp": [
+    "上陸まで３０秒だぞ\nしっかりやれ！"
+   ],
+   "ko": [
+    "상륙까지 ３０초다\n제대로 해라！"
+   ]
+  },
+  "23": {
+   "en": [
+    "This isn't fun anymore!"
+   ],
+   "jp": [
+    "こんなの\nやってられるか！"
+   ],
+   "ko": [
+    "이런 거\n못 해먹겠어！"
+   ]
+  },
+  "24": {
+   "en": [
+    "Hey, where's the rest of 'em?"
+   ],
+   "jp": [
+    "ほかの仲間はどうした？"
+   ],
+   "ko": [
+    "다른 동료들은 어딨어?"
+   ]
+  }
+ }
+}

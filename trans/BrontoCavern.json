@@ -1,0 +1,393 @@
+{
+ "scene": "BrontoCavern",
+ "n": 27,
+ "entries": {
+  "0": {
+   "en": [
+    "Cool!",
+    " I'm gonna have that gold card",
+    "before you know it."
+   ],
+   "jp": [
+    "やったね！\n",
+    "ゴールドカードは",
+    "目の前だ"
+   ],
+   "ko": [
+    "해냈다！\n",
+    "골드카드가",
+    "코앞이다"
+   ]
+  },
+  "1": {
+   "en": [
+    "Feels quite comfy, this.",
+    "Oh ooo!"
+   ],
+   "jp": [
+    "これ　いい感じ！",
+    "あれ"
+   ],
+   "ko": [
+    "이거　느낌 좋은데！",
+    "어라"
+   ]
+  },
+  "2": {
+   "en": [
+    "Oh, not these guys again.",
+    "Oh...",
+    "Yeh...",
+    "Yeh, I know,",
+    "yeh, I know i'm great.",
+    "I know...",
+    "Ok, those rock monster guys up there,",
+    "do you like them?"
+   ],
+   "jp": [
+    "またあいつらか",
+    "ん？",
+    "何だ？",
+    "よせって",
+    "そりゃ...　おれスゴいけど",
+    "テレるぜ",
+    "ここに岩の化け物がいるよな",
+    "ヤツら好きか？"
+   ],
+   "ko": [
+    "또 저놈들인가",
+    "음?",
+    "뭐지?",
+    "그만두라니까",
+    "그야...　내가 대단하지",
+    "부끄럽잖아",
+    "여기 바위 괴물이 있지",
+    "그놈들 좋아하나?"
+   ]
+  },
+  "3": {
+   "en": [
+    "Well, I don't like them either.",
+    "Fancy getting rid of them?"
+   ],
+   "jp": [
+    "おれもキライだ",
+    "やっつけよう"
+   ],
+   "ko": [
+    "나도 싫어",
+    "해치우자"
+   ]
+  },
+  "4": {
+   "en": [
+    "You sure?"
+   ],
+   "jp": [
+    "本気だな？"
+   ],
+   "ko": [
+    "진심이지?"
+   ]
+  },
+  "5": {
+   "en": [
+    "Ok! Follow me."
+   ],
+   "jp": [
+    "よし！　行くぞ！"
+   ],
+   "ko": [
+    "좋아！　간다！"
+   ]
+  },
+  "6": {
+   "en": [
+    "Ok, guys, let me have the first pop,",
+    "and he's all yours."
+   ],
+   "jp": [
+    "まずおれが行く",
+    "\nあとはまかせた"
+   ],
+   "ko": [
+    "먼저 내가 간다",
+    "\n나머진 맡긴다"
+   ]
+  },
+  "7": {
+   "en": [
+    "Yeah! that's better."
+   ],
+   "jp": [
+    "うん！ こっちがいい"
+   ],
+   "ko": [
+    "응！ 이쪽이 좋아"
+   ]
+  },
+  "8": {
+   "en": [
+    "Huh! huh! huh! This is gonna be interesting."
+   ],
+   "jp": [
+    "こりゃ　面白くなりそう！"
+   ],
+   "ko": [
+    "이거　재밌어지겠는데！"
+   ]
+  },
+  "9": {
+   "en": [
+    "Oh cack!"
+   ],
+   "jp": [
+    "クソッ！"
+   ],
+   "ko": [
+    "젠장！"
+   ]
+  },
+  "10": {
+   "en": [
+    "I am pleased with your offering."
+   ],
+   "jp": [
+    "お前の望みをかなえよう"
+   ],
+   "ko": [
+    "네 소원을 들어주지"
+   ]
+  },
+  "11": {
+   "en": [
+    "Get off my stone!"
+   ],
+   "jp": [
+    "私の石から降りろ！"
+   ],
+   "ko": [
+    "내 돌에서 내려가라！"
+   ]
+  },
+  "12": {
+   "en": [
+    "I said, no sneakers!",
+    "Buzz off!"
+   ],
+   "jp": [
+    "そのクツじゃダメだ！",
+    "\n帰れ！"
+   ],
+   "ko": [
+    "그 신발로는 안 돼！",
+    "\n돌아가라！"
+   ]
+  },
+  "13": {
+   "en": [
+    "Em, I think you'll let us in somehow,",
+    "what with my friends here."
+   ],
+   "jp": [
+    "中に入れた方がいいぞ",
+    "\n友だちが何するか"
+   ],
+   "ko": [
+    "들여보내는 게 좋아",
+    "\n친구가 뭘 할지"
+   ]
+  },
+  "14": {
+   "en": [
+    "Oh, nothing. Can we come in?"
+   ],
+   "jp": [
+    "何でもない\n入っていい？"
+   ],
+   "ko": [
+    "아무것도\n들어가도 돼?"
+   ]
+  },
+  "15": {
+   "en": [
+    "Yeah.",
+    " Let's have some fun."
+   ],
+   "jp": [
+    "ああ",
+    "楽しんでくるぞ"
+   ],
+   "ko": [
+    "아",
+    "재밌게 놀다 오지"
+   ]
+  },
+  "16": {
+   "en": [
+    "Let's have some fun!"
+   ],
+   "jp": [
+    "楽しんでくるぞ"
+   ],
+   "ko": [
+    "재밌게 놀다 오지"
+   ]
+  },
+  "17": {
+   "en": [
+    "Alright, guys, just steady on...",
+    "... I'll sort this out.",
+    "So, what do you say?"
+   ],
+   "jp": [
+    "あわてるなよ",
+    "おれが話す",
+    "さあ　どうする？"
+   ],
+   "ko": [
+    "서두르지 마",
+    "내가 얘기하지",
+    "자　어떡할래?"
+   ]
+  },
+  "18": {
+   "en": [
+    "You seem like my kinda guys.",
+    "Ok. But I need the password."
+   ],
+   "jp": [
+    "仕方ないな",
+    "\nよし　合い言葉を言え"
+   ],
+   "ko": [
+    "어쩔 수 없군",
+    "\n좋아　암호를 말해라"
+   ]
+  },
+  "19": {
+   "en": [
+    "Password?",
+    "Guys, do you know what the password is? "
+   ],
+   "jp": [
+    "合い言葉？",
+    "\nお前ら　知ってる？"
+   ],
+   "ko": [
+    "암호?",
+    "\n너희들　알아?"
+   ]
+  },
+  "20": {
+   "en": [
+    "F{SKULL}{LIGHTNING}{STAR}{SWIRL}{LIGHTNING}{SKULL}?"
+   ],
+   "jp": [
+    "フェ{THROB}{SWIRL}{LIGHTNING}{SKULL}{SWIRL}{LIGHTNING}{SKULL}{NORMAL}オ？"
+   ],
+   "ko": [
+    "페{THROB}{SWIRL}{LIGHTNING}{SKULL}{SWIRL}{LIGHTNING}{SKULL}{NORMAL}오?"
+   ]
+  },
+  "21": {
+   "en": [
+    "Fedelio?",
+    "Mmmmm!",
+    " How do you know that?",
+    "I know everything. I'm the king.",
+    " Well, I will be. Didn't you see the prologue?",
+    "What?",
+    "Oh, nothing. Can we come in?"
+   ],
+   "jp": [
+    "フィデリオ？",
+    "むむっ！",
+    "\nなぜわかった？",
+    "おれは王様だからさ",
+    "\nプロローグ見たろ？",
+    "何だ？",
+    "ああ...　何でもない\n入っていい？"
+   ],
+   "ko": [
+    "피델리오?",
+    "으음！",
+    "\n어떻게 알았지?",
+    "난 왕이니까",
+    "\n프롤로그 봤지?",
+    "뭐지?",
+    "아...　아무것도 아니야\n들어가도 돼?"
+   ]
+  },
+  "22": {
+   "en": [
+    "How do you know that?"
+   ],
+   "jp": [
+    "なぜわかった？"
+   ],
+   "ko": [
+    "어떻게 알았지?"
+   ]
+  },
+  "23": {
+   "en": [
+    "I know everything. I'm the king. Well, I will be...",
+    " Didn't you see the prologue?"
+   ],
+   "jp": [
+    "おれは王様だからさ",
+    "\nプロローグ見たろ？"
+   ],
+   "ko": [
+    "난 왕이니까",
+    "\n프롤로그 봤지?"
+   ]
+  },
+  "24": {
+   "en": [
+    "What?"
+   ],
+   "jp": [
+    "何だ？"
+   ],
+   "ko": [
+    "뭐지?"
+   ]
+  },
+  "25": {
+   "en": [
+    "So, another wise guy?",
+    "C'mon then!"
+   ],
+   "jp": [
+    "またバカが来た",
+    "取れよ！"
+   ],
+   "ko": [
+    "또 바보가 왔네",
+    "가져가！"
+   ]
+  },
+  "26": {
+   "en": [
+    "Hey, maestro!",
+    "Don't you think that's a little bit too dramatic?",
+    "Can you give me something",
+    "with a bit more of a beat?"
+   ],
+   "jp": [
+    "ちょっと！",
+    "\n音楽が重すぎ",
+    "ノリノリのに",
+    "してくれよ"
+   ],
+   "ko": [
+    "잠깐！",
+    "\n음악이 무거워",
+    "신나는 걸로",
+    "해달라고"
+   ]
+  }
+ }
+}

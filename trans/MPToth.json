@@ -1,0 +1,424 @@
+{
+ "scene": "MPToth",
+ "n": 66,
+ "entries": {
+  "0": {
+   "en": [
+    "Zey have our half! Hurry you stupid Tedi robots. Get it back! Oh, if I only had my legs."
+   ],
+   "jp": [
+    "ヤツらが地図を！　出来そこないのクマロボットめ　取り返してこい！　もしまだ足があればこの私が..."
+   ],
+   "ko": [
+    "놈들이 지도를！　시원찮은 곰 로봇들　되찾아 와라！　다리만 있었어도 내가..."
+   ]
+  },
+  "1": {
+   "en": [
+    "The Tediz plans have been stolen. Upload the Tediz plans at the S.H.C. link pod."
+   ],
+   "jp": [
+    "クマ軍の地図を手に入れた　リス軍のリンクポッドで地図をアップロードせよ"
+   ],
+   "ko": [
+    "곰군 지도를 얻었다　다람쥐군 링크 포드로 업로드해라"
+   ]
+  },
+  "2": {
+   "en": [
+    "The Tediz plans have been uploaded successfully."
+   ],
+   "jp": [
+    "クマ軍の地図のアップロード完了"
+   ],
+   "ko": [
+    "곰군 지도 업로드 완료"
+   ]
+  },
+  "28": {
+   "en": [
+    "Years later, the eternal war"
+   ],
+   "jp": [
+    "長い年月が過ぎても"
+   ],
+   "ko": [
+    "긴 세월이 지나도"
+   ]
+  },
+  "29": {
+   "en": [
+    "and said to contain a secret knowledge."
+   ],
+   "jp": [
+    "そこには"
+   ],
+   "ko": [
+    "그곳에는"
+   ]
+  },
+  "30": {
+   "en": [
+    "It was rumoured to be a map"
+   ],
+   "jp": [
+    "大昔に死んだ　パンサー大王の"
+   ],
+   "ko": [
+    "옛날에 죽은　판서 대왕의"
+   ]
+  },
+  "31": {
+   "en": [
+    "showing the location of an ancient weapon"
+   ],
+   "jp": [
+    "古代兵器のありかが記された"
+   ],
+   "ko": [
+    "고대 병기의 소재가 적힌"
+   ]
+  },
+  "32": {
+   "en": [
+    "that once belonged to the long-dead"
+   ],
+   "jp": [
+    "秘密の地図が"
+   ],
+   "ko": [
+    "비밀 지도가"
+   ]
+  },
+  "33": {
+   "en": [
+    "Panther King."
+   ],
+   "jp": [
+    "隠されているという"
+   ],
+   "ko": [
+    "숨겨져 있다 한다"
+   ]
+  },
+  "34": {
+   "en": [
+    "Both Tediz and SHC now wanted this map,"
+   ],
+   "jp": [
+    "両軍ともこの地図を探していたが"
+   ],
+   "ko": [
+    "양군 모두 지도를 찾았지만"
+   ]
+  },
+  "35": {
+   "en": [
+    "but there was a problem."
+   ],
+   "jp": [
+    "そこで問題が起こった"
+   ],
+   "ko": [
+    "거기서 문제가 생겼다"
+   ]
+  },
+  "36": {
+   "en": [
+    "The map was not whole…"
+   ],
+   "jp": [
+    "地図は欠けていたのだ"
+   ],
+   "ko": [
+    "지도는 조각나 있었다"
+   ]
+  },
+  "37": {
+   "en": [
+    "the Tediz had found one half,"
+   ],
+   "jp": [
+    "半分をクマ軍が"
+   ],
+   "ko": [
+    "절반은 곰군이"
+   ]
+  },
+  "38": {
+   "en": [
+    "and the SHC the other."
+   ],
+   "jp": [
+    "残り半分を　リス軍が手に入れた"
+   ],
+   "ko": [
+    "나머지는　다람쥐군이 얻었다"
+   ]
+  },
+  "39": {
+   "en": [
+    "betwixt Tediz and Squirrel continued"
+   ],
+   "jp": [
+    "リス軍とクマ軍の戦いは続き"
+   ],
+   "ko": [
+    "다람쥐군과 곰군의 싸움은 계속"
+   ]
+  },
+  "40": {
+   "en": [
+    "The mission was a simple one:"
+   ],
+   "jp": [
+    "任務はシンプルだ"
+   ],
+   "ko": [
+    "임무는 단순하다"
+   ]
+  },
+  "41": {
+   "en": [
+    "steal the enemy’s map fragment"
+   ],
+   "jp": [
+    "敵の持つ地図をうばい"
+   ],
+   "ko": [
+    "적의 지도를 빼앗아"
+   ]
+  },
+  "42": {
+   "en": [
+    "and take it to the uplink device"
+   ],
+   "jp": [
+    "解読のため"
+   ],
+   "ko": [
+    "해독하러"
+   ]
+  },
+  "43": {
+   "en": [
+    "to decode the map from orbit."
+   ],
+   "jp": [
+    "リンクポッドでアップロードせよ"
+   ],
+   "ko": [
+    "링크 포드로 업로드해라"
+   ]
+  },
+  "44": {
+   "en": [
+    "Only then could the location"
+   ],
+   "jp": [
+    "兵器の場所を知り"
+   ],
+   "ko": [
+    "병기 위치를 알고"
+   ]
+  },
+  "45": {
+   "en": [
+    "of this weapon be revealed"
+   ],
+   "jp": [
+    "勝利するには"
+   ],
+   "ko": [
+    "승리하려면"
+   ]
+  },
+  "46": {
+   "en": [
+    "and victory assured."
+   ],
+   "jp": [
+    "それしかない"
+   ],
+   "ko": [
+    "그뿐이다"
+   ]
+  },
+  "47": {
+   "en": [
+    "but now on a new and more vicious front."
+   ],
+   "jp": [
+    "最前線はより悲惨な状況に"
+   ],
+   "ko": [
+    "최전선은 더 처참해졌다"
+   ]
+  },
+  "48": {
+   "en": [
+    "The Machine Tediz had arrived,"
+   ],
+   "jp": [
+    "クリプルスパックの作った"
+   ],
+   "ko": [
+    "크리플스팩이 만든"
+   ]
+  },
+  "49": {
+   "en": [
+    "pouring through Von Kripplespac’s new machine."
+   ],
+   "jp": [
+    "クマロボが投入されたのだ"
+   ],
+   "ko": [
+    "곰 로봇이 투입됐다"
+   ]
+  },
+  "50": {
+   "en": [
+    "The SHC were driven back to the point of defeat,"
+   ],
+   "jp": [
+    "リス軍は敗北の一途をたどった"
+   ],
+   "ko": [
+    "다람쥐군은 패배로 치달았다"
+   ]
+  },
+  "51": {
+   "en": [
+    "with only one last thread of victory: "
+   ],
+   "jp": [
+    "彼らの唯一の希望の光は"
+   ],
+   "ko": [
+    "그들의 유일한 희망은"
+   ]
+  },
+  "52": {
+   "en": [
+    "the legend of a base"
+   ],
+   "jp": [
+    "氷の下に眠る"
+   ],
+   "ko": [
+    "얼음 밑의"
+   ]
+  },
+  "53": {
+   "en": [
+    "buried under the ice"
+   ],
+   "jp": [
+    "基地の伝説..."
+   ],
+   "ko": [
+    "기지 전설..."
+   ]
+  },
+  "55": {
+   "en": [
+    "The S.H.C. plans have been stolen. Upload the S.H.C. plans at the Tediz link pod."
+   ],
+   "jp": [
+    "リス軍の地図を手に入れた　クマ軍のリンクポッドで 地図をアップロードせよ"
+   ],
+   "ko": [
+    "다람쥐군 지도를 얻었다　곰군 링크 포드로 업로드해라"
+   ]
+  },
+  "56": {
+   "en": [
+    "Base"
+   ],
+   "jp": [
+    "基地"
+   ],
+   "ko": [
+    "기지"
+   ]
+  },
+  "57": {
+   "en": [
+    "Base Beta"
+   ],
+   "jp": [
+    "ポイント ベータ"
+   ],
+   "ko": [
+    "포인트 베타"
+   ]
+  },
+  "58": {
+   "en": [
+    "Plans"
+   ],
+   "jp": [
+    "地図"
+   ],
+   "ko": [
+    "지도"
+   ]
+  },
+  "60": {
+   "en": [
+    "The S.H.C. plans have been uploaded successfully."
+   ],
+   "jp": [
+    "リス軍の地図のアップロード完了"
+   ],
+   "ko": [
+    "다람쥐군 지도 업로드 완료"
+   ]
+  },
+  "61": {
+   "en": [
+    "A Bridge Too Narrow"
+   ],
+   "jp": [
+    "ナローブリッジ"
+   ],
+   "ko": [
+    "내로우 브리지"
+   ]
+  },
+  "63": {
+   "en": [
+    "A Bridge Too Narrow"
+   ],
+   "jp": [
+    "ナローブリッジ"
+   ],
+   "ko": [
+    "내로우 브리지"
+   ]
+  },
+  "64": {
+   "en": [
+    "Hey! Those machine Tediz are working fast. They got our half of the flag. Retrieve that half, pronto."
+   ],
+   "jp": [
+    "クマロボの動きが速い　我々の地図をうばわれたぞ　早く取り戻すんだ！"
+   ],
+   "ko": [
+    "곰 로봇이 빠르다　우리 지도를 빼앗겼다　빨리 되찾아라！"
+   ]
+  },
+  "65": {
+   "en": [
+    "Base Alpha"
+   ],
+   "jp": [
+    "ポイント アルファ"
+   ],
+   "ko": [
+    "포인트 알파"
+   ]
+  }
+ }
+}

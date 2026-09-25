@@ -1,0 +1,131 @@
+{
+ "scene": "PooCabin",
+ "n": 7,
+ "entries": {
+  "0": {
+   "en": [
+    "Ahh! This place really smells.",
+    "Yeah, we're like {THROB}{RED}{LIGHTNING}{SKULL}{STAR}{SWIRL}{NORMAL} dung beetles,",
+    "and we roll the poo around.",
+    "{THROB}{BLUE}{STAR}{SWIRL}{LIGHTNING}{SKULL}{NORMAL} knows what for.",
+    "Oh, really.",
+    "Do you want some poo?"
+   ],
+   "jp": [
+    "ここ メチャくさいな",
+    "おれたちは{THROB}{RED}{LIGHTNING}{SKULL}{STAR}{SWIRL}{NORMAL}な",
+    "フンコロガシだからな",
+    "理由なんざ{THROB}{BLUE}{STAR}{SWIRL}{LIGHTNING}{SKULL}{NORMAL}よ",
+    "そうかい",
+    "ウンコ玉欲しいのか？"
+   ],
+   "ko": [
+    "여기 완전 구리네",
+    "우리는 {THROB}{RED}{LIGHTNING}{SKULL}{STAR}{SWIRL}{NORMAL}",
+    "쇠똥구리니까 말이야",
+    "이유 따위 {THROB}{BLUE}{STAR}{SWIRL}{LIGHTNING}{SKULL}{NORMAL}야",
+    "그래요?",
+    "똥 덩어리 갖고 싶나?"
+   ]
+  },
+  "1": {
+   "en": [
+    "Get your {THROB}{GREEN}{LIGHTNING}{SKULL}{STAR}{SWIRL}{NORMAL} arse in there.",
+    "There's these {THROB}{RED}{LIGHTNING}{SKULL}{STAR}{SWIRL}{NORMAL} cows.",
+    "Get 'em in there. Get 'em to crap",
+    "and I'll make ya a ball of poo,",
+    "and you can do what the hell you like with it.",
+    "Go on, on your bike.",
+    "Are you still here? {THROB}{BLUE}{LIGHTNING}{SKULL}{STAR}{SWIRL}{NORMAL} Off!",
+    "Oh, charming!"
+   ],
+   "jp": [
+    "なら そこの{THROB}{GREEN}{LIGHTNING}{SKULL}{STAR}{SWIRL}{NORMAL}に入んな",
+    "{THROB}{RED}{LIGHTNING}{SKULL}{STAR}{SWIRL}{NORMAL}な牛どもがいるから",
+    "ウンコをさせろ",
+    "それで玉を作ってやる",
+    "使い道は自由だ",
+    "さっさと行け",
+    "行くんだ この{THROB}{BLUE}{LIGHTNING}{SKULL}{STAR}{SWIRL}{NORMAL}！",
+    "まいったな..."
+   ],
+   "ko": [
+    "그럼 저기 {THROB}{GREEN}{LIGHTNING}{SKULL}{STAR}{SWIRL}{NORMAL}에 들어가",
+    "{THROB}{RED}{LIGHTNING}{SKULL}{STAR}{SWIRL}{NORMAL}같은 소들이 있으니까",
+    "똥을 싸게 해",
+    "그걸로 덩어리를 만들어주지",
+    "쓰는 건 자유다",
+    "얼른 가",
+    "가라 이 {THROB}{BLUE}{LIGHTNING}{SKULL}{STAR}{SWIRL}{NORMAL}！",
+    "이거 참..."
+   ]
+  },
+  "2": {
+   "en": [
+    "Here I am, ya greedy bastard."
+   ],
+   "jp": [
+    "おれはここだぞ ろくでなし！"
+   ],
+   "ko": [
+    "나 여기다 이 못난 놈아！"
+   ]
+  },
+  "3": {
+   "en": [
+    "Yeh! More sponduli."
+   ],
+   "jp": [
+    "やった！ またイタダキだ！"
+   ],
+   "ko": [
+    "됐다！ 또 챙겼다！"
+   ]
+  },
+  "4": {
+   "en": [
+    "Confidence pills."
+   ],
+   "jp": [
+    "自信増強剤か"
+   ],
+   "ko": [
+    "자신감 증강제인가"
+   ]
+  },
+  "5": {
+   "en": [
+    "Yeah! Hey, I feel a lot more confident.",
+    "Yeah! Won't need these anymore."
+   ],
+   "jp": [
+    "すっごく自信が出てきたぞ！ ",
+    "浮きぶくろは もういいや"
+   ],
+   "ko": [
+    "엄청 자신감이 생겼다！ ",
+    "튜브는 이제 됐어"
+   ]
+  },
+  "6": {
+   "en": [
+    "Hey, alright there. How ya doing?",
+    "Hi, how ya doing.",
+    "Would you like to come in now?",
+    "Yeah, sit down. Wa d'ya want?"
+   ],
+   "jp": [
+    "よう らっしゃい",
+    "こんちは",
+    "どうしたんだ？",
+    "何が欲しい？"
+   ],
+   "ko": [
+    "어서 오게",
+    "안녕하쇼",
+    "무슨 일이야?",
+    "뭐가 필요해?"
+   ]
+  }
+ }
+}

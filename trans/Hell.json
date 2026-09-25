@@ -1,0 +1,285 @@
+{
+ "scene": "Hell",
+ "n": 12,
+ "entries": {
+  "0": {
+   "en": [
+    "Conker. Conker. Conker. Yes, you boy. You're dead. You are dead. Dead as a dodo... Deader than a..."
+   ],
+   "jp": [
+    "コンカー お前だよ...コンカー\nお前は死んだ\n死んじまったんだよ"
+   ],
+   "ko": [
+    "콩커 너 말이다...콩커\n너는 죽었다\n죽어버린 거야"
+   ]
+  },
+  "1": {
+   "en": [
+    "Right,",
+    "hello,",
+    "my name's Gregg,",
+    "The grim reaper.",
+    "And don't laugh."
+   ],
+   "jp": [
+    "まあいい",
+    "ごきげんよう",
+    " 私の名はグレッグ",
+    "死神だ\n笑うんじゃない",
+    ""
+   ],
+   "ko": [
+    "뭐 됐다",
+    "안녕하신가",
+    " 내 이름은 그레그다",
+    "저승사자다\n웃지 마라",
+    ""
+   ]
+  },
+  "2": {
+   "en": [
+    "Aren't you a little short",
+    "to be a grim reaper?",
+    "Well, how many grim reapers",
+    "have you met before, mate?",
+    "What am I supposed to look like?",
+    "Yeh, that's a good point,",
+    "and well made.",
+    "Now, let's see.",
+    "Ah yes, Conker.",
+    "Surname?"
+   ],
+   "jp": [
+    "あんた",
+    "死神にしちゃ小さくない？",
+    "今までにお前は",
+    "死神を見たことがあるのか？",
+    "知りもしないで\nケチをつけるな",
+    "確かにそうだ",
+    "\nするどいな",
+    "さてと",
+    "コンカーだったな",
+    "名字は？"
+   ],
+   "ko": [
+    "당신",
+    "저승사자치고 작지 않아?",
+    "지금까지 너는",
+    "저승사자를 본 적이 있나?",
+    "알지도 못하면서\n트집 잡지 마",
+    "확실히 그렇군",
+    "\n예리하군",
+    "자아",
+    "콩커였지",
+    "성은?"
+   ]
+  },
+  "3": {
+   "en": [
+    "The squirrel.",
+    "The squirrel.",
+    "Oh, bloody hell,",
+    "you would have to be a sodding squirrel,",
+    "wouldn't you?",
+    "Why?",
+    "Is there a problem with that?"
+   ],
+   "jp": [
+    "リスだ",
+    "リスか",
+    "なんてことだ",
+    "くそいまいましいリスなのか",
+    "ああ...",
+    "何だよ",
+    "何かまずいわけ？"
+   ],
+   "ko": [
+    "다람쥐다",
+    "다람쥐라",
+    "이럴 수가",
+    "빌어먹을 다람쥐인가",
+    "아아...",
+    "뭐야",
+    "뭐가 문제인데?"
+   ]
+  },
+  "4": {
+   "en": [
+    "Well, yes there is, actually.",
+    "It's like those bloody cats.",
+    "Such a pain in the arse.",
+    "You're one of these 'special cases.'",
+    "Oh, really?"
+   ],
+   "jp": [
+    "ああ　非常にまずい ",
+    "あの　くそやっかいな",
+    "\nネコと同じくらい",
+    "めんどうだ",
+    "そうなのか？"
+   ],
+   "ko": [
+    "아　아주 문제다 ",
+    "그　빌어먹게 성가신",
+    "\n고양이만큼이나",
+    "귀찮다",
+    "그런가?"
+   ]
+  },
+  "5": {
+   "en": [
+    "Yes, apparently,",
+    "according to the powers that be.",
+    "I'm just doing my job.",
+    "I do what i'm told.",
+    "I don't even get paid very much!",
+    "Apparently,",
+    "squirrels can have as many lives",
+    "as they think they can get away with."
+   ],
+   "jp": [
+    "ああ　そうだ",
+    "\n少なくとも上の連中は",
+    "そう言っている",
+    "私は自分の仕事をするだけだ\n言われたとおりにな",
+    "大した給料ももらえんが",
+    "とにかく",
+    "リスってやつは 命をいくつも持っているのだ",
+    "自分さえその気ならな"
+   ],
+   "ko": [
+    "그래　맞다",
+    "\n적어도 윗분들은",
+    "그렇게 말한다",
+    "나는 내 일을 할 뿐이다\n시키는 대로 말이지",
+    "변변한 급료도 못 받지만",
+    "아무튼",
+    "다람쥐란 놈은 목숨을 여러 개 갖고 있다",
+    "본인이 원한다면"
+   ]
+  },
+  "6": {
+   "en": [
+    "Oh, I see, so I'm not dead?",
+    "You're dead, but not quite.",
+    "Right, I'll be off then!"
+   ],
+   "jp": [
+    "...まだ死んでないってこと？",
+    "死んではいるが 完全にじゃない",
+    "よかった じゃあ行くよ！"
+   ],
+   "ko": [
+    "...아직 안 죽었다는 거야?",
+    "죽긴 죽었지만 완전히는 아니다",
+    "다행이다 그럼 갈게！"
+   ]
+  },
+  "7": {
+   "en": [
+    "Just you wait, smart arse.",
+    "You don't get out of it that easily.",
+    "Now the thing is, you may not be dead,",
+    "but that doesn't mean you can't die.",
+    "You just have a few more, shall we say..."
+   ],
+   "jp": [
+    "こら待て　あわてるな",
+    "そんなに簡単な話じゃない",
+    "お前は簡単には死なないが",
+    "絶対死なないわけじゃない",
+    "いくつか\n命があるってだけだ"
+   ],
+   "ko": [
+    "이봐 기다려　서두르지 마",
+    "그렇게 간단한 얘기가 아니다",
+    "너는 쉽게는 안 죽지만",
+    "절대 안 죽는 건 아니다",
+    "몇 개\n목숨이 있을 뿐이다"
+   ]
+  },
+  "8": {
+   "en": [
+    "... Chances.",
+    "Like cats.",
+    "I hate those things!",
+    "Distributed around your little world",
+    "are these tail things.",
+    "Squirrels' tails.",
+    "If you can get them, I'll give you an extra chance.",
+    "Understand?"
+   ],
+   "jp": [
+    "余分にな...",
+    "あのいまいましい",
+    "ネコと同じだ！",
+    "お前の世界の",
+    "\nあちこちにシッポがある",
+    "リスのシッポだ",
+    "お前が手に入れたシッポの数だけ 私がお前に命をやる",
+    "わかったか？"
+   ],
+   "ko": [
+    "여분으로...",
+    "그 빌어먹을",
+    "고양이랑 똑같다！",
+    "네 세상의",
+    "\n여기저기에 꼬리가 있다",
+    "다람쥐 꼬리다",
+    "네가 손에 넣은 꼬리 수만큼 내가 목숨을 주마",
+    "알겠나?"
+   ]
+  },
+  "9": {
+   "en": [
+    "Well, sounds a bit strange, but ok.",
+    "Strange, it's the best bloody deal you're going to get.",
+    "You little prick.",
+    "Right, that's it. Piss off.",
+    "I've got some cats to see."
+   ],
+   "jp": [
+    "ヘンな話だけど...\nまあわかったよ",
+    "ヘンだと？\nこんなにうまい話があるか？",
+    "世間知らずめ",
+    "話は終わりだ\nもう行け",
+    "これからネコに会わねばならん"
+   ],
+   "ko": [
+    "이상한 얘기지만...\n뭐 알았어",
+    "이상하다고?\n이렇게 좋은 얘기가 어딨어?",
+    "세상 모르는 놈",
+    "얘기 끝났다\n이제 가라",
+    "이제 고양이를 만나야 한다"
+   ]
+  },
+  "10": {
+   "en": [
+    "Bloody things. I hate those bloody cats, the way they meow and piss everywhere..."
+   ],
+   "jp": [
+    "まったく...\nくそやっかいなネコどもめ！\nそこらじゅう\nうるさいわ...　汚いわ...\nまったくサイテーだ..."
+   ],
+   "ko": [
+    "정말이지...\n빌어먹게 성가신 고양이 놈들！\n온 사방이\n시끄럽지...　더럽지...\n정말 최악이야..."
+   ]
+  },
+  "11": {
+   "en": [
+    "I can't be arsed with this bloody",
+    "ridiculous contraption.",
+    "Whose idea was this, anyway?"
+   ],
+   "jp": [
+    "なぜこんな くそバカげたことを",
+    "私がやらなきゃならんのだ！",
+    "誰のアイデアだ？"
+   ],
+   "ko": [
+    "왜 이런 빌어먹게 바보 같은 일을",
+    "내가 해야만 하는 거냐！",
+    "누구 생각이야?"
+   ]
+  }
+ }
+}
